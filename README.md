@@ -1,6 +1,6 @@
 # TrackRadar
 
-Cloudflare Worker（服務名稱 `trackradar`，CF Worker 名稱規則不允許大寫，實際部署名為小寫）每 5 分鐘輪詢一批 YouTube 頻道的最新上傳影片，過濾掉 Shorts 與直播，並把結果以 JSON 寫回 GitHub 儲存庫。
+Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不允許大寫，因此用連字號取代原本要求的 `TrackRadar`；實際網址 `https://track-radar.plain-leaf-e871.workers.dev`）每 5 分鐘輪詢一批 YouTube 頻道的最新上傳影片，過濾掉 Shorts 與直播，並把結果以 JSON 寫回 GitHub 儲存庫（`YueyuHoshizora/TrackRadar`）。
 
 ## 資料儲存格式
 
@@ -61,4 +61,4 @@ RSS 沒有時長與直播狀態欄位，無法滿足「避免短影片及直播�
    ```
 4. 在目標 GitHub repo 建立 `channels.json`（頻道 ID 陣列）。
 5. 部署：`npm run deploy`
-6. 手動測試（不必等 5 分鐘）：`GET https://trackradar.<your-subdomain>.workers.dev/run?token=<ADMIN_TOKEN>`
+6. 手動測試（不必等 5 分鐘）：`GET https://track-radar.plain-leaf-e871.workers.dev/run?token=<ADMIN_TOKEN>`

@@ -1,4 +1,4 @@
-name = "trackradar"
+name = "track-radar"
 main = "src/index.ts"
 compatibility_date = "2024-11-01"
 
@@ -8,8 +8,8 @@ crons = ["*/5 * * * *"]
 
 [vars]
 # GitHub 儲存庫設定（不含機密資訊）
-GITHUB_OWNER = "your-github-username"
-GITHUB_REPO = "your-data-repo"
+GITHUB_OWNER = "YueyuHoshizora"
+GITHUB_REPO = "TrackRadar"
 GITHUB_BRANCH = "main"
 DATA_DIR = "data"
 CHANNELS_FILE = "channels.json"
