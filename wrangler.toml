@@ -1,0 +1,23 @@
+name = "trackradar"
+main = "src/index.ts"
+compatibility_date = "2024-11-01"
+
+# 每 5 分鐘觸發一次
+[triggers]
+crons = ["*/5 * * * *"]
+
+[vars]
+# GitHub 儲存庫設定（不含機密資訊）
+GITHUB_OWNER = "your-github-username"
+GITHUB_REPO = "your-data-repo"
+GITHUB_BRANCH = "main"
+DATA_DIR = "data"
+CHANNELS_FILE = "channels.json"
+# Shorts 判定門檻（秒），<= 此秒數視為 Shorts
+SHORT_MAX_SECONDS = "60"
+# 每次執行最多處理的「新影片詳情」抓取數量，避免 Worker 執行逾時
+MAX_VIDEOS_PER_RUN = "25"
+
+# 機密資訊請用以下指令設定，不要寫在這裡：
+#   wrangler secret put GITHUB_TOKEN
+#   wrangler secret put ADMIN_TOKEN   (手動觸發 /run 用的驗證 token，可選)

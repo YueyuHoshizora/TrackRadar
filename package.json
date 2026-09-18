@@ -1,0 +1,17 @@
+{
+  "name": "trackradar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TrackRadar - Cloudflare Worker that polls YouTube channel uploads and stores new videos as JSON in a GitHub repository.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240925.0",
+    "typescript": "^5.6.3",
+    "wrangler": "^3.80.0"
+  }
+}
