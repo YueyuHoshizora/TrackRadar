@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
+  "lastUpdated": "2026-09-19T12:55:40.442+08:00",
   "latestVideo": {
     "videoId": "pwQhe19X_6g",
     "title": "《我還是會想你》｜明明放下了，心卻還停在那裡｜EIRYN Official Music Video",
@@ -22,43 +22,63 @@
     },
     {
       "videoId": "znzQKwAptzg",
-      "title": "《你會懂的》｜不是不愛了，只是終於學會放過自己｜EIRYN Official Music Video｜"
+      "title": "《你會懂的》｜不是不愛了，只是終於學會放過自己｜EIRYN Official Music Video｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "mCigNsim2tM",
-      "title": "《PLAYLIST 2》 2026華語情歌精選｜陪你走過那些沒說完的故事｜10首超耐聽抒情歌曲｜EIRYN Official Music Video｜"
+      "title": "《PLAYLIST 2》 2026華語情歌精選｜陪你走過那些沒說完的故事｜10首超耐聽抒情歌曲｜EIRYN Official Music Video｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "YhrHXW-faq8",
-      "title": "《武聖降臨》🔥 關羽覺醒！青龍偃月劃破長空｜義薄雲天・協天大帝｜史詩級高燃戰歌MV"
+      "title": "《武聖降臨》🔥 關羽覺醒！青龍偃月劃破長空｜義薄雲天・協天大帝｜史詩級高燃戰歌MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "D-Y4WbT2wrA",
-      "title": "《只是習慣》｜不是還愛你，只是還沒習慣沒有你｜2026最新華語抒情情歌｜EIRYN Official Music Video｜"
+      "title": "《只是習慣》｜不是還愛你，只是還沒習慣沒有你｜2026最新華語抒情情歌｜EIRYN Official Music Video｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "3qQNo2-0XGc",
-      "title": "《沒說出口的話》｜明明還愛著，卻再也說不出口｜失戀必聽｜EIRYN Official Music Video｜"
+      "title": "《沒說出口的話》｜明明還愛著，卻再也說不出口｜失戀必聽｜EIRYN Official Music Video｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "hYUwETaBkaE",
-      "title": "《浪漫故障》｜我們不是不愛了，只是失去了連線｜失戀必聽｜Official Video"
+      "title": "《浪漫故障》｜我們不是不愛了，只是失去了連線｜失戀必聽｜Official Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "w70yKnmn4Aw",
-      "title": "《悟空》｜我命由我不由天！天地太大，容不下一顆不肯低頭的心｜MV Official Video"
+      "title": "《悟空》｜我命由我不由天！天地太大，容不下一顆不肯低頭的心｜MV Official Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "xq5I7IbB-p8",
-      "title": "《愛情的時差》｜明明還愛著，卻只能學會放手｜失戀情歌｜2026催淚華語情歌"
+      "title": "《愛情的時差》｜明明還愛著，卻只能學會放手｜失戀情歌｜2026催淚華語情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "KauksB20IBU",
-      "title": "《失溫》｜我們的愛失溫了，最後只剩一句「好好告別」｜華語傷感情歌｜女聲抒情歌曲"
+      "title": "《失溫》｜我們的愛失溫了，最後只剩一句「好好告別」｜華語傷感情歌｜女聲抒情歌曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "F1mRQJXiGUY",
-      "title": "《失語症》｜聽完這首歌，才發現我們都成了愛情的啞巴。｜EIRYN Official Music Video｜"
+      "title": "《失語症》｜聽完這首歌，才發現我們都成了愛情的啞巴。｜EIRYN Official Music Video｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "KolHKp5YIaQ",
