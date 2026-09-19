@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-19T14:25:33.682+08:00",
+  "lastUpdated": "2026-09-19T14:30:30.457+08:00",
   "latestVideo": {
     "videoId": "YTy8H78Tp1s",
     "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
@@ -322,43 +322,63 @@
     },
     {
       "videoId": "ZuUag7ohSpI",
-      "title": "🌧️《劍不認情》｜此生只能與你為敵，卻還是為你亂了心神｜Official Lyric Video"
+      "title": "🌧️《劍不認情》｜此生只能與你為敵，卻還是為你亂了心神｜Official Lyric Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "afonyM3uiOo",
-      "title": "🌧️《我們都輸了》｜你曾經擁有他，而我連喜歡都沒敢說出口｜Official Lyric Video"
+      "title": "🌧️《我們都輸了》｜你曾經擁有他，而我連喜歡都沒敢說出口｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "DYiyUnc1LQA",
-      "title": "🌧️《你走之後》｜後來的我越來越好了，只是這些你都不知道｜Official Lyric Video"
+      "title": "🌧️《你走之後》｜後來的我越來越好了，只是這些你都不知道｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "ACnL6w2ALrA",
-      "title": "🌧️《路人般的客氣》｜最難受的不是分手，是我們最後連說話都像陌生人｜Official Lyric Video"
+      "title": "🌧️《路人般的客氣》｜最難受的不是分手，是我們最後連說話都像陌生人｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "PA_4gVZ4Nsw",
-      "title": "🌧️《我不是你的候補》｜如果我只是你寂寞時暫時停靠的，那我寧願清醒離開｜Official Lyric Video"
+      "title": "🌧️《我不是你的候補》｜如果我只是你寂寞時暫時停靠的，那我寧願清醒離開｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "ltVBDXZvJYw",
-      "title": "🌧️《其實沒關係》｜我說沒關係，只是沒想到坦白會這麼難過｜Official Lyric Video"
+      "title": "🌧️《其實沒關係》｜我說沒關係，只是沒想到坦白會這麼難過｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "d5b2rLOM-1c",
-      "title": "🌱《沒說完的後來》｜看見你有了新的未來，我終於學會把遺憾留在從前｜Official Lyric Video"
+      "title": "🌱《沒說完的後來》｜看見你有了新的未來，我終於學會把遺憾留在從前｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "a1HdOmqBziE",
-      "title": "🌧️《那段遺憾》｜不是每天都難過，只是有些瞬間還是會突然想起你｜Official Lyric Video"
+      "title": "🌧️《那段遺憾》｜不是每天都難過，只是有些瞬間還是會突然想起你｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "r9pQbM5G1w4",
-      "title": "💗《熟透的夏天》｜藏了好多年的喜歡，終於在這個夏天說出口｜Official Lyric Video"
+      "title": "💗《熟透的夏天》｜藏了好多年的喜歡，終於在這個夏天說出口｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "aIghBss5RUw",
-      "title": "🐔《人間清醒語錄》｜只要你願意吃苦，就會有吃不完的苦｜Official Lyric Video"
+      "title": "🐔《人間清醒語錄》｜只要你願意吃苦，就會有吃不完的苦｜Official Lyric Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "iHg5uAjAs6E",
