@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T15:10:42.413+08:00",
+  "updatedAt": "2026-09-19T15:15:42.538+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -263,18 +263,8 @@
     },
     {
       "channelId": "UCP7vt7hh_7k9iSk1cNu9DsQ",
-      "channelTitle": "洛陽-Luo Sequence ",
-      "latestVideo": {
-        "videoId": "AQGbIHAQ44Q",
-        "title": "《浮生舊夢 : 歸雁》洛陽｜中國風原創｜有些人一別，便錯過了一生",
-        "url": "https://www.youtube.com/watch?v=AQGbIHAQ44Q",
-        "thumbnail": "https://i.ytimg.com/vi_webp/AQGbIHAQ44Q/maxresdefault.webp?v=6aa8c555",
-        "durationSeconds": 235,
-        "publishedAt": "2026-09-15T12:05:06.000+08:00",
-        "fetchedAt": "2026-09-19T11:17:46.778+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
-      }
+      "channelTitle": "UCP7vt7hh_7k9iSk1cNu9DsQ",
+      "latestVideo": null
     },
     {
       "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
