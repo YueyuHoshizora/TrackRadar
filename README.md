@@ -75,8 +75,9 @@ YouTube 官方 RSS（`feeds/videos.xml`）曾作為快速偵測新影片的來�
 2. 設定 `wrangler.toml` 的 `[vars]`：`GITHUB_OWNER`、`GITHUB_REPO`、`GITHUB_BRANCH`、`DATA_DIR`、`CHANNELS_FILE`、`LATEST_INDEX_FILE`、`SHORT_MAX_SECONDS`、`CANDIDATE_SCAN_LIMIT`、`ALL_IDS_MAX_VIDEOS`。
 3. 設定機密（不寫入 `wrangler.toml`）：
    ```
-   wrangler secret put GITHUB_TOKEN   # 需有目標 repo 的 contents 讀寫權限
-   wrangler secret put ADMIN_TOKEN    # 選填，保護手動觸發端點 /run
+   wrangler secret put GITHUB_TOKEN       # 需有目標 repo 的 contents 讀寫權限
+   wrangler secret put ADMIN_TOKEN        # 選填，保護手動觸發端點 /run
+   wrangler secret put OPENROUTER_API_KEY # 選填，曲風分類用（呼叫 OpenRouter Decisions API 的 typesafe/jev 模型），未設定則自動跳過分類
    ```
 4. 在目標 GitHub repo 建立 `channels.json`（頻道 ID 陣列）。
 5. 部署：`npm run deploy`
