@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-20T07:15:29.170+08:00",
+  "lastUpdated": "2026-09-20T07:25:28.214+08:00",
   "latestVideo": {
     "videoId": "TP2X8ip_55Y",
     "title": "這次不急著愛滿，只想把每一天過好｜這次慢慢愛｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "TP2X8ip_55Y",
-      "title": "這次慢慢愛｜給重逢後學會珍惜的溫柔情歌｜Yu Stellar｜星語",
+      "title": "這次不急著愛滿，只想把每一天過好｜這次慢慢愛｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "OtVXQi8Nm0Q",
-      "title": "星期三的湯｜寫給獨居生活重新有光的溫柔情歌｜Yu Stellar｜星語",
+      "title": "星期三的湯，慢慢把我煮回日常｜星期三的湯｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -106,13 +106,13 @@
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "那晚我們沒有爭吵，只是各自走向不同明天｜月台以西｜Yu Stellar｜星語",
+      "title": "月台以西｜寫給不得不告別的成熟情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "tr7okYyGTI0",
-      "title": "那年我們鬆開手，繞了一圈才懂得重逢｜我們在遠方告別｜Yu Stellar｜星語",
+      "title": "我們在遠方告別｜寫給錯過卻仍相信愛的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
