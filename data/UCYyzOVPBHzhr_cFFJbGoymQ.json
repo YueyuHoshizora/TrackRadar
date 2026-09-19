@@ -1,7 +1,7 @@
 {
   "channelId": "UCYyzOVPBHzhr_cFFJbGoymQ",
   "channelTitle": "安餒An_Nei",
-  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
+  "lastUpdated": "2026-09-19T12:55:21.086+08:00",
   "latestVideo": {
     "videoId": "raTgEUcEkz8",
     "title": "【拉丁電音搖滾 – ESCAPA DE LA ISLA】西語結合拉丁音樂的爆發力饒舌！享受兩種不同文化結合的大作。 🎧 安餒 An_Nie",
@@ -22,43 +22,63 @@
     },
     {
       "videoId": "kDuZ9t0WDps",
-      "title": "【華語抒情 – 為情所困】「我看著多餘的人，映著滿身傷痕。」雨夜裡最刺骨的心碎告白，寫給所有在愛裡失衡的靈魂。 🎧 安餒 An_Nie"
+      "title": "【華語抒情 – 為情所困】「我看著多餘的人，映著滿身傷痕。」雨夜裡最刺骨的心碎告白，寫給所有在愛裡失衡的靈魂。 🎧 安餒 An_Nie",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "9j1cXip2JvA",
-      "title": "反戰流行 – 一步之遙「向前煙硝不饒，向後家國不保。」洗禮後的廢墟，等不來那個歸家的人，一首直擊心靈深處的原創悲歌。。 🎧 安餒 An_Nie"
+      "title": "反戰流行 – 一步之遙「向前煙硝不饒，向後家國不保。」洗禮後的廢墟，等不來那個歸家的人，一首直擊心靈深處的原創悲歌。。 🎧 安餒 An_Nie",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.45
     },
     {
       "videoId": "w1YrwD59WrQ",
-      "title": "沉浸悲傷 – 焚身「為何當人就得去爭，難道活著就是為了爭？」一首寫給所有不得安身靈魂的哀歌。 🎧 安餒 An_Nie"
+      "title": "沉浸悲傷 – 焚身「為何當人就得去爭，難道活著就是為了爭？」一首寫給所有不得安身靈魂的哀歌。 🎧 安餒 An_Nie",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "qIFSloIZixA",
-      "title": "深情台語 – 愛人啊！「毋管外面風雨有偌大，毋管別人安怎嘎阮看，只為著愛你，阮甘願繼續拼。」 🎧 安餒 An_Nie"
+      "title": "深情台語 – 愛人啊！「毋管外面風雨有偌大，毋管別人安怎嘎阮看，只為著愛你，阮甘願繼續拼。」 🎧 安餒 An_Nie",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "yqWmWwfFb4Q",
-      "title": "催淚抒情 – 雪中花「告別曾經愛過的你，告別不肯放手的自己。」一首獻給所有在逆境中依然堅強的靈魂。 🎧 安餒 An_Nie"
+      "title": "催淚抒情 – 雪中花「告別曾經愛過的你，告別不肯放手的自己。」一首獻給所有在逆境中依然堅強的靈魂。 🎧 安餒 An_Nie",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "tfn_WBbzNBI",
-      "title": "驕傲魅力 – Gay boy「不用再低著頭，不用再害怕以後。這一次我選擇，讓世界看見我。」一首獻給所有勇敢做自己的靈魂。 🎧 安餒 An_Nie"
+      "title": "驕傲魅力 – Gay boy「不用再低著頭，不用再害怕以後。這一次我選擇，讓世界看見我。」一首獻給所有勇敢做自己的靈魂。 🎧 安餒 An_Nie",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.34
     },
     {
       "videoId": "755NQn3XnLI",
-      "title": "【掙扎省思 – 你要的不是我】「我不是你人生的續集，也不是你的替代品。」一首獻給所有在父母期望下失語的少年。 🎧 安餒 An_Nie"
+      "title": "【掙扎省思 – 你要的不是我】「我不是你人生的續集，也不是你的替代品。」一首獻給所有在父母期望下失語的少年。 🎧 安餒 An_Nie",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "H7xs-8R1Ngw",
-      "title": "【諷刺社會 – 每個人都知道】善有善報只是口號，正義總是遲到，善報還沒來到。那些我們掛在嘴邊的真理，真的還是真理嗎？ 🎧 安餒 An_Nie"
+      "title": "【諷刺社會 – 每個人都知道】善有善報只是口號，正義總是遲到，善報還沒來到。那些我們掛在嘴邊的真理，真的還是真理嗎？ 🎧 安餒 An_Nie",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "rHvo1IjmIjQ",
-      "title": "【都市諷刺– 聖人】「原來你的標準，對每個人都有不同的版本。」你的生活中是不是也有這種人呢？活在自己世界的雙標聖人。 🎧 安餒 An_Nie"
+      "title": "【都市諷刺– 聖人】「原來你的標準，對每個人都有不同的版本。」你的生活中是不是也有這種人呢？活在自己世界的雙標聖人。 🎧 安餒 An_Nie",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.41
     },
     {
       "videoId": "R0RErQehm30",
-      "title": "【都市傷感 – 愛的認真】「你愛的那麼深，卻又這麼的心狠。」那個不敢承認愛的人，其實愛的最認真。 🎧 安餒 An_Nie"
+      "title": "【都市傷感 – 愛的認真】「你愛的那麼深，卻又這麼的心狠。」那個不敢承認愛的人，其實愛的最認真。 🎧 安餒 An_Nie",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "e7jt0aS21YA",
