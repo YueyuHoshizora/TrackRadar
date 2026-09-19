@@ -1,7 +1,7 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
+  "lastUpdated": "2026-09-19T13:01:02.286+08:00",
   "latestVideo": {
     "videoId": "F5s3p3M3iyc",
     "title": "🥃 台語大帝國《空酒杯》(90s台語演歌)｜這擺不是等，是告別；替家己倒最後一杯｜筠芙得利【Official Lyric Video】",
@@ -16,7 +16,9 @@
   "allVideoIds": [
     {
       "videoId": "fFY_wFOeeiE",
-      "title": "🎤 台語大帝國《情飲袂退》(90s台語演歌)｜男女對唱｜明知影咱已經分開，心內彼個位猶原留予你｜筠芙得利【Official Lyric Video】"
+      "title": "🎤 台語大帝國《情飲袂退》(90s台語演歌)｜男女對唱｜明知影咱已經分開，心內彼個位猶原留予你｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "F5s3p3M3iyc",
@@ -26,39 +28,57 @@
     },
     {
       "videoId": "TZEPikSJFaU",
-      "title": "🥃  台語大帝國《酒袂騙人》(90s台語演歌) ｜啉到最後猶原是你｜台羅動態歌詞｜筠芙得利【Official Lyric Video】"
+      "title": "🥃  台語大帝國《酒袂騙人》(90s台語演歌) ｜啉到最後猶原是你｜台羅動態歌詞｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "pnOUvD8JcX0",
-      "title": "🍷   台語大帝國《一杯敬你》(90s台語演歌)｜男女對唱｜心煞隔著偌濟年的路｜筠芙得利【Official Lyric Video】"
+      "title": "🍷   台語大帝國《一杯敬你》(90s台語演歌)｜男女對唱｜心煞隔著偌濟年的路｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "G1Y7qWy7yMk",
-      "title": "🍷 台語大帝國《醉袂過你》(90s台語演歌)｜深夜借酒忘情，啉到天光心反而愈清醒｜筠芙得利【Official Lyric Video】"
+      "title": "🍷 台語大帝國《醉袂過你》(90s台語演歌)｜深夜借酒忘情，啉到天光心反而愈清醒｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "y3kKeOVDZdU",
-      "title": "🥃 台語大帝國《酒杯知影》(90s台語演歌)｜原來醉的人不是我，酒啊酒你若會講話｜筠芙得利【Official Lyric Video】"
+      "title": "🥃 台語大帝國《酒杯知影》(90s台語演歌)｜原來醉的人不是我，酒啊酒你若會講話｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "Qu2MYEAbM_o",
-      "title": "📀《台語大帝國 VOL.4》完整版｜7首連播｜2026必聽台語神曲合輯｜鬼月系列｜完整歌單｜台羅動態歌詞｜筠芙得利【Official MV】"
+      "title": "📀《台語大帝國 VOL.4》完整版｜7首連播｜2026必聽台語神曲合輯｜鬼月系列｜完整歌單｜台羅動態歌詞｜筠芙得利【Official MV】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "od5ENpztIg0",
-      "title": "🌑 台語大帝國《送煞》(台語暗黑流行)｜鬼EP3 鬼系列最終回｜今暗送煞，明仔載有路｜筠芙得利【Official Music Video】"
+      "title": "🌑 台語大帝國《送煞》(台語暗黑流行)｜鬼EP3 鬼系列最終回｜今暗送煞，明仔載有路｜筠芙得利【Official Music Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "onJBQ1BdEyU",
-      "title": "🌫️ 台語大帝國《落山的路》(台語恐怖民謠) 紀時宇｜台灣山林怪談・魔神仔・黃色雨衣小飛峽｜鬼EP2｜筠芙得利【Official MV】"
+      "title": "🌫️ 台語大帝國《落山的路》(台語恐怖民謠) 紀時宇｜台灣山林怪談・魔神仔・黃色雨衣小飛峽｜鬼EP2｜筠芙得利【Official MV】",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "LV5FohVsBxU",
-      "title": "👻 台語大帝國《辛亥隧道：等無你》Aurora 葵 (台語 City Pop)｜等我返來，原來是我等無你｜筠芙得利【Official MV】"
+      "title": "👻 台語大帝國《辛亥隧道：等無你》Aurora 葵 (台語 City Pop)｜等我返來，原來是我等無你｜筠芙得利【Official MV】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "tkvstla9B3E",
-      "title": "🎵 台語大帝國《暗暝有人叫我名》紀時宇 (台語饒舌)｜你叫啥名？我無欲聽｜2026熱門｜鬼EP1｜筠芙得利【Official MV】"
+      "title": "🎵 台語大帝國《暗暝有人叫我名》紀時宇 (台語饒舌)｜你叫啥名？我無欲聽｜2026熱門｜鬼EP1｜筠芙得利【Official MV】",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1
     },
     {
       "videoId": "cRIlrTS9S9Q",
