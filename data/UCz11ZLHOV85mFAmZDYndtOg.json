@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T12:55:44.601+08:00",
+  "lastUpdated": "2026-09-19T13:00:56.820+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "dESyQGeCdnU",
-      "title": "🎧 D1 Threshold Error | Signal #012 — Blue Gate Opening"
+      "title": "🎧 D1 Threshold Error | Signal #012 — Blue Gate Opening",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "adzdzzvCuv8",
-      "title": "🎧 D5 Clean Air Remains | Signal #011 — Code in the Rain"
+      "title": "🎧 D5 Clean Air Remains | Signal #011 — Code in the Rain",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "0hmyBTBuOtw",
-      "title": "🎧 D4 Rain Speaks Softly | Signal #011 — Code in the Rain"
+      "title": "🎧 D4 Rain Speaks Softly | Signal #011 — Code in the Rain",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "at7SRdaf-5k",
-      "title": "🎧 D3 Decoding the Clouds | Signal #011 — Code in the Rain"
+      "title": "🎧 D3 Decoding the Clouds | Signal #011 — Code in the Rain",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "D0W7M4T9ruM",
-      "title": "🎧 D2 Neon Storm Language | Signal #011 — Code in the Rain"
+      "title": "🎧 D2 Neon Storm Language | Signal #011 — Code in the Rain",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "ffwBZ-R98gc",
-      "title": "🎧 D1 Drops of Cipher | Signal #011 — Code in the Rain"
+      "title": "🎧 D1 Drops of Cipher | Signal #011 — Code in the Rain",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "wzBrV0fKmDA",
-      "title": "🎧 D5 Sound Becomes Sky | Signal #010 — We Heard Them"
+      "title": "🎧 D5 Sound Becomes Sky | Signal #010 — We Heard Them",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "0PZmOpaHkrc",
-      "title": "🎧 D4 Listening as One | Signal #010 — We Heard Them"
+      "title": "🎧 D4 Listening as One | Signal #010 — We Heard Them",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "oetqDUBSi6c",
-      "title": "🎧 D3 They Call Us Clearly | Signal #010 — We Heard Them"
+      "title": "🎧 D3 They Call Us Clearly | Signal #010 — We Heard Them",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "yi7mqSfyzhs",
-      "title": "🎧 D2 Voices Through Mist | Signal #010 — We Heard Them"
+      "title": "🎧 D2 Voices Through Mist | Signal #010 — We Heard Them",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "FjhIVuLNHN4",
