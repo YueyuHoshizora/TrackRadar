@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:40:44.840+08:00",
+  "lastUpdated": "2026-09-19T16:45:43.028+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -622,43 +622,63 @@
     },
     {
       "videoId": "QAfzcBLOISU",
-      "title": "LUMINA — The Words I Never Said Melodic Flow Trance 128 BPM"
+      "title": "LUMINA — The Words I Never Said Melodic Flow Trance 128 BPM",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "iJ-lQWJ6b64",
-      "title": "LUMINA — The Words I Never Said Noir Jazz   Gentlemen’s Lounge Version"
+      "title": "LUMINA — The Words I Never Said Noir Jazz   Gentlemen’s Lounge Version",
+      "genre": "爵士 Jazz",
+      "genreConfidence": 1
     },
     {
       "videoId": "Tr4Zn001Cy0",
-      "title": "LUMINA — The Words I Never Said Indie Electronica Version"
+      "title": "LUMINA — The Words I Never Said Indie Electronica Version",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "Gh6uP0UnNUg",
-      "title": "【Echoes of Now】-  💓 Progressive House, Flow State EDM,"
+      "title": "【Echoes of Now】-  💓 Progressive House, Flow State EDM,",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "Nphv8CZWdkg",
-      "title": "【Drift Within】- DJ - LUMINA 🌙Deep Ethereal Groove｜Melodic Techno Music / Emotional / Cosmic Flow"
+      "title": "【Drift Within】- DJ - LUMINA 🌙Deep Ethereal Groove｜Melodic Techno Music / Emotional / Cosmic Flow",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "l6I3jKjKzcE",
-      "title": "【Drift Within】-  🎲 Deep Hypnotic Flow｜Melodic Techno Music / Ethereal Dreamy / Midnight Drive"
+      "title": "【Drift Within】-  🎲 Deep Hypnotic Flow｜Melodic Techno Music / Ethereal Dreamy / Midnight Drive",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "5v6mR0xHc9o",
-      "title": "【Beyond the Pulse】-  Ethereal Vocal Groove｜Melodic Techno Music / Hypnotic Flow / Late Night Drive"
+      "title": "【Beyond the Pulse】-  Ethereal Vocal Groove｜Melodic Techno Music / Hypnotic Flow / Late Night Drive",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "sfM-a6fx5ak",
-      "title": "恰吉之魂：議會牛仔的沒出息 Chucky's Spirit  The Council Cowboy"
+      "title": "恰吉之魂：議會牛仔的沒出息 Chucky's Spirit  The Council Cowboy",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.32
     },
     {
       "videoId": "a5COwSinoDI",
-      "title": "Beyond the Pulse - Ethereal Vocals, Deep Groove｜Progressive House / Hypnotic Flow / Late Night Drive"
+      "title": "Beyond the Pulse - Ethereal Vocals, Deep Groove｜Progressive House / Hypnotic Flow / Late Night Drive",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "ZZYkEfXaiHk",
-      "title": "【沒出息】- DJ - Lumina 🎺  迷因meme, Hardstyle硬派, Industrial EDM"
+      "title": "【沒出息】- DJ - Lumina 🎺  迷因meme, Hardstyle硬派, Industrial EDM",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "0YzRJm_WmsE",
