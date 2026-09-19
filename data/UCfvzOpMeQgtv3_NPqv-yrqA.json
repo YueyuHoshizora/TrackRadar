@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-19T14:15:31.738+08:00",
+  "lastUpdated": "2026-09-19T14:20:31.447+08:00",
   "latestVideo": {
     "videoId": "YTy8H78Tp1s",
     "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
@@ -202,43 +202,63 @@
     },
     {
       "videoId": "IJ33pzZt8LQ",
-      "title": "🌧️《走不進你的世界》｜我一直停在你身邊，卻始終走不進你的心裡｜Official Lyric Video"
+      "title": "🌧️《走不進你的世界》｜我一直停在你身邊，卻始終走不進你的心裡｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "tZ8grumywM8",
-      "title": "🖤《瀕臨崩潰》｜我說我快撐不住了，你到底聽見了沒有｜Official Lyric Video"
+      "title": "🖤《瀕臨崩潰》｜我說我快撐不住了，你到底聽見了沒有｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "dhmZkoZdcPk",
-      "title": "🌧️《陪我喝一杯》｜今晚別跟我講道理，只要坐下來聽我把話說完｜Official Lyric Video"
+      "title": "🌧️《陪我喝一杯》｜今晚別跟我講道理，只要坐下來聽我把話說完｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "94LpBq_hujM",
-      "title": "💗《當我老公好不好》｜不是因為害怕一個人，是有了你我才更期待以後｜Official Lyric Video"
+      "title": "💗《當我老公好不好》｜不是因為害怕一個人，是有了你我才更期待以後｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "yzi73f_PZp8",
-      "title": "💗《我們別吵架好不好》｜比起誰對誰錯，我更想要我們還在一起｜Official Lyric Video"
+      "title": "💗《我們別吵架好不好》｜比起誰對誰錯，我更想要我們還在一起｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "f9GvDl-Xuwk",
-      "title": "🌧️《這就是長大嗎？》｜我們明明都長大了，為什麼熟悉的人反而越來越遠｜Official Lyric Video"
+      "title": "🌧️《這就是長大嗎？》｜我們明明都長大了，為什麼熟悉的人反而越來越遠｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "nZjCjDS32No",
-      "title": "🎙️三尺有神明｜台語電音｜人咧做，天咧看；對得起良心，就袂驚天光｜Official Lyric Video"
+      "title": "🎙️三尺有神明｜台語電音｜人咧做，天咧看；對得起良心，就袂驚天光｜Official Lyric Video",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "DROF3WTB6Iw",
-      "title": "🌧️《有些愛到此剛好》｜再捨不得，也只能學會不再打擾｜Official Lyric Video"
+      "title": "🌧️《有些愛到此剛好》｜再捨不得，也只能學會不再打擾｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "mOPLEjzlfjI",
-      "title": "💗《愛情靈藥》｜真正的愛不是立刻止痛，是你還願意陪我慢慢變好｜Official Lyric Video"
+      "title": "💗《愛情靈藥》｜真正的愛不是立刻止痛，是你還願意陪我慢慢變好｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "5cvDY3i96Rg",
-      "title": "🖤《你從來沒有愛過我》｜最痛的不是失去，是終於明白自己從來沒被選擇｜Official Lyric Video"
+      "title": "🖤《你從來沒有愛過我》｜最痛的不是失去，是終於明白自己從來沒被選擇｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "uIJ5Q9kXcNk",
