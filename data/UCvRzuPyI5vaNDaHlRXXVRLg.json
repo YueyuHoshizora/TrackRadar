@@ -1,7 +1,7 @@
 {
   "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
   "channelTitle": "Aria艾莉亞",
-  "lastUpdated": "2026-09-19T11:18:06.761+08:00",
+  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
   "latestVideo": {
     "videoId": "q6L3WZAbAYk",
     "title": "不用把所有期待，都揹得太重｜《把心事借給晚風》Aria艾莉亞 Official Lyric Video",
@@ -14,105 +14,407 @@
     "genreConfidence": 0.9
   },
   "allVideoIds": [
-    "q6L3WZAbAYk",
-    "lGgaSXRYhk8",
-    "baCZpddqrFU",
-    "j290RGLI_lE",
-    "nVNtXHxKsbc",
-    "J5sh84AGDFk",
-    "MUhN1VogiRo",
-    "wHKXJBaxFRo",
-    "v_GaF2nKBeQ",
-    "DlSEaZT6K1w",
-    "sTJFhFtJTbw",
-    "WVO_NsZ-wQo",
-    "uXa9-f0qAM0",
-    "FTfHztFdUQE",
-    "0EkGD5j0DuY",
-    "VB4DII3UovU",
-    "f2Hi2uDpW_Y",
-    "qPkjsoevWyQ",
-    "NnFRZpOUMxY",
-    "H2Q8JvVc7d4",
-    "byDoXFa_6ak",
-    "w_Atamgs3wY",
-    "Ge6Sb8HWxFE",
-    "Egy449IyPSo",
-    "nKObdKVcu78",
-    "S8xkv0jZ5nE",
-    "ORqhJ28RGZs",
-    "HAo9fhzG2QA",
-    "Ls4FSiwtcjc",
-    "732C-z75u7Q",
-    "fZD27CnZc3c",
-    "m3LmOFd6RMw",
-    "-2lQe0fNSAc",
-    "HMtxzvQrU7Q",
-    "FxOTWbmktZY",
-    "nUXdX3khKSE",
-    "w7bD2dGQcrs",
-    "malARrmMTRc",
-    "Vnp7QkxW8mI",
-    "LPbw-eg4PUE",
-    "qjedJv_CdMY",
-    "rPXo16ekeUU",
-    "MAtknVhxgSE",
-    "-4h3a6U05ZA",
-    "LFFnRJ67wLs",
-    "CFHhtV74fkQ",
-    "LVkE0YU0eM0",
-    "JPP1-6u3w2Y",
-    "GD0w6o3DmeQ",
-    "RQ5dJsqZ_7E",
-    "msUa7YwnTrY",
-    "WfsA-CfNsJ4",
-    "_hm25pB753s",
-    "54uRKui__DU",
-    "MdB29mfv9JQ",
-    "cpq2YXv18ws",
-    "MhxU9-19E6s",
-    "8X8RsCi99bo",
-    "Rw59Oc75Tq4",
-    "qolEkpvkmjo",
-    "GZKlIsvlqF8",
-    "qqT6qNT2kwA",
-    "greejsCzIwA",
-    "ztUV4gB0PMI",
-    "AIbJbYAxWDo",
-    "UGhJgRRFbtw",
-    "srGHlFB17Qs",
-    "xfYRh2zmk_c",
-    "AZr-7JZkgSs",
-    "5d5cCiP5A40",
-    "qd_XoTzsvHI",
-    "hEPCBggd-qc",
-    "ILELTsBQGZI",
-    "1KF6T_AIz6E",
-    "G8ifhtNKAaQ",
-    "5E9Q41PzOb8",
-    "OiRvWfuGkQc",
-    "3oDJGyUG74k",
-    "M2ZxXayJ66E",
-    "9lPSBRLE1D8",
-    "z77N1lWt2vA",
-    "cQa0HeHwrRU",
-    "x0TOQqp5vR4",
-    "j1DaW4_SxqU",
-    "1rH06uZuDt0",
-    "aj9jd_erufc",
-    "IjDp38HB6sc",
-    "zIfhc1AuD_0",
-    "bHOzTW0rOx0",
-    "f1FWgmMRjBY",
-    "_m8iZ-ocrJY",
-    "EJvj5iybth4",
-    "u6o5X2EiW14",
-    "tFcoh7Y7sYc",
-    "TONbdwyvo6Y",
-    "rMfzZ5t-H74",
-    "pICm7wS8K7E",
-    "5yoHtfkC3C0",
-    "G7A7ZpmSjE4",
-    "CTgMDAWJqrU"
+    {
+      "videoId": "q6L3WZAbAYk",
+      "title": "華語治癒情歌｜Aria艾莉亞《把心事借給晚風》給疲憊靈魂的溫柔｜Lend Thoughts to the Evening Breeze｜深夜療癒單曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.9
+    },
+    {
+      "videoId": "lGgaSXRYhk8",
+      "title": "《各自安好》我收拾行李，收回全部自己｜深夜治癒慢歌｜Aria艾莉亞 Peacefully Apart"
+    },
+    {
+      "videoId": "baCZpddqrFU",
+      "title": "給彼此最後的體面，是不再回望｜《無聲退場》Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "j290RGLI_lE",
+      "title": "看到你流淚，我的心像被撕裂啊｜《別哭我會捨不得》Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "nVNtXHxKsbc",
+      "title": "借了一段溫熱，卻捨不得退格｜《借來的男友》 Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "J5sh84AGDFk",
+      "title": "明明是我先動心，卻只能扮演配角｜《第三者》Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "MUhN1VogiRo",
+      "title": "《慢慢分手》 像一場雨，安靜地落下｜和平分手催淚曲｜Aria艾莉亞 Slowly Breaking Up"
+    },
+    {
+      "videoId": "wHKXJBaxFRo",
+      "title": "別對我那麼好，我真的受不了｜《是我不配》Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "v_GaF2nKBeQ",
+      "title": "理智說了一萬次，身體卻在找你｜《好想再抱抱你》Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "DlSEaZT6K1w",
+      "title": "能不能回到，那個下雨的街頭｜《你最近好嗎》Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "sTJFhFtJTbw",
+      "title": "既然深愛過，就不該互相折磨｜《既然深愛過》Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "WVO_NsZ-wQo",
+      "title": "曾經那麼深愛過，怎麼淪為過客｜《曾經那麼深愛過》Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "uXa9-f0qAM0",
+      "title": "我用眼淚，教會你怎麼心疼｜《後來的人》Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "FTfHztFdUQE",
+      "title": "你怎麼捨得，拋下最疼你的人｜《最疼你的人》Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "0EkGD5j0DuY",
+      "title": "別回頭，我怕自己撐不住｜《不挽留》Aria艾莉亞 Official Lyric Video"
+    },
+    {
+      "videoId": "VB4DII3UovU",
+      "title": "《分不清》愛情哪有那麼容易，說結束就能分得乾淨｜emo分手歌單｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "f2Hi2uDpW_Y",
+      "title": "《分手後第幾天》思念像海嘯總在深夜裡氾濫｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "qPkjsoevWyQ",
+      "title": "《阿爸 這次換我牽你行》細漢你牽我一步一步行，這次換我疼你惜你｜父親節必聽感恩催淚｜台語歌曲｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "NnFRZpOUMxY",
+      "title": "《是我不夠好》明明受傷的是我，為什麼在檢討｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "H2Q8JvVc7d4",
+      "title": "《失戀必經的階段》你走吧，我不會再回頭｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "byDoXFa_6ak",
+      "title": "《為你而流》女人這一生,多少淚是為你而流｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "w_Atamgs3wY",
+      "title": "《孟婆嘆》我怕來生遇見你，卻是一地冰涼｜emo分手歌單｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "Ge6Sb8HWxFE",
+      "title": "《我不甘心》我不愛你了，但我無法原諒被糟蹋的自己｜emo分手歌單｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "Egy449IyPSo",
+      "title": "《過度曝光的孤單》最可悲的偽裝是寫得出萬語千言，卻騙不過想念的自己｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "nKObdKVcu78",
+      "title": "《把自己關機》我把通知關閉，切換成請勿打擾｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "S8xkv0jZ5nE",
+      "title": "《怕安靜的人》身邊擠滿了人，卻沒有一個是你｜失戀催淚神曲｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "ORqhJ28RGZs",
+      "title": "《強顏歡笑的臉》白天的堅強演成無懈可擊的經典，夜晚的崩潰拆穿所有體面的謊言｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "HAo9fhzG2QA",
+      "title": "《用加班逃避想你》白天我運轉像個完美的機器，深夜卻獨自在辦公桌前哭泣｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "Ls4FSiwtcjc",
+      "title": "《身體還沒答應分手》原來最痛的不是爭吵與放手，而是下意識裡戒不掉的溫柔｜深夜催淚情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "732C-z75u7Q",
+      "title": "《連安靜都是錯》原來你不愛了之後,連安靜都是一種錯｜催淚分手情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "fZD27CnZc3c",
+      "title": "《最禮貌的陌生人》你的回覆挑不出毛病，卻比冷漠還要傷人｜深夜催淚情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "m3LmOFd6RMw",
+      "title": "《理智的叛徒》明明已經決定放手，為什麼心卻成了理智的叛徒｜催淚失戀情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "-2lQe0fNSAc",
+      "title": "《無處安放的分享欲》每一次遇見美好，都是一次心碎的提醒｜催淚情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "HMtxzvQrU7Q",
+      "title": "《忘了登出的雙人帳號》原來最可悲的不是你離開，而是我還在付費看你相愛｜催淚失戀情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "FxOTWbmktZY",
+      "title": "《算你對吧》當我不再反駁，是因為我已經決定割捨｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "nUXdX3khKSE",
+      "title": "《最殘忍的了解》我們都太懂，怎麼讓對方痛得哭出來｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "w7bD2dGQcrs",
+      "title": "《想留下來的人只有我》這場關於離開的賭注，我輸得一塌糊塗｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "malARrmMTRc",
+      "title": "《退訂你的餘生》以為你走得決絕，卻發現我的帳號還亮著你的上線時間｜分手催淚情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "Vnp7QkxW8mI",
+      "title": "《忘記登出的幸福》你那忘記登出的幸福，為什麼綁定著我｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "LPbw-eg4PUE",
+      "title": "《無常不想加班》你以為留下來就能感動他嗎，別傻了趕快投胎重新換個號碼｜放下執念必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "qjedJv_CdMY",
+      "title": "《你教教我怎麼忘記你》我怕時間走太快模糊了你的臉，又怕記憶紮太深隨時紅了雙眼｜深夜催淚情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "rPXo16ekeUU",
+      "title": "《你忘記移除的摯友》看著你分享，沒有我的早安和晚安｜emo單戀歌單｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "MAtknVhxgSE",
+      "title": "《一年前的今天》一年前的今天你眼底全都是愛，一年後的現在剩下我獨自發呆｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "-4h3a6U05ZA",
+      "title": "《過期的溫柔》抵擋不住時間的愛情，只能看著它壞去｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "LFFnRJ67wLs",
+      "title": "《換誰陪你熬夜》現在聽你說心事的，換成誰了｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "CFHhtV74fkQ",
+      "title": "《如果那時勇敢一次》那句沒說出口的喜歡，是我這輩子最大的心酸｜深夜emo必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "LVkE0YU0eM0",
+      "title": "《我也許像她但我不是她》我也許像她但我不叫她的名字,你抱著我的時候心裡想著誰的影子｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "JPP1-6u3w2Y",
+      "title": "《第二順位》原來太懂事是一種殘忍，讓你覺得我不需要慰問｜深夜催淚情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "GD0w6o3DmeQ",
+      "title": "《盛裝出席你的婚禮》我盛裝出席，你的婚禮｜催淚失戀情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "RQ5dJsqZ_7E",
+      "title": "《擎天崗深夜直播》說好游刃有餘，變成連滾帶爬｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "msUa7YwnTrY",
+      "title": "《我把你教得太好了》我是你的愛情補習班，她是你的畢業成績單｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "WfsA-CfNsJ4",
+      "title": "《謝謝你還肯騙我》謝謝你還肯騙我，還願意編織理由來敷衍我｜催淚分手歌單｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "_hm25pB753s",
+      "title": "《我是你的止痛藥》原來我只是你的止痛藥，治好了你的傷我就不重要｜深夜備胎情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "54uRKui__DU",
+      "title": "《昨天還好好的》明明昨天還好好的, 你怎麼捨得讓我像瘋子一樣找著｜斷崖式分手｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "MdB29mfv9JQ",
+      "title": "《懂事的人沒糖吃》原來會哭的孩子才有糖吃, 太懂事的人只能獨自收拾｜催淚虐心神曲｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "cpq2YXv18ws",
+      "title": "《是你逼我當壞人》明明是我開口提的分手，為什麼真正解脫的人是你｜深夜催淚情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "MhxU9-19E6s",
+      "title": "《傷心的人註定更傷心》是不是傷心的人註定更傷心，掏空了靈魂卻換來了孤寂｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "8X8RsCi99bo",
+      "title": "《愛過的人怎麼做朋友》愛過的人怎麼做朋友，難道要我笑著喝你未來的喜酒｜催淚分手情歌｜華語流行｜Aria艾莉亞｜Official Lyric Audio｜YT十二弦月"
+    },
+    {
+      "videoId": "Rw59Oc75Tq4",
+      "title": "《撤回的真心話》藏在撤回裡的那句我後悔，是這世界上最安靜的崩潰｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "qolEkpvkmjo",
+      "title": "《過期情人》若當初我們沒輸給自尊，是不是就不必假裝轉身｜虐心emo歌單｜華語流行｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "GZKlIsvlqF8",
+      "title": "《把最後一句晚安還給星空》我決定把最後一句晚安還給星空，讓它替我飛過幾萬公里的寒冬｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "qqT6qNT2kwA",
+      "title": "《餘溫》以為轉身就能變回陌生，卻連呼吸都有你的份｜深夜失戀必聽｜華語流行｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "greejsCzIwA",
+      "title": "《廉價演技》你的深情只是劇本需要，眼淚流得那麼隨意｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "ztUV4gB0PMI",
+      "title": "《媽祖的粉紅光芒》白沙屯媽祖原創歌曲｜獻給每一位香燈腳，祢是最安穩的歸處｜徒步進香必聽神曲｜Aria艾莉亞｜Official Music Video"
+    },
+    {
+      "videoId": "AIbJbYAxWDo",
+      "title": "《連分手都沒資格》連開始都沒有，哪來的結束好說｜深情演唱版 MV｜痛心抒情曲｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "UGhJgRRFbtw",
+      "title": "《緋月詠嘆》光與暗的交界等候，迎向那註定的淒美最終｜完整MV創作｜哥德歌曲｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "srGHlFB17Qs",
+      "title": "《斷崖式分手》沒有答案，其實就是最殘忍的答案｜催淚心碎情歌｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "xfYRh2zmk_c",
+      "title": "《截圖裡的愛人》原來往上滑是熱戀，往下滑是客套的寒暄｜深夜催淚失戀情歌｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "AZr-7JZkgSs",
+      "title": "《我還住在你愛我的那一年》全世界勸我清醒，我卻還在舊對話框裡居住｜走不出來的失戀情歌｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "5d5cCiP5A40",
+      "title": "《開著小帳去愛你》明明已經封鎖刪除，卻還是忍不住偷看你的限動 ｜深夜心碎情歌｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "qd_XoTzsvHI",
+      "title": "《你的文字還愛我》最遠的距離，是你愛過卻又不愛了｜深情演唱版 MV｜催淚失戀情歌｜Aria艾莉亞｜Official Lyric Video"
+    },
+    {
+      "videoId": "hEPCBggd-qc",
+      "title": "《明明沒吵架卻陌生了》這種安靜比爭吵還折磨人｜痛徹心扉催淚神曲｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "ILELTsBQGZI",
+      "title": "《可不可以別對我笑》既然給不起我要的以後，能不能請你鬆開手｜痛徹心扉失戀流行｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "1KF6T_AIz6E",
+      "title": "《你說你還不想戀愛》祝你們白頭偕老，這是我聽過最諷刺的玩笑｜單戀備胎覺醒曲｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "G8ifhtNKAaQ",
+      "title": "《活成她的樣子》我努力活成她，卻只是你眼裡別人的倒影｜催淚心碎情歌｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "5E9Q41PzOb8",
+      "title": "《雨停後我們就變成陌生人》既然結局沒有劇本，不如做個安靜的路人｜深情演唱版 MV｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "OiRvWfuGkQc",
+      "title": "《我們終於不吵了》恭喜我們終於不吵了，卻生疏得像兩位過客｜窒息系悲傷抒情｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "3oDJGyUG74k",
+      "title": "《你的文字還愛我》捨不得刪的對話紀錄，抱著虛擬的遺憾假裝我們還在｜痛心回憶系華語流行｜Aria艾莉亞｜Official Lyric Video"
+    },
+    {
+      "videoId": "M2ZxXayJ66E",
+      "title": "《連分手都沒資格》進一步沒資格，退一步捨不得｜虐心催淚情歌｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "9lPSBRLE1D8",
+      "title": "《是你先闖進來的》明明是你先闖進來的，卻換成我捨不得走｜虐心失戀情歌｜Aria艾莉亞｜Official Music Video"
+    },
+    {
+      "videoId": "z77N1lWt2vA",
+      "title": "《忘了把傘還給雨天》用最安靜的成全，換你快樂一點｜深情演唱版 MV｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "cQa0HeHwrRU",
+      "title": "《僅自己可見的想念》躲在螢幕背後，用另一個身分參與你的餘生｜深夜emo虐心R&B｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "x0TOQqp5vR4",
+      "title": "《把抓不住的你還給風》愛一個人不是要把他留下，而是看著他飛向晚霞｜療癒釋懷系情歌｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "j1DaW4_SxqU",
+      "title": "《把沒說出的秘密藏進深海》原來最遙遠的距離，是笑著祝你旅途圓滿｜催淚治癒系抒情｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "1rH06uZuDt0",
+      "title": "《金馬刮出大富貴》2026 丙午馬年氣場強，今年過年我們發發發｜超嗨賀歲洗腦神曲｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "aj9jd_erufc",
+      "title": "《微風的形狀》曬乾昨晚的失眠，溫柔撫平歲月的跌宕｜療癒系民謠｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "IjDp38HB6sc",
+      "title": "《雨停後我們就變成陌生人》你的沉默比雨聲嘈雜，退回城市最遠的身分｜電影感氛圍虐心神曲｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "zIfhc1AuD_0",
+      "title": "《忘了把傘還給雨天》原來最難過的不是散場，而是我還留著為你準備的晴朗｜年度最虐心抒情歌｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "bHOzTW0rOx0",
+      "title": "《英文R&B Playlist2》這張歌單的氛圍太頂了 🍸 霓虹燈下的微醺節奏 🌃｜深夜開車/獨處/放鬆必備 Luxury Vibes 🥂 #playlist #music #rnb"
+    },
+    {
+      "videoId": "f1FWgmMRjBY",
+      "title": "《離線地圖》迷路是種奢侈，世界最美的不在手機裡｜慵懶治癒系Lo-fi｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "_m8iZ-ocrJY",
+      "title": "《數位失溫》我在虛擬的恆溫裡，等一個真實的吻｜深夜EMO治癒神曲｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "EJvj5iybth4",
+      "title": "《無聲喧嘩》幾萬個我，在爭吵｜憂鬱系自我療癒｜Aria艾莉亞｜Official Lyric Audio #心理內耗 #自我和解 #Aria艾莉亞"
+    },
+    {
+      "videoId": "u6o5X2EiW14",
+      "title": "《中文R&B Playlist2》這節奏絲滑到心坎裡 🍯 慵懶午後到微醺深夜的靈魂伴侶 🍷｜Chill R&B ｜開車、運動、沒事放著聽 #playlist #music #chillvibes"
+    },
+    {
+      "videoId": "tFcoh7Y7sYc",
+      "title": "《英文R&B Playlist1》慵懶得像隻貓 🐱 窩在棉被裡的專屬 BGM 📖｜居家/讀書/放鬆/週末午後 #playlist #music #chillvibes"
+    },
+    {
+      "videoId": "TONbdwyvo6Y",
+      "title": "《攀風者》致敬 Alex Honnold 徒手征服台北101，騎在龍背上的靈魂咆哮｜原創歌曲 #AlexHonnold #Taipei101 #FreeSolo"
+    },
+    {
+      "videoId": "rMfzZ5t-H74",
+      "title": "《去你的情人節》誰規定一定要有人陪？本小姐還有自己！｜單身萬歲爽歌｜Aria艾莉亞｜Official Lyric Audio #情人節 #愛自己 #女力"
+    },
+    {
+      "videoId": "pICm7wS8K7E",
+      "title": "《中文R&B Playlist1》這張歌單的溫度剛剛好 🌡️ 沒事聽著就很舒服的旋律線 🍷｜深夜專屬 Chill R&B 🌃 開車/獨處/放鬆 #playlist #music #chillvibes"
+    },
+    {
+      "videoId": "5yoHtfkC3C0",
+      "title": "《空氣變甜》悄悄喜歡你，連空氣都變甜｜全糖系初戀告白神曲｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "G7A7ZpmSjE4",
+      "title": "《那魯One 7-11》想你24小時，愛你不打烊｜甜蜜洗腦神曲｜Aria艾莉亞｜Official Lyric Audio"
+    },
+    {
+      "videoId": "CTgMDAWJqrU",
+      "title": "《微風剛好》愛是你給我的解藥，我願意陪你一起變老｜溫暖治癒系輕流行｜Aria艾莉亞｜Official Lyric Audio"
+    }
   ]
 }

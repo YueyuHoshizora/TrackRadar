@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-09-19T10:46:07.064+08:00",
+  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
   "latestVideo": {
     "videoId": "Top7T6uaMkc",
     "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
@@ -14,48 +14,179 @@
     "genreConfidence": 0.52
   },
   "allVideoIds": [
-    "RKmVBBJR-JY",
-    "Top7T6uaMkc",
-    "u6qxAk3DYBA",
-    "gkdhSc_lPDo",
-    "amKhaOWaMEE",
-    "Qo33CnZJqbM",
-    "V0Oeq0kcOfE",
-    "nAjcjAv_JUk",
-    "JC8NSYxCD5w",
-    "FKim5oc-v28",
-    "NEESe-og5Uo",
-    "WrPFCUFF49g",
-    "ucFloRP9RD8",
-    "SIrH8u58Hxk",
-    "noxN5SQK76U",
-    "xvpXhW9n66I",
-    "mKlUjuGrbak",
-    "eK0NfFZB-fc",
-    "_PxrTgWcB6c",
-    "lwiwT8inPF8",
-    "CQBdmhinaBc",
-    "QmrZ3GMuU0c",
-    "GAvWt9An-pM",
-    "4Li_Bx99ook",
-    "bwUOmyUzHu8",
-    "rjTEJt9DT5c",
-    "kppy6QjK83U",
-    "pbtT8dUgMRE",
-    "s0aLHXCB98Y",
-    "lDLln50NH-Q",
-    "0en_dMFXX3U",
-    "EiMBd4jkQ30",
-    "-jE2Pl9P2kw",
-    "Z9kcYPJ-3rg",
-    "n2ePUS4UZF0",
-    "WRcq0UFOB4o",
-    "bNyPlyNxV1g",
-    "07JJVPOYJPQ",
-    "y2a2A__0_pg",
-    "oG_QS_LUxTY",
-    "0GIxsFEjTNo",
-    "jttwidlhOXA",
-    "ooAOR7jHPro"
+    {
+      "videoId": "RKmVBBJR-JY",
+      "title": "《嫦娥》🌕｜人人都想要的長生，她卻只想回到后羿身邊【嫦娥奔月】"
+    },
+    {
+      "videoId": "Top7T6uaMkc",
+      "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.52
+    },
+    {
+      "videoId": "u6qxAk3DYBA",
+      "title": "《妲己 × 姜王后》💔｜她還是王后，卻親眼看著他牽起了另一個人的手"
+    },
+    {
+      "videoId": "gkdhSc_lPDo",
+      "title": "《妲己 × 姜王后》｜從她進宮那一天起，我就不再是你的唯一【虐心情歌・封神・Official MV】"
+    },
+    {
+      "videoId": "amKhaOWaMEE",
+      "title": "《九尾狐》🦊｜那些人曾追殺她，巨獸來襲時，她卻選擇回頭"
+    },
+    {
+      "videoId": "Qo33CnZJqbM",
+      "title": "《九尾狐》🦊｜世人說她是妖，她卻為所有人張開九尾"
+    },
+    {
+      "videoId": "V0Oeq0kcOfE",
+      "title": "《九尾狐》｜山海經中的九尾妖狐，被人類追殺後卻回頭救了全村【超燃國風電音・中文原創歌曲・Official MV】"
+    },
+    {
+      "videoId": "nAjcjAv_JUk",
+      "title": "《黑白無常》⛓️｜鬼門關前，她們為一個亡魂站到了彼此的對面"
+    },
+    {
+      "videoId": "JC8NSYxCD5w",
+      "title": "《黑白無常》｜鬼門關前，她們為一個亡魂站到了彼此的對面【東方冥界・國風電音・Official MV】"
+    },
+    {
+      "videoId": "FKim5oc-v28",
+      "title": "《孟婆》🥣｜孟婆湯能忘盡前塵，她卻忘不了那個人"
+    },
+    {
+      "videoId": "NEESe-og5Uo",
+      "title": "《孟婆》｜奈何橋上，一碗孟婆湯忘盡前塵，她卻忘不了那個人【千年虐戀・古風電音・Official MV】"
+    },
+    {
+      "videoId": "WrPFCUFF49g",
+      "title": "《哪吒》🔥｜鬼門開那一夜，她成了哪吒的乩身"
+    },
+    {
+      "videoId": "ucFloRP9RD8",
+      "title": "《哪吒》｜鬼門開那一夜，她成了神明的乩身【Official MV・超燃國風電音・中文原創歌曲】"
+    },
+    {
+      "videoId": "SIrH8u58Hxk",
+      "title": "《畫皮》🎭｜她為了成為他喜歡的樣子，最後連自己都認不出了"
+    },
+    {
+      "videoId": "noxN5SQK76U",
+      "title": "《畫皮》｜聊齋裡最痛的不是鬼，是為了被愛失去自己【Official MV・虐心情歌・中文原創歌曲】"
+    },
+    {
+      "videoId": "xvpXhW9n66I",
+      "title": "女鍾馗來斬鬼，最後劍卻指向了人｜《人間有鬼》【中文原創歌曲・動畫MV】"
+    },
+    {
+      "videoId": "mKlUjuGrbak",
+      "title": "《人間有鬼》｜鬼門大開，女鍾馗卻把劍指向了活人【Official MV・中文原創歌曲】"
+    },
+    {
+      "videoId": "eK0NfFZB-fc",
+      "title": "妹妹被畫走後，她直接殺進了畫中世界｜《壁上人》【史詩搖滾・中文原創】"
+    },
+    {
+      "videoId": "_PxrTgWcB6c",
+      "title": "她明明抓住了妹妹，卻還是被畫進牆裡｜《壁上人》【史詩搖滾・中文原創】"
+    },
+    {
+      "videoId": "lwiwT8inPF8",
+      "title": "《壁上人》｜她修復一幅古畫後，牆上多一人，世間少一人【Official MV・國風搖滾・中文原創歌曲】"
+    },
+    {
+      "videoId": "CQBdmhinaBc",
+      "title": "她想終止獻祭，卻讓整座島開始崩裂｜《忘れ灯》【日文原創歌曲・Dark Fantasy Music】"
+    },
+    {
+      "videoId": "QmrZ3GMuU0c",
+      "title": "每年夏天，都必須有一個人消失｜《忘れ灯》【日文原創歌曲・Dark Fantasy Music】"
+    },
+    {
+      "videoId": "GAvWt9An-pM",
+      "title": "忘れ灯｜每年夏天，都必須有一個人消失【Official MV・日文原創歌曲・Dark Fantasy Music】"
+    },
+    {
+      "videoId": "4Li_Bx99ook",
+      "title": "最後一秒，你會相信自己，還是相信別人？｜《残り一秒》【日文原創歌曲・J-Pop】"
+    },
+    {
+      "videoId": "bwUOmyUzHu8",
+      "title": "残り一秒｜只剩最後一秒，你會選擇相信誰？【Official MV・日文原創歌曲・J-Pop】"
+    },
+    {
+      "videoId": "rjTEJt9DT5c",
+      "title": "有些聲音，你越想忘記，反而聽得越清楚｜《噤聲》演唱版【中文原創歌曲・Cinematic Pop】"
+    },
+    {
+      "videoId": "kppy6QjK83U",
+      "title": "她找遍整座城市，最後找到的卻是自己｜《噤聲》【中文原創歌曲・Cinematic Pop】"
+    },
+    {
+      "videoId": "pbtT8dUgMRE",
+      "title": "噤聲｜一座禁止歌唱的城市，她卻聽見了自己的聲音【Official MV・中文原創歌曲・Cinematic Pop】"
+    },
+    {
+      "videoId": "s0aLHXCB98Y",
+      "title": "「可我呢，誰會記得我姓名？」｜《無名碑》【古風歌曲・中文原創歌曲】"
+    },
+    {
+      "videoId": "lDLln50NH-Q",
+      "title": "無名碑｜我替萬人刻下姓名，最後卻忘了自己【古風歌曲・中文原創歌曲・Official Audio】"
+    },
+    {
+      "videoId": "0en_dMFXX3U",
+      "title": "司命｜我替萬人寫盡生死，唯獨把你留在空白【古風歌曲・中文原創歌曲・Official Audio】"
+    },
+    {
+      "videoId": "EiMBd4jkQ30",
+      "title": "史書之外｜史書不留名，山河替我作證【古風歌曲・中文原創歌曲・Official Audio】"
+    },
+    {
+      "videoId": "-jE2Pl9P2kw",
+      "title": "無赦｜若神不肯赦免，我就赦免自己【中文原創歌曲・Industrial Metal・Official Audio】"
+    },
+    {
+      "videoId": "Z9kcYPJ-3rg",
+      "title": "次の世で、また｜今生無法相守，那就約定來世相見【日文原創歌曲・日文抒情歌・Official Audio】"
+    },
+    {
+      "videoId": "n2ePUS4UZF0",
+      "title": "EMBER｜就算只剩餘燼，我也會再次燃燒【英文原創歌曲・Cinematic Pop・Official Audio】"
+    },
+    {
+      "videoId": "WRcq0UFOB4o",
+      "title": "Tonight (Neon Hearts)｜如果天亮終究會來，就讓今夜留在霓虹裡【英文原創歌曲・Synth Pop・Official Audio】"
+    },
+    {
+      "videoId": "bNyPlyNxV1g",
+      "title": "새벽 너머로｜走過漫長黑夜，我仍朝第一道光奔去【韓文原創歌曲・Pop Rock・Official Audio】"
+    },
+    {
+      "videoId": "07JJVPOYJPQ",
+      "title": "UNBROKEN｜當世界逼你低頭，我仍選擇站立【英文原創歌曲・Epic Pop・Official Audio】"
+    },
+    {
+      "videoId": "y2a2A__0_pg",
+      "title": "星降る夜に｜在星光落下的夜裡，我們終於明白彼此心意【日文原創歌曲・J-Pop・Lumiora Chapter 05】"
+    },
+    {
+      "videoId": "oG_QS_LUxTY",
+      "title": "春を待つ｜走過雨季後，我們終於再次並肩【日文原創歌曲・J-Pop・Lumiora Chapter 04】"
+    },
+    {
+      "videoId": "0GIxsFEjTNo",
+      "title": "雨のホーム｜終電駛離以前，我還在等你出現【日文原創歌曲・J-Pop・Lumiora Chapter 03】"
+    },
+    {
+      "videoId": "jttwidlhOXA",
+      "title": "雨停之前｜只要雨還沒停，我就願意繼續等你【中文原創歌曲・抒情歌・Lumiora Chapter 02】"
+    },
+    {
+      "videoId": "ooAOR7jHPro",
+      "title": "夜に光る君へ｜那一夜，我在人群中看見了你【日文原創歌曲・J-Pop・Lumiora Chapter 01】"
+    }
   ]
 }

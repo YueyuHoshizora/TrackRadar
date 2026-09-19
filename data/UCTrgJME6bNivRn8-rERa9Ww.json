@@ -1,7 +1,7 @@
 {
   "channelId": "UCTrgJME6bNivRn8-rERa9Ww",
   "channelTitle": "Zoe. G",
-  "lastUpdated": "2026-09-19T12:20:20.707+08:00",
+  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
   "latestVideo": {
     "videoId": "9_Ra3Dr5Irg",
     "title": "當所有人都說你好完美，卻沒有人問你痛不痛｜《完美》- Zoe. G - 我是ZOE｜越是完美無瑕，越是沒人聽見呼喊官方動態歌詞｜【Official Lyric Video】｜Zoe.G 中文原創單曲",
@@ -14,175 +14,687 @@
     "genreConfidence": 0.77
   },
   "allVideoIds": [
-    "9_Ra3Dr5Irg",
-    "HtvMX1f3zdE",
-    "03xrLPZKwtM",
-    "xUL1CybeWyQ",
-    "2dcw8eJIghw",
-    "m33Li_OwyPI",
-    "0FrYDcqC6QU",
-    "N4UtThvgmMo",
-    "8qx1xNObIEg",
-    "NBNn8UHmanY",
-    "1eSaEcd0UO4",
-    "C1NB5z9UPN8",
-    "1ziO5LD5ENA",
-    "qc8JLYmDl3s",
-    "Pq0fP2oAtMw",
-    "f091pvsA_ug",
-    "Hm9ARS9OutI",
-    "JF5PAfZRQxc",
-    "yfTkTcVeDLQ",
-    "Z3H92fHvm2k",
-    "qba0_GVRLi0",
-    "v_yIszPH7d8",
-    "T7NObvgPysg",
-    "HcXALMjhs6Q",
-    "SUIXPPjoF0U",
-    "OeWuQdiOFpI",
-    "QEtCHhptyjE",
-    "bGpnO_8TDaU",
-    "qOkXOIkhjcU",
-    "FqHjKsx1Xqo",
-    "BKVN7qIqlcQ",
-    "ccWmmADDFD0",
-    "PZU7pV2jZvY",
-    "MWGAOX3Kqtk",
-    "uz9PmtIJW2g",
-    "vbYg6dhHyD8",
-    "tG_j40UevYI",
-    "JWK2j7gb2TI",
-    "stt3ZQDZLEY",
-    "RkY3GlvW9Gw",
-    "fuwyaAPXKQw",
-    "IE6H5AONksU",
-    "rRN22dmTWK8",
-    "wjmtv2Q-jhk",
-    "dw0nK1yvfLQ",
-    "SVxUxMvT5m8",
-    "0qrzaPGuNWU",
-    "OJiGsPfZrFM",
-    "Jz_Siz47vJw",
-    "3_Ol-QF3T6Y",
-    "M265q_oku-c",
-    "bmlI-uqqTz4",
-    "ubvASh_rwJc",
-    "DpnHmwuT78Q",
-    "yLPxiTi0FjQ",
-    "eYh8xuYNglU",
-    "sVQZAQrjqdU",
-    "EVSoyN1VZ6Y",
-    "NK_Io6hiIDw",
-    "D7GeQakKgLE",
-    "dyTi7pcWW1A",
-    "lXy8rxwXZrc",
-    "S_iaFVhmMTI",
-    "f9T2no3NAXs",
-    "phe8lLSnPAs",
-    "vCLcP9cEoEw",
-    "c1ghQNVfQHA",
-    "NMxrBYyQHvM",
-    "Qpbl2qZ91h4",
-    "WkbOhCpNnBE",
-    "3G70CDiZOdQ",
-    "4Lo0G0wPYXs",
-    "TDe5yUtxW-k",
-    "6xrjrYffz48",
-    "MII5d4HV8iE",
-    "qsSlHv-CYiw",
-    "oqzUaBxOQts",
-    "iZkPaowa0Zw",
-    "oQ3vrgKvf3s",
-    "dpH0jOCCztU",
-    "9ivdT3KWkBU",
-    "Qh_somn679Q",
-    "ybE53HkSMzc",
-    "sZWFTZU0rJA",
-    "YTUEDUj7PDE",
-    "F5bVKX0wRiA",
-    "dpGVZiDlLjk",
-    "gFWCkLrXDoM",
-    "2wwUYcHlVlQ",
-    "jYGd_rCTl7E",
-    "wuGyrwvkgfU",
-    "Cffzc7muc7k",
-    "oXaazBu-ZZw",
-    "3dVY9kAguRk",
-    "8obtoL4X48g",
-    "Ryi_QD_0EZI",
-    "A8nzvObZiVM",
-    "zjeuP6A70e0",
-    "UzD5Whd6EQE",
-    "ghi9vGnQVmM",
-    "bA2lfBut1MY",
-    "CpS8FCmUXVw",
-    "j6kNHF5l5xk",
-    "owVR0FjmSBs",
-    "n1Y5T3L1tvc",
-    "JGA5jLJQhu4",
-    "T2GSRMVe5Ik",
-    "IAeLEyxBLLc",
-    "OlJADmYOoro",
-    "Y9LSOFZw0GE",
-    "99sh24Ifx1U",
-    "Sg0gOKy2Roo",
-    "sJMGy5w5a68",
-    "b_oT33O2Gpc",
-    "1Z3BoZGVxSA",
-    "w_Gt6c1GiFo",
-    "thObRs8KY0k",
-    "rBwFmgnvwKA",
-    "JctR7ZGgJqo",
-    "EXsJCbHl8nc",
-    "A8VosAfTG6c",
-    "v8oPGG7-yJY",
-    "gjCRbE7a4AE",
-    "GUpR1fB18HY",
-    "um1NtVtTpUo",
-    "KpyPMYBQ8pY",
-    "NhCrfrdpHqU",
-    "rnhoWWFwoGw",
-    "7mK_YJF1fRI",
-    "3CCiXf0ylj0",
-    "0ki1UK6Nl9Y",
-    "D8Hgf-qsw7Y",
-    "Md-nbaGtoog",
-    "HPiNS5j5PPY",
-    "u8TIjeGJBpA",
-    "fULngKAvtb0",
-    "amg_UyS84wQ",
-    "E-wPfByiz3M",
-    "u6i3YPrpvsM",
-    "wySGQkgGEvo",
-    "bXvlOuQ4ZLM",
-    "SN82crZbh-I",
-    "1smrzSCDan8",
-    "zJXEmTaaCNQ",
-    "LDTI1n5oacA",
-    "2UCoKB9iOg0",
-    "Ip7zVvX7ieo",
-    "1nLaO8WxbxA",
-    "eBD_fE8UVNE",
-    "l0vxiaNnsJ0",
-    "4-hhNHpQW0I",
-    "057uoK9TjpQ",
-    "qmXQAGAh1uM",
-    "BhXWqz0kJAg",
-    "KVL1d1noYzk",
-    "RIbY7RvN1k4",
-    "jtCD2CBPlNc",
-    "mLimcG4gqEU",
-    "SRZNU-EkDxE",
-    "JroO-3xqyZc",
-    "LY0GTwS_FWc",
-    "ge-8DRds0ao",
-    "LLbYcuWSoZU",
-    "ij-rjlKPZsM",
-    "gPZ0r9nG1A0",
-    "uto20D5j2LY",
-    "H_F7Rnb9ETo",
-    "3v3TeR1eiHE",
-    "xnaH7gUGc1k",
-    "r49ghlHtg4Y"
+    {
+      "videoId": "9_Ra3Dr5Irg",
+      "title": "當所有人都說你好完美，卻沒有人問你痛不痛｜《完美》- Zoe. G - 我是ZOE｜越是完美無瑕，越是沒人聽見呼喊官方動態歌詞｜【Official Lyric Video】｜Zoe.G 中文原創單曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
+    },
+    {
+      "videoId": "HtvMX1f3zdE",
+      "title": "喝下孟婆湯，就真的能忘掉一個人嗎？｜《孟婆》- Zoe. G - 我是ZOE｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "03xrLPZKwtM",
+      "title": "她後來好不好，我不敢知道｜旁觀者的自白｜《我沒動手》- Zoe. G x 苏砚Suyan - 我是ZOE｜苏砚Suyan 詞曲｜官方動態歌詞【Official Lyric Video】｜"
+    },
+    {
+      "videoId": "xUL1CybeWyQ",
+      "title": "叫我八戒，但我偏偏要破戒｜不取經的豬八戒｜《八戒》- Zoe. G - 我是ZOE｜【西遊原創歌曲】｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "2dcw8eJIghw",
+      "title": "我是佛，還是被馴養的魔？｜齊天大聖黑暗改編｜男聲版《悟空》- Zoe. G - 我是ZOE｜七十二變，卻變不出自由｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "m33Li_OwyPI",
+      "title": "我是佛，還是被馴養的魔？｜齊天大聖黑暗改編｜《悟空》- Zoe. G - 我是ZOE｜七十二變，卻變不出自由｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "0FrYDcqC6QU",
+      "title": "每一次退潮留下的想念，都在等你靠岸｜七夕情歌｜《潮汐》- Zoe. G - 我是ZOE｜思念從未退潮｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "N4UtThvgmMo",
+      "title": "一年只許一面？誰定的規則｜七夕情歌｜《銀河不渡我》- Zoe. G - 我是ZOE｜若天地不成全，我成全你我｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "8qx1xNObIEg",
+      "title": "嘲笑我瘋癲？還是恐懼我清醒？｜《魑魅》- Zoe. G - 我是ZOE｜真正可怕的從來不是鬼，而是披著人皮的魑魅魍魎｜官方動態歌詞【Official Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "NBNn8UHmanY",
+      "title": "為了一根香腸，我唱出了人生最悲壯的一首歌｜《西巴辣》- Zoe. G - 我是ZOE｜荒謬到最後竟然有點心酸｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "1eSaEcd0UO4",
+      "title": "拒絕成為任何人的替代品｜《我》- Zoe. G - 我是ZOE｜我才不是誰口袋裡替換的月光｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "C1NB5z9UPN8",
+      "title": "這場戲,從來都只有我自己｜《自說自話》- Zoe. G x Coya - 我是ZOE｜你總在自說自話,我總在自問自答｜官方動態歌詞【Official Lyric Video】｜"
+    },
+    {
+      "videoId": "1ziO5LD5ENA",
+      "title": "這不是繞口令，是人生｜《和尚端湯上塔》- Zoe. G - 我是ZOE｜唱透人生無常與執念的原創歌曲｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "qc8JLYmDl3s",
+      "title": "把我葬進失去你｜《葬》- Zoe. G x Coya - 我是ZOE｜把感情定格在邊緣｜官方動態歌詞【Official Lyric Video】｜"
+    },
+    {
+      "videoId": "Pq0fP2oAtMw",
+      "title": "這口香是毒也是曾經的璀璨｜《曼陀羅》- Zoe. G - 我是ZOE｜開得越美越像誰笑起來的那種燦｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "f091pvsA_ug",
+      "title": "這世界,沒有一個人能懂｜《無人能懂》- Zoe. G - 我是ZOE｜我的流浪,是我一個人的光榮｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "Hm9ARS9OutI",
+      "title": "戲演得再好,也有卸妝的一秒｜《驚堂木》- Zoe. G - 我是ZOE｜清白不用誰來討,時間自己會動手敲｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "JF5PAfZRQxc",
+      "title": "最後我們選擇,把彼此從人生裡刪除｜《刪除》- Zoe. G x Coya - 我是ZOE｜這不是恨,只是一場清醒的誤傷｜官方動態歌詞【Official Lyric Video】｜"
+    },
+    {
+      "videoId": "yfTkTcVeDLQ",
+      "title": "最亮的從來不是星,是把你記成滿天的霞｜《星砂》- Zoe. G - 我是ZOE｜越沉越燙,越開成花。｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "Z3H92fHvm2k",
+      "title": "尬電天尊～電費好貴啊！！！｜《尬電-弦花疾走版》- Zoe. G - 我是ZOE｜尬電尬電｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "qba0_GVRLi0",
+      "title": "這場殘局,沒有人能全身而退｜《實亡名存》- Zoe. G x Coya - 我是ZOE｜不想再勉強,演完這場只剩名字的戲｜官方動態歌詞【Official Lyric Video】｜"
+    },
+    {
+      "videoId": "v_yIszPH7d8",
+      "title": "尬電天尊～電費好貴啊！！！｜《尬電》- Zoe. G - 我是ZOE｜尬電尬電｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "T7NObvgPysg",
+      "title": "遮住眼睛,假裝就不會痛｜《遮眼》- Zoe. G x Coya - 我是ZOE｜寧可裝瞎,也要繼續愛你｜官方動態歌詞【Official Lyric Video】｜"
+    },
+    {
+      "videoId": "HcXALMjhs6Q",
+      "title": "此後的黃昏　各自天涯　各自荒｜《參商》- Zoe. G - 我是ZOE｜隔著幾萬光年的葬｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "SUIXPPjoF0U",
+      "title": "用一整個荒涼　換你抬頭那三秒｜《花火》- Zoe. G - 我是ZOE｜卑微的愛｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "OeWuQdiOFpI",
+      "title": "我還是好愛你,愛到把廢墟當作宇宙｜《紙鳥》- Zoe. G - 我是ZOE｜原來「謝謝你曾來過」是最悲傷的藉口｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "QEtCHhptyjE",
+      "title": "這是我能給你／最後的一種成全｜《越界》- Zoe. G - 我是ZOE｜把愛慕藏在每一句輕描淡寫裡面｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "bGpnO_8TDaU",
+      "title": "你把心關上 而我才成了那個真正空心的人｜《空心》- Zoe. G - 我是ZOE｜你成了自由的風我成了那粒最重的灰塵｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "qOkXOIkhjcU",
+      "title": "She Was Made Perfect. Then She Learned to Break.｜《DECAY》- Zoe. G - 我是ZOE【Official Lyric Video】｜Zoe.G"
+    },
+    {
+      "videoId": "FqHjKsx1Xqo",
+      "title": "你所謂的愛 是寄生蟲的錯覺｜《驅邪》- Zoe. G - 我是ZOE｜獻給每個被「以愛之名」纏上的人｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "BKVN7qIqlcQ",
+      "title": "我們讚美這完美的空洞｜《圈養》- Zoe. G - 我是ZOE｜當枯萎都要符合大眾的平庸｜官方動態歌詞【Official Lyric Video】｜Zoe.G 反烏托邦原創單曲｜華語批判詩歌"
+    },
+    {
+      "videoId": "ccWmmADDFD0",
+      "title": "我要挾持整片陽光撲向你｜《雨停》- Zoe. G - 我是ZOE｜當海霧褪去,我朝你的方向飛行｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "PZU7pV2jZvY",
+      "title": "獻給每一個在愛裡無能為力的你｜《暫放的天堂》- Zoe. G x Coya - 我是ZOE｜當平凡變成一種重量，連告別都找不到唸法。｜官方動態歌詞【Official Lyric Video】｜"
+    },
+    {
+      "videoId": "MWGAOX3Kqtk",
+      "title": "我寧可死於你溫柔的傷害。（窒息的愛）｜《失火》- Zoe. G - 我是ZOE｜暗黑華語情歌-這是一場註定燒成空的愛｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "uz9PmtIJW2g",
+      "title": "最靡麗的病態愛情情歌｜《鴆毒》- Zoe. G - 我是ZOE｜暗黑華語情歌-醒不來的，就不醒了｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "vbYg6dhHyD8",
+      "title": "中國風 -《珊瑚的淚》- Zoe. G｜沉下去的愛 不說再見｜我是ZOE｜華語虐心情歌｜電影原聲曲 OST｜【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "tG_j40UevYI",
+      "title": "中國風 -《宿命》- Zoe. G｜不是偶然，是刻在骨血裡的重逢｜我是ZOE｜華語虐心情歌｜電影原聲曲 OST｜【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "JWK2j7gb2TI",
+      "title": "白沙屯媽祖原創主題曲《粉色慈悲》｜聽見香燈腳的祈求｜《粉色慈悲》- Zoe. G - 我是ZOE｜【Official Lyric Video】｜Zoe.G中文原創單曲"
+    },
+    {
+      "videoId": "stt3ZQDZLEY",
+      "title": "中國風｜「就讓這 煙雨與琉璃交錯」 絕美虐心古風神曲｜《琉璃半拍》- Zoe. G - 我是ZOE｜【Official Lyric Video】｜Zoe.G中文原創單曲"
+    },
+    {
+      "videoId": "RkY3GlvW9Gw",
+      "title": "「所謂的百毒不侵，只是因為還沒遇見你。」｜男聲版COVER《抗體 Antibody》- Zoe. G - 我是ZOE｜虐心催淚情歌｜【Official Lyric Video】｜Zoe.G中文原創單曲"
+    },
+    {
+      "videoId": "fuwyaAPXKQw",
+      "title": "「所謂的百毒不侵，只是因為還沒遇見你。」｜《抗體 Antibody》- Zoe. G - 我是ZOE｜虐心催淚情歌｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "IE6H5AONksU",
+      "title": "享受著如履薄冰的安穩，卻沒人敢戳破朦朧｜《雪崩》- Zoe. G｜你的「知己」是我最痛的偽裝🥀｜電影原聲曲 OST｜【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "rRN22dmTWK8",
+      "title": "《我是Zoe》新歌加精選合輯- Zoe. G｜PLAYLIST｜原創歌單｜電影原聲曲 OST｜【Official Lyric Video】｜Zoe.G 中文原創單曲合輯"
+    },
+    {
+      "videoId": "wjmtv2Q-jhk",
+      "title": "《一公克》- Zoe. G｜哪怕只是一根羽毛，也貪圖被你妥善安放｜在你心裡，我有沒有多一點點份量？｜電影原聲曲 OST｜【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "dw0nK1yvfLQ",
+      "title": "《懸雨》- Zoe. G｜中國風 - 誰把相思熬成了這夜的濃｜雨停在半空，滴不進我的眼瞳｜電影原聲曲 OST｜【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "SVxUxMvT5m8",
+      "title": "《心動》- Zoe. G｜聽完想談戀愛了...｜「我原本是一座休眠的孤島，甘於平庸」帶你找回最初的悸動｜電影原聲曲 OST｜【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "0qrzaPGuNWU",
+      "title": "《對白》- Zoe. G｜【失戀必聽】「沒了你，我依然能活得精彩」官方MV｜就讓這份愛，像泡沫沉入寂靜的海｜電影原聲曲 OST｜【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "OJiGsPfZrFM",
+      "title": "《爛帳》- Zoe. G｜別拿別人的自私，懲罰現在的自己：給所有在愛裡委屈靈魂的一封信｜算了吧，那不過是一場收不回的爛帳｜電影原聲曲 OST｜【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "Jz_Siz47vJw",
+      "title": "《情債》- Zoe. G｜情人節聽這首會哭... 長大後才懂，成熟不過是把熱血冷卻的手段 。｜獻給所有愛過的「過客」 🥀｜電影原聲曲 OST｜【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "3_Ol-QF3T6Y",
+      "title": "《算了》- Zoe. G｜時間是最好的藥？我看那是騙小孩的鬼扯。｜《就問一句，累不累？》｜致 那個還得努力假裝沒事的你｜電影原聲曲 OST｜【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "M265q_oku-c",
+      "title": "《年獸》- Zoe. G｜獻給所有在寒冷中尋找溫暖的靈魂🕯️ ｜「年獸」傳說的一個全新詮釋｜吃一口甜的，別再咬人心窩｜ 電影原聲曲 OST ｜【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "bmlI-uqqTz4",
+      "title": "《玻璃霜花》- Zoe. G｜「冷與我同在，而我不跪。」🕯️ ｜將回憶化作紙鶴焚毀｜在最冷的清晨中找回了完整的自己｜ 電影原聲曲 OST ｜【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "ubvASh_rwJc",
+      "title": "《留在掌心的溫度》- Zoe. G｜讓孤單不再假裝成熟｜用最輕的語氣，說最重的願望｜心裡最柔軟的那層 ☔️💔｜電影原聲曲 OST ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜"
+    },
+    {
+      "videoId": "DpnHmwuT78Q",
+      "title": "《I'm at the top》- Zoe. G｜101，是他反覆完成的決心｜獻給每一位追求極限的人｜徒手登頂｜電影原聲曲 OST ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜"
+    },
+    {
+      "videoId": "yLPxiTi0FjQ",
+      "title": "《把你的名字放進雨聲》- Zoe. G｜我還在為你固執｜讓眼眶的鹹被溫柔地稀釋｜獻給記憶深處的你 ☔️💔｜電影原聲曲 OST ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg"
+    },
+    {
+      "videoId": "eYh8xuYNglU",
+      "title": "《母雞抖》- Zoe. G｜口袋硬幣跳動的可愛謎題 ✨ 玩味粵語流行｜#諧音梗  #迷因 💔｜電影原聲曲 OST｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg"
+    },
+    {
+      "videoId": "sVQZAQrjqdU",
+      "title": "《祝你分手快樂》- Zoe. G｜告別爛緣分的療癒金曲｜祝你分手快樂 💔 我把自己加到最愛｜詛咒系情歌 💔｜電影原聲曲 OST｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg"
+    },
+    {
+      "videoId": "EVSoyN1VZ6Y",
+      "title": "《把溫柔交給風》- Zoe. G｜學會不追問，讓時間回答｜如果你還在聽，我的名字會發光｜電影原聲曲 OST  ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg"
+    },
+    {
+      "videoId": "NK_Io6hiIDw",
+      "title": "《滾》- Zoe. G｜我曾經為你低聲祈求，卑微到連自己都看不見｜滾，別再回來敲這扇門｜電影原聲曲 OST  ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg"
+    },
+    {
+      "videoId": "D7GeQakKgLE",
+      "title": "《우린 필요 없어 다른 sign》- Zoe. G｜吳麗萍也會唱情歌，搭丟賽情歌版｜電影原聲曲 OST ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg #吳麗萍 #搭丟賽"
+    },
+    {
+      "videoId": "dyTi7pcWW1A",
+      "title": "《DJ吳麗萍》- Zoe. G｜吳麗萍你好像搭丟賽電音狂歡版（夜店狂嗨版）｜EDM｜電影原聲曲 OST ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg #吳麗萍 #搭丟賽"
+    },
+    {
+      "videoId": "lXy8rxwXZrc",
+      "title": "《那魯ONE》- Zoe. G｜那魯ONE戰歌｜SEVEN-ELEVEN｜電影原聲曲 OST  ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg #吳麗萍 #那魯ONE"
+    },
+    {
+      "videoId": "S_iaFVhmMTI",
+      "title": "《吳麗萍》- Zoe. G｜吳麗萍你好像搭丟賽 Remix（笑到掉賽版）｜EDM｜電影原聲曲 OST  ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg #吳麗萍 #搭丟賽"
+    },
+    {
+      "videoId": "f9T2no3NAXs",
+      "title": "《可夜》- Zoe. G｜思念，不是直接闖進來｜抑制卻無法抑制的想念｜電影原聲曲 OST  ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg"
+    },
+    {
+      "videoId": "phe8lLSnPAs",
+      "title": "我是Zoe，這夜讓我一直陪你【新歌+熱門歌單】一聽就停不下來 ｜ 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 車窗外的雨＋這首旋律＝完美 🎶｜深夜電台 Zoe頻道 💿｜讀書・工作・專注｜#工作音樂 #讀書音樂  #zoeg"
+    },
+    {
+      "videoId": "vCLcP9cEoEw",
+      "title": "我是Zoe，這夜讓我一直陪你【新歌+熱門歌單】一聽就停不下來 ｜ 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 車窗外的雨＋這首旋律＝完美 🎶｜深夜電台 Zoe頻道 💿｜讀書・工作・專注｜#工作音樂 #讀書音樂  #zoeg"
+    },
+    {
+      "videoId": "c1ghQNVfQHA",
+      "title": "【新歌+熱門歌單】𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 車窗外的雨＋這首旋律＝完美 🎶｜完全感性氛圍Pop合集 💿｜無廣告英文R&B｜讀書・工作・專注時靜靜陪你｜#工作音樂 #讀書音樂 #英文歌單 #zoeg"
+    },
+    {
+      "videoId": "NMxrBYyQHvM",
+      "title": "怕一說出口天就裂，此生最安靜的心事 💔🌌 | Zoe. G - 不敢說的名字｜Zoe.G 中文原創單曲｜ #古風 #zoeg"
+    },
+    {
+      "videoId": "Qpbl2qZ91h4",
+      "title": "神藏夜裡悄悄回答 🌙｜《那微光》- Zoe. G｜靜默掙扎中尋找隱藏的希望｜深情華語抒情電影原聲曲 OST ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg"
+    },
+    {
+      "videoId": "WkbOhCpNnBE",
+      "title": "《空山震》｜空山辭二部曲｜踏火而來，斬諸神｜燃系古風戰歌｜古風電影原聲曲 Gufeng OST - Zoe. G ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg #空山辭"
+    },
+    {
+      "videoId": "3G70CDiZOdQ",
+      "title": "《空山悟》｜空山辭二部曲｜萬法皆空，見自心｜古風電影原聲曲 Gufeng OST - Zoe. G ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg #空山辭"
+    },
+    {
+      "videoId": "4Lo0G0wPYXs",
+      "title": "《空山怨》｜空山辭二部曲｜一念未放，萬念成怨｜古風電影原聲曲 Gufeng OST - Zoe. G ｜【Official Audio】｜Zoe.G 中文原創單曲 ｜#zoeg #空山辭"
+    },
+    {
+      "videoId": "TDe5yUtxW-k",
+      "title": "【Playlist】這氛圍感絕了...  💔 轉身瞬間凍結的愛，深夜emo必聽 💔 華語原創情歌【Official Audio】- Zoe. G - 說不出口的再見 | Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "6xrjrYffz48",
+      "title": "[Playlist] 這氛圍太扎心，聽第一句眼淚就失控了。適合一個人深夜獨處，躲在舊房間聽的傷感情歌。🥀 🌧️ ✨【Official Lyric Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "MII5d4HV8iE",
+      "title": "千萬別聽，聽完鬱悶一整天｜冷宮花落 - Zoe. G 原創古風單曲 playlist｜ 🥀 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "qsSlHv-CYiw",
+      "title": "空之道 (The Way of Emptiness) — 擺脫城市喧囂，尋找內在平靜 | 療癒Lo-fi佛系音樂 | 冥想・放鬆・學習｜【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "oqzUaBxOQts",
+      "title": "琴溯千年：時空迴響 Keys of the Millennium｜宏大史詩與唯美古風的結合 (Epic Pop & Grand Piano Orchestral Mix) 2025 | #zoeg"
+    },
+    {
+      "videoId": "iZkPaowa0Zw",
+      "title": "在無聲之中找回平靜｜拒絕焦慮的 4 小時｜當心經遇上說唱｜冥想與放鬆專用4 Hour Buddhist Lo-fi Beats to Study/Relax to | Zoe.G 原創佛經音樂循環"
+    },
+    {
+      "videoId": "oQ3vrgKvf3s",
+      "title": "叮叮噹 - Zoe. G | #XMAS | #Christmas song | @Zoe_G_Studio | #cover 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "dpH0jOCCztU",
+      "title": "✨薑餅夢樂園🎄超可愛聖誕歌曲🎶一起歡唱快樂聖誕節！｜【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "9ivdT3KWkBU",
+      "title": "【佛經音樂】無聲之中 | 觀自在菩薩 揭諦咒 Lo-fi Rap | 靜心 冥想 放下｜【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "Qh_somn679Q",
+      "title": "Playlist 🎅 聽完腎上腺素直接飆升的 160BPM 聖誕暴走 🏁 \"這確定是聖誕歌？\" 😲 | 2025 Zoe. G 《叛逆聖誕》 派對/飆車/高強度運動 必備 💿"
+    },
+    {
+      "videoId": "ybE53HkSMzc",
+      "title": "Jingle bells - Zoe. G | #XMAS | #Christmas song | @Zoe. G | #cover"
+    },
+    {
+      "videoId": "sZWFTZU0rJA",
+      "title": "甜到出雪 ❄️「你說 Merry，我說 Kiss Me Now」| 超甜聖誕告白曲 - Zoe. G 原創單曲 | 🍬 這是今年冬天最 Cute 的聖誕禮物！ |  #ZOEG #原創歌曲 #甜到出雪"
+    },
+    {
+      "videoId": "YTUEDUj7PDE",
+      "title": "【R&B歌單】𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 車窗外的雨＋這首旋律＝完美 🎶｜完全感性氛圍Pop合集 💿｜無廣告英文R&B｜讀書・工作・專注時靜靜陪你｜#工作音樂 #讀書音樂 #英文歌單 #zoeg"
+    },
+    {
+      "videoId": "F5bVKX0wRiA",
+      "title": "煙雨夢 Misty Rain Dream - Zoe. G 原創古風單曲｜若此生再無你共眠，我願化作煙雨陪你年年... 🥀 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "dpGVZiDlLjk",
+      "title": "【孤燈碎月樓】- Zoe. G｜適合深夜獨自聽的歌｜你說緣起緣滅皆天定，我卻信執念能逆命｜超虐心古風歌曲｜【Official Audio】｜Zoe.G 中文原創單曲｜#ZOEG #古風 #ZOEG古風"
+    },
+    {
+      "videoId": "gFWCkLrXDoM",
+      "title": "【中國風純音樂】聽完心都靜了 14首無歌詞吟唱古風BGM - Zoe. G｜助眠、放鬆、冥想、閱讀｜🥀 14首古風人聲哼唱 (No Lyrics) 絕美古風哼唱 ☁️ 1小時無歌詞純享版｜#zoeg"
+    },
+    {
+      "videoId": "2wwUYcHlVlQ",
+      "title": "【社會諷刺】小紅書 (The Red Book) - 為什麼FB詐騙沒事？｜牆內花開得真漂亮 ｜原創諷刺歌曲 (Lyrics Video) ｜#ZOEG #諷刺 #雙標"
+    },
+    {
+      "videoId": "jYGd_rCTl7E",
+      "title": "【如夢是夢】Like A Dream - Zoe. G 原創單曲｜當金剛經變成一首情歌... 應作如是觀 (Official Audio) 療癒/抒情｜#古風 #ZOEG"
+    },
+    {
+      "videoId": "wuGyrwvkgfU",
+      "title": "【烽火‧破陣】 我輩豈是蓬蒿人！一曲戰歌燃盡亂世，只求熱血不白流！ -  Zoe. G | 一曲震撼！熱血沸騰的史詩篇章！| Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜#古風 #ZOEG"
+    },
+    {
+      "videoId": "Cffzc7muc7k",
+      "title": "沒什麼是刷卡解決不了的！💳《魔法小卡》Magic Pass - Zoe. G 原創單曲 | 課金/購物戰歌，一掃就通關！(Official Audio) |  #ZOEG #原創歌曲 #魔法小卡"
+    },
+    {
+      "videoId": "oXaazBu-ZZw",
+      "title": "[紫禁城的深】一曲淚灑宮牆！揭秘被遺忘的帝國悲歌，聽哭了無數人！  -  Zoe. G | Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜#古風 #ZOEG"
+    },
+    {
+      "videoId": "3dVY9kAguRk",
+      "title": "深夜作業 R&B 🌙 Zoe. G 陪你一起熬夜的RELAX私藏歌單 (Lo-Fi / Focus Beats) ｜讀書、工作、放鬆專用 - Zoe. G Original Mix"
+    },
+    {
+      "videoId": "8obtoL4X48g",
+      "title": "【Candid Shot  鏡頭之外】：斷線依舊綠燈！我的態度就是最高品質｜不為誰而活的 Chill Vibe！ -  Zoe. G | Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜#ZOEG"
+    },
+    {
+      "videoId": "Ryi_QD_0EZI",
+      "title": "【週末魔法】一聽就愛上！瞬間告別所有煩惱，找回內心平靜的秘密！【Like Sunday】  -  Zoe. G | Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜ #ZOEG #原創歌曲 #chill"
+    },
+    {
+      "videoId": "A8nzvObZiVM",
+      "title": "【中國風】 Zoe.G  動人國風歌單｜絕美古風 PLAYLIST｜古風雅樂 24小時不間斷 | 抖音爆款與經典雅樂 (無損音質)  | #古風音樂 #國風 #輪播音樂 #情歌 #中文"
+    },
+    {
+      "videoId": "zjeuP6A70e0",
+      "title": "這首歌就是歌!!!【一首歌】這就是一首歌!!!!!  -  Zoe. G | Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜ #ZOEG #原創歌曲"
+    },
+    {
+      "videoId": "UzD5Whd6EQE",
+      "title": "【蔡文姬胡笳十八拍】亂世離愁！母子骨肉分離，一曲斷腸泣血史詩悲歌！  -  Zoe. G | Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜#古風 #ZOEG #曹操 #蔡文姬"
+    },
+    {
+      "videoId": "ghi9vGnQVmM",
+      "title": "【銀面悲歌】 [蘭陵王入陣曲] 銀面戰神高長恭！功高震主悲歌，誰懂他面具下的寂寥？  -  Zoe. G | Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜#古風 #ZOEG #蘭陵王 #高長恭"
+    },
+    {
+      "videoId": "bA2lfBut1MY",
+      "title": "【霸王別姬】「多麼驕傲，多麼狂妄」如今只剩心碎！【項羽悲歌】對虞姬最終的深情告白。  -  Zoe. G | 【虐心史詩】 ｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜#古風 #ZOEG #甄宓"
+    },
+    {
+      "videoId": "CpS8FCmUXVw",
+      "title": "訣別詩 -  Zoe. G  | 【KTV伴奏版】｜Zoe.G 中文原創單曲｜ #古風 #ZOEG #伴奏版 @pupi0991"
+    },
+    {
+      "videoId": "j6kNHF5l5xk",
+      "title": "【甄宓悲歌】洛水畔千年幽魂，她為何而嘆？一曲道盡千古紅顏淚！ -  Zoe. G | 淚崩慎入！深宮悲歌，永不歸還的愛與自由 ｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜#古風 #ZOEG #甄宓"
+    },
+    {
+      "videoId": "owVR0FjmSBs",
+      "title": "《諸葛亮》《燈盡五丈原》道盡諸葛孔明悲涼的一生...｜丞相，起風了。｜燈盡五丈原 -  Zoe. G | #古風 #ZOEG #諸葛亮 #三國"
+    },
+    {
+      "videoId": "n1Y5T3L1tvc",
+      "title": "國士無雙  | 【史詩級鉅作】從國士無雙到階下囚，韓信的悲劇宿命 | 成也蕭何 敗也蕭何 |【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜#古風 #ZOEG #韓信"
+    },
+    {
+      "videoId": "JGA5jLJQhu4",
+      "title": "風坡亭雪 -  Zoe. G | 岳飛之殤：十二金牌斷送十年功 | 史詩級悲歌「天日昭昭」 |【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜#古風 #ZOEG #岳飛"
+    },
+    {
+      "videoId": "T2GSRMVe5Ik",
+      "title": "風起 -  Zoe. G  | 【KTV伴奏版】｜Zoe.G 中文原創單曲｜錦書終遞・把你的名字寫在風鈴｜眉間雪為你署名 #古風 #ZOEG #伴奏版 @myboa33"
+    },
+    {
+      "videoId": "IAeLEyxBLLc",
+      "title": "未完的篇章 -  Zoe. G |走不出的那一頁，走不出的那個人 |【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜時間停在你說「再見」的那一刻【失戀系情歌】｜#ZOEG"
+    },
+    {
+      "videoId": "OlJADmYOoro",
+      "title": "【王世堅Rap】質詢戰歌：沒出息也要很炸！(Zoe. G Remix)  -  Zoe. G ｜沒出息撞上高能節奏｜【Official VIdeo】｜#沒出息 @Zoe_G_Studio #原創"
+    },
+    {
+      "videoId": "Y9LSOFZw0GE",
+      "title": "【2025最好聽古風音樂】 Zoe.G  紅顏古風物語｜中國風 Play list 紅顏傳說｜古風原創音樂播放清單 |  亂世英雄與紅顏的呢喃｜#紅顏 #國風  #古風 @Zoe_G_Studio"
+    },
+    {
+      "videoId": "99sh24Ifx1U",
+      "title": "《燈盡五丈原》 -  Zoe. G | 聽哭萬人！還原諸葛亮臨終前的最後內心獨白，這首太虐了... | 電影主題曲OST｜丞相，起風了 | 一曲道盡諸葛孔明悲涼的一生｜#古風 #ZOEG #諸葛亮"
+    },
+    {
+      "videoId": "Sg0gOKy2Roo",
+      "title": "飛行模式 -  Zoe. G | 切斷訊號，也切斷你的名字 |【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜越過雲層之後，原來太陽一直都在｜#ZOEG"
+    },
+    {
+      "videoId": "sJMGy5w5a68",
+      "title": "虞兮 -  Zoe. G | 虞姬的最後一舞：四面楚歌的千古絕唱 |【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜為霸王起舞，為愛決絕｜#古風 #ZOEG #虞姬"
+    },
+    {
+      "videoId": "b_oT33O2Gpc",
+      "title": "【2025最好聽中文音樂】 Zoe.G  動人抒情歌單｜讀書、工作與放鬆的絕佳音樂｜Study & Work Music Chill Mix | #專注讀書 #放鬆工作 #工作音樂 #情歌 #中文"
+    },
+    {
+      "videoId": "1Z3BoZGVxSA",
+      "title": "古風 -  Zoe. G |  若有來生，願再為你撐傘過長虹 |【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜夢裡你還披著當年的白衣朦朧｜#古風 #ZOEG #朦朧"
+    },
+    {
+      "videoId": "w_Gt6c1GiFo",
+      "title": "【2025最好聽中文音樂】 Zoe.G  動人抒情歌單｜讀書、工作與放鬆的絕佳音樂｜Study & Work Music Chill Mix | #專注讀書 #放鬆工作 #工作音樂 #情歌 #中文"
+    },
+    {
+      "videoId": "thObRs8KY0k",
+      "title": "心理驚悚情歌・窒息式依附的告白 | 迴聲人偶 -  Zoe. G | 我是ZOE |【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜完美人偶，愛到失去自己｜#ZOEG"
+    },
+    {
+      "videoId": "rBwFmgnvwKA",
+      "title": "莫名其妙 -  Zoe. G | 《欸！為什麼是我？》莫名其妙背黑鍋的路人之歌 |【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜《莫名其妙》被當出氣筒的一天｜#ZOEG"
+    },
+    {
+      "videoId": "JctR7ZGgJqo",
+      "title": "【2025最好聽中文音樂】 Zoe.G  動人抒情歌單｜讀書、工作與放鬆的絕佳音樂｜Study & Work Music Chill Mix | #專注讀書 #放鬆工作 #工作音樂 #情歌 #中文"
+    },
+    {
+      "videoId": "EXsJCbHl8nc",
+      "title": "宿畫 -  Zoe. G |  畫地為牢的愛，墨乾魂散的劫 |【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜如果記憶終究會被風乾，就讓我在妳筆下魂散｜#古風 #ZOEG"
+    },
+    {
+      "videoId": "A8VosAfTG6c",
+      "title": "【2025最好聽中文音樂】 Zoe.G  動人抒情歌單｜讀書、工作與放鬆的絕佳音樂｜Study & Work Music Chill Mix | #專注讀書 #放鬆工作 #工作音樂 #情歌 #中文"
+    },
+    {
+      "videoId": "v8oPGG7-yJY",
+      "title": "失眠 -  Zoe. G | 當回憶成了不請自來的訪客 | 【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜把孤單照得一清二楚的夜｜ #ZOEG"
+    },
+    {
+      "videoId": "gjCRbE7a4AE",
+      "title": "威廉六世 -  Zoe. G | 「他說廣場需要被清掃」 | 【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜城市史書的空白與我們的歌｜ #ZOEG"
+    },
+    {
+      "videoId": "GUpR1fB18HY",
+      "title": "墨玉‧斷弦 -  Zoe. G | 虐心古風  | 【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜等了五年，等來的卻是聽錯的遺言...｜#古風 #ZOEG"
+    },
+    {
+      "videoId": "um1NtVtTpUo",
+      "title": "【2025最好聽中文音樂】 Zoe.G  動人抒情歌單｜讀書、工作與放鬆的絕佳音樂｜Study & Work Music Chill Mix | #專注讀書 #放鬆工作 #工作音樂 #情歌 #中文"
+    },
+    {
+      "videoId": "KpyPMYBQ8pY",
+      "title": "2025  Zoe.G  原創單曲 24小時不間斷 playlist｜｜深夜療癒歌單 LIVE｜陪你加班與做夢｜原創最愛輪播 #華語原創 #直播電台 #抒情歌 #工作音樂 #讀書歌單 #專注音樂"
+    },
+    {
+      "videoId": "NhCrfrdpHqU",
+      "title": "霜刃 -  Zoe. G | 古風武俠虐戀曲 |   | 【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜我們都對，卻注定要互相傷害｜你我才是網中人｜#古風 #ZOEG"
+    },
+    {
+      "videoId": "rnhoWWFwoGw",
+      "title": "溫柔的藍 -  Zoe. G  ｜謝謝你用四年教會我去愛｜【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜願你在彩虹的另一端，沒有病痛，只有溫暖｜#ZOEG #寵物 #貓"
+    },
+    {
+      "videoId": "7mK_YJF1fRI",
+      "title": "2025  Zoe.G  原創單曲 24小時不間斷 playlist｜【Official Audio】｜Zoe.G 中文原創單曲 #華語原創 #直播電台 #抒情歌 #工作音樂 #讀書歌單 #專注音樂"
+    },
+    {
+      "videoId": "3CCiXf0ylj0",
+      "title": "玫瑰迷宮 -  Zoe. G  ｜每一朵花都用謊言來供奉｜【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜我以為我被你困住，原來你也是幽魂｜越美麗越是劇毒的愛｜#ZOEG"
+    },
+    {
+      "videoId": "0ki1UK6Nl9Y",
+      "title": "我的王子 -  Zoe. G  | 從童話到騙子的一首歌 | 【Official Video】 | Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 | 你給的幸福如此不可思議…也如此不堪一擊"
+    },
+    {
+      "videoId": "D8Hgf-qsw7Y",
+      "title": "誰說微光不會亮 -  Zoe. G  | 【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜恆星的溫，不是煙火的掌聲｜這不是倔強，這是我存在的形狀｜#ZOEG"
+    },
+    {
+      "videoId": "Md-nbaGtoog",
+      "title": "Crown On Fire -  Zoe. G  | 【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜我以微笑改寫規則｜王冠在燃燒，我依然從容｜寂靜也是我統治的節奏"
+    },
+    {
+      "videoId": "HPiNS5j5PPY",
+      "title": "🎃 Trick or trap 🎃 -  Zoe. G  | 【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜Halloween｜Trick or Treat  ｜萬聖節"
+    },
+    {
+      "videoId": "u8TIjeGJBpA",
+      "title": "墨暈江南雨 -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜我還在原地等著你｜承諾被時間輕輕擦過之後｜#古風 #ZOEG"
+    },
+    {
+      "videoId": "fULngKAvtb0",
+      "title": "雨季 -  Zoe. G  | 【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜把傘還你之前，我還沒放晴｜不上不下的天氣，剛剛好的心碎 #ZOEG"
+    },
+    {
+      "videoId": "amg_UyS84wQ",
+      "title": "Chapter II: The Evolution - Zoe. G | 【Official Audio】𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 ｜Zoe.G 第二張創作專輯 (Full Second Album)"
+    },
+    {
+      "videoId": "E-wPfByiz3M",
+      "title": "紙王冠 -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜雨夜、密碼與紙冠的寓言｜寓言式不點名｜包裝與真相的拉鋸"
+    },
+    {
+      "videoId": "u6i3YPrpvsM",
+      "title": "紅塵誤 -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜燕歸簷下，你不歸｜三生緣錯，故城獨守｜籤籤皆下下，月影不成雙｜#古風 #ZOEG"
+    },
+    {
+      "videoId": "wySGQkgGEvo",
+      "title": "風起 -  Zoe. G  | 【Official Video】｜Zoe.G 中文原創單曲｜錦書終遞・把你的名字寫在風鈴｜眉間雪為你署名 #古風"
+    },
+    {
+      "videoId": "bXvlOuQ4ZLM",
+      "title": "SUPERNOVA -  Zoe. G  | 【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜I’ll light up all the darkness"
+    },
+    {
+      "videoId": "SN82crZbh-I",
+      "title": "無價紀念 -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜分手後的斷捨離練習 ｜把房間整理好了，想念卻無法打包 ｜整理愛，比整理房間更難"
+    },
+    {
+      "videoId": "1smrzSCDan8",
+      "title": "角落的光 -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜在最安靜的地方長出微光"
+    },
+    {
+      "videoId": "zJXEmTaaCNQ",
+      "title": "✨ Shadow Glow ✨ -  Zoe. G  | 【Official Video】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜\"I’m the spark you can’t let go\""
+    },
+    {
+      "videoId": "LDTI1n5oacA",
+      "title": "✨ Shadow Glow ✨ -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜\"I’m the spark you can’t let go\""
+    },
+    {
+      "videoId": "2UCoKB9iOg0",
+      "title": "🎃 Trick or trap 🎃 -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜Halloween｜Trick or Treat  ｜萬聖節"
+    },
+    {
+      "videoId": "Ip7zVvX7ieo",
+      "title": "Play My Heart -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜💋 節奏別太快，太快我會亂拍｜沉醉在這段 Vibe"
+    },
+    {
+      "videoId": "1nLaO8WxbxA",
+      "title": "叮咚 Ding-Dong -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭｜我點的不只是宵夜，是屬於自己深夜的浪漫"
+    },
+    {
+      "videoId": "eBD_fE8UVNE",
+      "title": "王、世間 -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "l0vxiaNnsJ0",
+      "title": "訣別詩 -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "4-hhNHpQW0I",
+      "title": "沒出息｜質詢戰歌  -  Zoe. G ｜沒出息撞上高能節奏｜ 【Official Audio】從從容容游刃有餘｜沒出息也要很炸｜廢，但節奏很兇｜沒出息專用戰歌｜沒出息的出道戰歌 ｜王世堅｜"
+    },
+    {
+      "videoId": "057uoK9TjpQ",
+      "title": "情緒時差 (Emotional Jet Lag) -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "qmXQAGAh1uM",
+      "title": "午夜末班車 (The Last Train of Midnight) -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "BhXWqz0kJAg",
+      "title": "獨白 (Monologue) -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "KVL1d1noYzk",
+      "title": "慢速癒合  -  Zoe. G  | 願這首歌能陪伴你，走過這段有點疼、卻終將痊癒的時光 ｜【Official Audio】｜Zoe.G 中文原創單曲 #zoeg #慢速癒合 #傷感歌曲"
+    },
+    {
+      "videoId": "RIbY7RvN1k4",
+      "title": "回聲 (Echo) -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "jtCD2CBPlNc",
+      "title": "紅塵難渡 (Undone by Love) -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "mLimcG4gqEU",
+      "title": "Chapter I: The Beginning -  Zoe. G  | 【Official Audio】｜Zoe.G 我的第一個單曲合輯專輯 (Full Debut Album)"
+    },
+    {
+      "videoId": "SRZNU-EkDxE",
+      "title": "向左走，向右走 (Turn Left, Turn Right) -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "JroO-3xqyZc",
+      "title": "Perfect Night -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "LY0GTwS_FWc",
+      "title": "《城市頻率》(City Frequency) -  Zoe. G  | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "ge-8DRds0ao",
+      "title": "《我的約會永遠在等待》 (My Date is Always Late) - Zoe. G | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "LLbYcuWSoZU",
+      "title": "A Blurry Line - Zoe. G | 【Official Lyric Video】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "ij-rjlKPZsM",
+      "title": "我們以後，就朋友 (After This, We're Just Friends) - Zoe. G | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "gPZ0r9nG1A0",
+      "title": "跟手機交往 (Are You Dating Your Phone) - Zoe. G | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "uto20D5j2LY",
+      "title": "日落，在吊橋旁邊 (Sunset by the Bridge) - Zoe. G | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "H_F7Rnb9ETo",
+      "title": "看賴 (You better check your LINE) - Zoe. G | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "3v3TeR1eiHE",
+      "title": "灰燼 (Ashes of Us) - Zoe. G  |  當曾經的海誓山盟化為耳鳴與默劇，所有的聲嘶力竭都變得多餘。｜ 【Official Audio】｜Zoe.G 中文原創單曲 #ZoeG #灰燼"
+    },
+    {
+      "videoId": "xnaH7gUGc1k",
+      "title": "台北午夜漫遊 (Taipei Midnight Groove) - Zoe. G | 【Official Audio】｜Zoe.G 中文原創單曲"
+    },
+    {
+      "videoId": "r49ghlHtg4Y",
+      "title": "未完的篇章 (Unfinished Chapter) - Zoe. G | 【Official Audio】｜Zoe.G 中文原創單曲"
+    }
   ]
 }

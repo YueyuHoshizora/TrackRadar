@@ -1,7 +1,7 @@
 {
   "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
   "channelTitle": "田井魚",
-  "lastUpdated": "2026-09-19T11:18:40.481+08:00",
+  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
   "latestVideo": {
     "videoId": "338djo367Vg",
     "title": "你還在我身旁，卻一直等著她，原來...不被愛的才是第三者 《我們。你們》｜華語輕搖滾",
@@ -14,24 +14,83 @@
     "genreConfidence": 0.77
   },
   "allVideoIds": [
-    "338djo367Vg",
-    "mS6pV5wJQq0",
-    "7Igt11TM2EM",
-    "IvuuLEy_lIw",
-    "chmK15caxo8",
-    "xyKKEf6klEw",
-    "YbQdQoFggfg",
-    "i0V9cAXjTes",
-    "m1WPd4SNr_I",
-    "GOC_6dJ2kM4",
-    "SuYVbQBI5Uw",
-    "ToYSxs-YDCE",
-    "85At9_H9FFw",
-    "wh4svaoDEv4",
-    "IUaRB6QAM3Q",
-    "m7JzmmgFm6M",
-    "KJq53uURHnY",
-    "usvBZDswaEs",
-    "nM2Sl8zr_tw"
+    {
+      "videoId": "338djo367Vg",
+      "title": "你還在我身旁，卻一直等著她，原來...不被愛的才是第三者 《我們。你們》｜華語輕搖滾",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.77
+    },
+    {
+      "videoId": "mS6pV5wJQq0",
+      "title": "你總說下次見，卻從沒說是哪一天《偷來的時間》｜沒有身分的愛"
+    },
+    {
+      "videoId": "7Igt11TM2EM",
+      "title": "等到失去以後，我才終於看懂你給過的愛 《遲來的明白》｜遺憾系失戀情歌"
+    },
+    {
+      "videoId": "IvuuLEy_lIw",
+      "title": "曾經最熟悉的人，後來連稱呼都變得客氣 《連名帶姓》｜成年人的失戀情歌"
+    },
+    {
+      "videoId": "chmK15caxo8",
+      "title": "現在才知道吵贏了更孤獨，寫給度過愛情磨合期的你們｜都會抒情／成熟感情｜《得體》｜中文原創"
+    },
+    {
+      "videoId": "xyKKEf6klEw",
+      "title": "各國崩潰用語大串燒，Z世代必聽洗腦歌 ｜嘻哈迷因／紓壓神曲《我的老天鵝》"
+    },
+    {
+      "videoId": "YbQdQoFggfg",
+      "title": "【古風】不瘋不魔不成活...訴說程蝶衣的偏執、純粹且絕望的愛《戲夢》| 霸王別姬致敬曲｜田井魚"
+    },
+    {
+      "videoId": "i0V9cAXjTes",
+      "title": "沒關係...我沒關係的！｜完美男友的壓抑心聲，演一個好人到崩潰邊緣｜田井魚"
+    },
+    {
+      "videoId": "m1WPd4SNr_I",
+      "title": "【分手療癒/悲傷抒情】如果愛是場電影｜散場就別回頭找劇情 - 田井魚 Official Video"
+    },
+    {
+      "videoId": "GOC_6dJ2kM4",
+      "title": "【治癒抒情／親情原創】慢慢長大｜不求你未來多麼輝煌，只願你一生平安善良｜田井魚｜ YT十二弦月"
+    },
+    {
+      "videoId": "SuYVbQBI5Uw",
+      "title": "【心碎故事/冷感悲傷】十月的弦外之音｜我們早就默認答案｜田井魚｜ YT十二弦月"
+    },
+    {
+      "videoId": "ToYSxs-YDCE",
+      "title": "【深夜聽歌／自省】當偏愛成了遺憾...｜揮霍的偏愛 - 田井魚"
+    },
+    {
+      "videoId": "85At9_H9FFw",
+      "title": "【都會傷感／心碎抒情】偏偏是愛情｜以為有人陪在左右，後來才明白那些溫暖只是一段錯覺...田井魚"
+    },
+    {
+      "videoId": "wh4svaoDEv4",
+      "title": "【抒情流行／釋懷系】錯過的剛好｜青春裡的遺憾，其實安排得剛剛好｜田井魚"
+    },
+    {
+      "videoId": "IUaRB6QAM3Q",
+      "title": "【獨立流行 / 抒情歌單】你的水杯 - 那些微小習慣我總改得太慢 - 田井魚"
+    },
+    {
+      "videoId": "m7JzmmgFm6M",
+      "title": "【復古電子 / 記憶尋回】時空戀人 | 動態歌詞MV - 田井魚"
+    },
+    {
+      "videoId": "KJq53uURHnY",
+      "title": "【深夜抒發 / 記憶打撈】你沒開窗 (抒情版) | 對嘴MV - 田井魚"
+    },
+    {
+      "videoId": "usvBZDswaEs",
+      "title": "【分手後悔 / 撕心裂肺】煙霧裡的抱歉 | 是我揮霍了你給的愛 - 田井魚 Official Audio"
+    },
+    {
+      "videoId": "nM2Sl8zr_tw",
+      "title": "【深夜emo / 記憶打撈】你沒開窗 | 原來最遠的地方是你身旁 - 田井魚 Official Audio"
+    }
   ]
 }

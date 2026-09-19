@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-09-19T11:40:24.926+08:00",
+  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
   "latestVideo": {
     "videoId": "pwQhe19X_6g",
     "title": "《我還是會想你》｜明明放下了，心卻還停在那裡｜EIRYN Official Music Video",
@@ -14,70 +14,267 @@
     "genreConfidence": 0.98
   },
   "allVideoIds": [
-    "pwQhe19X_6g",
-    "znzQKwAptzg",
-    "mCigNsim2tM",
-    "YhrHXW-faq8",
-    "D-Y4WbT2wrA",
-    "3qQNo2-0XGc",
-    "hYUwETaBkaE",
-    "w70yKnmn4Aw",
-    "xq5I7IbB-p8",
-    "KauksB20IBU",
-    "F1mRQJXiGUY",
-    "KolHKp5YIaQ",
-    "k8oIz2laCqw",
-    "da0vwTdTgRg",
-    "x_rnYcy11vw",
-    "e74xs0BDr3s",
-    "itulYkCE8GQ",
-    "P9Jnoz0R_RI",
-    "UpozaQ_d_HE",
-    "4ZT0f7uUfbI",
-    "igZxj_n1dD8",
-    "qeXG58wBE8I",
-    "YXBXTF8UhWY",
-    "2echtMyf6Zw",
-    "8cjGNPhF-gk",
-    "17Xcf13uOFc",
-    "9TExVPi3-b0",
-    "B-R5CjSZstM",
-    "-5G14NYZGK4",
-    "8BPr_U__1RA",
-    "Rycm9m2-9wA",
-    "ndTW6N14QwE",
-    "rJxhtdo424A",
-    "8BNDpDa8k8U",
-    "cOW86JU1jFE",
-    "LnkXRPtZMhY",
-    "jb04EAHngzI",
-    "4plEpehC-iI",
-    "8JMe3gH-dkg",
-    "3-rZfEa5bIU",
-    "2YzlBsDn4t4",
-    "ZFH3s5Cqw_E",
-    "btaVLsXzwUw",
-    "upTn3eiKe2o",
-    "_uHYwU5sN7U",
-    "T6xX5vMTd4w",
-    "1d76t96Ebf0",
-    "LOfMcUHEivE",
-    "PovV1c7rdTA",
-    "5JYTy2C8MRY",
-    "y_9FpXJ6MdY",
-    "3wJppDla2mo",
-    "3pGBTRXfLnY",
-    "Num2HwTuuxk",
-    "txC_1LaG5Co",
-    "nlPHS_lx3fU",
-    "2KJ6oJau8Z4",
-    "e4doZuQrFTk",
-    "HgE1Q--Hejg",
-    "Ks_mEvK7jJk",
-    "paj2vlyhK0s",
-    "WnWyYFGM1eo",
-    "NX-lzn4Ax-M",
-    "WEYag0RQ6cs",
-    "lGjigwBoQm8"
+    {
+      "videoId": "pwQhe19X_6g",
+      "title": "《我還是會想你》｜明明放下了，心卻還停在那裡｜EIRYN Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
+    },
+    {
+      "videoId": "znzQKwAptzg",
+      "title": "《你會懂的》｜不是不愛了，只是終於學會放過自己｜EIRYN Official Music Video｜"
+    },
+    {
+      "videoId": "mCigNsim2tM",
+      "title": "《PLAYLIST 2》 2026華語情歌精選｜陪你走過那些沒說完的故事｜10首超耐聽抒情歌曲｜EIRYN Official Music Video｜"
+    },
+    {
+      "videoId": "YhrHXW-faq8",
+      "title": "《武聖降臨》🔥 關羽覺醒！青龍偃月劃破長空｜義薄雲天・協天大帝｜史詩級高燃戰歌MV"
+    },
+    {
+      "videoId": "D-Y4WbT2wrA",
+      "title": "《只是習慣》｜不是還愛你，只是還沒習慣沒有你｜2026最新華語抒情情歌｜EIRYN Official Music Video｜"
+    },
+    {
+      "videoId": "3qQNo2-0XGc",
+      "title": "《沒說出口的話》｜明明還愛著，卻再也說不出口｜失戀必聽｜EIRYN Official Music Video｜"
+    },
+    {
+      "videoId": "hYUwETaBkaE",
+      "title": "《浪漫故障》｜我們不是不愛了，只是失去了連線｜失戀必聽｜Official Video"
+    },
+    {
+      "videoId": "w70yKnmn4Aw",
+      "title": "《悟空》｜我命由我不由天！天地太大，容不下一顆不肯低頭的心｜MV Official Video"
+    },
+    {
+      "videoId": "xq5I7IbB-p8",
+      "title": "《愛情的時差》｜明明還愛著，卻只能學會放手｜失戀情歌｜2026催淚華語情歌"
+    },
+    {
+      "videoId": "KauksB20IBU",
+      "title": "《失溫》｜我們的愛失溫了，最後只剩一句「好好告別」｜華語傷感情歌｜女聲抒情歌曲"
+    },
+    {
+      "videoId": "F1mRQJXiGUY",
+      "title": "《失語症》｜聽完這首歌，才發現我們都成了愛情的啞巴。｜EIRYN Official Music Video｜"
+    },
+    {
+      "videoId": "KolHKp5YIaQ",
+      "title": "《留在昨天》｜如果回憶有期限，我希望停在遇見你的那一天。｜EIRYN Official Music Video｜"
+    },
+    {
+      "videoId": "k8oIz2laCqw",
+      "title": "《不打擾》｜如果愛會讓你為難，我選擇安靜離開｜EIRYN Official Music Video｜"
+    },
+    {
+      "videoId": "da0vwTdTgRg",
+      "title": "《鬼門開》｜午夜鐘聲響起，你敢回頭嗎？｜陰陽兩界的思念｜國風電影感歌曲｜EIRYN Official Music Video｜"
+    },
+    {
+      "videoId": "x_rnYcy11vw",
+      "title": "《散場》｜當燈亮起，我們成了彼此的過客 人群散了，我們也散了｜EIRYN Official Music Video｜"
+    },
+    {
+      "videoId": "e74xs0BDr3s",
+      "title": "《謝謝你.老爸》｜聽到最後一定會哭 😭 最感人的父愛歌曲・送給爸爸的一首歌｜2026最催淚父親節歌曲｜Official Lyric Video"
+    },
+    {
+      "videoId": "itulYkCE8GQ",
+      "title": "《慢半拍的想念》｜原來最深的遺憾，是生活恢復平靜以後｜Official Lyric Video｜2026最新華語情歌"
+    },
+    {
+      "videoId": "P9Jnoz0R_RI",
+      "title": "《夜色收藏了你》｜那些沒能說出口的話，都藏在夜裡｜ Official Music Video｜ 2026華語情歌"
+    },
+    {
+      "videoId": "UpozaQ_d_HE",
+      "title": "《留白的季節》｜如果重逢只是幻想，我也不再埋怨｜ Official Music Video｜2026必聽情歌"
+    },
+    {
+      "videoId": "4ZT0f7uUfbI",
+      "title": "《我們只是錯過了》｜不是不愛了，只是晚了一步｜ Official Lyrics MV"
+    },
+    {
+      "videoId": "igZxj_n1dD8",
+      "title": "《第三人稱的遺憾》｜為什麼最愛的人，最後只能留在故事裡？｜Official Lyrics MV"
+    },
+    {
+      "videoId": "qeXG58wBE8I",
+      "title": "《你的世界沒有我》｜如果你的世界沒有我，你會比較快樂嗎？一首唱給放不下的人｜Official Lyrics MV"
+    },
+    {
+      "videoId": "YXBXTF8UhWY",
+      "title": "《回不去的從前》｜如果時間能倒流，你還會選擇離開嗎？那些回憶，終究回不去了｜Official Lyrics MV"
+    },
+    {
+      "videoId": "2echtMyf6Zw",
+      "title": "《我還愛著你》｜如果還忘不了一個人，就把這首歌聽完｜Official Lyrics MV"
+    },
+    {
+      "videoId": "8cjGNPhF-gk",
+      "title": "【那天以後】2026最催淚失戀情歌｜聽完才知道原來放下一個人這麼難｜Official Lyrics MV"
+    },
+    {
+      "videoId": "17Xcf13uOFc",
+      "title": "回憶沒有刪除鍵｜聽一次就想起那個人 💔｜催淚失戀情歌｜動態歌詞 MV｜2026 最新傷感情歌｜"
+    },
+    {
+      "videoId": "9TExVPi3-b0",
+      "title": "《最後一次想你》｜關於放下，關於那個曾陪我走過的你｜ (Official Lyric Video)"
+    },
+    {
+      "videoId": "B-R5CjSZstM",
+      "title": "《不只是朋友》｜明明互相喜歡，卻誰都沒有說出口｜2026最遺憾曖昧情歌【動態歌詞】"
+    },
+    {
+      "videoId": "-5G14NYZGK4",
+      "title": "Playlist 2026 深夜單曲循環｜陪你度過寂寞的夜晚，10 首越聽越上癮的精選歌單 🌙"
+    },
+    {
+      "videoId": "8BPr_U__1RA",
+      "title": "【如果當時有告白】EIRYN｜辦公室暗戀故事｜錯過的愛情，你是否也曾這樣遺憾？｜催淚情歌｜"
+    },
+    {
+      "videoId": "Rycm9m2-9wA",
+      "title": "《阿嬤包的粽》聽哭無數人的端午節歌曲｜獻給最思念的人｜2026端午節歌曲"
+    },
+    {
+      "videoId": "ndTW6N14QwE",
+      "title": "「後來，我們呢？」深夜聽這首，你還敢想他嗎？| 2026揪心催淚原創歌曲"
+    },
+    {
+      "videoId": "rJxhtdo424A",
+      "title": "《風吹過，你懂的》 - EIRYN｜雲南民謠療癒情歌，送給回不去的從前"
+    },
+    {
+      "videoId": "8BNDpDa8k8U",
+      "title": "《後來的我們》EIRYN｜不是放不下，而是青春有個名字【動態歌詞】"
+    },
+    {
+      "videoId": "cOW86JU1jFE",
+      "title": "【隔著螢幕抱緊你】｜你有沒有正在想卻見不到的人？｜獻給每一段遠距離愛情｜EIRYN"
+    },
+    {
+      "videoId": "LnkXRPtZMhY",
+      "title": "《我們還會再見吧》EIRYN｜2026最催淚校園畢業歌｜"
+    },
+    {
+      "videoId": "jb04EAHngzI",
+      "title": "【跟著媽祖走】EIRYN - 2026 白沙屯媽祖進香主題曲（全程隨香感動MV版）"
+    },
+    {
+      "videoId": "4plEpehC-iI",
+      "title": "【灰】 - EIRYN｜迷幻神遊 Trip-Hop：這聲音有毒，治癒每一個下墜的靈魂"
+    },
+    {
+      "videoId": "8JMe3gH-dkg",
+      "title": "【晚一點發光也沒關係】EIRYN ｜給所有覺得自己走得太慢、正處於焦慮中的你：不是每朵花都必須同時盛開。｜"
+    },
+    {
+      "videoId": "3-rZfEa5bIU",
+      "title": "《跟著皮皮去冒險》EIRYN｜今天也搬水果、種花、打磨菇了嗎｜ 一玩就上癮"
+    },
+    {
+      "videoId": "2YzlBsDn4t4",
+      "title": "【凌晨三點的藍色房間】-EIRYN｜凌晨三點，安靜變得刺眼：這首歌送給所有還在等天亮的靈魂。｜2026最催淚深夜情歌｜"
+    },
+    {
+      "videoId": "ZFH3s5Cqw_E",
+      "title": "2026 母親節感動首選｜妳一直都在｜這首歌，聽懂了才發現「媽媽」二字背後的重量..."
+    },
+    {
+      "videoId": "btaVLsXzwUw",
+      "title": "2026 白沙屯媽祖進香主題曲｜跟著媽祖走｜粉紅超跑"
+    },
+    {
+      "videoId": "upTn3eiKe2o",
+      "title": "【關掉你以後】EIRYN 我以為關掉了對話框，就能關掉想你的迴圈...｜2026 必聽催慮單曲"
+    },
+    {
+      "videoId": "_uHYwU5sN7U",
+      "title": "最可怕的再見，是說了卻從未兌現。｜《還沒走遠》EIRYN"
+    },
+    {
+      "videoId": "T6xX5vMTd4w",
+      "title": "你也是被演算法帶來的嗎？這場 Live 唱碎了所有人的心...《空位還亮著》官方現場版"
+    },
+    {
+      "videoId": "1d76t96Ebf0",
+      "title": "【別在心裡下雪 】｜一開口就哭了…這首歌太痛了｜2026最催淚失戀情歌"
+    },
+    {
+      "videoId": "LOfMcUHEivE",
+      "title": "【2026年度心碎金曲】原來最痛不是失去什麼，是還愛著……💔｜《你走了走了》-EIRYN"
+    },
+    {
+      "videoId": "PovV1c7rdTA",
+      "title": "《差一點就忘了你》EIRYN -聽哭了！「差一點就能放過自己...」💔 2026最催淚治癒情歌 - (Official Lyric Video)"
+    },
+    {
+      "videoId": "5JYTy2C8MRY",
+      "title": "這首歌唱碎了多少人的沈默？EIRYN—《如果那天沒有沉默》：原來最深的心痛，是你不再回頭。"
+    },
+    {
+      "videoId": "y_9FpXJ6MdY",
+      "title": "聽完這首歌，你想起了誰？EIRYN -《繞圈》| 那些隨風飄遠的諾言，終究變成了昨天【Lyrics Video】"
+    },
+    {
+      "videoId": "3wJppDla2mo",
+      "title": "2026 最強失戀 Emo 神曲 —《越忘越痛》Official Lyric Video | 凌晨兩點，誰還在回憶裡流浪？"
+    },
+    {
+      "videoId": "3pGBTRXfLnY",
+      "title": "《別再想你》｜一開口就心碎的失戀情歌 💔 2026最催淚中文歌｜越想忘記卻越想你"
+    },
+    {
+      "videoId": "Num2HwTuuxk",
+      "title": "燒到天黑🔥 2026最炸失戀神曲｜副歌直接撕裂靈魂｜華語女聲崩潰系抒情搖滾"
+    },
+    {
+      "videoId": "txC_1LaG5Co",
+      "title": "2026 最暖心守護曲〈在你的燦爛季節〉：『只要你在，我就沒什麼奢求。』✨"
+    },
+    {
+      "videoId": "nlPHS_lx3fU",
+      "title": "陪妳聽這場雨 🌧️｜「如果累了，就靠在我肩膀」：2026 最溫柔的靈魂處方箋"
+    },
+    {
+      "videoId": "2KJ6oJau8Z4",
+      "title": "「誰讓這場遺憾沒完沒了...」💔《華麗圈套》｜2026 必聽虐心情歌：送給所有在深夜裡徹底投降的人"
+    },
+    {
+      "videoId": "e4doZuQrFTk",
+      "title": "如果心還會痛 - [EIRYN] (Official Lyrics Video) | 「原來想你，比孤單更響」— 獻給所有在回憶裡迷路的人"
+    },
+    {
+      "videoId": "HgE1Q--Hejg",
+      "title": "《空山引》：聽碎了心，也拉出了這輩子的狂！這絕對是今年最孤傲的二胡史詩。｜原創古風｜"
+    },
+    {
+      "videoId": "Ks_mEvK7jJk",
+      "title": "【原創國風】《宿命之淵 》史詩戲腔：掙破這宿命，逆流而上 (Official Audio)"
+    },
+    {
+      "videoId": "paj2vlyhK0s",
+      "title": "【古風原創】《風過無名》：清冷古箏與二胡的對話，獻給每一位孤獨前行的人。"
+    },
+    {
+      "videoId": "WnWyYFGM1eo",
+      "title": "【 古風歌曲 】《墨落無聲》史詩感古風抒情：當思念化作筆墨，誰能勾勒出永遠？｜古風音樂2026｜中國風音樂｜古風抒情女聲｜古風原創歌曲｜絕美古風｜動態歌詞｜原創歌曲｜Gufeng｜國風｜Lyrics｜"
+    },
+    {
+      "videoId": "NX-lzn4Ax-M",
+      "title": "【 古風歌曲 】《空山渡》-「如果命運要我流浪，就把名字寫進風霜 一聲唱盡流浪者的孤傲與榮光」｜古風音樂2025｜中國風音樂｜古風抒情女聲｜古風原創歌曲｜絕美古風｜空山渡｜孤獨感｜空山辭｜#原創歌曲"
+    },
+    {
+      "videoId": "WEYag0RQ6cs",
+      "title": "原創古風單曲｜夢回故里｜音樂可視化"
+    },
+    {
+      "videoId": "lGjigwBoQm8",
+      "title": "【LIVE】K POP DANCE PLAYLIST 2025 EP9"
+    }
   ]
 }

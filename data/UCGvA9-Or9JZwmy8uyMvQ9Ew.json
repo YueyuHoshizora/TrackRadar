@@ -1,7 +1,7 @@
 {
   "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
   "channelTitle": "予安YUAN",
-  "lastUpdated": "2026-09-19T11:18:07.896+08:00",
+  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
   "latestVideo": {
     "videoId": "7aouI_5Zjro",
     "title": "《借我一點你的時光》｜如果你累了，就聽這首歌。 聽一遍就會愛上的深夜情歌｜予安 Yuan Official MV Music  Video",
@@ -14,67 +14,255 @@
     "genreConfidence": 1.0
   },
   "allVideoIds": [
-    "7aouI_5Zjro",
-    "EjOiVCDHBA0",
-    "tFgqpqEQqPE",
-    "rEZCcroQokU",
-    "3vxZjEbHgcE",
-    "GR7PfG1azns",
-    "V6dyR_pogXM",
-    "L-Yk2Mzxnx0",
-    "i7Wv9K17PL4",
-    "5qi3JTnJngw",
-    "SDi3G1gVytw",
-    "x8Odx5jhQDM",
-    "iOWZFz9Jons",
-    "gCgPqNF3EO0",
-    "qtBzWusyXlo",
-    "-0WXx5vQS48",
-    "MfwitT7CRIQ",
-    "tiCFs3jRaAM",
-    "hxTj0A8imFA",
-    "Eqq7fvYZcVM",
-    "JUCpG5mUxmU",
-    "osy6YBKkl_I",
-    "d4xp7BPLlGU",
-    "iNeTsnjB7oc",
-    "clt5yXhNx6Y",
-    "_YIHa7KD-yY",
-    "MgGbShTreEg",
-    "ifIlZcA17zQ",
-    "9mKP9xfp-wI",
-    "tVpO2xCpZDU",
-    "EMAYxuTgz7w",
-    "UY5rk7mxG4I",
-    "m8hAkUtC9Ko",
-    "POmI7vm03AI",
-    "_TdS8HJtpjw",
-    "VDDQhSwqrew",
-    "eVPD0cycvJw",
-    "fiIMPOQ23y0",
-    "ysQprD22ZWU",
-    "kBokl2Q4jKY",
-    "iHdEm_1wgB8",
-    "tZaAIsBnjf8",
-    "P92ZtELim34",
-    "EqcBv8_gDPM",
-    "mg7gWwJ1ZCQ",
-    "HGXUuZA4tGM",
-    "U1CEZZNrjew",
-    "FQ97NMNfIKw",
-    "gqQEvb0CD-w",
-    "427EASv_-TU",
-    "lxnFtrQzje4",
-    "XAUhKTFA-0I",
-    "WrZK6kVU-i8",
-    "BAyydv1nUBk",
-    "RhudCIPz6EI",
-    "wcs52nlLBoA",
-    "_4kUjr3OajI",
-    "anqfp6uOieM",
-    "2gssd4T_t78",
-    "Ov6jJvdsbNE",
-    "UEc5blUv3Rg",
-    "zeMWISuu57g"
+    {
+      "videoId": "7aouI_5Zjro",
+      "title": "《借我一點你的時光》｜如果你累了，就聽這首歌。 聽一遍就會愛上的深夜情歌｜予安 Yuan Official MV Music  Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
+    },
+    {
+      "videoId": "EjOiVCDHBA0",
+      "title": "《愛的空位》｜我一直留著那個位置，只等你出現｜予安 Yuan Official Music MV Video"
+    },
+    {
+      "videoId": "tFgqpqEQqPE",
+      "title": "《還是你》｜走了多遠都還是你，一首唱給忘不了的人聽的情歌｜予安 Yuan Official Music  Video"
+    },
+    {
+      "videoId": "rEZCcroQokU",
+      "title": "《再見以前》｜有些愛，只能停在告別以前，如果那天，我們再多說一句…｜予安 Yuan Official Music MV Video"
+    },
+    {
+      "videoId": "3vxZjEbHgcE",
+      "title": "《愛會消失的》｜聽完這首，你終於懂了為什麼有些愛留不住...｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "GR7PfG1azns",
+      "title": "《剩下我呢》｜你走了，我還在呢…｜一首唱給失戀後還放不下的人｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "V6dyR_pogXM",
+      "title": "《無人認領》｜我像一封寄錯地址的信，等了很久，還是沒人回來｜2026華語傷感情歌｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "L-Yk2Mzxnx0",
+      "title": "《晚風》｜寫給每一個曾經深愛、最後學會放手的人｜2026超耐聽華語情歌｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "i7Wv9K17PL4",
+      "title": "《共犯》｜明知道不該愛，卻還是一步一步靠近｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "5qi3JTnJngw",
+      "title": "《凌晨三點的牛肉麵》｜到底誰半夜叫你吃牛肉麵？｜超洗腦迷因舞曲｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "SDi3G1gVytw",
+      "title": "《影子說》｜其實你早就已經不在了，是我自己捨不得醒來呢。｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "x8Odx5jhQDM",
+      "title": "《農曆七月鬼門開》｜鬼門已開，你敢回頭嗎？當陰陽界線變得模糊，你敢聽完這首歌嗎？｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "iOWZFz9Jons",
+      "title": "《我們都》｜沒有出軌、沒有爭吵，最後卻還是分開了。｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "gCgPqNF3EO0",
+      "title": "《爸爸，你辛苦了》｜寫給全天下爸爸的一首感謝之歌｜2026父親節必聽歌曲｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "qtBzWusyXlo",
+      "title": "《擁抱過的遺憾》｜原來最深的遺憾，是連爭吵都沒有就散了｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "-0WXx5vQS48",
+      "title": "《擦肩而過》｜明明一句挽留就夠了，最後卻成了一輩子的遺憾｜Official Music Video"
+    },
+    {
+      "videoId": "MfwitT7CRIQ",
+      "title": "《錯過》｜我們不是沒有愛過，只是沒有走到最後｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "tiCFs3jRaAM",
+      "title": "《霓虹燈下的告別》｜我們都以為還有明天，卻在今晚走散｜動態歌詞 MV｜最新城市抒情單曲"
+    },
+    {
+      "videoId": "hxTj0A8imFA",
+      "title": "《時差的錯覺》｜原來我們住在同一個城市，卻過著不同的時區｜Official Music Video"
+    },
+    {
+      "videoId": "Eqq7fvYZcVM",
+      "title": "《沒說出口的話》｜我們輸給了沉默，不是輸給了不愛｜予安 Yuan Official Music Video"
+    },
+    {
+      "videoId": "JUCpG5mUxmU",
+      "title": "《我輸給了時間》｜有些人不是不愛了，而是輸給了時間｜Official Lyrics Video"
+    },
+    {
+      "videoId": "osy6YBKkl_I",
+      "title": "《忘不了你》｜如果你還放不下一個人，一定要聽完｜戴上耳機，你會想起那個人【動態歌詞】｜2026"
+    },
+    {
+      "videoId": "d4xp7BPLlGU",
+      "title": "《你還會想我嗎》｜如果想念有聲音，你還會回頭嗎？｜每一句都唱進心裡【動態歌詞】"
+    },
+    {
+      "videoId": "iNeTsnjB7oc",
+      "title": "《原來放下這麼難》｜放下一個人到底有多難？聽一次就忍不住想起那個人｜動態歌詞 MV2026 最新傷感情歌｜"
+    },
+    {
+      "videoId": "clt5yXhNx6Y",
+      "title": "已讀不回的晚安｜明明看見了訊息，卻等不到一句晚安💔｜2026華語催淚情歌【動態歌詞】"
+    },
+    {
+      "videoId": "_YIHa7KD-yY",
+      "title": "《差一步的戀人》｜明明互相喜歡，卻誰都沒有開口｜聽到副歌直接破防💔【動態歌詞】"
+    },
+    {
+      "videoId": "MgGbShTreEg",
+      "title": "《尬電》全網都在尬電 🤯🔥 2026最洗腦迷因神曲｜Taiwan Meme EDM"
+    },
+    {
+      "videoId": "ifIlZcA17zQ",
+      "title": "《十七歲的喜歡》予安YUAN｜長大後才發現，最難忘的人還是你｜2026催淚青春情歌【動態歌詞】"
+    },
+    {
+      "videoId": "9mKP9xfp-wI",
+      "title": "《Playlist華語》2026最催淚華語情歌精選｜😍｜開車必聽・深夜單曲循環｜予安YUAN"
+    },
+    {
+      "videoId": "tVpO2xCpZDU",
+      "title": "《這就是愛情》予安 —— 原來最好的未來，不是奇蹟，而是身邊一直有你。 | 暖心療癒系單曲"
+    },
+    {
+      "videoId": "EMAYxuTgz7w",
+      "title": "《那年一起看的煙火》｜「如果重逢在人海之中，你是否還認得我？」｜療癒系抒情｜EIRYN"
+    },
+    {
+      "videoId": "UY5rk7mxG4I",
+      "title": "《我沒靠誰》予安YUAN—— 凌晨三點的便利店，我買了一杯冷掉的想念｜自我療癒單曲"
+    },
+    {
+      "videoId": "m8hAkUtC9Ko",
+      "title": "《歡迎光臨》「叮咚，歡迎光臨。」獻給每一個在深夜裡努力生活的你｜便利商店之歌｜予安YUAN"
+    },
+    {
+      "videoId": "POmI7vm03AI",
+      "title": "外送員必聽！《外送人生》：風雨裡的感動，每一單都是生活。｜予安YUAN"
+    },
+    {
+      "videoId": "_TdS8HJtpjw",
+      "title": "《微光的翅膀》予安YUAN｜2026畢業季主題曲｜獻給所有即將畢業的我們"
+    },
+    {
+      "videoId": "VDDQhSwqrew",
+      "title": "《一遍一遍》予安YUAN｜如果遺憾是一種美學...  聽碎了心，才懂往事只能鎖進夢裡｜Official Lyric Video"
+    },
+    {
+      "videoId": "eVPD0cycvJw",
+      "title": "《日落收藏》予安YUAN｜這一刻的溫柔，終於有人替我留住了｜2026最療癒女聲"
+    },
+    {
+      "videoId": "fiIMPOQ23y0",
+      "title": "《你沒有回來》- 予安 Yuan｜這首歌送給還放不下的人｜2026最痛女聲情歌"
+    },
+    {
+      "videoId": "ysQprD22ZWU",
+      "title": "【媽祖帶我走】2026白沙屯媽祖進香歌曲｜粉紅超跑"
+    },
+    {
+      "videoId": "kBokl2Q4jKY",
+      "title": "2026 催淚首選 😭｜《你離開以後》- 予安 Yuan｜「你沒帶走的那些，全變成失眠的線...」深夜emo必聽 💔"
+    },
+    {
+      "videoId": "iHdEm_1wgB8",
+      "title": "《別回來》 Don't Come Back - 予安 (Yu An)｜2026 Urban R&B / City Pop 推薦"
+    },
+    {
+      "videoId": "tZaAIsBnjf8",
+      "title": "《誰讓》予安YUAN -🔥2026最虐心神曲｜副歌一出直接崩潰💔「誰讓愛變得如此決絕…」無限循環上癮版"
+    },
+    {
+      "videoId": "P92ZtELim34",
+      "title": "《深不見底》聽完這首歌，就好好說再見吧。致那些無法修復的遺憾｜Official Music Video"
+    },
+    {
+      "videoId": "EqcBv8_gDPM",
+      "title": "《想你》予安YUAN 我說別再想你 卻整夜想你…這首歌會讓你失眠｜2026最催淚華語情歌"
+    },
+    {
+      "videoId": "mg7gWwJ1ZCQ",
+      "title": "「聽一遍就心碎」2026最強失戀emo神曲 —《灰色的結尾》官方歌詞版  | 當愛與恨都化作冷掉的煙灰..."
+    },
+    {
+      "videoId": "HGXUuZA4tGM",
+      "title": "聽完這首歌，誰還能不流淚？😭《差一點》：如果當時勇敢一點，結局會不會改寫？💔 2026 必聽虐心神曲｜每一句「差點」都是一輩子的遺憾。"
+    },
+    {
+      "videoId": "U1CEZZNrjew",
+      "title": "《TEAM TAIWAN》 挺台灣｜讓世界看見台灣🔥2026全場炸裂！國際賽最燃應援神曲｜全場高能無冷場"
+    },
+    {
+      "videoId": "FQ97NMNfIKw",
+      "title": "《燒吧》Burn It Down｜熱血女聲搖滾 Band Sound 原創單曲 2026 Official"
+    },
+    {
+      "videoId": "gqQEvb0CD-w",
+      "title": "2026 療癒天花板 🌿 聽到《那魯灣情歌7-11版》我真的跪了... ｜ 這份歌單有毒，聽完心碎又笑噴！"
+    },
+    {
+      "videoId": "427EASv_-TU",
+      "title": "《給你愛情處方》予安｜2026 抒情首選 致那個習慣假裝沒事的你｜"
+    },
+    {
+      "videoId": "lxnFtrQzje4",
+      "title": "閉上眼，全是你。這首歌唱碎了所有「想留卻留不住」的遺憾... 💔｜2026 必聽治癒系單曲《回聲裡的溫柔》"
+    },
+    {
+      "videoId": "XAUhKTFA-0I",
+      "title": "2026 最扎心告別單曲《愛情怎麼翻譯》：如果沉默也是一種回應，那我收下這一遍。"
+    },
+    {
+      "videoId": "WrZK6kVU-i8",
+      "title": "「願世界再亂，你都有處靠岸。」原創治癒神曲《予你心安》致每個疲憊的靈魂。"
+    },
+    {
+      "videoId": "BAyydv1nUBk",
+      "title": "「我笑著說一切都好，但心還逗留。」原創歌曲《原來我還沒走開》— 送給每個假裝痊癒的靈魂 💔"
+    },
+    {
+      "videoId": "RhudCIPz6EI",
+      "title": "[徒手之巔] 沒有繩索！Alex Honnold 徒手征服 508 公尺台北 101 | 歷史性的一刻 [原創歌曲]"
+    },
+    {
+      "videoId": "wcs52nlLBoA",
+      "title": "是你 It's You - [予安。]｜Original Song 原創單曲｜不管結局去到哪裡，心跳只記得你 (Dynamic Lyrics)"
+    },
+    {
+      "videoId": "_4kUjr3OajI",
+      "title": "原來遺憾，才是成長的必經點。｜《抓耳的旋律》【原創歌曲】Official Audio"
+    },
+    {
+      "videoId": "anqfp6uOieM",
+      "title": "【原創歌曲】這首歌，送給每個在城市中感到孤單的你《借我一點你的時光》｜予安。｜深夜聽歌｜新歌2026｜動態歌詞｜抒情女聲｜Lyrics｜"
+    },
+    {
+      "videoId": "2gssd4T_t78",
+      "title": "【洗腦神曲】《那魯灣情歌7-11版》Nalu-One Two Three 7-11｜轉角的燈光永遠為你亮著 [原創歌曲]｜中文歌曲2026｜原創音樂｜現代流行｜IndiePop｜動態歌詞｜Lyrics"
+    },
+    {
+      "videoId": "Ov6jJvdsbNE",
+      "title": "【原創中文歌曲】《吳麗萍你好像搭丟賽》獻給每一個覺得「今天糟透了」的你  聽完這首就不衰了｜中文歌曲2026｜原創音樂｜現代流行｜IndiePop｜動態歌詞｜Lyrics｜正能量｜#吳麗萍你好像搭丟賽"
+    },
+    {
+      "videoId": "UEc5blUv3Rg",
+      "title": "【 古風歌曲 】古風悲情《相思誤》｜相思錯付的一生｜傷感古風｜國風音樂｜古風音樂2025｜中國風音樂｜古風抒情女聲｜古風原創歌曲｜#古風音樂#Gufeng#國風 #史詩#二胡#相思誤#悲情#傷感音樂"
+    },
+    {
+      "videoId": "zeMWISuu57g",
+      "title": "【中文歌曲】我不怕路長，只怕遺憾比重逢更漫長。遠距離戀愛必聽搖滾強曲 —《鋼鐵與荒野》｜中文音樂2025｜抒情｜華語歌曲｜華語抒情搖滾｜#鋼鐵與荒野 #遠距離戀愛  #思念 #混厚女聲 #時差"
+    }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
   "channelTitle": "修卡迪特AI_創作",
-  "lastUpdated": "2026-09-19T10:50:17.843+08:00",
+  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
   "latestVideo": {
     "videoId": "K02R9QG_sAY",
     "title": "能量水晶之戰EP04｜七彩能量覺醒｜歌曲:Wake the Light",
@@ -14,45 +14,167 @@
     "genreConfidence": 0.71
   },
   "allVideoIds": [
-    "fofj2GdGjJs",
-    "K02R9QG_sAY",
-    "H3_2sONwJec",
-    "9vVC45Qb8JQ",
-    "h_Rws3_K1dY",
-    "WthrCIrU6tg",
-    "WycunngU6cU",
-    "u-2iLFOsZZY",
-    "EPOnXrPzRag",
-    "muEHcvndDA0",
-    "-uXYYdvxyo8",
-    "n4kB_8xz_u0",
-    "mc7K81VKb00",
-    "hgSkBZnC6PQ",
-    "Vi8mNVtZ64o",
-    "kCqLL-1G_ss",
-    "6W-XwVg31tU",
-    "lwly9MjYAgA",
-    "H9t-YEwo7WM",
-    "ZmY77DgEvHM",
-    "sHPVb8Sm5oI",
-    "aU4tFrfEN9A",
-    "lTSpxdccXog",
-    "oetPqH2Yf2c",
-    "KV2_4O-vaFA",
-    "w0Q4NhRFhzY",
-    "ZltuPcuhhr0",
-    "pOm3ilpYalE",
-    "OhqBXnQEACU",
-    "NPea6-PgNRA",
-    "wgzKvrMWT1U",
-    "OL1cqvdAMqQ",
-    "F_p1NNRqyTY",
-    "shs5DK6C4DI",
-    "xCSXchMz1nQ",
-    "lMKBgnQNLaU",
-    "eJTMYz5J7nI",
-    "lX1raH3-rAw",
-    "D4WBTJH-URc",
-    "q2xgGBAU0rs"
+    {
+      "videoId": "fofj2GdGjJs",
+      "title": "能量水晶之戰EP04｜七彩能量覺醒｜ #ai歌手 #kpop  #a4ura #aivideo"
+    },
+    {
+      "videoId": "K02R9QG_sAY",
+      "title": "能量水晶之戰EP04｜七彩能量覺醒｜歌曲:Wake the Light",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.71
+    },
+    {
+      "videoId": "H3_2sONwJec",
+      "title": "A4URA+NIX:0舞蹈練習版 #ai生成 #kpop #ai歌手"
+    },
+    {
+      "videoId": "9vVC45Qb8JQ",
+      "title": "A4URA休假日常"
+    },
+    {
+      "videoId": "h_Rws3_K1dY",
+      "title": "A4URA+NIX:0互動舞蹈練習"
+    },
+    {
+      "videoId": "WthrCIrU6tg",
+      "title": "MV｜《Hey, Bestie! 》｜ #ai生成 #ai歌手 #kpop"
+    },
+    {
+      "videoId": "WycunngU6cU",
+      "title": "｜女團A4URA第五支MV｜《Hey, Bestie! 》｜Official Music Video"
+    },
+    {
+      "videoId": "u-2iLFOsZZY",
+      "title": "A4URA 唱歌練習中  #ai歌手 #ai生成 #kpop"
+    },
+    {
+      "videoId": "EPOnXrPzRag",
+      "title": "A4URA 挑戰Seedance 2.5的極限｜Prompt的測試片段 ｜"
+    },
+    {
+      "videoId": "muEHcvndDA0",
+      "title": "A4URA 測試舞蹈中 #ai生成 #ai歌手#dance"
+    },
+    {
+      "videoId": "-uXYYdvxyo8",
+      "title": "A4URA 新歌+Seedance2.5測試 #ai生成 #ai歌手 #dance"
+    },
+    {
+      "videoId": "n4kB_8xz_u0",
+      "title": "A4URA 新歌創作中 #ai歌手 #ai生成"
+    },
+    {
+      "videoId": "mc7K81VKb00",
+      "title": "能量水晶之戰EP03｜A4URA跟NIX:0開戰前夕 #aivideo #ai歌手"
+    },
+    {
+      "videoId": "hgSkBZnC6PQ",
+      "title": "能量水晶之戰EP03｜A4URA跟NIX:0開戰前夕｜歌曲:King Of Darkness"
+    },
+    {
+      "videoId": "Vi8mNVtZ64o",
+      "title": "VIOLET & YUNINA  生活VLOG #ai生成 #ai歌手"
+    },
+    {
+      "videoId": "kCqLL-1G_ss",
+      "title": "LUNA生活第二日VLOG #ai生成 #ai歌手"
+    },
+    {
+      "videoId": "6W-XwVg31tU",
+      "title": "JINA環島VLOG第二天 #ai生成 #ai歌手"
+    },
+    {
+      "videoId": "lwly9MjYAgA",
+      "title": "YUNINA休假VLOG #ai歌手 #ai生成 #舞蹈"
+    },
+    {
+      "videoId": "H9t-YEwo7WM",
+      "title": "JINA環島VLOG  #ai生成 #ai歌手"
+    },
+    {
+      "videoId": "ZmY77DgEvHM",
+      "title": "她是人群裡最特別的存在 #ai生成 #ai歌手"
+    },
+    {
+      "videoId": "sHPVb8Sm5oI",
+      "title": "如果有一個女孩 #ai生成 #ai歌手"
+    },
+    {
+      "videoId": "aU4tFrfEN9A",
+      "title": "A4URA 音樂MV開拍前的VOLG #ai生成 #kpop #ai歌手"
+    },
+    {
+      "videoId": "lTSpxdccXog",
+      "title": "｜女團A4URA第四支MV｜《Sweet Glint》｜"
+    },
+    {
+      "videoId": "oetPqH2Yf2c",
+      "title": "EP02彩蛋"
+    },
+    {
+      "videoId": "KV2_4O-vaFA",
+      "title": "能量水晶之戰EP02  NIX:0  #ai生成 #kpop #ai歌手"
+    },
+    {
+      "videoId": "w0Q4NhRFhzY",
+      "title": "能量水晶之戰EP02｜A4URA 敵人 NIX:0 第一首歌曲『NIX:0 Countdown』｜"
+    },
+    {
+      "videoId": "ZltuPcuhhr0",
+      "title": "A4URA團員介紹歌曲"
+    },
+    {
+      "videoId": "pOm3ilpYalE",
+      "title": "A4URA四位成員休假VLOG"
+    },
+    {
+      "videoId": "OhqBXnQEACU",
+      "title": "歌曲創作｜躍動的夢想｜"
+    },
+    {
+      "videoId": "NPea6-PgNRA",
+      "title": "A4URA第三支MV｜《We are A4URA》｜#aiideo #kpop #aimusic #音樂 #ai歌手 #suno #aivideo"
+    },
+    {
+      "videoId": "wgzKvrMWT1U",
+      "title": "能量水晶之戰EP01｜女團A4URA第三支MV｜《We are A4URA》｜"
+    },
+    {
+      "videoId": "OL1cqvdAMqQ",
+      "title": "『吃貨公主』🎬ai mv 🎤AI歌手Leo &Pisces"
+    },
+    {
+      "videoId": "F_p1NNRqyTY",
+      "title": "韓流女團A4URA第二專輯『Sweet』｜AI Singer"
+    },
+    {
+      "videoId": "shs5DK6C4DI",
+      "title": "A4URA『Halhway crush』mv片段 #aiideo #kpop #aimusic #音樂 #ai歌手 #suno #aivideo"
+    },
+    {
+      "videoId": "xCSXchMz1nQ",
+      "title": "A4URA『Hallway  Crush』｜AI K-pop Singer ｜AI Music Video"
+    },
+    {
+      "videoId": "lMKBgnQNLaU",
+      "title": "A4URA『Light in the Dark』mv片段 #aiideo #kpop #aimusic #音樂 #ai歌手 #suno #aivideo"
+    },
+    {
+      "videoId": "eJTMYz5J7nI",
+      "title": "韓流女團A4URA第一張專輯『AURE』｜AI Singer"
+    },
+    {
+      "videoId": "lX1raH3-rAw",
+      "title": "A4URA『Light in the Dark』｜AI K-pop Singer ｜AI Music Video"
+    },
+    {
+      "videoId": "D4WBTJH-URc",
+      "title": "星座引力MV#aiideo #ai歌手"
+    },
+    {
+      "videoId": "q2xgGBAU0rs",
+      "title": "刻在夢想上的名字🎬ai mv 🎤AI歌手"
+    }
   ]
 }

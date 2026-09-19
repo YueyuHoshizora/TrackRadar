@@ -1,7 +1,7 @@
 {
   "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
   "channelTitle": "Sonar.Music.Studio",
-  "lastUpdated": "2026-09-19T11:30:27.233+08:00",
+  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
   "latestVideo": {
     "videoId": "E8PK1SITqeg",
     "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
@@ -14,19 +14,63 @@
     "genreConfidence": 1.0
   },
   "allVideoIds": [
-    "77-vdphiFeY",
-    "1uvUGsLLLWA",
-    "E8PK1SITqeg",
-    "i_XT4j6Oe8I",
-    "D28qUdmiLck",
-    "MXSCwXpVs4M",
-    "pDYIqv0HhUs",
-    "w9OStc48niU",
-    "XnLNBPgERI4",
-    "kARS0K0wW_8",
-    "qOpR4d9DQXg",
-    "y1olYtgG4uE",
-    "JC9HGchMXJk",
-    "Ucc_Zl-glp0"
+    {
+      "videoId": "77-vdphiFeY",
+      "title": "💔「明明那麼深愛，為什麼只能走到這裡……」《只因太愛你》2026 催淚情歌 #shorts"
+    },
+    {
+      "videoId": "1uvUGsLLLWA",
+      "title": "2026 全新虐心催淚情歌《只因太愛你》看完全程淚崩😭💔 #shorts"
+    },
+    {
+      "videoId": "E8PK1SITqeg",
+      "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
+    },
+    {
+      "videoId": "i_XT4j6Oe8I",
+      "title": "2026 全新虐心催淚情歌《別走了》完整版已上線！"
+    },
+    {
+      "videoId": "D28qUdmiLck",
+      "title": "2026年必聽新歌《別走了》當他連一句抱歉都懶得說……💔"
+    },
+    {
+      "videoId": "MXSCwXpVs4M",
+      "title": "《別走了》當他轉身說再見的那一刻，你也是這樣默默把眼淚吞下去的嗎？ 😢"
+    },
+    {
+      "videoId": "pDYIqv0HhUs",
+      "title": "2026年必聽新歌《別走了》當他連一句抱歉都懶得說……💔"
+    },
+    {
+      "videoId": "w9OStc48niU",
+      "title": "2026催淚情歌《別走了》「把我的心帶走，你叫我怎麼活呢」Official MV"
+    },
+    {
+      "videoId": "XnLNBPgERI4",
+      "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]"
+    },
+    {
+      "videoId": "kARS0K0wW_8",
+      "title": "這是我對你，唯一的祈求…《拜託了，幫我照顧她》 #shorts  #ai音樂 #華語流行 #抒情歌 #催淚 #成全 #失戀心聲 #新歌推薦"
+    },
+    {
+      "videoId": "qOpR4d9DQXg",
+      "title": "【2026最催淚情歌】《拜託了，幫我照顧她》— 「求求你，替我守護她！」【Official Audio/歌詞】"
+    },
+    {
+      "videoId": "y1olYtgG4uE",
+      "title": "零點過後－「雨下得太安靜，模糊了你的背影...」｜深夜傷感抒情音樂 ‧ 療癒心碎原創單曲"
+    },
+    {
+      "videoId": "JC9HGchMXJk",
+      "title": "新歌- 《祝你幸福一點》"
+    },
+    {
+      "videoId": "Ucc_Zl-glp0",
+      "title": "【MV】祝你幸福一點 -《我不吵也不鬧，配合你演完這場離別》Official Anime Music Video"
+    }
   ]
 }
