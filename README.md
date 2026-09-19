@@ -34,11 +34,13 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
       "publishedAt": "2026-09-18T08:00:00.000+08:00",
       "fetchedAt": "2026-09-19T20:00:00.000+08:00"
     },
-    "allVideoIds": ["xxxxxxxxxxx", "yyyyyyyyyyy", "..."]
+    "allVideoIds": [
+      { "videoId": "xxxxxxxxxxx", "title": "影片標題", "genre": "抒情/情歌 Ballad", "genreConfidence": 0.98 }
+    ]
   }
   ```
   - `latestVideo`：該頻道目前最新一支已過濾 Shorts/直播/首播的影片，供實際使用。
-  - `allVideoIds`：該頻道「全部上傳影片」ID 清單（新到舊），**僅作備查/稽核用途**，不含詳情、不經過濾，用來確認掃描機制沒有漏抓任何一支上傳影片。
+  - `allVideoIds`：該頻道「全部上傳影片」清單（新到舊），含播放清單標題與曲風分類，不經過濾。
 
 ## 抓取策略
 
@@ -51,12 +53,12 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
    - 之所以不直接抓 watch page HTML：該頁面在 Cloudflare Worker 等機房 IP 上會被 YouTube 機器人偵測擋下（回應 `LOGIN_REQUIRED: Sign in to confirm you're not a bot`），改用 player API（只讀 metadata，不需要真的播放）不受此限制。
 3. 找到第一支通過過濾的影片即停止掃描（不需抓完候選清單全部）。若該影片與目前記錄的 `latestVideo` 相同，代表沒有新影片，略過寫入；不同才更新 `data/<channelId>.json`。
 4. `CANDIDATE_SCAN_LIMIT`（預設 10）：每個頻道每次最多檢查幾支候選影片以找出最新合格影片，避免罕見情況（例如連續多支 Shorts）導致單次執行時間過長。
-5. 另外透過 YouTube 內部 `youtubei/v1/browse` continuation API 分頁抓取該頻道「全部上傳影片」ID 清單（不含詳情、不過濾），寫入 `allVideoIds` 作備查/稽核用途；`ALL_IDS_MAX_VIDEOS`（預設 2000）為單頻道上限，避免超大頻道拖垮單次執行時間。
+5. 另外透過 YouTube 內部 `youtubei/v1/browse` continuation API 分頁抓取該頻道「全部上傳影片」清單（含標題、不過濾），寫入 `allVideoIds`；缺曲風時用 TypeSafe Jev 依標題分類（每頻道每輪有上限，下次 cron 再補）。`ALL_IDS_MAX_VIDEOS`（預設 2000）為單頻道上限，避免超大頻道拖垮單次執行時間。
 6. 頻道名稱優先以繁體中文請求（`hl=zh-TW&gl=TW`），抓不到才 fallback 改用英文請求（`hl=en&gl=US`）重新取得。
 
 ### 為何 `latestVideo` 不保留完整歷史，但 `allVideoIds` 有？
 
-主要使用情境只需要「目前最新一支」影片，因此 `latestVideo` 只保留這一支：讀寫檔案小、判斷新影片時只需比對這一支的 videoId，掃描成本低。`allVideoIds` 則是額外需求：只列 ID 不抓詳情、不過濾，用來確認掃描機制沒有漏掉任何一支上傳影片，兩者用途不同、成本也不同（前者是熱路徑，後者是備查）。
+主要使用情境只需要「目前最新一支」影片，因此 `latestVideo` 只保留這一支：讀寫檔案小、判斷新影片時只需比對這一支的 videoId，掃描成本低。`allVideoIds` 則列出該頻道全部上傳（含標題與曲風），用來確認掃描沒漏片，並備查歷史曲風。
 
 ### 為何不用 RSS？
 

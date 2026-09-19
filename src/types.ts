@@ -36,14 +36,21 @@ export interface VideoRecord {
 /**
  * data/<channelId>.json 內容：
  * - latestVideo：該頻道目前最新一支（已過濾 Shorts/直播/首播）的影片，供實際使用。
- * - allVideoIds：該頻道「全部上傳影片」ID 清單（新到舊），僅作備查/稽核用途，不含詳情、不經過濾。
+ * - allVideoIds：該頻道「全部上傳影片」清單（新到舊），含標題與曲風分類，不經過濾。
  */
+export interface AllVideoEntry {
+  videoId: string;
+  title: string;
+  genre?: string; // 由 TypeSafe Jev 根據標題判斷的曲風分類（genres.json 其中一項）
+  genreConfidence?: number; // 0~1
+}
+
 export interface ChannelData {
   channelId: string;
   channelTitle: string;
   lastUpdated: string;
   latestVideo: VideoRecord | null;
-  allVideoIds: string[];
+  allVideoIds: AllVideoEntry[];
 }
 
 /** 摘要各頻道最新影片，寫在 repo 根目錄，方便一次掃過所有頻道現況 */

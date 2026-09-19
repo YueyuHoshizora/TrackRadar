@@ -1,4 +1,4 @@
-import type { ChannelData, ChannelListEntry, Env, LatestIndex, LatestIndexEntry, VideoRecord } from "./types";
+import type { AllVideoEntry, ChannelData, ChannelListEntry, Env, LatestIndex, LatestIndexEntry, VideoRecord } from "./types";
 import { getJson, putJson } from "./github";
 import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails } from "./youtube";
 import { evaluateVideo } from "./filter";
@@ -6,6 +6,46 @@ import { toUtc8Iso } from "./time";
 import { classifyGenre } from "./genre";
 
 const CONCURRENCY = 5;
+/** 每個頻道每次最多為尚無曲風的 allVideoIds 打幾次 Jev，避免單次 cron 超時；缺的下次再補 */
+const ALL_IDS_CLASSIFY_LIMIT = 10;
+
+function normalizeAllVideoIds(raw: unknown): AllVideoEntry[] {
+  if (!Array.isArray(raw)) return [];
+  const seen = new Set<string>();
+  const out: AllVideoEntry[] = [];
+  for (const item of raw) {
+    if (typeof item === "string") {
+      if (seen.has(item)) continue;
+      seen.add(item);
+      out.push({ videoId: item, title: "" });
+      continue;
+    }
+    if (!item || typeof item !== "object") continue;
+    const rec = item as Record<string, unknown>;
+    if (typeof rec.videoId !== "string") continue;
+    if (seen.has(rec.videoId)) continue;
+    seen.add(rec.videoId);
+    const entry: AllVideoEntry = {
+      videoId: rec.videoId,
+      title: typeof rec.title === "string" ? rec.title : "",
+    };
+    if (typeof rec.genre === "string" && rec.genre) {
+      entry.genre = rec.genre;
+      if (typeof rec.genreConfidence === "number") entry.genreConfidence = rec.genreConfidence;
+    }
+    out.push(entry);
+  }
+  return out;
+}
+
+function compactAllVideoEntry(entry: AllVideoEntry): AllVideoEntry {
+  const out: AllVideoEntry = { videoId: entry.videoId, title: entry.title };
+  if (entry.genre) {
+    out.genre = entry.genre;
+    if (typeof entry.genreConfidence === "number") out.genreConfidence = entry.genreConfidence;
+  }
+  return out;
+}
 
 function channelDataPath(env: Env, channelId: string): string {
   return `${env.DATA_DIR}/${channelId}.json`;
@@ -100,20 +140,46 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
     }
   }
 
-  // 4. 全部影片 ID 清單，僅作備查/稽核用途（新到舊），不抓詳情、不過濾
-  let allVideoIds = existingData?.allVideoIds ?? [];
+  // 4. 全部上傳清單（新到舊）：存標題與曲風，不過濾。舊檔若仍是 string[] 會在讀取時正規化。
+  let allVideoIds = normalizeAllVideoIds(existingData?.allVideoIds);
   let allIdsChanged = false;
   try {
     const all = await fetchAllUploadedVideoIds(channelId, allIdsMaxVideos);
     // 一律以這裡剛抓到的頻道名稱/頭像為準（已套用中文優先邏輯），取代舊資料可能殘留的英文名稱
     if (all.channelTitle) channelTitle = all.channelTitle;
     if (all.channelAvatarUrl) channelAvatarUrl = all.channelAvatarUrl;
-    if (JSON.stringify(all.videoIds) !== JSON.stringify(allVideoIds)) {
-      allVideoIds = all.videoIds;
+    const prevById = new Map(allVideoIds.map((e) => [e.videoId, e]));
+    const merged = all.videos.map((v) => {
+      const prev = prevById.get(v.videoId);
+      const isLatest = Boolean(latestVideo && latestVideo.videoId === v.videoId);
+      return compactAllVideoEntry({
+        videoId: v.videoId,
+        title: v.title || prev?.title || (isLatest && latestVideo ? latestVideo.title : ""),
+        genre: prev?.genre ?? (isLatest && latestVideo ? latestVideo.genre : undefined),
+        genreConfidence: prev?.genreConfidence ?? (isLatest && latestVideo ? latestVideo.genreConfidence : undefined),
+      });
+    });
+    if (JSON.stringify(merged) !== JSON.stringify(allVideoIds)) {
+      allVideoIds = merged;
       allIdsChanged = true;
     }
   } catch (err) {
     console.error(`TrackRadar: fetchAllUploadedVideoIds failed for ${channelId}`, err);
+  }
+
+  // 5. 為尚無曲風的 allVideoIds 補分類；有標題才打 Jev，每頻道每輪有上限
+  const classifyTitle = channelTitle ?? channelId;
+  let classified = 0;
+  for (const entry of allVideoIds) {
+    if (classified >= ALL_IDS_CLASSIFY_LIMIT) break;
+    if (entry.genre || !entry.title) continue;
+    const genreResult = await classifyGenre(env, entry.title, classifyTitle);
+    if (genreResult) {
+      entry.genre = genreResult.genre;
+      entry.genreConfidence = genreResult.confidence;
+      classified++;
+      allIdsChanged = true;
+    }
   }
 
   const titleChanged = channelTitle !== null && channelTitle !== existingData?.channelTitle;

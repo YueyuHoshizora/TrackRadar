@@ -58,13 +58,36 @@ function* walk(node: unknown): Generator<Record<string, unknown>> {
   }
 }
 
+interface PlaylistVideo {
+  videoId: string;
+  title: string;
+}
+
 interface PlaylistPage {
-  videoIds: string[];
+  videos: PlaylistVideo[];
   continuationToken: string | null;
   apiKey: string | null;
   context: Record<string, unknown> | null;
   channelTitle: string | null;
   channelAvatarUrl: string | null;
+}
+
+function ytText(node: unknown): string {
+  if (typeof node === "string") return node;
+  if (!node || typeof node !== "object") return "";
+  const o = node as Record<string, unknown>;
+  if (typeof o.content === "string") return o.content;
+  if (typeof o.simpleText === "string") return o.simpleText;
+  if (Array.isArray(o.runs)) {
+    return o.runs
+      .map((r) =>
+        r && typeof r === "object" && typeof (r as Record<string, unknown>).text === "string"
+          ? ((r as Record<string, unknown>).text as string)
+          : ""
+      )
+      .join("");
+  }
+  return "";
 }
 
 /**
@@ -97,14 +120,14 @@ function extractChannelInfo(data: unknown): { title: string | null; avatarUrl: s
   return { title, avatarUrl };
 }
 
-function parsePlaylistRenderers(root: unknown): { videoIds: string[]; continuationToken: string | null } {
-  const videoIds: string[] = [];
+function parsePlaylistRenderers(root: unknown): { videos: PlaylistVideo[]; continuationToken: string | null } {
+  const videos: PlaylistVideo[] = [];
   let continuationToken: string | null = null;
   for (const node of walk(root)) {
     // 舊版格式（部分頁面/帳號仍可能回傳）
     const renderer = node["playlistVideoRenderer"] as Record<string, unknown> | undefined;
     if (renderer && typeof renderer["videoId"] === "string") {
-      videoIds.push(renderer["videoId"] as string);
+      videos.push({ videoId: renderer["videoId"] as string, title: ytText(renderer["title"]) });
     }
     // 新版格式（2025+ Material 3 改版）：lockupViewModel.contentId + contentType
     const lockup = node["lockupViewModel"] as Record<string, unknown> | undefined;
@@ -113,7 +136,9 @@ function parsePlaylistRenderers(root: unknown): { videoIds: string[]; continuati
       lockup["contentType"] === "LOCKUP_CONTENT_TYPE_VIDEO" &&
       typeof lockup["contentId"] === "string"
     ) {
-      videoIds.push(lockup["contentId"] as string);
+      const metadata = lockup["metadata"] as Record<string, unknown> | undefined;
+      const lockupMeta = metadata?.["lockupMetadataViewModel"] as Record<string, unknown> | undefined;
+      videos.push({ videoId: lockup["contentId"] as string, title: ytText(lockupMeta?.["title"]) });
     }
     // continuation token：不論外層包裝為 continuationItemRenderer 或 continuationItemViewModel，
     // token 一律巢狀在某個 continuationCommand.token 底下，直接全樹搜尋此欄位最穩健。
@@ -124,8 +149,8 @@ function parsePlaylistRenderers(root: unknown): { videoIds: string[]; continuati
   }
   // 去重（保留原順序，新舊格式可能重複命中同一支影片）
   const seen = new Set<string>();
-  const deduped = videoIds.filter((id) => (seen.has(id) ? false : (seen.add(id), true)));
-  return { videoIds: deduped, continuationToken };
+  const deduped = videos.filter((v) => (seen.has(v.videoId) ? false : (seen.add(v.videoId), true)));
+  return { videos: deduped, continuationToken };
 }
 
 async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
@@ -137,8 +162,8 @@ async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
   const data = extractJsonAfter(html, "var ytInitialData");
   const apiKey = html.match(/"INNERTUBE_API_KEY":"([^"]+)"/)?.[1] ?? null;
   const clientVersion = html.match(/"INNERTUBE_CONTEXT_CLIENT_VERSION":"([^"]+)"/)?.[1] ?? "2.20240101.00.00";
-  const { videoIds, continuationToken } = data ? parsePlaylistRenderers(data) : { videoIds: [], continuationToken: null };
-  if (videoIds.length === 0) {
+  const { videos, continuationToken } = data ? parsePlaylistRenderers(data) : { videos: [], continuationToken: null };
+  if (videos.length === 0) {
     console.error(
       `TrackRadar: playlist parse yielded 0 videos for ${playlistId}; htmlLen=${html.length} hasData=${Boolean(
         data
@@ -160,7 +185,7 @@ async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
     }
   }
   return {
-    videoIds,
+    videos,
     continuationToken,
     apiKey,
     context: { client: { clientName: "WEB", clientVersion } },
@@ -177,14 +202,18 @@ export async function fetchLatestUploadedVideoIds(
 ): Promise<{ videoIds: string[]; channelTitle: string | null; channelAvatarUrl: string | null }> {
   const playlistId = uploadsPlaylistId(channelId);
   const first = await fetchPlaylistHtml(playlistId);
-  return { videoIds: first.videoIds, channelTitle: first.channelTitle, channelAvatarUrl: first.channelAvatarUrl };
+  return {
+    videoIds: first.videos.map((v) => v.videoId),
+    channelTitle: first.channelTitle,
+    channelAvatarUrl: first.channelAvatarUrl,
+  };
 }
 
 async function fetchContinuation(
   apiKey: string,
   context: Record<string, unknown>,
   token: string
-): Promise<{ videoIds: string[]; continuationToken: string | null }> {
+): Promise<{ videos: PlaylistVideo[]; continuationToken: string | null }> {
   const res = await fetch(`https://www.youtube.com/youtubei/v1/browse?key=${apiKey}`, {
     method: "POST",
     headers: { "Content-Type": "application/json", "User-Agent": UA },
@@ -196,29 +225,36 @@ async function fetchContinuation(
 }
 
 /**
- * 列出頻道「全部上傳」播放清單中的影片 ID（新到舊），僅作備查/稽核用途，不抓詳情、不過濾。
+ * 列出頻道「全部上傳」播放清單中的影片（新到舊），含播放清單標題，不過濾。
  * 透過 YouTube 內部 youtubei/v1/browse continuation API 分頁抓取，設有安全上限避免無限分頁。
  */
 export async function fetchAllUploadedVideoIds(
   channelId: string,
   maxVideos = 2000
-): Promise<{ videoIds: string[]; channelTitle: string | null; channelAvatarUrl: string | null }> {
+): Promise<{
+  videos: PlaylistVideo[];
+  videoIds: string[];
+  channelTitle: string | null;
+  channelAvatarUrl: string | null;
+}> {
   const playlistId = uploadsPlaylistId(channelId);
   const first = await fetchPlaylistHtml(playlistId);
-  const videoIds = [...first.videoIds];
+  const videos = [...first.videos];
   let token = first.continuationToken;
   let guard = 0;
-  while (token && first.apiKey && first.context && videoIds.length < maxVideos && guard < 200) {
+  while (token && first.apiKey && first.context && videos.length < maxVideos && guard < 200) {
     guard++;
     const page = await fetchContinuation(first.apiKey, first.context, token);
-    if (page.videoIds.length === 0) break;
-    videoIds.push(...page.videoIds);
+    if (page.videos.length === 0) break;
+    videos.push(...page.videos);
     token = page.continuationToken;
   }
   const seen = new Set<string>();
-  const deduped = videoIds.filter((id) => (seen.has(id) ? false : (seen.add(id), true)));
+  const deduped = videos.filter((v) => (seen.has(v.videoId) ? false : (seen.add(v.videoId), true)));
+  const sliced = deduped.slice(0, maxVideos);
   return {
-    videoIds: deduped.slice(0, maxVideos),
+    videos: sliced,
+    videoIds: sliced.map((v) => v.videoId),
     channelTitle: first.channelTitle,
     channelAvatarUrl: first.channelAvatarUrl,
   };

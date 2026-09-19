@@ -11,7 +11,7 @@ Cloudflare Worker（部署名稱 `track-radar`），每 5 分鐘輪詢 `channels
 ```
 src/
   index.ts   orchestration：processChannel（單頻道處理邏輯）、runOnce（掃全部頻道）、scheduled/fetch handler
-  youtube.ts 抓 YouTube：播放清單首頁掃描、youtubei/v1/player 詳情 API、youtubei/v1/browse 全量 ID 分頁
+  youtube.ts 抓 YouTube：播放清單首頁掃描（含標題）、youtubei/v1/player 詳情 API、youtubei/v1/browse 全量分頁
   filter.ts  evaluateVideo：判斷是否排除 Shorts/直播/首播/預告
   genre.ts   classifyGenre：呼叫 TypeSafe System One API 做曲風分類（選填功能）
   github.ts  GitHub Contents API 讀寫封裝（getJson/putJson，自動處理 base64 與 sha）
