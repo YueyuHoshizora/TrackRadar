@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T15:35:42.767+08:00",
+  "updatedAt": "2026-09-19T15:40:41.502+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -53,8 +53,18 @@
     },
     {
       "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
-      "channelTitle": "UCQOPNojFmmirTrJj7Uy_YpA",
-      "latestVideo": null
+      "channelTitle": "浣月Huanyue",
+      "latestVideo": {
+        "videoId": "2DbzF9kJs_g",
+        "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
+        "url": "https://www.youtube.com/watch?v=2DbzF9kJs_g",
+        "thumbnail": "https://i.ytimg.com/vi_webp/2DbzF9kJs_g/maxresdefault.webp",
+        "durationSeconds": 234,
+        "publishedAt": "2026-09-15T19:15:37.000+08:00",
+        "fetchedAt": "2026-09-19T10:35:47.312+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
+      }
     },
     {
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
@@ -178,18 +188,8 @@
     },
     {
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
-      "channelTitle": "Aria艾莉亞",
-      "latestVideo": {
-        "videoId": "q6L3WZAbAYk",
-        "title": "不用把所有期待，都揹得太重｜《把心事借給晚風》Aria艾莉亞 Official Lyric Video",
-        "url": "https://www.youtube.com/watch?v=q6L3WZAbAYk",
-        "thumbnail": "https://i.ytimg.com/vi/q6L3WZAbAYk/maxresdefault.jpg",
-        "durationSeconds": 208,
-        "publishedAt": "2026-09-16T12:00:01.000+08:00",
-        "fetchedAt": "2026-09-19T11:18:06.037+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.9
-      }
+      "channelTitle": "UCvRzuPyI5vaNDaHlRXXVRLg",
+      "latestVideo": null
     },
     {
       "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
@@ -223,8 +223,18 @@
     },
     {
       "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
-      "channelTitle": "UCX-yDZrgJr3_JZDft-VUsrw",
-      "latestVideo": null
+      "channelTitle": "田井魚",
+      "latestVideo": {
+        "videoId": "338djo367Vg",
+        "title": "你還在我身旁，卻一直等著她，原來...不被愛的才是第三者 《我們。你們》｜華語輕搖滾",
+        "url": "https://www.youtube.com/watch?v=338djo367Vg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/338djo367Vg/maxresdefault.webp",
+        "durationSeconds": 193,
+        "publishedAt": "2026-09-16T18:30:25.000+08:00",
+        "fetchedAt": "2026-09-19T11:18:40.135+08:00",
+        "genre": "搖滾 Rock",
+        "genreConfidence": 0.77
+      }
     },
     {
       "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
