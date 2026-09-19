@@ -1,7 +1,7 @@
 {
   "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
   "channelTitle": "浣月Huanyue",
-  "lastUpdated": "2026-09-19T14:05:21.150+08:00",
+  "lastUpdated": "2026-09-19T14:10:21.141+08:00",
   "latestVideo": {
     "videoId": "2DbzF9kJs_g",
     "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "g-zmyNryFqA",
-      "title": "你向煙波深處去，我守一城春｜《山河未許》｜古風・中國風原創歌曲🎧浣月Huanyue—YT十二弦月",
+      "title": "那年送你登舟，後來只剩一江明月｜《山河未許》｜古風・中國風原創歌曲🎧浣月Huanyue—YT十二弦月",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -322,43 +322,63 @@
     },
     {
       "videoId": "10WnCoMONgo",
-      "title": "【華語流行歌曲-你怎麼可以傷我】曾經的「你都在」成了最諷刺的對白：心碎情歌首選，聽碎無數深夜靈魂 | 浣月Huanyue 2026最新華語單曲"
+      "title": "【華語流行歌曲-你怎麼可以傷我】曾經的「你都在」成了最諷刺的對白：心碎情歌首選，聽碎無數深夜靈魂 | 浣月Huanyue 2026最新華語單曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "vT-bXsjEUIA",
-      "title": "【古風合輯NO.4 】浣月・古風精選｜《月下銷金箋》、《參商緣》等十首最新唯美合輯 | 月下墨染，共赴一場跨越時空的溫婉音聲之約"
+      "title": "【古風合輯NO.4 】浣月・古風精選｜《月下銷金箋》、《參商緣》等十首最新唯美合輯 | 月下墨染，共赴一場跨越時空的溫婉音聲之約",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Dy_kX-8GvzQ",
-      "title": "《落花塚》#必聽古風｜#虐心 情感 #絕美歌詞 | 昨夜東風入夢，今朝零落如煙，最是絳珠仙子淚"
+      "title": "《落花塚》#必聽古風｜#虐心 情感 #絕美歌詞 | 昨夜東風入夢，今朝零落如煙，最是絳珠仙子淚",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "a8htFVUkiAE",
-      "title": "《煙波盡處》#遺憾 #抒情歌曲 歌詞版：既然註定難留，又何苦當初賦予溫柔？  讓音樂帶走那份無法載動的深情"
+      "title": "《煙波盡處》#遺憾 #抒情歌曲 歌詞版：既然註定難留，又何苦當初賦予溫柔？  讓音樂帶走那份無法載動的深情",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "TufwD1IBpOk",
-      "title": "【催淚古風】《瀚海涼》：誰憐海水苦鹹，不及心頭酸辛。當靈魂沉入深藍，聽見心碎的聲音 (Official Lyrics Video)"
+      "title": "【催淚古風】《瀚海涼》：誰憐海水苦鹹，不及心頭酸辛。當靈魂沉入深藍，聽見心碎的聲音 (Official Lyrics Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "9DgaUjF0UT0",
-      "title": "【2026馬年】最美國風新年音樂 🏮 1小時沉浸式古風純音樂｜金馬獻瑞 國樂演奏"
+      "title": "【2026馬年】最美國風新年音樂 🏮 1小時沉浸式古風純音樂｜金馬獻瑞 國樂演奏",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "4bYxilMnzhU",
-      "title": "中國風—【殘陽訣】一曲盡顯孤狼悲涼！若蒼天不語，我便以長刀劃破黑夜｜超感傷古風武俠原創 (Lyrics) 動態歌詞版"
+      "title": "中國風—【殘陽訣】一曲盡顯孤狼悲涼！若蒼天不語，我便以長刀劃破黑夜｜超感傷古風武俠原創 (Lyrics) 動態歌詞版",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "aSYP1GbwK98",
-      "title": "【中國風—鐘晚寒山】放下即是自在：一聲鐘響，震落浮世塵埃，治癒靈魂的空靈之音 |  古風療癒／禪意洗滌 : 送給正處於焦慮與疲憊的你"
+      "title": "【中國風—鐘晚寒山】放下即是自在：一聲鐘響，震落浮世塵埃，治癒靈魂的空靈之音 |  古風療癒／禪意洗滌 : 送給正處於焦慮與疲憊的你",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "MIjY9FeX4Wo",
-      "title": "[Playlist]〈月下銷金箋〉官方版歌詞音源：聽碎裂風鈴，等一場再也回不來的煙雨 #BassBaritone #國風 #療癒抒情 #驚鴻一瞥 #2026新歌 #古風神曲 #深夜聽歌"
+      "title": "[Playlist]〈月下銷金箋〉官方版歌詞音源：聽碎裂風鈴，等一場再也回不來的煙雨 #BassBaritone #國風 #療癒抒情 #驚鴻一瞥 #2026新歌 #古風神曲 #深夜聽歌",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "bXWgp4jV520",
-      "title": "【古風合輯NO.3 】一曲斷腸，十里紅妝皆是淚... 10首聽了心碎的古風情歌｜適合深夜獨處的療癒音樂｜浣月Huanyue 2026精選10首催淚神曲【古風傷感情歌】"
+      "title": "【古風合輯NO.3 】一曲斷腸，十里紅妝皆是淚... 10首聽了心碎的古風情歌｜適合深夜獨處的療癒音樂｜浣月Huanyue 2026精選10首催淚神曲【古風傷感情歌】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "JAShi5SvLko",
