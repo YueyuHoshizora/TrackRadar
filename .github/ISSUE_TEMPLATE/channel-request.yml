@@ -1,0 +1,64 @@
+name: 頻道追蹤申請
+description: 提交一個希望 TrackRadar 追蹤的 YouTube 頻道
+title: "[頻道申請] "
+labels:
+  - channel-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感謝你提交頻道追蹤申請！請盡量填寫完整，方便審核與後續加入 `channels.json`。
+
+  - type: input
+    id: channel-name
+    attributes:
+      label: 頻道名稱
+      description: 頻道顯示名稱（中文優先，若無中文名稱請填英文）
+      placeholder: 例：語音星空
+    validations:
+      required: true
+
+  - type: input
+    id: channel-url
+    attributes:
+      label: 頻道連結
+      description: 完整的 YouTube 頻道網址（建議使用 /channel/UCxxxxxxxx 格式；若只有 /@handle 也可以，會由維護者查證對應的頻道 ID）
+      placeholder: https://www.youtube.com/channel/UCxxxxxxxxxxxxxxxxxxxxxx
+    validations:
+      required: true
+
+  - type: dropdown
+    id: main-genre
+    attributes:
+      label: 主要風格
+      description: 這個頻道的主要音樂風格（對應 genres.json 分類；若不確定可選「其他/無法判斷」，會由分類機制自動判斷）
+      options:
+        - 流行 Pop
+        - 抒情/情歌 Ballad
+        - 搖滾 Rock
+        - 電子 Electronic
+        - 嘻哈/饒舌 Hip-Hop/Rap
+        - R&B/Soul
+        - 民謠/Acoustic
+        - 爵士 Jazz
+        - 古典 Classical
+        - 古風/國風 Chinese Style
+        - 動漫/ACG
+        - 遊戲音樂 Game Music
+        - 翻唱 Cover
+        - 純音樂/器樂 Instrumental
+        - 獨立音樂 Indie
+        - 金屬 Metal
+        - 拉丁 Latin
+        - 鄉村 Country
+        - 其他/無法判斷 Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: 補充說明（選填）
+      description: 例如頻道更新頻率、內容特色、或其他想讓維護者知道的資訊
+    validations:
+      required: false
