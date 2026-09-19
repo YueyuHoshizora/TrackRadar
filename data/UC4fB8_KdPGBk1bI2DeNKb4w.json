@@ -1,7 +1,7 @@
 {
   "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
   "channelTitle": "迷子 Maigo",
-  "lastUpdated": "2026-09-19T12:55:33.888+08:00",
+  "lastUpdated": "2026-09-19T13:00:35.431+08:00",
   "latestVideo": {
     "videoId": "UnLYmfA2ias",
     "title": "夏恋ノ残火 / 迷子 feat. 重音テト",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "RAiK4jTItDc",
-      "title": "『徒花ノ涙』（Adabana no Namida）/ft.重音テト -迷子 Maigo"
+      "title": "『徒花ノ涙』（Adabana no Namida）/ft.重音テト -迷子 Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "rQKDb5n1Bdo",
-      "title": "『ホワイト・アウト・シグナル』（White Out Signal）/ft.重音テト -迷子 Maigo"
+      "title": "『ホワイト・アウト・シグナル』（White Out Signal）/ft.重音テト -迷子 Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.32
     },
     {
       "videoId": "0g-_EgIvFY8",
-      "title": "『拝啓、不器用な私から』（Haikei, Bukiyouna Watashi kara）/ft.重音テト -迷子 Maigo"
+      "title": "『拝啓、不器用な私から』（Haikei, Bukiyouna Watashi kara）/ft.重音テト -迷子 Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.42
     },
     {
       "videoId": "D-V5yI9fQXU",
-      "title": "『天使の裏垢』（Tenshi no Uraaka）/ft.重音テト -迷子 Maigo"
+      "title": "『天使の裏垢』（Tenshi no Uraaka）/ft.重音テト -迷子 Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "LYaovlHSPj8",
-      "title": "『天使の裏垢』/ft.重音テトSV2 鍵をかけた、裏垢の中。🦋 #重音テト #天使の裏垢 #ボカロ"
+      "title": "『天使の裏垢』/ft.重音テトSV2 鍵をかけた、裏垢の中。🦋 #重音テト #天使の裏垢 #ボカロ",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "hKpba7TXOK8",
-      "title": "『天使の裏垢』/ ft.重音テトSV2 天使の羽は、作り物。👼 #重音テト #天使の裏垢 #ボカロ"
+      "title": "『天使の裏垢』/ ft.重音テトSV2 天使の羽は、作り物。👼 #重音テト #天使の裏垢 #ボカロ",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "n3ZHWXi6RRs",
-      "title": "【ボカロ風】爆竹娘 (Bakuchiku Musume)｜騒がしい夜が始まる、除夕ナイト！ - Maigo"
+      "title": "【ボカロ風】爆竹娘 (Bakuchiku Musume)｜騒がしい夜が始まる、除夕ナイト！ - Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "VR0Vmg9xtds",
-      "title": "【ボカロ風】メルティ・ナイトメア (Melty Nightmare)｜「大好き」の呪い、さあ口を開けて？ - Maigo"
+      "title": "【ボカロ風】メルティ・ナイトメア (Melty Nightmare)｜「大好き」の呪い、さあ口を開けて？ - Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "Rbmj6P0LjK8",
-      "title": "【現代演歌】琥珀色のバレンタイン (Kohakuiro no Valentine)｜今日はあなたを待つ、琥珀色の時間 - Maigo"
+      "title": "【現代演歌】琥珀色のバレンタイン (Kohakuiro no Valentine)｜今日はあなたを待つ、琥珀色の時間 - Maigo",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "sQj-T-gAiG8",
-      "title": "【現代演歌】ビター・チョコ・ブルース (Bitter Chocolate Blues)｜自分へのご褒美、明日へ向かうため - Maigo"
+      "title": "【現代演歌】ビター・チョコ・ブルース (Bitter Chocolate Blues)｜自分へのご褒美、明日へ向かうため - Maigo",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "YaRpeQXbnK0",
