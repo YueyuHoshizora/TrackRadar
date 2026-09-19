@@ -1,10 +1,20 @@
 {
-  "updatedAt": "2026-09-19T13:05:26.828+08:00",
+  "updatedAt": "2026-09-19T13:05:43.794+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "latestVideo": null
+      "channelTitle": "語音星空",
+      "latestVideo": {
+        "videoId": "VlPInz7dIDs",
+        "title": "我們要的不是復合，是用現在重新相愛｜不是回到從前｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=VlPInz7dIDs",
+        "thumbnail": "https://i.ytimg.com/vi/VlPInz7dIDs/maxresdefault.jpg",
+        "durationSeconds": 222,
+        "publishedAt": "2026-09-19T05:30:12.000+08:00",
+        "fetchedAt": "2026-09-19T08:31:27.310+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.98
+      }
     },
     {
       "channelId": "UCYyzOVPBHzhr_cFFJbGoymQ",
@@ -68,33 +78,13 @@
     },
     {
       "channelId": "UCCCIoegIxnym7wILeOLfEMQ",
-      "channelTitle": "Echoes of You",
-      "latestVideo": {
-        "videoId": "4pqIFuRuWZI",
-        "title": "《為你憨一世人》明知妳無欲轉來，阮猶原憨憨咧等｜催淚台語情歌｜俊龍",
-        "url": "https://www.youtube.com/watch?v=4pqIFuRuWZI",
-        "thumbnail": "https://i.ytimg.com/vi/4pqIFuRuWZI/maxresdefault.jpg",
-        "durationSeconds": 302,
-        "publishedAt": "2026-09-19T10:00:00.000+08:00",
-        "fetchedAt": "2026-09-19T10:36:07.291+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
-      }
+      "channelTitle": "UCCCIoegIxnym7wILeOLfEMQ",
+      "latestVideo": null
     },
     {
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
-      "channelTitle": "予棠 Lumiora",
-      "latestVideo": {
-        "videoId": "Top7T6uaMkc",
-        "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
-        "url": "https://www.youtube.com/watch?v=Top7T6uaMkc",
-        "thumbnail": "https://i.ytimg.com/vi/Top7T6uaMkc/maxresdefault.jpg",
-        "durationSeconds": 254,
-        "publishedAt": "2026-09-16T20:11:33.000+08:00",
-        "fetchedAt": "2026-09-19T10:46:06.245+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.52
-      }
+      "channelTitle": "UCa_pscMvUHKyWOSyRPocS9g",
+      "latestVideo": null
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
@@ -160,15 +150,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "F5s3p3M3iyc",
-        "title": "🥃 台語大帝國《空酒杯》(90s台語演歌)｜這擺不是等，是告別；替家己倒最後一杯｜筠芙得利【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=F5s3p3M3iyc",
-        "thumbnail": "https://i.ytimg.com/vi/F5s3p3M3iyc/maxresdefault.jpg",
-        "durationSeconds": 266,
-        "publishedAt": "2026-09-18T10:06:16.000+08:00",
-        "fetchedAt": "2026-09-19T11:18:04.317+08:00",
+        "videoId": "fFY_wFOeeiE",
+        "title": "🎤 台語大帝國《情飲袂退》(90s台語演歌)｜男女對唱｜明知影咱已經分開，心內彼個位猶原留予你｜筠芙得利【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=fFY_wFOeeiE",
+        "thumbnail": "https://i.ytimg.com/vi_webp/fFY_wFOeeiE/maxresdefault.webp",
+        "durationSeconds": 227,
+        "publishedAt": "2026-09-19T11:21:17.000+08:00",
+        "fetchedAt": "2026-09-19T13:05:37.414+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.92
+        "genreConfidence": 0.98
       }
     },
     {
