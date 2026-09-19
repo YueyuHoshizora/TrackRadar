@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-19T14:45:31.834+08:00",
+  "lastUpdated": "2026-09-19T14:50:28.222+08:00",
   "latestVideo": {
     "videoId": "YTy8H78Tp1s",
     "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
@@ -562,19 +562,27 @@
     },
     {
       "videoId": "JD5NZEzVUOo",
-      "title": "🖤《我們沒那麼熟》｜別再演深情了，你愛的從來只是自己的虛榮｜Official Lyric Video"
+      "title": "🖤《我們沒那麼熟》｜別再演深情了，你愛的從來只是自己的虛榮｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "BnTVP_4GrXI",
-      "title": "⚾《前進邁阿密》｜Team Taiwan！讓全世界記住我們的名字｜Official Lyric Video"
+      "title": "⚾《前進邁阿密》｜Team Taiwan！讓全世界記住我們的名字｜Official Lyric Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "1WWpjJwB8ZI",
-      "title": "🌧️《月影潛行》｜原來最痛那一下，是你幸福與我無關的那天｜Official Lyric Video"
+      "title": "🌧️《月影潛行》｜原來最痛那一下，是你幸福與我無關的那天｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "7cLa4BaUEOU",
-      "title": "🌱《已讀深夜》｜沉默就是最後，這次我自己把結尾寫完｜Official Lyric Video"
+      "title": "🌱《已讀深夜》｜沉默就是最後，這次我自己把結尾寫完｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     }
   ]
 }
