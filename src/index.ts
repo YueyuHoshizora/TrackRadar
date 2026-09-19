@@ -1,4 +1,4 @@
-import type { ChannelData, Env, LatestIndex, LatestIndexEntry, VideoRecord } from "./types";
+import type { ChannelData, ChannelListEntry, Env, LatestIndex, LatestIndexEntry, VideoRecord } from "./types";
 import { getJson, putJson } from "./github";
 import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails } from "./youtube";
 import { evaluateVideo } from "./filter";
@@ -140,8 +140,8 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
   };
 }
 
-async function loadChannelList(env: Env): Promise<string[]> {
-  const list = await getJson<string[]>(env, env.CHANNELS_FILE);
+async function loadChannelList(env: Env): Promise<ChannelListEntry[]> {
+  const list = await getJson<ChannelListEntry[]>(env, env.CHANNELS_FILE);
   return list ?? [];
 }
 
@@ -155,7 +155,7 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
     while (true) {
       const index = cursor++;
       if (index >= channels.length) return;
-      const channelId = channels[index];
+      const channelId = channels[index].id;
       try {
         outcomes[index] = await processChannel(env, channelId, scanLimit);
       } catch (err) {
@@ -174,6 +174,20 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
   }
 
   await Promise.all(Array.from({ length: Math.min(CONCURRENCY, channels.length) }, worker));
+
+  // 若這次抓到的頻道名稱與 channels.json 記錄不同（頻道改名），同步寫回 channels.json
+  let namesChanged = false;
+  const updatedChannels = channels.map((c, i) => {
+    const fetchedTitle = outcomes[i]?.channelTitle;
+    if (fetchedTitle && fetchedTitle !== c.name) {
+      namesChanged = true;
+      return { ...c, name: fetchedTitle };
+    }
+    return c;
+  });
+  if (namesChanged) {
+    await putJson(env, env.CHANNELS_FILE, updatedChannels, "TrackRadar: sync channel names in channels.json");
+  }
 
   // 根目錄彙整檔：一次掃過所有頻道目前最新影片，方便總覽（不需逐一開啟 data/<channelId>.json）
   const index: LatestIndex = {
