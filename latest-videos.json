@@ -13,7 +13,7 @@
         "publishedAt": "2026-09-19T05:30:12.000+08:00",
         "fetchedAt": "2026-09-19T08:31:27.310+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.97
+        "genreConfidence": 0.98
       }
     },
     {
@@ -28,7 +28,7 @@
         "publishedAt": "2026-09-18T11:00:13.000+08:00",
         "fetchedAt": "2026-09-19T08:31:27.133+08:00",
         "genre": "拉丁 Latin",
-        "genreConfidence": 0.5
+        "genreConfidence": 0.56
       }
     },
     {
@@ -43,7 +43,7 @@
         "publishedAt": "2026-09-18T10:15:28.000+08:00",
         "fetchedAt": "2026-09-19T09:38:05.675+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 1.0
       }
     },
     {
@@ -58,7 +58,7 @@
         "publishedAt": "2026-09-12T11:53:46.000+08:00",
         "fetchedAt": "2026-09-19T09:47:26.950+08:00",
         "genre": "動漫/ACG",
-        "genreConfidence": 0.78
+        "genreConfidence": 0.71
       }
     },
     {
@@ -73,7 +73,7 @@
         "publishedAt": "2026-09-15T19:15:37.000+08:00",
         "fetchedAt": "2026-09-19T10:35:47.312+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 1.0
       }
     },
     {
@@ -88,7 +88,7 @@
         "publishedAt": "2026-09-19T10:00:00.000+08:00",
         "fetchedAt": "2026-09-19T10:36:07.291+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 1.0
       }
     },
     {
@@ -103,7 +103,7 @@
         "publishedAt": "2026-09-16T20:11:33.000+08:00",
         "fetchedAt": "2026-09-19T10:46:06.245+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.53
+        "genreConfidence": 0.52
       }
     },
     {
@@ -118,7 +118,7 @@
         "publishedAt": "2026-09-12T04:57:52.000+08:00",
         "fetchedAt": "2026-09-19T11:18:36.900+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 1.0
       }
     },
     {
@@ -133,7 +133,7 @@
         "publishedAt": "2026-09-14T11:04:13.000+08:00",
         "fetchedAt": "2026-09-19T11:17:41.095+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.72
+        "genreConfidence": 0.77
       }
     },
     {
@@ -148,7 +148,7 @@
         "publishedAt": "2026-09-15T18:32:58.000+08:00",
         "fetchedAt": "2026-09-19T10:46:07.291+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.35
+        "genreConfidence": 0.33
       }
     },
     {
@@ -163,7 +163,7 @@
         "publishedAt": "2026-09-04T19:18:31.000+08:00",
         "fetchedAt": "2026-09-19T10:46:09.359+08:00",
         "genre": "動漫/ACG",
-        "genreConfidence": 0.63
+        "genreConfidence": 0.6
       }
     },
     {
@@ -193,7 +193,7 @@
         "publishedAt": "2026-09-18T18:56:34.000+08:00",
         "fetchedAt": "2026-09-19T11:17:42.161+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.43
+        "genreConfidence": 0.41
       }
     },
     {
@@ -208,7 +208,7 @@
         "publishedAt": "2026-09-18T21:00:13.000+08:00",
         "fetchedAt": "2026-09-19T11:17:42.739+08:00",
         "genre": "R&B/Soul",
-        "genreConfidence": 1
+        "genreConfidence": 1.0
       }
     },
     {
@@ -223,7 +223,7 @@
         "publishedAt": "2026-09-16T12:00:01.000+08:00",
         "fetchedAt": "2026-09-19T11:18:06.037+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.91
+        "genreConfidence": 0.9
       }
     },
     {
@@ -238,7 +238,7 @@
         "publishedAt": "2026-09-18T11:30:00.000+08:00",
         "fetchedAt": "2026-09-19T11:17:43.954+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.99
+        "genreConfidence": 0.98
       }
     },
     {
@@ -253,7 +253,7 @@
         "publishedAt": "2026-09-18T11:00:00.000+08:00",
         "fetchedAt": "2026-09-19T11:18:07.224+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 1.0
       }
     },
     {
@@ -298,7 +298,7 @@
         "publishedAt": "2026-09-15T12:05:06.000+08:00",
         "fetchedAt": "2026-09-19T11:17:46.778+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 1.0
       }
     }
   ]
