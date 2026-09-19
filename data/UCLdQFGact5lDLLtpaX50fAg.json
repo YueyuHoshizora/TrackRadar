@@ -1,8 +1,18 @@
 {
   "channelId": "UCLdQFGact5lDLLtpaX50fAg",
   "channelTitle": "苏砚Suyan",
-  "lastUpdated": "2026-09-19T10:39:30.334+08:00",
-  "latestVideo": null,
+  "lastUpdated": "2026-09-19T11:17:42.615+08:00",
+  "latestVideo": {
+    "videoId": "tBQmIPW_y8Q",
+    "title": "《来都来了》苏砚Suyan丨officials Music video",
+    "url": "https://www.youtube.com/watch?v=tBQmIPW_y8Q",
+    "thumbnail": "https://i.ytimg.com/vi/tBQmIPW_y8Q/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYAC0AWKAgwIABABGGMgZShTMA8=&rs=AOn4CLDqx9D5xIzF4dmO_cKuQBEbEUJLRg",
+    "durationSeconds": 221,
+    "publishedAt": "2026-09-18T18:56:34.000+08:00",
+    "fetchedAt": "2026-09-19T11:17:42.161+08:00",
+    "genre": "其他/無法判斷 Other",
+    "genreConfidence": 0.43
+  },
   "allVideoIds": [
     "tBQmIPW_y8Q",
     "-GtruMjwv_I",
