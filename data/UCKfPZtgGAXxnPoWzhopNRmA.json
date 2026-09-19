@@ -1,7 +1,7 @@
 {
   "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
   "channelTitle": "Breathe And Be",
-  "lastUpdated": "2026-09-19T14:00:36.619+08:00",
+  "lastUpdated": "2026-09-19T14:08:23.676+08:00",
   "latestVideo": {
     "videoId": "_rUbmQcvdxQ",
     "title": "我選了愛我的人，卻不是那個我愛的人｜還是會想你，但不會再等你｜華語情歌【動態歌詞】",
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "Qno42Qk8bqk",
-      "title": "少了你，不習慣｜原來最難戒的，不是你，而是習慣。｜聽懂的人，都已經哭過一輪了。｜原創歌曲 / R&B｜Breathe and Be｜Official Lyric Video"
+      "title": "少了你，不習慣｜原來最難戒的，不是你，而是習慣。｜聽懂的人，都已經哭過一輪了。｜原創歌曲 / R&B｜Breathe and Be｜Official Lyric Video",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "T1yx0E9STOI",
-      "title": "【Fan OST】愛情怎麼翻譯｜好漂亮，真討厭...｜墜落花火｜(Can This Love Be Translated? 이 사랑 통역 되나요?) - Breathe and Be"
+      "title": "【Fan OST】愛情怎麼翻譯｜好漂亮，真討厭...｜墜落花火｜(Can This Love Be Translated? 이 사랑 통역 되나요?) - Breathe and Be",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "OMI7s5_5lzE",
-      "title": "告別昨天的眼淚，我也能再次綻放。｜雨停之後｜R&B / Cover｜Breathe and Be｜Official MV"
+      "title": "告別昨天的眼淚，我也能再次綻放。｜雨停之後｜R&B / Cover｜Breathe and Be｜Official MV",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "eXi9UJUvX4M",
-      "title": "那句話我打好了，卻一個字都沒寄出去｜沒寄出的訊息｜原創歌曲 / R&B / 深夜情歌｜Breathe and Be｜Official MV"
+      "title": "那句話我打好了，卻一個字都沒寄出去｜沒寄出的訊息｜原創歌曲 / R&B / 深夜情歌｜Breathe and Be｜Official MV",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "8e3WJxnA4ac",
-      "title": "《Want U Tonight》妳的一句晚安，是我失眠的解藥｜R&B / 原創歌曲｜Bre and Be｜Official MV"
+      "title": "《Want U Tonight》妳的一句晚安，是我失眠的解藥｜R&B / 原創歌曲｜Bre and Be｜Official MV",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "EZH0YFkGqp8",
-      "title": "只差你不知道｜一首寫給沒說出口的喜歡｜KTV 點得到一定唱暴｜原創歌曲 / R&B / 抒情情歌｜Breathe and Be｜Official MV"
+      "title": "只差你不知道｜一首寫給沒說出口的喜歡｜KTV 點得到一定唱暴｜原創歌曲 / R&B / 抒情情歌｜Breathe and Be｜Official MV",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "LeZKqT4fkHc",
-      "title": "朋友而已｜最好的結局，或許是未完待續｜原創歌曲 / IndiePop｜Breathe and Be｜ Official MV"
+      "title": "朋友而已｜最好的結局，或許是未完待續｜原創歌曲 / IndiePop｜Breathe and Be｜ Official MV",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "4pqurz9gDUE",
-      "title": "正在輸入...｜原來你的猶豫，只是在想怎麼結束。｜原創歌曲 / 深夜情歌 / R&B / IndiePop｜Breathe and Be｜Official MV"
+      "title": "正在輸入...｜原來你的猶豫，只是在想怎麼結束。｜原創歌曲 / 深夜情歌 / R&B / IndiePop｜Breathe and Be｜Official MV",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "1x5ctirpgPA",
-      "title": "沒上映的結局｜如果那天沒有說再見，我們會走到哪裡｜Pop / 情歌 / Indie / 原創歌曲｜Bre and Be｜Official MV"
+      "title": "沒上映的結局｜如果那天沒有說再見，我們會走到哪裡｜Pop / 情歌 / Indie / 原創歌曲｜Bre and Be｜Official MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "BVidjOU4u28",
-      "title": "《半糖主義》🎧｜圍巾下的小曖昧，甜度剛好的 ｜🧣 冬夜裡最想聽的溫暖 R&B｜圍巾下的小曖昧，甜度剛好的 ｜Breathe and Be｜Official MV"
+      "title": "《半糖主義》🎧｜圍巾下的小曖昧，甜度剛好的 ｜🧣 冬夜裡最想聽的溫暖 R&B｜圍巾下的小曖昧，甜度剛好的 ｜Breathe and Be｜Official MV",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "_41Aa_G3FTk",
