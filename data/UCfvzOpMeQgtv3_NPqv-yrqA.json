@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-19T14:20:31.447+08:00",
+  "lastUpdated": "2026-09-19T14:25:33.682+08:00",
   "latestVideo": {
     "videoId": "YTy8H78Tp1s",
     "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
@@ -262,43 +262,63 @@
     },
     {
       "videoId": "uIJ5Q9kXcNk",
-      "title": "🐔《尬電》先別管濟顛不濟顛，一起尬電跳起來！！！2026電音神曲"
+      "title": "🐔《尬電》先別管濟顛不濟顛，一起尬電跳起來！！！2026電音神曲",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "x73yvKqcWPY",
-      "title": "🌧️《輸得不夠灑脫》｜你走得那麼輕鬆，卻把全部疼痛留給我善後｜Official Lyric Video"
+      "title": "🌧️《輸得不夠灑脫》｜你走得那麼輕鬆，卻把全部疼痛留給我善後｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "DZGXjCIGCUE",
-      "title": "🌱《剛好的受傷》｜我終於痛到清醒，也會一個人走得很燦爛｜Official Lyric Video"
+      "title": "🌱《剛好的受傷》｜我終於痛到清醒，也會一個人走得很燦爛｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "evDWwuYUmMM",
-      "title": "🖤《如果還有明天》｜我還沒準備好失去你，只想再陪你等一次天亮｜Official Lyric Video"
+      "title": "🖤《如果還有明天》｜我還沒準備好失去你，只想再陪你等一次天亮｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "l_7njPdPyIk",
-      "title": "💗《雨還沒有停》｜不是認輸，是我還想和你走下去｜Official Lyric Video"
+      "title": "💗《雨還沒有停》｜不是認輸，是我還想和你走下去｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "TqI3X4DwZlE",
-      "title": "🖤《殘念花》｜我以為那叫想念，原來是恨長出了花瓣｜Official Lyric Video"
+      "title": "🖤《殘念花》｜我以為那叫想念，原來是恨長出了花瓣｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "GUm8PTFzQ4A",
-      "title": "🌧️《沒說出口的喜歡》｜我們連開始都沒有，卻像結束一樣讓人遺憾｜Official Lyric Video"
+      "title": "🌧️《沒說出口的喜歡》｜我們連開始都沒有，卻像結束一樣讓人遺憾｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "N97kKllET0Y",
-      "title": "💗《一秒上癮》｜你只看了我一眼，我就已經戒不掉你的靠近｜Official Lyric Video"
+      "title": "💗《一秒上癮》｜你只看了我一眼，我就已經戒不掉你的靠近｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "GM3rjqz_6zE",
-      "title": "🌧️《還沒戒掉你》｜你走了以後，我還活在有你的習慣裡｜Official Lyric Video"
+      "title": "🌧️《還沒戒掉你》｜你走了以後，我還活在有你的習慣裡｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "W8M3_ZNII6w",
-      "title": "🌧️《孟婆湯》｜我都走到奈何橋上了，還是捨不得把你忘掉｜Official Lyric Video"
+      "title": "🌧️《孟婆湯》｜我都走到奈何橋上了，還是捨不得把你忘掉｜Official Lyric Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "ZuUag7ohSpI",
