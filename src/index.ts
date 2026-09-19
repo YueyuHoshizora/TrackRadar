@@ -1,11 +1,6 @@
 import type { ChannelData, Env, LatestIndex, LatestIndexEntry, VideoRecord } from "./types";
 import { getJson, putJson } from "./github";
-import {
-  fetchAllUploadedVideoIds,
-  fetchLatestUploadedVideoIds,
-  fetchRssEntries,
-  fetchVideoDetails,
-} from "./youtube";
+import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails } from "./youtube";
 import { evaluateVideo } from "./filter";
 
 const CONCURRENCY = 5;
@@ -63,17 +58,10 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
   const existingLatestId = existingData?.latestVideo?.videoId ?? null;
   let channelTitle: string | null = existingData?.channelTitle ?? null;
 
-  // 1. 找出目前最新一支合格影片（快速路徑：RSS 優先，失敗才退回播放清單首頁）
-  let candidateIds: string[];
-  try {
-    candidateIds = (await fetchRssEntries(channelId)).map((e) => e.videoId);
-  } catch (err) {
-    console.error(`TrackRadar: RSS failed for ${channelId}, falling back to playlist scan`, err);
-    const fallback = await fetchLatestUploadedVideoIds(channelId);
-    candidateIds = fallback.videoIds;
-    channelTitle = channelTitle ?? fallback.channelTitle;
-  }
-  candidateIds = candidateIds.slice(0, scanLimit);
+  // 1. 找出目前最新一支合格影片：抓播放清單首頁最新候選（新到舊）
+  const latest = await fetchLatestUploadedVideoIds(channelId);
+  channelTitle = channelTitle ?? latest.channelTitle;
+  const candidateIds = latest.videoIds.slice(0, scanLimit);
 
   let latestVideo: VideoRecord | null = existingData?.latestVideo ?? null;
   let scanned = 0;

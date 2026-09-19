@@ -11,49 +11,6 @@ function uploadsPlaylistId(channelId: string): string {
   return "UU" + channelId.slice(2);
 }
 
-interface RssEntry {
-  videoId: string;
-  title: string;
-  publishedAt: string; // ISO
-}
-
-/**
- * 嘗試以官方 RSS 抓取頻道最新影片（最多 15 支，含精確發布時間）。
- * 優點：免金鑰、免 HTML 解析、更新快；缺點：僅提供最新 15 支，且不含時長/直播資訊，
- * 需另外呼叫 fetchVideoDetails() 才能過濾 Shorts / 直播。
- */
-export async function fetchRssEntries(channelId: string): Promise<RssEntry[]> {
-  const res = await fetch(
-    `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`,
-    { headers: { "User-Agent": UA } }
-  );
-  if (!res.ok) throw new Error(`RSS fetch failed for ${channelId}: ${res.status}`);
-  const xml = await res.text();
-  const entries: RssEntry[] = [];
-  const entryRe = /<entry>([\s\S]*?)<\/entry>/g;
-  let m: RegExpExecArray | null;
-  while ((m = entryRe.exec(xml))) {
-    const block = m[1];
-    const videoId = block.match(/<yt:videoId>([^<]+)<\/yt:videoId>/)?.[1];
-    const title = block.match(/<media:title>([^<]*)<\/media:title>/)?.[1] ??
-      block.match(/<title>([^<]*)<\/title>/)?.[1] ?? "";
-    const published = block.match(/<published>([^<]+)<\/published>/)?.[1];
-    if (videoId && published) {
-      entries.push({ videoId, title: decodeXmlEntities(title), publishedAt: new Date(published).toISOString() });
-    }
-  }
-  return entries;
-}
-
-function decodeXmlEntities(s: string): string {
-  return s
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'");
-}
-
 function extractJsonAfter(html: string, marker: string): unknown | null {
   const idx = html.indexOf(marker);
   if (idx === -1) return null;
@@ -194,9 +151,7 @@ async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
 }
 
 /**
- * 只抓播放清單第一頁（新到舊），用於 RSS 失效時的 fallback，或穩定頻道判斷「目前最新影片」。
- * 已知部分頻道的官方 RSS feed 會回 404（即使頻道有影片，原因不明，屬 YouTube 端行為），
- * 此時改用播放清單首頁掃描最新影片作為替代資料源。不分頁：只需要最新的少數幾支影片即可。
+ * 抓播放清單第一頁（新到舊），用於判斷頻道「目前最新影片」。不分頁：只需要最新的少數幾支即可。
  */
 export async function fetchLatestUploadedVideoIds(
   channelId: string
