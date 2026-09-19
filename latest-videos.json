@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T13:45:26.440+08:00",
+  "updatedAt": "2026-09-19T13:50:26.783+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -63,8 +63,18 @@
     },
     {
       "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
-      "channelTitle": "UCQOPNojFmmirTrJj7Uy_YpA",
-      "latestVideo": null
+      "channelTitle": "浣月Huanyue",
+      "latestVideo": {
+        "videoId": "2DbzF9kJs_g",
+        "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
+        "url": "https://www.youtube.com/watch?v=2DbzF9kJs_g",
+        "thumbnail": "https://i.ytimg.com/vi_webp/2DbzF9kJs_g/maxresdefault.webp",
+        "durationSeconds": 234,
+        "publishedAt": "2026-09-15T19:15:37.000+08:00",
+        "fetchedAt": "2026-09-19T10:35:47.312+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
+      }
     },
     {
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
