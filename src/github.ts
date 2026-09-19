@@ -64,6 +64,10 @@ export async function putFile(
     message,
     content: toBase64(content),
     branch: env.GITHUB_BRANCH,
+    committer: {
+      name: "github-actions[bot]",
+      email: "41898282+github-actions[bot]@users.noreply.github.com",
+    },
   };
   if (sha) body.sha = sha;
 
