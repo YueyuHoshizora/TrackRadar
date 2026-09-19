@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:10:42.314+08:00",
+  "lastUpdated": "2026-09-19T16:15:42.617+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -262,43 +262,63 @@
     },
     {
       "videoId": "br3umr8q2Hs",
-      "title": "🎧 D1 — Rotation Error | Signal #006 — Orbit Response"
+      "title": "🎧 D1 — Rotation Error | Signal #006 — Orbit Response",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "ONHeS2W2gPQ",
-      "title": "D5 — She Disappears | Case #006 — The Woman in the Red Coat"
+      "title": "D5 — She Disappears | Case #006 — The Woman in the Red Coat",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "Kv3y6pIwh58",
-      "title": "D4 — A Dangerous Truth | Case #006 — The Woman in the Red Coat"
+      "title": "D4 — A Dangerous Truth | Case #006 — The Woman in the Red Coat",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.42
     },
     {
       "videoId": "_w6fA0acQQ4",
-      "title": "D3 — Lost in the Crowd | Case #006 — The Woman in the Red Coat"
+      "title": "D3 — Lost in the Crowd | Case #006 — The Woman in the Red Coat",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "ivnkrNG5ZR4",
-      "title": "D2 — Following the Signal | Case #006 — The Woman in the Red Coat"
+      "title": "D2 — Following the Signal | Case #006 — The Woman in the Red Coat",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "dgk6ezkB0IA",
-      "title": "D1 — She Walks In | Case #006 — The Woman in the Red Coat"
+      "title": "D1 — She Walks In | Case #006 — The Woman in the Red Coat",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "-iMXkTain2g",
-      "title": "D5 — Only the Rain Remains | Signal #005 — Voices Without Words"
+      "title": "D5 — Only the Rain Remains | Signal #005 — Voices Without Words",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "pCQMWzA-1II",
-      "title": "D5 — Silence Says Enough | Signal #005 — Voices Without Words wav"
+      "title": "D5 — Silence Says Enough | Signal #005 — Voices Without Words wav",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "Kvn5MdxUmas",
-      "title": "D4 — The Rain Doesn’t Stop | Signal #005 — Voices Without Words"
+      "title": "D4 — The Rain Doesn’t Stop | Signal #005 — Voices Without Words",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "fCvuqOuO6F8",
-      "title": "D4 — Minds in Harmony | Signal #005 — Voices Without Words"
+      "title": "D4 — Minds in Harmony | Signal #005 — Voices Without Words",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "uDYOpa4kQFw",
