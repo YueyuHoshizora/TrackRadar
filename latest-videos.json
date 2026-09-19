@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T13:35:47.028+08:00",
+  "updatedAt": "2026-09-19T13:40:44.338+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -68,8 +68,18 @@
     },
     {
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
-      "channelTitle": "UCa_pscMvUHKyWOSyRPocS9g",
-      "latestVideo": null
+      "channelTitle": "予棠 Lumiora",
+      "latestVideo": {
+        "videoId": "Top7T6uaMkc",
+        "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
+        "url": "https://www.youtube.com/watch?v=Top7T6uaMkc",
+        "thumbnail": "https://i.ytimg.com/vi/Top7T6uaMkc/maxresdefault.jpg",
+        "durationSeconds": 254,
+        "publishedAt": "2026-09-16T20:11:33.000+08:00",
+        "fetchedAt": "2026-09-19T10:46:06.245+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.52
+      }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
