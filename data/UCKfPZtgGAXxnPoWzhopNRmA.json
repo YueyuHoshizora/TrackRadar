@@ -1,7 +1,7 @@
 {
   "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
   "channelTitle": "Breathe And Be",
-  "lastUpdated": "2026-09-19T14:08:23.676+08:00",
+  "lastUpdated": "2026-09-19T14:10:33.723+08:00",
   "latestVideo": {
     "videoId": "_rUbmQcvdxQ",
     "title": "我選了愛我的人，卻不是那個我愛的人｜還是會想你，但不會再等你｜華語情歌【動態歌詞】",
@@ -202,43 +202,63 @@
     },
     {
       "videoId": "_41Aa_G3FTk",
-      "title": "🎧 R&B情歌 - 空心擁抱｜你忘了帶走的外套，是我逃不開的圈套｜R&B / 原創歌曲｜Rynn．Breathe and Be｜Official MV"
+      "title": "🎧 R&B情歌 - 空心擁抱｜你忘了帶走的外套，是我逃不開的圈套｜R&B / 原創歌曲｜Rynn．Breathe and Be｜Official MV",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "8iME0SwjRGk",
-      "title": "上班族厭世 OS 歌曲｜老闆的夢想很貴，但你付給我的薪水很廢｜Pop / 幽默自嘲｜真的．不想上班｜Official Lyric Video｜Bre and Be"
+      "title": "上班族厭世 OS 歌曲｜老闆的夢想很貴，但你付給我的薪水很廢｜Pop / 幽默自嘲｜真的．不想上班｜Official Lyric Video｜Bre and Be",
+      "genre": "流行 Pop",
+      "genreConfidence": 1
     },
     {
       "videoId": "B-mQ6fgApQY",
-      "title": "「原來長大是把眼淚練習成微笑。」聽完這首歌，把你的不甘心都留在海邊吧 🌊｜原創歌曲 / Pop Rock｜單人奔跑｜Official MV｜Bre and Be"
+      "title": "「原來長大是把眼淚練習成微笑。」聽完這首歌，把你的不甘心都留在海邊吧 🌊｜原創歌曲 / Pop Rock｜單人奔跑｜Official MV｜Bre and Be",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "1plPGr8ZjY0",
-      "title": "Playlist 就只是把喜歡的歌都塞進來...🎧 隨機播放卻意外好聽 ｜慵懶 / 放鬆 / R&B / 什麼風格都有｜Bre and Be"
+      "title": "Playlist 就只是把喜歡的歌都塞進來...🎧 隨機播放卻意外好聽 ｜慵懶 / 放鬆 / R&B / 什麼風格都有｜Bre and Be",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "kquRo8iJXJA",
-      "title": "【純白色的擁抱】– ❄ 救命這首太甜了 / 拜託今年聖誕節一定要播這首 🎄 / 純白色的擁抱 (告白專用 / 婚禮歌單 / 高甜預警)｜Bre and Be｜Official Lyric Video"
+      "title": "【純白色的擁抱】– ❄ 救命這首太甜了 / 拜託今年聖誕節一定要播這首 🎄 / 純白色的擁抱 (告白專用 / 婚禮歌單 / 高甜預警)｜Bre and Be｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "siEVbhzQpOA",
-      "title": "【就這樣了，我們..】– 借來的半邊耳機，藏著我不敢說的秘密｜遺憾情歌 / 藏在心理的告白｜R&B / Pop / Acoustic Folk｜Official MV｜動態歌詞｜Bre and Be"
+      "title": "【就這樣了，我們..】– 借來的半邊耳機，藏著我不敢說的秘密｜遺憾情歌 / 藏在心理的告白｜R&B / Pop / Acoustic Folk｜Official MV｜動態歌詞｜Bre and Be",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "WMIcHIRhStE",
-      "title": "【Pillow Talk】– 與自我的深夜對話，獻給今晚失眠的你｜枕邊細語｜原創歌曲 / 晚安曲 / Chill ｜Breathe and Be｜Official Music Video"
+      "title": "【Pillow Talk】– 與自我的深夜對話，獻給今晚失眠的你｜枕邊細語｜原創歌曲 / 晚安曲 / Chill ｜Breathe and Be｜Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "XicPEju6NCY",
-      "title": "【冰凍訊號】– 零下3度，剛好是擁抱的溫度｜你想擁抱的是誰｜Winter｜Urban R&B / Chill Pop｜Bre & Be｜Official Music Video"
+      "title": "【冰凍訊號】– 零下3度，剛好是擁抱的溫度｜你想擁抱的是誰｜Winter｜Urban R&B / Chill Pop｜Bre & Be｜Official Music Video",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "9jP3prgbdP4",
-      "title": "【找不到遙控器】- 獻給每一個生活失控的靈魂｜失去人生操控權的焦慮感｜R&B / POP｜Official Lyric Video｜Lost Control｜Bre and Be"
+      "title": "【找不到遙控器】- 獻給每一個生活失控的靈魂｜失去人生操控權的焦慮感｜R&B / POP｜Official Lyric Video｜Lost Control｜Bre and Be",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "n_OVDe1hnxA",
-      "title": "【等不到你的回頭】– 這場等待沒有以後｜雨水澆滅了最後的期待｜R&B / Pop｜Breathe and Be"
+      "title": "【等不到你的回頭】– 這場等待沒有以後｜雨水澆滅了最後的期待｜R&B / Pop｜Breathe and Be",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "Abbi-b-ifwo",
