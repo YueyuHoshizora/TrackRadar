@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - "channels.json"
+  workflow_dispatch: {}
 
 concurrency:
   group: trigger-run-on-channel-change
