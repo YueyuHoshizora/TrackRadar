@@ -1,0 +1,30 @@
+name: Trigger update on channel list change
+
+# 當 channels.json 被修改並推送到 main 時（例如新增/移除追蹤頻道），
+# 立刻呼叫已部署 Worker 的 /run 端點抓取一次，不必等下一次 cron（最多 5 分鐘）。
+# 這裡只呼叫既有 Worker 的 HTTP API，不涉及 wrangler deploy，符合「手動部署」原則。
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "channels.json"
+
+concurrency:
+  group: trigger-run-on-channel-change
+  cancel-in-progress: false
+
+jobs:
+  trigger-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call TrackRadar /run endpoint
+        run: |
+          status=$(curl -s -o /tmp/run-response.json -w "%{http_code}" \
+            "https://track-radar.plain-leaf-e871.workers.dev/run?token=${{ secrets.ADMIN_TOKEN }}")
+          echo "HTTP status: $status"
+          cat /tmp/run-response.json
+          if [ "$status" -ne 200 ]; then
+            echo "::error::/run returned HTTP $status"
+            exit 1
+          fi
