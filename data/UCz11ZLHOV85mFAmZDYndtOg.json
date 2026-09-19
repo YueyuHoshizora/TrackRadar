@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:51:08.680+08:00",
+  "lastUpdated": "2026-09-19T16:55:43.216+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -802,43 +802,63 @@
     },
     {
       "videoId": "j_3wiETOPR0",
-      "title": "1 0、Neon Circuitry"
+      "title": "1 0、Neon Circuitry",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "LFxxEdz7sUE",
-      "title": "4 0、BEAST MODE"
+      "title": "4 0、BEAST MODE",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "2_IqQAMR7KQ",
-      "title": "4 0、BEAST MODE"
+      "title": "4 0、BEAST MODE",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "m8r0LvTr0Aw",
-      "title": "4 0、BEAST MODE"
+      "title": "4 0、BEAST MODE",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "8NFw9-I6rIo",
-      "title": "4 0、BEAST MODE"
+      "title": "4 0、BEAST MODE",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "8uJM3zy0HNI",
-      "title": "4 0、BEAST MODE"
+      "title": "4 0、BEAST MODE",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "M9HRRsKkwPw",
-      "title": "3 1、BEAST MODE"
+      "title": "3 1、BEAST MODE",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "SUhOTsskdt4",
-      "title": "當初好玩用朋友7月的豆單做的一首歌，其實還蠻特別的～"
+      "title": "當初好玩用朋友7月的豆單做的一首歌，其實還蠻特別的～",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "yv5liuBoXrs",
-      "title": "2 1、Unbreakable Rep"
+      "title": "2 1、Unbreakable Rep",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "fiSoVKHAiAA",
-      "title": "2 1、Unbreakable Rep"
+      "title": "2 1、Unbreakable Rep",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "8RER1zLQ3aw",
