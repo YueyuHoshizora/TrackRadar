@@ -15,6 +15,7 @@ interface ProcessOutcome {
   channelId: string;
   updated: boolean;
   channelTitle: string | null;
+  channelAvatarUrl: string | null;
   latestVideo: VideoRecord | null;
   scanned: number;
   allVideoIdsCount: number;
@@ -59,10 +60,12 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
   const existingData = await getJson<ChannelData>(env, dataPath);
   const existingLatestId = existingData?.latestVideo?.videoId ?? null;
   let channelTitle: string | null = existingData?.channelTitle ?? null;
+  let channelAvatarUrl: string | null = null;
 
   // 1. 找出目前最新一支合格影片：抓播放清單首頁最新候選（新到舊）
   const latest = await fetchLatestUploadedVideoIds(channelId);
   channelTitle = channelTitle ?? latest.channelTitle;
+  channelAvatarUrl = latest.channelAvatarUrl ?? channelAvatarUrl;
   const candidateIds = latest.videoIds.slice(0, scanLimit);
   let latestVideo: VideoRecord | null = existingData?.latestVideo ?? null;
   let scanned = 0;
@@ -102,8 +105,9 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
   let allIdsChanged = false;
   try {
     const all = await fetchAllUploadedVideoIds(channelId, allIdsMaxVideos);
-    // 一律以這裡剛抓到的頻道名稱為準（已套用中文優先邏輯），取代舊資料可能殘留的英文名稱
+    // 一律以這裡剛抓到的頻道名稱/頭像為準（已套用中文優先邏輯），取代舊資料可能殘留的英文名稱
     if (all.channelTitle) channelTitle = all.channelTitle;
+    if (all.channelAvatarUrl) channelAvatarUrl = all.channelAvatarUrl;
     if (JSON.stringify(all.videoIds) !== JSON.stringify(allVideoIds)) {
       allVideoIds = all.videoIds;
       allIdsChanged = true;
@@ -134,6 +138,7 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
     channelId,
     updated: latestChanged,
     channelTitle: channelTitle ?? existingData?.channelTitle ?? null,
+    channelAvatarUrl,
     latestVideo,
     scanned,
     allVideoIdsCount: allVideoIds.length,
@@ -164,6 +169,7 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
           channelId,
           updated: false,
           channelTitle: null,
+          channelAvatarUrl: null,
           latestVideo: null,
           scanned: 0,
           allVideoIdsCount: 0,
@@ -175,18 +181,23 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
 
   await Promise.all(Array.from({ length: Math.min(CONCURRENCY, channels.length) }, worker));
 
-  // 若這次抓到的頻道名稱與 channels.json 記錄不同（頻道改名），同步寫回 channels.json
-  let namesChanged = false;
+  // 若這次抓到的頻道名稱/頭像與 channels.json 記錄不同（頻道改名或換頭像），同步寫回 channels.json
+  let channelsListChanged = false;
   const updatedChannels = channels.map((c, i) => {
     const fetchedTitle = outcomes[i]?.channelTitle;
-    if (fetchedTitle && fetchedTitle !== c.name) {
-      namesChanged = true;
-      return { ...c, name: fetchedTitle };
-    }
-    return c;
+    const fetchedAvatarUrl = outcomes[i]?.channelAvatarUrl;
+    const nameDiffers = Boolean(fetchedTitle && fetchedTitle !== c.name);
+    const avatarDiffers = Boolean(fetchedAvatarUrl && fetchedAvatarUrl !== c.avatarUrl);
+    if (!nameDiffers && !avatarDiffers) return c;
+    channelsListChanged = true;
+    return {
+      ...c,
+      ...(nameDiffers ? { name: fetchedTitle as string } : {}),
+      ...(avatarDiffers ? { avatarUrl: fetchedAvatarUrl as string } : {}),
+    };
   });
-  if (namesChanged) {
-    await putJson(env, env.CHANNELS_FILE, updatedChannels, "TrackRadar: sync channel names in channels.json");
+  if (channelsListChanged) {
+    await putJson(env, env.CHANNELS_FILE, updatedChannels, "TrackRadar: sync channel names/avatars in channels.json");
   }
 
   // 根目錄彙整檔：一次掃過所有頻道目前最新影片，方便總覽（不需逐一開啟 data/<channelId>.json）

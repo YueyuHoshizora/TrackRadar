@@ -64,21 +64,37 @@ interface PlaylistPage {
   apiKey: string | null;
   context: Record<string, unknown> | null;
   channelTitle: string | null;
+  channelAvatarUrl: string | null;
 }
 
-/** 從 ytInitialData 找頻道名稱：支援新版 ownerText 與舊版 playlistVideoOwnerRenderer/videoOwnerRenderer */
-function extractChannelTitle(data: unknown): string | null {
-  if (!data) return null;
+/**
+ * 從 ytInitialData 找頻道名稱與頭像網址：支援新版 ownerText（無頭像）與舊版
+ * playlistVideoOwnerRenderer/videoOwnerRenderer（title + thumbnail 同一節點，頭像取最大張）。
+ */
+function extractChannelInfo(data: unknown): { title: string | null; avatarUrl: string | null } {
+  if (!data) return { title: null, avatarUrl: null };
+  let title: string | null = null;
+  let avatarUrl: string | null = null;
   for (const node of walk(data)) {
-    const ownerText = node["ownerText"] as { runs?: { text: string }[] } | undefined;
-    if (ownerText?.runs?.[0]?.text) return ownerText.runs[0].text;
+    if (!title) {
+      const ownerText = node["ownerText"] as { runs?: { text: string }[] } | undefined;
+      if (ownerText?.runs?.[0]?.text) title = ownerText.runs[0].text;
+    }
     const owner = node["playlistVideoOwnerRenderer"] || node["videoOwnerRenderer"];
     if (owner) {
-      const runs = (owner as Record<string, unknown>)["title"] as { runs?: { text: string }[] } | undefined;
-      if (runs?.runs?.[0]?.text) return runs.runs[0].text;
+      const ownerNode = owner as Record<string, unknown>;
+      if (!title) {
+        const runs = ownerNode["title"] as { runs?: { text: string }[] } | undefined;
+        if (runs?.runs?.[0]?.text) title = runs.runs[0].text;
+      }
+      if (!avatarUrl) {
+        const thumbnails = (ownerNode["thumbnail"] as { thumbnails?: { url: string }[] } | undefined)?.thumbnails;
+        if (thumbnails && thumbnails.length > 0) avatarUrl = thumbnails[thumbnails.length - 1].url;
+      }
     }
+    if (title && avatarUrl) break;
   }
-  return null;
+  return { title, avatarUrl };
 }
 
 function parsePlaylistRenderers(root: unknown): { videoIds: string[]; continuationToken: string | null } {
@@ -129,8 +145,8 @@ async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
       )} titleSnippet=${html.slice(0, 200).replace(/\s+/g, " ")}`
     );
   }
-  // 頻道名稱：優先抓中文（請求已用 hl=zh-TW），抓不到才退回英文重新請求一次。
-  let channelTitle: string | null = extractChannelTitle(data);
+  // 頻道名稱/頭像：優先抓中文（請求已用 hl=zh-TW），抓不到名稱才退回英文重新請求一次。
+  let { title: channelTitle, avatarUrl: channelAvatarUrl } = extractChannelInfo(data);
   if (!channelTitle) {
     const enRes = await fetch(`https://www.youtube.com/playlist?list=${playlistId}&hl=en&gl=US`, {
       headers: { "User-Agent": UA, "Accept-Language": "en-US,en;q=0.9" },
@@ -138,7 +154,9 @@ async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
     if (enRes.ok) {
       const enHtml = await enRes.text();
       const enData = extractJsonAfter(enHtml, "var ytInitialData");
-      channelTitle = extractChannelTitle(enData);
+      const enInfo = extractChannelInfo(enData);
+      channelTitle = enInfo.title;
+      if (!channelAvatarUrl) channelAvatarUrl = enInfo.avatarUrl;
     }
   }
   return {
@@ -147,6 +165,7 @@ async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
     apiKey,
     context: { client: { clientName: "WEB", clientVersion } },
     channelTitle,
+    channelAvatarUrl,
   };
 }
 
@@ -155,10 +174,10 @@ async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
  */
 export async function fetchLatestUploadedVideoIds(
   channelId: string
-): Promise<{ videoIds: string[]; channelTitle: string | null }> {
+): Promise<{ videoIds: string[]; channelTitle: string | null; channelAvatarUrl: string | null }> {
   const playlistId = uploadsPlaylistId(channelId);
   const first = await fetchPlaylistHtml(playlistId);
-  return { videoIds: first.videoIds, channelTitle: first.channelTitle };
+  return { videoIds: first.videoIds, channelTitle: first.channelTitle, channelAvatarUrl: first.channelAvatarUrl };
 }
 
 async function fetchContinuation(
@@ -183,7 +202,7 @@ async function fetchContinuation(
 export async function fetchAllUploadedVideoIds(
   channelId: string,
   maxVideos = 2000
-): Promise<{ videoIds: string[]; channelTitle: string | null }> {
+): Promise<{ videoIds: string[]; channelTitle: string | null; channelAvatarUrl: string | null }> {
   const playlistId = uploadsPlaylistId(channelId);
   const first = await fetchPlaylistHtml(playlistId);
   const videoIds = [...first.videoIds];
@@ -198,7 +217,11 @@ export async function fetchAllUploadedVideoIds(
   }
   const seen = new Set<string>();
   const deduped = videoIds.filter((id) => (seen.has(id) ? false : (seen.add(id), true)));
-  return { videoIds: deduped.slice(0, maxVideos), channelTitle: first.channelTitle };
+  return {
+    videoIds: deduped.slice(0, maxVideos),
+    channelTitle: first.channelTitle,
+    channelAvatarUrl: first.channelAvatarUrl,
+  };
 }
 
 /**

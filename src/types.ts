@@ -13,10 +13,11 @@ export interface Env {
   OPENROUTER_API_KEY?: string; // 用於呼叫 OpenRouter Decisions API（typesafe/jev）做曲風分類，未設定時跳過分類
 }
 
-/** channels.json 內每筆頻道設定：id 為主鍵，name 為目前已知頻道名稱，執行時會自動比對並同步更新 */
+/** channels.json 內每筆頻道設定：id 為主鍵，name/avatarUrl 為目前已知頻道名稱與頭像網址，執行時會自動比對並同步更新 */
 export interface ChannelListEntry {
   id: string;
   name: string;
+  avatarUrl?: string;
 }
 
 /** 單支影片資料（存放於 data/<channelId>.json） */
