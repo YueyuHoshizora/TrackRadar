@@ -1,5 +1,5 @@
 import type { Env } from "./types";
-import genreCriteria from "./genres.json";
+import genreCriteria from "../genres.json";
 
 const DECISIONS_ENDPOINT = "https://openrouter.ai/api/alpha/decisions";
 const MODEL = "typesafe/jev-1.13";
@@ -24,7 +24,7 @@ export interface GenreResult {
 
 /**
  * 透過 OpenRouter 的 Decisions API 呼叫 typesafe/jev 模型，根據影片標題與頻道名稱判斷曲風分類。
- * 分類選項與判斷依據定義在 src/genres.json；分類失敗（未設定 OPENROUTER_API_KEY/模型錯誤）時回傳 null，不中斷主流程。
+ * 分類選項與判斷依據定義在 genres.json（repo 根目錄）；分類失敗（未設定 OPENROUTER_API_KEY/模型錯誤）時回傳 null，不中斷主流程。
  */
 export async function classifyGenre(env: Env, title: string, channelTitle: string): Promise<GenreResult | null> {
   if (!env.OPENROUTER_API_KEY) return null;
