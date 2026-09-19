@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
+  "lastUpdated": "2026-09-19T12:55:32.812+08:00",
   "latestVideo": {
     "videoId": "Top7T6uaMkc",
     "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
@@ -16,7 +16,9 @@
   "allVideoIds": [
     {
       "videoId": "RKmVBBJR-JY",
-      "title": "《嫦娥》🌕｜人人都想要的長生，她卻只想回到后羿身邊【嫦娥奔月】"
+      "title": "《嫦娥》🌕｜人人都想要的長生，她卻只想回到后羿身邊【嫦娥奔月】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Top7T6uaMkc",
@@ -26,39 +28,57 @@
     },
     {
       "videoId": "u6qxAk3DYBA",
-      "title": "《妲己 × 姜王后》💔｜她還是王后，卻親眼看著他牽起了另一個人的手"
+      "title": "《妲己 × 姜王后》💔｜她還是王后，卻親眼看著他牽起了另一個人的手",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "gkdhSc_lPDo",
-      "title": "《妲己 × 姜王后》｜從她進宮那一天起，我就不再是你的唯一【虐心情歌・封神・Official MV】"
+      "title": "《妲己 × 姜王后》｜從她進宮那一天起，我就不再是你的唯一【虐心情歌・封神・Official MV】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "amKhaOWaMEE",
-      "title": "《九尾狐》🦊｜那些人曾追殺她，巨獸來襲時，她卻選擇回頭"
+      "title": "《九尾狐》🦊｜那些人曾追殺她，巨獸來襲時，她卻選擇回頭",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "Qo33CnZJqbM",
-      "title": "《九尾狐》🦊｜世人說她是妖，她卻為所有人張開九尾"
+      "title": "《九尾狐》🦊｜世人說她是妖，她卻為所有人張開九尾",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "V0Oeq0kcOfE",
-      "title": "《九尾狐》｜山海經中的九尾妖狐，被人類追殺後卻回頭救了全村【超燃國風電音・中文原創歌曲・Official MV】"
+      "title": "《九尾狐》｜山海經中的九尾妖狐，被人類追殺後卻回頭救了全村【超燃國風電音・中文原創歌曲・Official MV】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "nAjcjAv_JUk",
-      "title": "《黑白無常》⛓️｜鬼門關前，她們為一個亡魂站到了彼此的對面"
+      "title": "《黑白無常》⛓️｜鬼門關前，她們為一個亡魂站到了彼此的對面",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "JC8NSYxCD5w",
-      "title": "《黑白無常》｜鬼門關前，她們為一個亡魂站到了彼此的對面【東方冥界・國風電音・Official MV】"
+      "title": "《黑白無常》｜鬼門關前，她們為一個亡魂站到了彼此的對面【東方冥界・國風電音・Official MV】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "FKim5oc-v28",
-      "title": "《孟婆》🥣｜孟婆湯能忘盡前塵，她卻忘不了那個人"
+      "title": "《孟婆》🥣｜孟婆湯能忘盡前塵，她卻忘不了那個人",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "NEESe-og5Uo",
-      "title": "《孟婆》｜奈何橋上，一碗孟婆湯忘盡前塵，她卻忘不了那個人【千年虐戀・古風電音・Official MV】"
+      "title": "《孟婆》｜奈何橋上，一碗孟婆湯忘盡前塵，她卻忘不了那個人【千年虐戀・古風電音・Official MV】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "WrPFCUFF49g",
