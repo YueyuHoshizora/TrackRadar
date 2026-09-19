@@ -1,7 +1,7 @@
 {
   "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
   "channelTitle": "Aria艾莉亞",
-  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
+  "lastUpdated": "2026-09-19T13:00:50.417+08:00",
   "latestVideo": {
     "videoId": "q6L3WZAbAYk",
     "title": "不用把所有期待，都揹得太重｜《把心事借給晚風》Aria艾莉亞 Official Lyric Video",
@@ -16,49 +16,69 @@
   "allVideoIds": [
     {
       "videoId": "q6L3WZAbAYk",
-      "title": "華語治癒情歌｜Aria艾莉亞《把心事借給晚風》給疲憊靈魂的溫柔｜Lend Thoughts to the Evening Breeze｜深夜療癒單曲",
+      "title": "《把心事借給晚風》今晚的溫柔 只為你轉動｜深夜治癒慢歌｜Aria艾莉亞 Lend Thoughts to the Evening Breeze",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.9
     },
     {
       "videoId": "lGgaSXRYhk8",
-      "title": "《各自安好》我收拾行李，收回全部自己｜深夜治癒慢歌｜Aria艾莉亞 Peacefully Apart"
+      "title": "深夜單曲循環｜Aria艾莉亞《各自安好》放過你，也放過自己｜Peacefully Apart｜治癒失戀，深夜陪伴",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "baCZpddqrFU",
-      "title": "給彼此最後的體面，是不再回望｜《無聲退場》Aria艾莉亞 Official Lyric Video"
+      "title": "深夜單曲循環｜Aria艾莉亞《無聲退場》給彼此 最後的體面｜Silent Exit｜深夜療癒慢歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "j290RGLI_lE",
-      "title": "看到你流淚，我的心像被撕裂啊｜《別哭我會捨不得》Aria艾莉亞 Official Lyric Video"
+      "title": "看到你流淚，我的心像被撕裂啊｜《別哭我會捨不得》Aria艾莉亞 Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "nVNtXHxKsbc",
-      "title": "借了一段溫熱，卻捨不得退格｜《借來的男友》 Aria艾莉亞 Official Lyric Video"
+      "title": "借了一段溫熱，卻捨不得退格｜《借來的男友》 Aria艾莉亞 Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "J5sh84AGDFk",
-      "title": "明明是我先動心，卻只能扮演配角｜《第三者》Aria艾莉亞 Official Lyric Video"
+      "title": "明明是我先動心，卻只能扮演配角｜《第三者》Aria艾莉亞 Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "MUhN1VogiRo",
-      "title": "《慢慢分手》 像一場雨，安靜地落下｜和平分手催淚曲｜Aria艾莉亞 Slowly Breaking Up"
+      "title": "《慢慢分手》 像一場雨，安靜地落下｜和平分手催淚曲｜Aria艾莉亞 Slowly Breaking Up",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "wHKXJBaxFRo",
-      "title": "別對我那麼好，我真的受不了｜《是我不配》Aria艾莉亞 Official Lyric Video"
+      "title": "別對我那麼好，我真的受不了｜《是我不配》Aria艾莉亞 Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "v_GaF2nKBeQ",
-      "title": "理智說了一萬次，身體卻在找你｜《好想再抱抱你》Aria艾莉亞 Official Lyric Video"
+      "title": "理智說了一萬次，身體卻在找你｜《好想再抱抱你》Aria艾莉亞 Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "DlSEaZT6K1w",
-      "title": "能不能回到，那個下雨的街頭｜《你最近好嗎》Aria艾莉亞 Official Lyric Video"
+      "title": "能不能回到，那個下雨的街頭｜《你最近好嗎》Aria艾莉亞 Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "sTJFhFtJTbw",
-      "title": "既然深愛過，就不該互相折磨｜《既然深愛過》Aria艾莉亞 Official Lyric Video"
+      "title": "既然深愛過，就不該互相折磨｜《既然深愛過》Aria艾莉亞 Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "WVO_NsZ-wQo",
