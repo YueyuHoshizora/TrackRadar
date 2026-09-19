@@ -95,7 +95,8 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
   let allIdsChanged = false;
   try {
     const all = await fetchAllUploadedVideoIds(channelId, allIdsMaxVideos);
-    channelTitle = channelTitle ?? all.channelTitle;
+    // 一律以這裡剛抓到的頻道名稱為準（已套用中文優先邏輯），取代舊資料可能殘留的英文名稱
+    if (all.channelTitle) channelTitle = all.channelTitle;
     if (JSON.stringify(all.videoIds) !== JSON.stringify(allVideoIds)) {
       allVideoIds = all.videoIds;
       allIdsChanged = true;
@@ -104,7 +105,9 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
     console.error(`TrackRadar: fetchAllUploadedVideoIds failed for ${channelId}`, err);
   }
 
-  if (latestChanged || allIdsChanged || !existingData) {
+  const titleChanged = channelTitle !== null && channelTitle !== existingData?.channelTitle;
+
+  if (latestChanged || allIdsChanged || titleChanged || !existingData) {
     const data: ChannelData = {
       channelId,
       channelTitle: channelTitle ?? existingData?.channelTitle ?? channelId,

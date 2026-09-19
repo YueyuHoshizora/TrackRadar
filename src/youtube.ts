@@ -247,23 +247,53 @@ export async function fetchAllUploadedVideoIds(
 }
 
 /**
- * 讀取 watch page，解析精確發布日期、時長、直播/首播狀態。
- * 這是判斷 Shorts / 直播的主要依據（RSS 與播放清單頁都缺乏這些欄位）。
+ * 讀取影片詳情：改用 YouTube 內部 youtubei/v1/player API（WEB client），
+ * 不再直接抓 watch page HTML —— 該頁面在 Cloudflare Worker 等機房 IP 上會被 YouTube
+ * 機器人偵測擋下（回應 "LOGIN_REQUIRED: Sign in to confirm you're not a bot"），
+ * 但 player API 只讀 metadata（不需要真的播放影片），不受此限制，回傳的
+ * videoDetails / microformat 內容與 watch page 解析出來的完全相同。
  */
 export async function fetchVideoDetails(videoId: string): Promise<VideoDetails | null> {
-  const res = await fetch(`https://www.youtube.com/watch?v=${videoId}`, {
-    headers: { "User-Agent": UA, "Accept-Language": "en-US,en;q=0.9" },
-  });
-  if (!res.ok) return null;
-  const html = await res.text();
-
-  const playerResponse = extractJsonAfter(html, "var ytInitialPlayerResponse") as
-    | Record<string, unknown>
-    | null;
-  if (!playerResponse) return null;
+  const res = await fetch(
+    "https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "User-Agent": UA,
+        Origin: "https://www.youtube.com",
+        Referer: `https://www.youtube.com/watch?v=${videoId}`,
+      },
+      body: JSON.stringify({
+        videoId,
+        context: {
+          client: {
+            clientName: "WEB",
+            clientVersion: "2.20240101.00.00",
+            hl: "zh-TW",
+            gl: "TW",
+          },
+        },
+      }),
+    }
+  );
+  if (!res.ok) {
+    console.error(`TrackRadar: player API fetch failed for ${videoId}: ${res.status}`);
+    return null;
+  }
+  const playerResponse = (await res.json()) as Record<string, unknown>;
 
   const videoDetails = playerResponse["videoDetails"] as Record<string, unknown> | undefined;
-  if (!videoDetails) return null;
+  if (!videoDetails) {
+    const playabilityStatus = playerResponse["playabilityStatus"] as Record<string, unknown> | undefined;
+    console.error(
+      `TrackRadar: no videoDetails for ${videoId}; playabilityStatus=${JSON.stringify(playabilityStatus).slice(
+        0,
+        200
+      )}`
+    );
+    return null;
+  }
 
   const microformat = playerResponse["microformat"] as Record<string, unknown> | undefined;
   const playerMicroformat = microformat?.["playerMicroformatRenderer"] as
