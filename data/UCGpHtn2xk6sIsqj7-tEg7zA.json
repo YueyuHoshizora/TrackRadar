@@ -1,7 +1,7 @@
 {
   "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
   "channelTitle": "ChillVibes",
-  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
+  "lastUpdated": "2026-09-19T12:55:39.751+08:00",
   "latestVideo": {
     "videoId": "1w0JaA9_ueQ",
     "title": "One Earbud Each | Warm R&B for Sharing a Quiet Night · NIGHT.11 (Lyric Video)",
@@ -11,54 +11,74 @@
     "publishedAt": "2026-09-18T21:00:13.000+08:00",
     "fetchedAt": "2026-09-19T11:17:42.739+08:00",
     "genre": "R&B/Soul",
-    "genreConfidence": 1.0
+    "genreConfidence": 1
   },
   "allVideoIds": [
     {
       "videoId": "1w0JaA9_ueQ",
       "title": "One Earbud Each｜一人一邊，分享安靜夜晚的溫暖 R&B · 夜行日記11（歌詞版）",
       "genre": "R&B/Soul",
-      "genreConfidence": 1.0
+      "genreConfidence": 1
     },
     {
       "videoId": "azudOtnA9YA",
-      "title": "Let It Pass｜讓它經過 | Healing R&B for Letting Go · STILL.01 (Lyric Video)"
+      "title": "Let It Pass｜讓它經過 | Healing R&B for Letting Go · STILL.01 (Lyric Video)",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "dT3q-u8vzQI",
-      "title": "早晨忙起來以前｜留一點安靜給自己・夜行日記 10（歌詞版）"
+      "title": "早晨忙起來以前｜留一點安靜給自己・夜行日記 10（歌詞版）",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.5
     },
     {
       "videoId": "akkjMu54fq4",
-      "title": "同一輪月亮，不同城市｜送給遠距離想念的你・夜行日記 09（歌詞版）"
+      "title": "同一輪月亮，不同城市｜送給遠距離想念的你・夜行日記 09（歌詞版）",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "60yZJPt1gas",
-      "title": "再聊五分鐘｜捨不得掛斷的深夜電話・夜行日記08（歌詞版）"
+      "title": "再聊五分鐘｜捨不得掛斷的深夜電話・夜行日記08（歌詞版）",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "F19D0RC0rcA",
-      "title": "Night Diary Vol. 1 | 20 Minutes of Late-Night R&B Stories (6 Songs)"
+      "title": "Night Diary Vol. 1 | 20 Minutes of Late-Night R&B Stories (6 Songs)",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "qqyJAv_7mB0",
-      "title": "陪我走回家｜捨不得太早說晚安・夜行日記07（歌詞版）"
+      "title": "陪我走回家｜捨不得太早說晚安・夜行日記07（歌詞版）",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "M1i0cRhuRJQ",
-      "title": "夜行日記 Vol. 1｜20分鐘深夜療癒 R&B 故事合輯（6首歌曲）"
+      "title": "夜行日記 Vol. 1｜20分鐘深夜療癒 R&B 故事合輯（6首歌曲）",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "TCQpjOAdIJY",
-      "title": "走廊盡頭的那盞微光｜陪失眠的你到天亮・夜行日記 06（歌詞版）"
+      "title": "走廊盡頭的那盞微光｜陪失眠的你到天亮・夜行日記 06（歌詞版）",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "f9qYYNcFwjs",
-      "title": "深夜廣播｜陪還沒睡著的你聽到天亮・夜行日記 05（歌詞版）"
+      "title": "深夜廣播｜陪還沒睡著的你聽到天亮・夜行日記 05（歌詞版）",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "6bGH1zRXTTQ",
-      "title": "天亮以後，我還在這裡｜陪你撐過漫漫長夜的療癒 R&B・夜行日記 04（歌詞版）"
+      "title": "天亮以後，我還在這裡｜陪你撐過漫漫長夜的療癒 R&B・夜行日記 04（歌詞版）",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "VRct_1OfYnA",
