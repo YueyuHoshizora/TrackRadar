@@ -1,7 +1,7 @@
 {
   "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
   "channelTitle": "迷子 Maigo",
-  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
+  "lastUpdated": "2026-09-19T12:55:33.888+08:00",
   "latestVideo": {
     "videoId": "UnLYmfA2ias",
     "title": "夏恋ノ残火 / 迷子 feat. 重音テト",
@@ -22,43 +22,63 @@
     },
     {
       "videoId": "_gITNgOavXA",
-      "title": "【病みかわ猫娘】首輪【重音テト】／迷子"
+      "title": "【病みかわ猫娘】首輪【重音テト】／迷子",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "sBLje4dAnf8",
-      "title": "【切ない片想い】月明かりと君の影【重音テト】／迷子"
+      "title": "【切ない片想い】月明かりと君の影【重音テト】／迷子",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.45
     },
     {
       "videoId": "WqHe82NKpyU",
-      "title": "【韓国夏祭り和風】홀려-사랑！【重音テト】／迷子"
+      "title": "【韓国夏祭り和風】홀려-사랑！【重音テト】／迷子",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "c7IQtfIJn74",
-      "title": "【狐狸祭典和風】化かし愛サマーフェス【重音テト】／迷子"
+      "title": "【狐狸祭典和風】化かし愛サマーフェス【重音テト】／迷子",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "gOCKOCnXTtk",
-      "title": "【青春和風】窓辺ノ独白【重音テト】／迷子"
+      "title": "【青春和風】窓辺ノ独白【重音テト】／迷子",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "P0Ti_G5Bbwo",
-      "title": "【ヤンデレ和風ロック】紅蓮ノ狂恋【重音テト】／迷子"
+      "title": "【ヤンデレ和風ロック】紅蓮ノ狂恋【重音テト】／迷子",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "LN29OORpIr8",
-      "title": "『桜ノ約束』（Sakura no Yakusoku）/ft.重音テト -迷子 Maigo"
+      "title": "『桜ノ約束』（Sakura no Yakusoku）/ft.重音テト -迷子 Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "7LqYbplT_BE",
-      "title": "【OpenTaiko】迷子 @maigo0830 - 徒花ノ涙｜自作譜面 (Chart by Maigo)"
+      "title": "【OpenTaiko】迷子 @maigo0830 - 徒花ノ涙｜自作譜面 (Chart by Maigo)",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "1trXTSj8YRM",
-      "title": "『泡沫の浮夢』（Utakata no Ukifume）/ft.重音テト -迷子 Maigo"
+      "title": "『泡沫の浮夢』（Utakata no Ukifume）/ft.重音テト -迷子 Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "GzmDXCsfRrA",
-      "title": "『徒花之淚』（Adabana no Namida - Chinese Ver.）/ft.重音テト -迷子 Maigo"
+      "title": "『徒花之淚』（Adabana no Namida - Chinese Ver.）/ft.重音テト -迷子 Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.37
     },
     {
       "videoId": "RAiK4jTItDc",
