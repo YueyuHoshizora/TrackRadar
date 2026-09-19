@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:30:41.590+08:00",
+  "lastUpdated": "2026-09-19T16:35:44.294+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -502,43 +502,63 @@
     },
     {
       "videoId": "9uCBCvX1zfc",
-      "title": "D1 Detection | Signal #002 — Parallel Echo Detected"
+      "title": "D1 Detection | Signal #002 — Parallel Echo Detected",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "PCBbZxyGLIk",
-      "title": "Case #002 — The Whiskey Debt | D5  One Last Drink | Gentlemen’s Lounge"
+      "title": "Case #002 — The Whiskey Debt | D5  One Last Drink | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "R-p6Z98YcVw",
-      "title": "D5 Transmission Complete | Signal #001 — The First Message Received"
+      "title": "D5 Transmission Complete | Signal #001 — The First Message Received",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "3VpzZPATk30",
-      "title": "Case #002 — The Whiskey Debt | D4   Blood Doesn’t Forget | Gentlemen’s Lounge"
+      "title": "Case #002 — The Whiskey Debt | D4   Blood Doesn’t Forget | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "YU5w3hzf1H4",
-      "title": "D4 Overload | Signal #001 — Signal Collapse Threshold"
+      "title": "D4 Overload | Signal #001 — Signal Collapse Threshold",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "Niv7-s3pHv8",
-      "title": "Case #002 — The Whiskey Debt | D3    The Search | Gentlemen’s Lounge"
+      "title": "Case #002 — The Whiskey Debt | D3    The Search | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "qMZFfs2lwFU",
-      "title": "D3 Partial Decode | Signal #001 — Echoes Becoming Words"
+      "title": "D3 Partial Decode | Signal #001 — Echoes Becoming Words",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "SsaJPQDR78g",
-      "title": "Case #002 — The Whiskey Debt | D2   The Road | Gentlemen’s Lounge"
+      "title": "Case #002 — The Whiskey Debt | D2   The Road | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "0RDBsr1gZk0",
-      "title": "D2 Instability | Signal #001 — Instability Raw Signal"
+      "title": "D2 Instability | Signal #001 — Instability Raw Signal",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "FrQ8nBd-6LU",
-      "title": "Case #002 — The Whiskey Debt | D1   Contract | Gentlemen’s Lounge"
+      "title": "Case #002 — The Whiskey Debt | D1   Contract | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "5E1VpRA5w6s",
