@@ -19,8 +19,8 @@ export interface VideoRecord {
   url: string;
   thumbnail: string;
   durationSeconds: number;
-  publishedAt: string; // ISO 8601，來自 watch page microformat，精確到日
-  fetchedAt: string; // ISO 8601，本系統抓到這支影片的時間
+  publishedAt: string; // ISO 8601 (UTC+8)，來自 watch page microformat，精確到日
+  fetchedAt: string; // ISO 8601 (UTC+8)，本系統抓到這支影片的時間
 }
 
 /**

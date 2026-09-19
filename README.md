@@ -4,6 +4,8 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
 
 ## 資料儲存格式
 
+所有 JSON 內的日期時間欄位一律使用 UTC+8（台灣/中國標準時間）的 ISO 8601 格式（例如 `2026-09-19T20:00:00.000+08:00`），而非預設的 UTC。
+
 - `channels.json`（repo 根目錄）：要追蹤的頻道 ID 陣列，例如：
   ```json
   ["UC4sQ-mQ_AiZrNtSOEzqY7FA", "UCYyzOVPBHzhr_cFFJbGoymQ"]
@@ -11,7 +13,7 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
 - `latest-videos.json`（repo 根目錄）：彙整所有頻道目前最新影片的總覽檔，每次執行後整份重寫，方便一次掃過全部頻道現況而不必逐一開啟 `data/<channelId>.json`：
   ```json
   {
-    "updatedAt": "2026-09-19T12:00:00.000Z",
+    "updatedAt": "2026-09-19T20:00:00.000+08:00",
     "channels": [
       { "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA", "channelTitle": "頻道名稱", "latestVideo": { "...": "同下方 latestVideo 結構" } }
     ]
@@ -22,15 +24,15 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
   {
     "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
     "channelTitle": "頻道名稱",
-    "lastUpdated": "2026-09-19T12:00:00.000Z",
+    "lastUpdated": "2026-09-19T20:00:00.000+08:00",
     "latestVideo": {
       "videoId": "xxxxxxxxxxx",
       "title": "影片標題",
       "url": "https://www.youtube.com/watch?v=xxxxxxxxxxx",
       "thumbnail": "https://i.ytimg.com/vi/xxxxxxxxxxx/hqdefault.jpg",
       "durationSeconds": 725,
-      "publishedAt": "2026-09-18T00:00:00.000Z",
-      "fetchedAt": "2026-09-19T12:00:00.000Z"
+      "publishedAt": "2026-09-18T08:00:00.000+08:00",
+      "fetchedAt": "2026-09-19T20:00:00.000+08:00"
     },
     "allVideoIds": ["xxxxxxxxxxx", "yyyyyyyyyyy", "..."]
   }

@@ -2,6 +2,7 @@ import type { ChannelData, Env, LatestIndex, LatestIndexEntry, VideoRecord } fro
 import { getJson, putJson } from "./github";
 import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails } from "./youtube";
 import { evaluateVideo } from "./filter";
+import { toUtc8Iso } from "./time";
 
 const CONCURRENCY = 5;
 
@@ -40,8 +41,8 @@ async function findLatestQualifying(
           url: `https://www.youtube.com/watch?v=${details.videoId}`,
           thumbnail: details.thumbnail,
           durationSeconds: details.lengthSeconds,
-          publishedAt: new Date(details.publishDate).toISOString(),
-          fetchedAt: new Date().toISOString(),
+          publishedAt: toUtc8Iso(new Date(details.publishDate)),
+          fetchedAt: toUtc8Iso(new Date()),
         },
         scanned: i + 1,
       };
@@ -62,10 +63,18 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
   const latest = await fetchLatestUploadedVideoIds(channelId);
   channelTitle = channelTitle ?? latest.channelTitle;
   const candidateIds = latest.videoIds.slice(0, scanLimit);
-
   let latestVideo: VideoRecord | null = existingData?.latestVideo ?? null;
   let scanned = 0;
   let latestChanged = false;
+  // 舊資料若仍是 UTC（Z）格式，重新格式化為 UTC+8，不需要重抓 YouTube
+  if (latestVideo && (!latestVideo.publishedAt.includes("+08:00") || !latestVideo.fetchedAt.includes("+08:00"))) {
+    latestVideo = {
+      ...latestVideo,
+      publishedAt: toUtc8Iso(new Date(latestVideo.publishedAt)),
+      fetchedAt: toUtc8Iso(new Date(latestVideo.fetchedAt)),
+    };
+    latestChanged = true;
+  }
 
   if (existingLatestId && candidateIds[0] === existingLatestId) {
     // 候選清單最前面就是已知最新影片，跳過重抓詳情
@@ -99,7 +108,7 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
     const data: ChannelData = {
       channelId,
       channelTitle: channelTitle ?? existingData?.channelTitle ?? channelId,
-      lastUpdated: new Date().toISOString(),
+      lastUpdated: toUtc8Iso(new Date()),
       latestVideo,
       allVideoIds,
     };
@@ -158,7 +167,7 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
 
   // 根目錄彙整檔：一次掃過所有頻道目前最新影片，方便總覽（不需逐一開啟 data/<channelId>.json）
   const index: LatestIndex = {
-    updatedAt: new Date().toISOString(),
+    updatedAt: toUtc8Iso(new Date()),
     channels: outcomes.map(
       (o): LatestIndexEntry => ({
         channelId: o.channelId,
