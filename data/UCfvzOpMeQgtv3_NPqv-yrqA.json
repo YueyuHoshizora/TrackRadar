@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-19T14:10:35.385+08:00",
+  "lastUpdated": "2026-09-19T14:15:31.738+08:00",
   "latestVideo": {
     "videoId": "YTy8H78Tp1s",
     "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "QYY8F-KPP3o",
-      "title": "🌱《破曉》｜雨洗淨了昨日的牽絆，明天的晨曦依然溫暖｜Official MV"
+      "title": "🌱《破曉》｜雨洗淨了昨日的牽絆，明天的晨曦依然溫暖｜Official MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "9e6nzqRKZ5Q",
-      "title": "🖤《你的心將我拒之門外》｜你曾說愛我是真的，最後遺棄我也是真的｜Official Lyric Video"
+      "title": "🖤《你的心將我拒之門外》｜你曾說愛我是真的，最後遺棄我也是真的｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "PUmAQ9nKvmg",
-      "title": "🌱《心跳的形狀》｜別再隱藏真正的渴望，順著自己的心往前走｜Official Lyric Video"
+      "title": "🌱《心跳的形狀》｜別再隱藏真正的渴望，順著自己的心往前走｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "FhqX7ADUCRk",
-      "title": "💗《靈魂共鳴》｜唯獨是你，讓我願意跨越所有距離奔向你｜Official MV"
+      "title": "💗《靈魂共鳴》｜唯獨是你，讓我願意跨越所有距離奔向你｜Official MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "Jcy7NsTUmUI",
-      "title": "🐔【迷因戰歌－巴逆逆】股海傳說，跟著買住公園，倒著買住豪宅｜洗腦神曲"
+      "title": "🐔【迷因戰歌－巴逆逆】股海傳說，跟著買住公園，倒著買住豪宅｜洗腦神曲",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "OxBXpMVwC44",
-      "title": "🌧️《等不到你的回頭》｜我終究等不到你，一次的轉身｜Official Lyric Video"
+      "title": "🌧️《等不到你的回頭》｜我終究等不到你，一次的轉身｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "IAu1dr-bjQU",
-      "title": "🖤《戲中人，夢外客》｜若你只是演戲，為何我疼得這般深刻｜Official Lyric Video"
+      "title": "🖤《戲中人，夢外客》｜若你只是演戲，為何我疼得這般深刻｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "BWWXMaarUkA",
-      "title": "🌧️《便利商店的晚餐》｜原來長大不是多勇敢，是孤單也要把日子一口一口吃完｜Official Lyric Video"
+      "title": "🌧️《便利商店的晚餐》｜原來長大不是多勇敢，是孤單也要把日子一口一口吃完｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "34hvU6xD6Ag",
-      "title": "🌱《又多了一根白髮》｜不是害怕變老，是終於發現自己真的累太久了｜Official Lyric Video"
+      "title": "🌱《又多了一根白髮》｜不是害怕變老，是終於發現自己真的累太久了｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "uVYmFDDPPZY",
-      "title": "🌱《我們不再衝動了》｜不是沒有夢了，只是長大後每一步都先想到後果｜Official Lyric Video"
+      "title": "🌱《我們不再衝動了》｜不是沒有夢了，只是長大後每一步都先想到後果｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "IJ33pzZt8LQ",
