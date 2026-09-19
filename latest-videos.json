@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T08:43:11.157+08:00",
+  "updatedAt": "2026-09-19T08:44:12.591+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -10,22 +10,14 @@
         "url": "https://www.youtube.com/watch?v=VlPInz7dIDs",
         "thumbnail": "https://i.ytimg.com/vi/VlPInz7dIDs/maxresdefault.jpg",
         "durationSeconds": 222,
-        "publishedAt": "2026-09-18T21:30:12.000Z",
-        "fetchedAt": "2026-09-19T00:31:27.310Z"
+        "publishedAt": "2026-09-19T05:30:12.000+08:00",
+        "fetchedAt": "2026-09-19T08:31:27.310+08:00"
       }
     },
     {
       "channelId": "UCYyzOVPBHzhr_cFFJbGoymQ",
-      "channelTitle": "安餒An_Nei",
-      "latestVideo": {
-        "videoId": "raTgEUcEkz8",
-        "title": "【拉丁電音搖滾 – ESCAPA DE LA ISLA】西語結合拉丁音樂的爆發力饒舌！享受兩種不同文化結合的大作。 🎧 安餒 An_Nie",
-        "url": "https://www.youtube.com/watch?v=raTgEUcEkz8",
-        "thumbnail": "https://i.ytimg.com/vi/raTgEUcEkz8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSSggMA8=&rs=AOn4CLCYtUhQ-XB0maxV96CgadyR8-iX-Q",
-        "durationSeconds": 215,
-        "publishedAt": "2026-09-18T03:00:13.000Z",
-        "fetchedAt": "2026-09-19T00:31:27.133Z"
-      }
+      "channelTitle": "UCYyzOVPBHzhr_cFFJbGoymQ",
+      "latestVideo": null
     }
   ]
 }
