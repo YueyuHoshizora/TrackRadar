@@ -1,7 +1,7 @@
 {
   "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
   "channelTitle": "Breathe And Be",
-  "lastUpdated": "2026-09-19T14:20:29.252+08:00",
+  "lastUpdated": "2026-09-19T14:25:32.152+08:00",
   "latestVideo": {
     "videoId": "_rUbmQcvdxQ",
     "title": "我選了愛我的人，卻不是那個我愛的人｜還是會想你，但不會再等你｜華語情歌【動態歌詞】",
@@ -382,35 +382,51 @@
     },
     {
       "videoId": "Ucr3CbqOgus",
-      "title": "【時間不是最好的藥】- Bre And Be 🌧 但能稀釋所有的紛擾｜indie Acoustic /  城市夜幕與雨夜窗邊｜2025 療癒情歌｜Official Lyric Video"
+      "title": "【時間不是最好的藥】- Bre And Be 🌧 但能稀釋所有的紛擾｜indie Acoustic /  城市夜幕與雨夜窗邊｜2025 療癒情歌｜Official Lyric Video",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "1y2wBUtPK54",
-      "title": "【中文歌單】- Bre And Be 🎹 戴上耳機閉上眼，變成風吧｜獨立音樂 Acoustic / 一切都會更好｜Playlist｜Official Lyric Video"
+      "title": "【中文歌單】- Bre And Be 🎹 戴上耳機閉上眼，變成風吧｜獨立音樂 Acoustic / 一切都會更好｜Playlist｜Official Lyric Video",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "PRekD7tSGKY",
-      "title": "【光的距離】- Bre And Be 🌸 追逐微光的青春校園物語，純粹而帶點澀谷系的夢幻感｜J-pop Version / 青澀悸動溫柔憧憬 / 放學夕陽 校園回憶 春天櫻花"
+      "title": "【光的距離】- Bre And Be 🌸 追逐微光的青春校園物語，純粹而帶點澀谷系的夢幻感｜J-pop Version / 青澀悸動溫柔憧憬 / 放學夕陽 校園回憶 春天櫻花",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "AcAhb5Y1uMY",
-      "title": "【未眠的星光】在沒有你的世界  星光閃爍不屬於誰｜原創歌曲 / R&B｜Official Music Video｜Breathe And Be"
+      "title": "【未眠的星光】在沒有你的世界  星光閃爍不屬於誰｜原創歌曲 / R&B｜Official Music Video｜Breathe And Be",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "FVpC3dJJxQo",
-      "title": "【錯過的午后 · 日系校園 Playlist】- Bre And Be 💓 激昂日系搖滾，喚醒午後校園的青春悸動與錯過的回憶｜搖滾 Music / 青春悸動 / 午後校園回憶"
+      "title": "【錯過的午后 · 日系校園 Playlist】- Bre And Be 💓 激昂日系搖滾，喚醒午後校園的青春悸動與錯過的回憶｜搖滾 Music / 青春悸動 / 午後校園回憶",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1
     },
     {
       "videoId": "QYduk2R5qrc",
-      "title": "【一圈一圈】- Bre And Be 💙 揉合節奏藍調的都會慵懶與Chill的沉靜氛圍，以獨特獨立聲線演繹深情｜節奏藍調 Music / 午後獨處或深夜漫遊｜Official Music Video"
+      "title": "【一圈一圈】- Bre And Be 💙 揉合節奏藍調的都會慵懶與Chill的沉靜氛圍，以獨特獨立聲線演繹深情｜節奏藍調 Music / 午後獨處或深夜漫遊｜Official Music Video",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "6RFRNl2AqSU",
-      "title": "【Synthetic Heart】- Bre And Be 🌈 Vibrant Anime Pop｜J-Pop Rock Version / Bittersweet / Neon City Night"
+      "title": "【Synthetic Heart】- Bre And Be 🌈 Vibrant Anime Pop｜J-Pop Rock Version / Bittersweet / Neon City Night",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "y9F4g4E8rAw",
-      "title": "「cc lai」直播"
+      "title": "「cc lai」直播",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.85
     }
   ]
 }
