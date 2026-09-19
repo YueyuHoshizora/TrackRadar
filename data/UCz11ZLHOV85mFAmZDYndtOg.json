@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:20:42.193+08:00",
+  "lastUpdated": "2026-09-19T16:25:42.180+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -382,43 +382,63 @@
     },
     {
       "videoId": "FkOuiO13Dt4",
-      "title": "D1 — Channel Not Found | Signal #004 — The Last Signal Before Collapse"
+      "title": "D1 — Channel Not Found | Signal #004 — The Last Signal Before Collapse",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "oTZ7BFtqXbg",
-      "title": "Case #004 — The Letter Without a Name | D5   Name | Gentlemen’s Lounge"
+      "title": "Case #004 — The Letter Without a Name | D5   Name | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "2YvCEv5AWUQ",
-      "title": "D5 — Horizon Clears Again | Signal #003 — Signal Beneath Clouds"
+      "title": "D5 — Horizon Clears Again | Signal #003 — Signal Beneath Clouds",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "8g7oDFC5RKw",
-      "title": "Case #004 — The Letter Without a Name | D4   Strike | Gentlemen’s Lounge"
+      "title": "Case #004 — The Letter Without a Name | D4   Strike | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "xaBNMZ6Go-E",
-      "title": "D4 — Shared Silence | Signal #003 — Signal Beneath Clouds"
+      "title": "D4 — Shared Silence | Signal #003 — Signal Beneath Clouds",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "4aEeU6rNbwg",
-      "title": "Case #004 — The Letter Without a Name | D3   Search | Gentlemen’s Lounge"
+      "title": "Case #004 — The Letter Without a Name | D3   Search | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "uzV6Vh-NyTE",
-      "title": "D3 — Break Through the Sky | Signal #003 — Signal Beneath Clouds"
+      "title": "D3 — Break Through the Sky | Signal #003 — Signal Beneath Clouds",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "4ziW1hgMBT4",
-      "title": "Case #004 — The Letter Without a Name | D2   Road | Gentlemen’s Lounge"
+      "title": "Case #004 — The Letter Without a Name | D2   Road | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "dzWE0XCV2pA",
-      "title": "D2 — Dreaming Frequency | Signal #003 — Signal Beneath Clouds"
+      "title": "D2 — Dreaming Frequency | Signal #003 — Signal Beneath Clouds",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "WOy0QaF89DM",
-      "title": "Case #004 — The Letter Without a Name | D1   Contract | Gentlemen’s Lounge"
+      "title": "Case #004 — The Letter Without a Name | D1   Contract | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "2qBj2jOVMs0",
