@@ -1,7 +1,7 @@
 {
   "channelId": "UCYyzOVPBHzhr_cFFJbGoymQ",
   "channelTitle": "安餒An_Nei",
-  "lastUpdated": "2026-09-19T12:55:21.086+08:00",
+  "lastUpdated": "2026-09-19T13:00:24.819+08:00",
   "latestVideo": {
     "videoId": "raTgEUcEkz8",
     "title": "【拉丁電音搖滾 – ESCAPA DE LA ISLA】西語結合拉丁音樂的爆發力饒舌！享受兩種不同文化結合的大作。 🎧 安餒 An_Nie",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "e7jt0aS21YA",
-      "title": "【催淚走心 – 瓦房】「拼命想換來衣錦還鄉，卻換不回母親煮的那碗熱湯。」這是一個關於長大、遺憾與回憶最深的痛。 🎧 安餒 An_Nie 🎧 安餒 An_Nie"
+      "title": "【催淚走心 – 瓦房】「拼命想換來衣錦還鄉，卻換不回母親煮的那碗熱湯。」這是一個關於長大、遺憾與回憶最深的痛。 🎧 安餒 An_Nie 🎧 安餒 An_Nie",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "9GHL55jsmVk",
-      "title": "【社畜寫實 – AI科技島】饒舌原創單曲，我也想月領九萬好不好？物價房價狂飆，官員口袋飽飽，人民在哀嚎。🎧️安餒 An_Nie"
+      "title": "【社畜寫實 – AI科技島】饒舌原創單曲，我也想月領九萬好不好？物價房價狂飆，官員口袋飽飽，人民在哀嚎。🎧️安餒 An_Nie",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1
     },
     {
       "videoId": "p8RYtQaPAo8",
-      "title": "【中國風 – 不當燕囚】「這輩子站著太久，膝蓋生了鏽！」這首史詩戰歌聽完讓人熱血沸騰。 🎧 安餒 An_Nie"
+      "title": "【中國風 – 不當燕囚】「這輩子站著太久，膝蓋生了鏽！」這首史詩戰歌聽完讓人熱血沸騰。 🎧 安餒 An_Nie",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "bNUDyzX-xk0",
-      "title": "【輕快搖滾 – 該死的星期一】咖啡苦得像報應，靈魂早已逃離上班魔咒，一場社畜的驚悚惡夢與週日狂歡。 🎧 安餒 An_Nie"
+      "title": "【輕快搖滾 – 該死的星期一】咖啡苦得像報應，靈魂早已逃離上班魔咒，一場社畜的驚悚惡夢與週日狂歡。 🎧 安餒 An_Nie",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1
     },
     {
       "videoId": "hYv2bQg1YyQ",
-      "title": "【甜蜜療癒 – 貓公主】有陽光暖暖，還有奴才滿滿的愛。一首陪你優雅伸懶腰的歌，奴才還不快獻上罐罐供奉本公主! 🎧️ 安餒 An_Nie"
+      "title": "【甜蜜療癒 – 貓公主】有陽光暖暖，還有奴才滿滿的愛。一首陪你優雅伸懶腰的歌，奴才還不快獻上罐罐供奉本公主! 🎧️ 安餒 An_Nie",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.36
     },
     {
       "videoId": "nmfa5qg5NPU",
-      "title": "【悲壯國風 – 易水寒】風蕭蕭兮易水寒，壯士一去不復返，只盼家國能平安。獻給抵抗日本侵略的中國民國國民革命軍第88師262旅524團 🎧️ 安餒 An_Nie"
+      "title": "【悲壯國風 – 易水寒】風蕭蕭兮易水寒，壯士一去不復返，只盼家國能平安。獻給抵抗日本侵略的中國民國國民革命軍第88師262旅524團 🎧️ 安餒 An_Nie",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "nfSu4tDDgEE",
-      "title": "【史詩國風 – 同根傷】舊時並馬看花客，轉眼各據一方王。道盡千古帝王家的冷血與孤獨 🎧️ 安餒 An_Nie"
+      "title": "【史詩國風 – 同根傷】舊時並馬看花客，轉眼各據一方王。道盡千古帝王家的冷血與孤獨 🎧️ 安餒 An_Nie",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "qFu_vco4F9o",
-      "title": "【藍調搖滾 – 異鄉】「低頭換一份廉價便當，卻在深夜嚥不下這耳光」這一身體面衣裝藏著多少驚慌？致敬每一個在萬家燈火中流浪的靈魂 🎧️ 安餒 An_Nie"
+      "title": "【藍調搖滾 – 異鄉】「低頭換一份廉價便當，卻在深夜嚥不下這耳光」這一身體面衣裝藏著多少驚慌？致敬每一個在萬家燈火中流浪的靈魂 🎧️ 安餒 An_Nie",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "mLRko3LzAX4",
-      "title": "【古風抒情 – 啼鳥】絳紗窗外誰在輕輕歌頌？山家歲月總是太匆匆，一起感受春曉季節的魅力 🎧️ 安餒 An_Nie"
+      "title": "【古風抒情 – 啼鳥】絳紗窗外誰在輕輕歌頌？山家歲月總是太匆匆，一起感受春曉季節的魅力 🎧️ 安餒 An_Nie",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "AwAsCUw9HMw",
-      "title": "【大氣國風 – 雲泥】，欲窮千里目，更上一層樓。踏破雲泥路，俯瞰人世千載春秋 🎧️ 安餒 An_Nie"
+      "title": "【大氣國風 – 雲泥】，欲窮千里目，更上一層樓。踏破雲泥路，俯瞰人世千載春秋 🎧️ 安餒 An_Nie",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "h31Ia5W3-70",
