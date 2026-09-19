@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-09-19T16:05:38.465+08:00",
+  "lastUpdated": "2026-09-19T16:10:38.521+08:00",
   "latestVideo": {
     "videoId": "Top7T6uaMkc",
     "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "V0Oeq0kcOfE",
-      "title": "《九尾狐》｜山海經中的九尾妖狐，被人類追殺後卻回頭救了全村【超燃國風電音・中文原創歌曲・Official MV】",
+      "title": "《九尾狐》｜被人類追殺的九尾妖狐，巨獸來襲時卻回頭救了全村【超燃國風電音・中文原創歌曲・Official MV】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.85
     },
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "QmrZ3GMuU0c",
-      "title": "每年夏天，都必須有一個人消失｜《忘れ灯》【日文原創歌曲・Dark Fantasy Music】"
+      "title": "每年夏天，都必須有一個人消失｜《忘れ灯》【日文原創歌曲・Dark Fantasy Music】",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.36
     },
     {
       "videoId": "GAvWt9An-pM",
-      "title": "忘れ灯｜每年夏天，都必須有一個人消失【Official MV・日文原創歌曲・Dark Fantasy Music】"
+      "title": "忘れ灯｜每年夏天，都必須有一個人消失【Official MV・日文原創歌曲・Dark Fantasy Music】",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.26
     },
     {
       "videoId": "4Li_Bx99ook",
-      "title": "最後一秒，你會相信自己，還是相信別人？｜《残り一秒》【日文原創歌曲・J-Pop】"
+      "title": "最後一秒，你會相信自己，還是相信別人？｜《残り一秒》【日文原創歌曲・J-Pop】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "bwUOmyUzHu8",
-      "title": "残り一秒｜只剩最後一秒，你會選擇相信誰？【Official MV・日文原創歌曲・J-Pop】"
+      "title": "残り一秒｜只剩最後一秒，你會選擇相信誰？【Official MV・日文原創歌曲・J-Pop】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "rjTEJt9DT5c",
-      "title": "有些聲音，你越想忘記，反而聽得越清楚｜《噤聲》演唱版【中文原創歌曲・Cinematic Pop】"
+      "title": "有些聲音，你越想忘記，反而聽得越清楚｜《噤聲》演唱版【中文原創歌曲・Cinematic Pop】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "kppy6QjK83U",
-      "title": "她找遍整座城市，最後找到的卻是自己｜《噤聲》【中文原創歌曲・Cinematic Pop】"
+      "title": "她找遍整座城市，最後找到的卻是自己｜《噤聲》【中文原創歌曲・Cinematic Pop】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "pbtT8dUgMRE",
-      "title": "噤聲｜一座禁止歌唱的城市，她卻聽見了自己的聲音【Official MV・中文原創歌曲・Cinematic Pop】"
+      "title": "噤聲｜一座禁止歌唱的城市，她卻聽見了自己的聲音【Official MV・中文原創歌曲・Cinematic Pop】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "s0aLHXCB98Y",
-      "title": "「可我呢，誰會記得我姓名？」｜《無名碑》【古風歌曲・中文原創歌曲】"
+      "title": "「可我呢，誰會記得我姓名？」｜《無名碑》【古風歌曲・中文原創歌曲】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "lDLln50NH-Q",
-      "title": "無名碑｜我替萬人刻下姓名，最後卻忘了自己【古風歌曲・中文原創歌曲・Official Audio】"
+      "title": "無名碑｜我替萬人刻下姓名，最後卻忘了自己【古風歌曲・中文原創歌曲・Official Audio】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "0en_dMFXX3U",
-      "title": "司命｜我替萬人寫盡生死，唯獨把你留在空白【古風歌曲・中文原創歌曲・Official Audio】"
+      "title": "司命｜我替萬人寫盡生死，唯獨把你留在空白【古風歌曲・中文原創歌曲・Official Audio】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "EiMBd4jkQ30",
