@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-09-19T16:00:38.764+08:00",
+  "lastUpdated": "2026-09-19T16:05:38.465+08:00",
   "latestVideo": {
     "videoId": "Top7T6uaMkc",
     "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "V0Oeq0kcOfE",
-      "title": "《九尾狐》｜被人類追殺的九尾妖狐，巨獸來襲時卻回頭救了全村【超燃國風電音・中文原創歌曲・Official MV】",
+      "title": "《九尾狐》｜山海經中的九尾妖狐，被人類追殺後卻回頭救了全村【超燃國風電音・中文原創歌曲・Official MV】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.85
     },
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "WrPFCUFF49g",
-      "title": "《哪吒》🔥｜鬼門開那一夜，她成了哪吒的乩身"
+      "title": "《哪吒》🔥｜鬼門開那一夜，她成了哪吒的乩身",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "ucFloRP9RD8",
-      "title": "《哪吒》｜鬼門開那一夜，她成了神明的乩身【Official MV・超燃國風電音・中文原創歌曲】"
+      "title": "《哪吒》｜鬼門開那一夜，她成了神明的乩身【Official MV・超燃國風電音・中文原創歌曲】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "SIrH8u58Hxk",
-      "title": "《畫皮》🎭｜她為了成為他喜歡的樣子，最後連自己都認不出了"
+      "title": "《畫皮》🎭｜她為了成為他喜歡的樣子，最後連自己都認不出了",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "noxN5SQK76U",
-      "title": "《畫皮》｜聊齋裡最痛的不是鬼，是為了被愛失去自己【Official MV・虐心情歌・中文原創歌曲】"
+      "title": "《畫皮》｜聊齋裡最痛的不是鬼，是為了被愛失去自己【Official MV・虐心情歌・中文原創歌曲】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "xvpXhW9n66I",
-      "title": "女鍾馗來斬鬼，最後劍卻指向了人｜《人間有鬼》【中文原創歌曲・動畫MV】"
+      "title": "女鍾馗來斬鬼，最後劍卻指向了人｜《人間有鬼》【中文原創歌曲・動畫MV】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "mKlUjuGrbak",
-      "title": "《人間有鬼》｜鬼門大開，女鍾馗卻把劍指向了活人【Official MV・中文原創歌曲】"
+      "title": "《人間有鬼》｜鬼門大開，女鍾馗卻把劍指向了活人【Official MV・中文原創歌曲】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "eK0NfFZB-fc",
-      "title": "妹妹被畫走後，她直接殺進了畫中世界｜《壁上人》【史詩搖滾・中文原創】"
+      "title": "妹妹被畫走後，她直接殺進了畫中世界｜《壁上人》【史詩搖滾・中文原創】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "_PxrTgWcB6c",
-      "title": "她明明抓住了妹妹，卻還是被畫進牆裡｜《壁上人》【史詩搖滾・中文原創】"
+      "title": "她明明抓住了妹妹，卻還是被畫進牆裡｜《壁上人》【史詩搖滾・中文原創】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "lwiwT8inPF8",
-      "title": "《壁上人》｜她修復一幅古畫後，牆上多一人，世間少一人【Official MV・國風搖滾・中文原創歌曲】"
+      "title": "《壁上人》｜她修復一幅古畫後，牆上多一人，世間少一人【Official MV・國風搖滾・中文原創歌曲】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "CQBdmhinaBc",
-      "title": "她想終止獻祭，卻讓整座島開始崩裂｜《忘れ灯》【日文原創歌曲・Dark Fantasy Music】"
+      "title": "她想終止獻祭，卻讓整座島開始崩裂｜《忘れ灯》【日文原創歌曲・Dark Fantasy Music】",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.34
     },
     {
       "videoId": "QmrZ3GMuU0c",
