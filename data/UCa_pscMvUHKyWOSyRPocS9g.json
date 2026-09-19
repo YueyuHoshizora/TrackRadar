@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-09-19T16:15:38.457+08:00",
+  "lastUpdated": "2026-09-19T16:20:37.390+08:00",
   "latestVideo": {
     "videoId": "Top7T6uaMkc",
     "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
@@ -262,11 +262,15 @@
     },
     {
       "videoId": "jttwidlhOXA",
-      "title": "雨停之前｜只要雨還沒停，我就願意繼續等你【中文原創歌曲・抒情歌・Lumiora Chapter 02】"
+      "title": "雨停之前｜只要雨還沒停，我就願意繼續等你【中文原創歌曲・抒情歌・Lumiora Chapter 02】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "ooAOR7jHPro",
-      "title": "夜に光る君へ｜那一夜，我在人群中看見了你【日文原創歌曲・J-Pop・Lumiora Chapter 01】"
+      "title": "夜に光る君へ｜那一夜，我在人群中看見了你【日文原創歌曲・J-Pop・Lumiora Chapter 01】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.88
     }
   ]
 }
