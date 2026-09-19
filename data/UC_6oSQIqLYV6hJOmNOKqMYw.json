@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-09-19T15:20:40.669+08:00",
+  "lastUpdated": "2026-09-19T15:25:40.924+08:00",
   "latestVideo": {
     "videoId": "pwQhe19X_6g",
     "title": "《我還是會想你》｜明明放下了，心卻還停在那裡｜EIRYN Official Music Video",
@@ -262,43 +262,63 @@
     },
     {
       "videoId": "ZFH3s5Cqw_E",
-      "title": "2026 母親節感動首選｜妳一直都在｜這首歌，聽懂了才發現「媽媽」二字背後的重量..."
+      "title": "2026 母親節感動首選｜妳一直都在｜這首歌，聽懂了才發現「媽媽」二字背後的重量...",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "btaVLsXzwUw",
-      "title": "2026 白沙屯媽祖進香主題曲｜跟著媽祖走｜粉紅超跑"
+      "title": "2026 白沙屯媽祖進香主題曲｜跟著媽祖走｜粉紅超跑",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.37
     },
     {
       "videoId": "upTn3eiKe2o",
-      "title": "【關掉你以後】EIRYN 我以為關掉了對話框，就能關掉想你的迴圈...｜2026 必聽催慮單曲"
+      "title": "【關掉你以後】EIRYN 我以為關掉了對話框，就能關掉想你的迴圈...｜2026 必聽催慮單曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "_uHYwU5sN7U",
-      "title": "最可怕的再見，是說了卻從未兌現。｜《還沒走遠》EIRYN"
+      "title": "最可怕的再見，是說了卻從未兌現。｜《還沒走遠》EIRYN",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "T6xX5vMTd4w",
-      "title": "你也是被演算法帶來的嗎？這場 Live 唱碎了所有人的心...《空位還亮著》官方現場版"
+      "title": "你也是被演算法帶來的嗎？這場 Live 唱碎了所有人的心...《空位還亮著》官方現場版",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "1d76t96Ebf0",
-      "title": "【別在心裡下雪 】｜一開口就哭了…這首歌太痛了｜2026最催淚失戀情歌"
+      "title": "【別在心裡下雪 】｜一開口就哭了…這首歌太痛了｜2026最催淚失戀情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "LOfMcUHEivE",
-      "title": "【2026年度心碎金曲】原來最痛不是失去什麼，是還愛著……💔｜《你走了走了》-EIRYN"
+      "title": "【2026年度心碎金曲】原來最痛不是失去什麼，是還愛著……💔｜《你走了走了》-EIRYN",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "PovV1c7rdTA",
-      "title": "《差一點就忘了你》EIRYN -聽哭了！「差一點就能放過自己...」💔 2026最催淚治癒情歌 - (Official Lyric Video)"
+      "title": "《差一點就忘了你》EIRYN -聽哭了！「差一點就能放過自己...」💔 2026最催淚治癒情歌 - (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "5JYTy2C8MRY",
-      "title": "這首歌唱碎了多少人的沈默？EIRYN—《如果那天沒有沉默》：原來最深的心痛，是你不再回頭。"
+      "title": "這首歌唱碎了多少人的沈默？EIRYN—《如果那天沒有沉默》：原來最深的心痛，是你不再回頭。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "y_9FpXJ6MdY",
-      "title": "聽完這首歌，你想起了誰？EIRYN -《繞圈》| 那些隨風飄遠的諾言，終究變成了昨天【Lyrics Video】"
+      "title": "聽完這首歌，你想起了誰？EIRYN -《繞圈》| 那些隨風飄遠的諾言，終究變成了昨天【Lyrics Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "3wJppDla2mo",
