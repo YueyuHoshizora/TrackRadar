@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T13:18:36.315+08:00",
+  "updatedAt": "2026-09-19T13:20:37.834+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -23,8 +23,18 @@
     },
     {
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
-      "channelTitle": "UCdUiLDnjJc3fcH-0wT7CFpg",
-      "latestVideo": null
+      "channelTitle": "COYA可夜",
+      "latestVideo": {
+        "videoId": "k0zf1ZphcfY",
+        "title": "「從鬼門開，到鬼門關。」🕯️｜《神鬼誌》｜可夜｜新國風MV合輯｜40分鐘完整收錄｜Official MV｜神鬼誌系列｜",
+        "url": "https://www.youtube.com/watch?v=k0zf1ZphcfY",
+        "thumbnail": "https://i.ytimg.com/vi/k0zf1ZphcfY/maxresdefault.jpg",
+        "durationSeconds": 2381,
+        "publishedAt": "2026-09-18T10:15:28.000+08:00",
+        "fetchedAt": "2026-09-19T09:38:05.675+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
+      }
     },
     {
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
@@ -253,8 +263,18 @@
     },
     {
       "channelId": "UCP7vt7hh_7k9iSk1cNu9DsQ",
-      "channelTitle": "UCP7vt7hh_7k9iSk1cNu9DsQ",
-      "latestVideo": null
+      "channelTitle": "洛陽-Luo Sequence ",
+      "latestVideo": {
+        "videoId": "AQGbIHAQ44Q",
+        "title": "《浮生舊夢 : 歸雁》洛陽｜中國風原創｜有些人一別，便錯過了一生",
+        "url": "https://www.youtube.com/watch?v=AQGbIHAQ44Q",
+        "thumbnail": "https://i.ytimg.com/vi_webp/AQGbIHAQ44Q/maxresdefault.webp?v=6aa8c555",
+        "durationSeconds": 235,
+        "publishedAt": "2026-09-15T12:05:06.000+08:00",
+        "fetchedAt": "2026-09-19T11:17:46.778+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
+      }
     }
   ]
 }
