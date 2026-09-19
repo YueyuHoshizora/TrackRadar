@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:45:43.028+08:00",
+  "lastUpdated": "2026-09-19T16:50:43.027+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -682,43 +682,63 @@
     },
     {
       "videoId": "0YzRJm_WmsE",
-      "title": "10 0、Endless Motion"
+      "title": "10 0、Endless Motion",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "fLDQvN-42ng",
-      "title": "Breathe in Time-  Hypnotic Rhythm & Deep Reverb｜Progressive House / Immersive / Late Night Drive"
+      "title": "Breathe in Time-  Hypnotic Rhythm & Deep Reverb｜Progressive House / Immersive / Late Night Drive",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "_DZRRt99_UA",
-      "title": "9 0、Endless Motion"
+      "title": "9 0、Endless Motion",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "oDmitmUE1gs",
-      "title": "8 0、Miles Beyond"
+      "title": "8 0、Miles Beyond",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "rsKBR_4tSaw",
-      "title": "7 0、Miles Beyond"
+      "title": "7 0、Miles Beyond",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "XKBPL0d_vNY",
-      "title": "6 0、Boundless Love"
+      "title": "6 0、Boundless Love",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "59DqoDVrAek",
-      "title": "9 0、Break the Iron"
+      "title": "9 0、Break the Iron",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "ABMUZffDWfM",
-      "title": "5 0、Boundless Love"
+      "title": "5 0、Boundless Love",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "qU7Mklf8RjA",
-      "title": "8 0、Final Rep"
+      "title": "8 0、Final Rep",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "ZNnzEBCg9ps",
-      "title": "6 0、Rage Unleashed"
+      "title": "6 0、Rage Unleashed",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "Y43Ca-n7rfo",
