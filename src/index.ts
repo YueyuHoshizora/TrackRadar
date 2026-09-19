@@ -1,6 +1,6 @@
 import type { AllVideoEntry, ChannelData, ChannelListEntry, Env, LatestIndex, LatestIndexEntry, VideoRecord } from "./types";
 import { getJson, putJson } from "./github";
-import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails, preferZhTitle } from "./youtube";
+import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails, isValidChannelId, preferZhTitle } from "./youtube";
 import { evaluateVideo } from "./filter";
 import { toUtc8Iso } from "./time";
 import { classifyGenre } from "./genre";
@@ -48,6 +48,9 @@ function compactAllVideoEntry(entry: AllVideoEntry): AllVideoEntry {
 }
 
 function channelDataPath(env: Env, channelId: string): string {
+  if (!isValidChannelId(channelId)) {
+    throw new Error(`Invalid channelId format: ${channelId}`);
+  }
   return `${env.DATA_DIR}/${channelId}.json`;
 }
 
@@ -229,7 +232,14 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
 
 async function loadChannelList(env: Env): Promise<ChannelListEntry[]> {
   const list = await getJson<ChannelListEntry[]>(env, env.CHANNELS_FILE);
-  return list ?? [];
+  if (!list) return [];
+  return list.filter((item) => {
+    if (!item || typeof item.id !== "string" || !isValidChannelId(item.id)) {
+      console.warn(`TrackRadar: skipping invalid channel entry in ${env.CHANNELS_FILE}`, item);
+      return false;
+    }
+    return true;
+  });
 }
 
 /**
@@ -293,7 +303,7 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
     };
   });
   if (channelsListChanged) {
-    await putJson(env, env.CHANNELS_FILE, updatedChannels, "TrackRadar: sync channel names/avatars in channels.json");
+    await putJson(env, env.CHANNELS_FILE, updatedChannels, "TrackRadar: sync channel names/avatars in channels.json [skip ci]");
   }
 
   // 根目錄彙整檔：一次掃過所有頻道目前最新影片，方便總覽（不需逐一開啟 data/<channelId>.json）
@@ -312,6 +322,28 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
   return outcomes;
 }
 
+function verifyAdminToken(request: Request, env: Env): boolean {
+  const adminToken = env.ADMIN_TOKEN?.trim();
+  if (!adminToken) {
+    console.error("TrackRadar: ADMIN_TOKEN is not configured; refusing access to /run (fail-closed).");
+    return false;
+  }
+
+  const url = new URL(request.url);
+  const authHeader = request.headers.get("Authorization");
+  const bearerToken = authHeader?.startsWith("Bearer ") ? authHeader.slice(7).trim() : null;
+  const customHeaderToken = request.headers.get("X-Admin-Token")?.trim();
+  const queryToken = url.searchParams.get("token")?.trim();
+
+  const candidate = bearerToken || customHeaderToken || queryToken;
+  if (!candidate) return false;
+
+  if (candidate.length !== adminToken.length) return false;
+  const a = new TextEncoder().encode(candidate);
+  const b = new TextEncoder().encode(adminToken);
+  return crypto.subtle.timingSafeEqual(a, b);
+}
+
 export default {
   async scheduled(_event: ScheduledEvent, env: Env, ctx: ExecutionContext): Promise<void> {
     ctx.waitUntil(runOnce(env).then((r) => console.log("TrackRadar run result", JSON.stringify(r))));
@@ -323,7 +355,7 @@ export default {
       return new Response("ok");
     }
     if (url.pathname === "/run") {
-      if (env.ADMIN_TOKEN && url.searchParams.get("token") !== env.ADMIN_TOKEN) {
+      if (!verifyAdminToken(request, env)) {
         return new Response("forbidden", { status: 403 });
       }
       const outcomes = await runOnce(env);

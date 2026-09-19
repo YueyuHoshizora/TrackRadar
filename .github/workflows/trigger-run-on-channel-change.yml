@@ -17,12 +17,15 @@ concurrency:
 
 jobs:
   trigger-run:
+    # 忽略含 [skip ci] 的 commit（如 Worker 自動同步名稱/頭像產生的 commit），避免遞迴觸發
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest
     steps:
       - name: Call TrackRadar /run endpoint
         run: |
           status=$(curl -s -o /tmp/run-response.json -w "%{http_code}" \
-            "https://track-radar.plain-leaf-e871.workers.dev/run?token=${{ secrets.ADMIN_TOKEN }}")
+            -H "Authorization: Bearer ${{ secrets.ADMIN_TOKEN }}" \
+            "https://track-radar.plain-leaf-e871.workers.dev/run")
           echo "HTTP status: $status"
           cat /tmp/run-response.json
           if [ "$status" -ne 200 ]; then

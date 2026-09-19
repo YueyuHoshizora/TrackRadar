@@ -14,12 +14,16 @@ export function preferZhTitle(primary: string, fallback = ""): string {
   if (CJK_RE.test(b)) return b;
   return a || b;
 }
+export const CHANNEL_ID_RE = /^UC[\w-]{22}$/;
 
+export function isValidChannelId(channelId: string): boolean {
+  return CHANNEL_ID_RE.test(channelId);
+}
 
 function uploadsPlaylistId(channelId: string): string {
   // 頻道 ID 固定以 UC 開頭，對應的「全部上傳」播放清單把 UC 換成 UU
-  if (!channelId.startsWith("UC")) {
-    throw new Error(`Invalid channel id (must start with UC): ${channelId}`);
+  if (!isValidChannelId(channelId)) {
+    throw new Error(`Invalid channel id (must match ^UC[\\w-]{22}$): ${channelId}`);
   }
   return "UU" + channelId.slice(2);
 }
