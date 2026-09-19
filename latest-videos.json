@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:36:29.409+08:00",
+  "updatedAt": "2026-09-19T10:39:39.805+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -90,6 +90,51 @@
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 1
       }
+    },
+    {
+      "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
+      "channelTitle": "予棠 Lumiora",
+      "latestVideo": null
+    },
+    {
+      "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
+      "channelTitle": "Sonar.Music.Studio",
+      "latestVideo": null
+    },
+    {
+      "channelId": "UCTrgJME6bNivRn8-rERa9Ww",
+      "channelTitle": "Zoe. G",
+      "latestVideo": null
+    },
+    {
+      "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
+      "channelTitle": "UCSop8F751Q9bfYy-NAwPfiA",
+      "latestVideo": null
+    },
+    {
+      "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
+      "channelTitle": "迷子 Maigo",
+      "latestVideo": null
+    },
+    {
+      "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
+      "channelTitle": "UCTyJuFjiImTIMqzs-pIjgfw",
+      "latestVideo": null
+    },
+    {
+      "channelId": "UCLdQFGact5lDLLtpaX50fAg",
+      "channelTitle": "苏砚Suyan",
+      "latestVideo": null
+    },
+    {
+      "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
+      "channelTitle": "ChillVibes",
+      "latestVideo": null
+    },
+    {
+      "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
+      "channelTitle": "Aria艾莉亞",
+      "latestVideo": null
     }
   ]
 }
