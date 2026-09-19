@@ -1,7 +1,7 @@
 {
   "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
   "channelTitle": "Sonar.Music.Studio",
-  "lastUpdated": "2026-09-19T12:55:26.744+08:00",
+  "lastUpdated": "2026-09-19T13:00:48.285+08:00",
   "latestVideo": {
     "videoId": "E8PK1SITqeg",
     "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
@@ -82,15 +82,21 @@
     },
     {
       "videoId": "y1olYtgG4uE",
-      "title": "零點過後－「雨下得太安靜，模糊了你的背影...」｜深夜傷感抒情音樂 ‧ 療癒心碎原創單曲"
+      "title": "零點過後－「雨下得太安靜，模糊了你的背影...」｜深夜傷感抒情音樂 ‧ 療癒心碎原創單曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "JC9HGchMXJk",
-      "title": "新歌- 《祝你幸福一點》"
+      "title": "新歌- 《祝你幸福一點》",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.5
     },
     {
       "videoId": "Ucc_Zl-glp0",
-      "title": "【MV】祝你幸福一點 -《我不吵也不鬧，配合你演完這場離別》Official Anime Music Video"
+      "title": "【MV】祝你幸福一點 -《我不吵也不鬧，配合你演完這場離別》Official Anime Music Video",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.85
     }
   ]
 }
