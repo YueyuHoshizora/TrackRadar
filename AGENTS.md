@@ -50,7 +50,7 @@ curl "https://track-radar.plain-leaf-e871.workers.dev/run?token=<ADMIN_TOKEN>"  
 
 7. **`watch page HTML` 抓不到東西是正常的。** Cloudflare Worker 的出口 IP 會被 YouTube 判定為 bot（`LOGIN_REQUIRED`），因此一律用 `youtubei/v1/player` 內部 API 取代直接抓 watch page，不要「修好」這個看似異常的設計。
 
-8. **頻道名稱中文優先。** `extractChannelTitle` 系列邏輯先用 `hl=zh-TW&gl=TW` 抓，抓不到才 fallback 英文；不要改成預設英文。
+8. **頻道名稱與影片標題繁中優先。** 先用 `hl=zh-TW&gl=TW` 抓；標題字串含漢字就採用，沒有漢字（或請求失敗）才 fallback 英文。不要改成預設英文。
 
 ## 修改流程建議
 

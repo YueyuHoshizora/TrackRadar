@@ -54,7 +54,7 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
 3. 找到第一支通過過濾的影片即停止掃描（不需抓完候選清單全部）。若該影片與目前記錄的 `latestVideo` 相同，代表沒有新影片，略過寫入；不同才更新 `data/<channelId>.json`。
 4. `CANDIDATE_SCAN_LIMIT`（預設 10）：每個頻道每次最多檢查幾支候選影片以找出最新合格影片，避免罕見情況（例如連續多支 Shorts）導致單次執行時間過長。
 5. 另外透過 YouTube 內部 `youtubei/v1/browse` continuation API 分頁抓取該頻道「全部上傳影片」清單（含標題、不過濾），寫入 `allVideoIds`；缺曲風時用 TypeSafe Jev 依標題分類（每頻道每輪有上限，下次 cron 再補）。`ALL_IDS_MAX_VIDEOS`（預設 2000）為單頻道上限，避免超大頻道拖垮單次執行時間。
-6. 頻道名稱優先以繁體中文請求（`hl=zh-TW&gl=TW`），抓不到才 fallback 改用英文請求（`hl=en&gl=US`）重新取得。
+6. 頻道名稱與影片標題優先以繁體中文請求（`hl=zh-TW&gl=TW`）。標題含漢字即採用；抓不到或沒有漢字才 fallback 英文（`hl=en&gl=US`）。
 
 ### 為何 `latestVideo` 不保留完整歷史，但 `allVideoIds` 有？
 

@@ -1,6 +1,6 @@
 import type { AllVideoEntry, ChannelData, ChannelListEntry, Env, LatestIndex, LatestIndexEntry, VideoRecord } from "./types";
 import { getJson, putJson } from "./github";
-import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails } from "./youtube";
+import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails, preferZhTitle } from "./youtube";
 import { evaluateVideo } from "./filter";
 import { toUtc8Iso } from "./time";
 import { classifyGenre } from "./genre";
@@ -159,7 +159,7 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
         const isLatest = Boolean(latestVideo && latestVideo.videoId === v.videoId);
         return compactAllVideoEntry({
           videoId: v.videoId,
-          title: v.title || prev?.title || (isLatest && latestVideo ? latestVideo.title : ""),
+          title: preferZhTitle(v.title, prev?.title || (isLatest && latestVideo ? latestVideo.title : "")),
           genre: prev?.genre ?? (isLatest && latestVideo ? latestVideo.genre : undefined),
           genreConfidence: prev?.genreConfidence ?? (isLatest && latestVideo ? latestVideo.genreConfidence : undefined),
         });
@@ -185,6 +185,16 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
       entry.genreConfidence = genreResult.confidence;
       classified++;
       allIdsChanged = true;
+    }
+  }
+
+  if (latestVideo) {
+    const latest = latestVideo;
+    const fromList = allVideoIds.find((e) => e.videoId === latest.videoId)?.title ?? "";
+    const preferred = preferZhTitle(latest.title, fromList);
+    if (preferred !== latest.title) {
+      latestVideo = { ...latest, title: preferred };
+      latestChanged = true;
     }
   }
 

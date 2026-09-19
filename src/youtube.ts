@@ -2,6 +2,19 @@ import type { VideoDetails } from "./types";
 
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
+const ACCEPT_LANGUAGE_ZH_TW = "zh-TW,zh-Hant;q=0.9,zh;q=0.8,en;q=0.5";
+const ACCEPT_LANGUAGE_EN = "en-US,en;q=0.9";
+const CJK_RE = /[\u3400-\u9FFF]/;
+
+/** 標題優先用含漢字的字串（繁中請求結果）；都沒有漢字才用英文/原文。 */
+export function preferZhTitle(primary: string, fallback = ""): string {
+  const a = primary.trim();
+  const b = fallback.trim();
+  if (CJK_RE.test(a)) return a;
+  if (CJK_RE.test(b)) return b;
+  return a || b;
+}
+
 
 function uploadsPlaylistId(channelId: string): string {
   // 頻道 ID 固定以 UC 開頭，對應的「全部上傳」播放清單把 UC 換成 UU
@@ -155,7 +168,7 @@ function parsePlaylistRenderers(root: unknown): { videos: PlaylistVideo[]; conti
 
 async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
   const res = await fetch(`https://www.youtube.com/playlist?list=${playlistId}&hl=zh-TW&gl=TW`, {
-    headers: { "User-Agent": UA, "Accept-Language": "zh-TW,zh-Hant;q=0.9,zh;q=0.8,en;q=0.5" },
+    headers: { "User-Agent": UA, "Accept-Language": ACCEPT_LANGUAGE_ZH_TW },
   });
   if (!res.ok) throw new Error(`Playlist fetch failed for ${playlistId}: ${res.status}`);
   const html = await res.text();
@@ -170,11 +183,11 @@ async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
       )} titleSnippet=${html.slice(0, 200).replace(/\s+/g, " ")}`
     );
   }
-  // 頻道名稱/頭像：優先抓中文（請求已用 hl=zh-TW），抓不到名稱才退回英文重新請求一次。
+  // 頻道名稱/頭像：優先抓繁中（請求已用 hl=zh-TW），抓不到名稱才退回英文重新請求一次。
   let { title: channelTitle, avatarUrl: channelAvatarUrl } = extractChannelInfo(data);
   if (!channelTitle) {
     const enRes = await fetch(`https://www.youtube.com/playlist?list=${playlistId}&hl=en&gl=US`, {
-      headers: { "User-Agent": UA, "Accept-Language": "en-US,en;q=0.9" },
+      headers: { "User-Agent": UA, "Accept-Language": ACCEPT_LANGUAGE_EN },
     });
     if (enRes.ok) {
       const enHtml = await enRes.text();
@@ -188,7 +201,7 @@ async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
     videos,
     continuationToken,
     apiKey,
-    context: { client: { clientName: "WEB", clientVersion } },
+    context: { client: { clientName: "WEB", clientVersion, hl: "zh-TW", gl: "TW" } },
     channelTitle,
     channelAvatarUrl,
   };
@@ -216,7 +229,7 @@ async function fetchContinuation(
 ): Promise<{ videos: PlaylistVideo[]; continuationToken: string | null }> {
   const res = await fetch(`https://www.youtube.com/youtubei/v1/browse?key=${apiKey}`, {
     method: "POST",
-    headers: { "Content-Type": "application/json", "User-Agent": UA },
+    headers: { "Content-Type": "application/json", "User-Agent": UA, "Accept-Language": ACCEPT_LANGUAGE_ZH_TW },
     body: JSON.stringify({ context, continuation: token }),
   });
   if (!res.ok) throw new Error(`Continuation fetch failed: ${res.status}`);
@@ -260,14 +273,12 @@ export async function fetchAllUploadedVideoIds(
   };
 }
 
-/**
- * 讀取影片詳情：改用 YouTube 內部 youtubei/v1/player API（WEB client），
- * 不再直接抓 watch page HTML —— 該頁面在 Cloudflare Worker 等機房 IP 上會被 YouTube
- * 機器人偵測擋下（回應 "LOGIN_REQUIRED: Sign in to confirm you're not a bot"），
- * 但 player API 只讀 metadata（不需要真的播放影片），不受此限制，回傳的
- * videoDetails / microformat 內容與 watch page 解析出來的完全相同。
- */
-export async function fetchVideoDetails(videoId: string): Promise<VideoDetails | null> {
+async function fetchPlayerJson(
+  videoId: string,
+  hl: string,
+  gl: string,
+  acceptLanguage: string
+): Promise<Record<string, unknown> | null> {
   const res = await fetch(
     "https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
     {
@@ -277,6 +288,7 @@ export async function fetchVideoDetails(videoId: string): Promise<VideoDetails |
         "User-Agent": UA,
         Origin: "https://www.youtube.com",
         Referer: `https://www.youtube.com/watch?v=${videoId}`,
+        "Accept-Language": acceptLanguage,
       },
       body: JSON.stringify({
         videoId,
@@ -284,8 +296,8 @@ export async function fetchVideoDetails(videoId: string): Promise<VideoDetails |
           client: {
             clientName: "WEB",
             clientVersion: "2.20240101.00.00",
-            hl: "zh-TW",
-            gl: "TW",
+            hl,
+            gl,
           },
         },
       }),
@@ -295,7 +307,27 @@ export async function fetchVideoDetails(videoId: string): Promise<VideoDetails |
     console.error(`TrackRadar: player API fetch failed for ${videoId}: ${res.status}`);
     return null;
   }
-  const playerResponse = (await res.json()) as Record<string, unknown>;
+  return (await res.json()) as Record<string, unknown>;
+}
+
+function playerTitle(playerResponse: Record<string, unknown>): string {
+  const videoDetails = playerResponse["videoDetails"] as Record<string, unknown> | undefined;
+  const microformat = playerResponse["microformat"] as Record<string, unknown> | undefined;
+  const playerMicroformat = microformat?.["playerMicroformatRenderer"] as Record<string, unknown> | undefined;
+  const vdTitle = typeof videoDetails?.["title"] === "string" ? (videoDetails["title"] as string) : "";
+  return preferZhTitle(ytText(playerMicroformat?.["title"]), vdTitle);
+}
+
+/**
+ * 讀取影片詳情：改用 YouTube 內部 youtubei/v1/player API（WEB client），
+ * 不再直接抓 watch page HTML —— 該頁面在 Cloudflare Worker 等機房 IP 上會被 YouTube
+ * 機器人偵測擋下（回應 "LOGIN_REQUIRED: Sign in to confirm you're not a bot"），
+ * 但 player API 只讀 metadata（不需要真的播放影片），不受此限制，回傳的
+ * videoDetails / microformat 內容與 watch page 解析出來的完全相同。
+ */
+export async function fetchVideoDetails(videoId: string): Promise<VideoDetails | null> {
+  const playerResponse = await fetchPlayerJson(videoId, "zh-TW", "TW", ACCEPT_LANGUAGE_ZH_TW);
+  if (!playerResponse) return null;
 
   const videoDetails = playerResponse["videoDetails"] as Record<string, unknown> | undefined;
   if (!videoDetails) {
@@ -322,14 +354,20 @@ export async function fetchVideoDetails(videoId: string): Promise<VideoDetails |
     ?.thumbnails;
   const thumbnail = thumbnails?.[thumbnails.length - 1]?.url ?? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
 
+  let title = playerTitle(playerResponse);
+  if (!title) {
+    const enPlayer = await fetchPlayerJson(videoId, "en", "US", ACCEPT_LANGUAGE_EN);
+    if (enPlayer) title = playerTitle(enPlayer);
+  }
+
   return {
     videoId,
-    title: (videoDetails["title"] as string) ?? "",
+    title,
     thumbnail,
     lengthSeconds: Number(videoDetails["lengthSeconds"] ?? 0),
     isLiveContent: Boolean(videoDetails["isLiveContent"]),
-    isLiveNow: Boolean(liveDetails && !liveDetails["endTimestamp"] && liveDetails["startTimestamp"]),
     isUpcoming: Boolean(playerMicroformat?.["isUpcoming"]) || Boolean(videoDetails["isUpcoming"]),
+    isLiveNow: Boolean(liveDetails && !liveDetails["endTimestamp"] && liveDetails["startTimestamp"]),
     publishDate: (playerMicroformat?.["publishDate"] as string) ?? null,
   };
 }
