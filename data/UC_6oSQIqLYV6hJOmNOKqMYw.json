@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-09-19T15:30:42.838+08:00",
+  "lastUpdated": "2026-09-19T15:35:40.496+08:00",
   "latestVideo": {
     "videoId": "pwQhe19X_6g",
     "title": "《我還是會想你》｜明明放下了，心卻還停在那裡｜EIRYN Official Music Video",
@@ -382,19 +382,27 @@
     },
     {
       "videoId": "WnWyYFGM1eo",
-      "title": "【 古風歌曲 】《墨落無聲》史詩感古風抒情：當思念化作筆墨，誰能勾勒出永遠？｜古風音樂2026｜中國風音樂｜古風抒情女聲｜古風原創歌曲｜絕美古風｜動態歌詞｜原創歌曲｜Gufeng｜國風｜Lyrics｜"
+      "title": "【 古風歌曲 】《墨落無聲》史詩感古風抒情：當思念化作筆墨，誰能勾勒出永遠？｜古風音樂2026｜中國風音樂｜古風抒情女聲｜古風原創歌曲｜絕美古風｜動態歌詞｜原創歌曲｜Gufeng｜國風｜Lyrics｜",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "NX-lzn4Ax-M",
-      "title": "【 古風歌曲 】《空山渡》-「如果命運要我流浪，就把名字寫進風霜 一聲唱盡流浪者的孤傲與榮光」｜古風音樂2025｜中國風音樂｜古風抒情女聲｜古風原創歌曲｜絕美古風｜空山渡｜孤獨感｜空山辭｜#原創歌曲"
+      "title": "【 古風歌曲 】《空山渡》-「如果命運要我流浪，就把名字寫進風霜 一聲唱盡流浪者的孤傲與榮光」｜古風音樂2025｜中國風音樂｜古風抒情女聲｜古風原創歌曲｜絕美古風｜空山渡｜孤獨感｜空山辭｜#原創歌曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "WEYag0RQ6cs",
-      "title": "原創古風單曲｜夢回故里｜音樂可視化"
+      "title": "原創古風單曲｜夢回故里｜音樂可視化",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "lGjigwBoQm8",
-      "title": "【LIVE】K POP DANCE PLAYLIST 2025 EP9"
+      "title": "【LIVE】K POP DANCE PLAYLIST 2025 EP9",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.89
     }
   ]
 }
