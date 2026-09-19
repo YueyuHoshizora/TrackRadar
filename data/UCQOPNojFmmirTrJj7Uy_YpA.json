@@ -1,7 +1,7 @@
 {
   "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
   "channelTitle": "浣月Huanyue",
-  "lastUpdated": "2026-09-19T14:45:21.672+08:00",
+  "lastUpdated": "2026-09-19T14:50:21.137+08:00",
   "latestVideo": {
     "videoId": "2DbzF9kJs_g",
     "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "g-zmyNryFqA",
-      "title": "你向煙波深處去，我守一城春｜《山河未許》｜古風・中國風原創歌曲🎧浣月Huanyue—YT十二弦月",
+      "title": "山河萬里，終究沒能等你同歸｜《山河未許》｜古風・中國風原創歌曲🎧浣月Huanyue—YT十二弦月",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -742,43 +742,63 @@
     },
     {
       "videoId": "u35kBjcWECo",
-      "title": "The first part of \"Tears of the River of Oblivion\": Remembering Longing | The River of Oblivion—a..."
+      "title": "The first part of \"Tears of the River of Oblivion\": Remembering Longing | The River of Oblivion—a...",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "OHOBLh72c0s",
-      "title": "【愛.收走了】細膩原聲演繹，捕捉都市情感中愛逝的迷惘與釋懷｜原聲 Acoustic / 溫柔失落 / 思念療癒 / 城市角落 / 深夜獨白 #心碎情歌 #告別 #愛情"
+      "title": "【愛.收走了】細膩原聲演繹，捕捉都市情感中愛逝的迷惘與釋懷｜原聲 Acoustic / 溫柔失落 / 思念療癒 / 城市角落 / 深夜獨白 #心碎情歌 #告別 #愛情",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "R4yYuj25QHo",
-      "title": "【風起的那一刻】- Unknown Artist 💛 黃昏都市光影中，風起時的溫柔回憶與深情獨白｜J-pop Music / 觸動心弦的懷舊與淡淡憂傷 / 城市陽台、晚霞列車、獨行街道"
+      "title": "【風起的那一刻】- Unknown Artist 💛 黃昏都市光影中，風起時的溫柔回憶與深情獨白｜J-pop Music / 觸動心弦的懷舊與淡淡憂傷 / 城市陽台、晚霞列車、獨行街道",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "4baaM53xMXc",
-      "title": "【俠影歸隱】💗 俠骨柔情，豪邁江湖夢｜中國風 Instrumental / 盪氣迴腸 / 沉醉水墨江湖 #武俠音樂 #江湖豪情 #中國風音樂 #江湖音樂"
+      "title": "【俠影歸隱】💗 俠骨柔情，豪邁江湖夢｜中國風 Instrumental / 盪氣迴腸 / 沉醉水墨江湖 #武俠音樂 #江湖豪情 #中國風音樂 #江湖音樂",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "mIvi0QNyxmg",
-      "title": "【夜色裡的你】💝 懷舊老上海爵士｜爵士樂 Music / 醇厚浪漫 / 雨夜沉醉時光  #老上海音樂 #懷舊音樂 #復古爵士樂  #Jazz Music Cover"
+      "title": "【夜色裡的你】💝 懷舊老上海爵士｜爵士樂 Music / 醇厚浪漫 / 雨夜沉醉時光  #老上海音樂 #懷舊音樂 #復古爵士樂  #Jazz Music Cover",
+      "genre": "爵士 Jazz",
+      "genreConfidence": 1
     },
     {
       "videoId": "rwfSARJZbRI",
-      "title": "【林間獨踽】🌈 幻音流光的音樂世界｜如風穿葉，清澈而寧靜  中國風 Version / Amazing / 音樂欣賞 #中國風 #演奏 #中國風音樂 #純音樂"
+      "title": "【林間獨踽】🌈 幻音流光的音樂世界｜如風穿葉，清澈而寧靜  中國風 Version / Amazing / 音樂欣賞 #中國風 #演奏 #中國風音樂 #純音樂",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "aIab3ScznnY",
-      "title": "【雨停在那一夜】- 幻音流光 💞 純粹原聲、古典雅韻、流行旋律，勾勒雨停那夜的寧靜與回憶。｜流行 Acoustic / 深邃療癒、觸動心弦 / 雨夜獨思、心靈沉澱時光#原創歌曲 #古典流行"
+      "title": "【雨停在那一夜】- 幻音流光 💞 純粹原聲、古典雅韻、流行旋律，勾勒雨停那夜的寧靜與回憶。｜流行 Acoustic / 深邃療癒、觸動心弦 / 雨夜獨思、心靈沉澱時光#原創歌曲 #古典流行",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "9HiAEQIMaTY",
-      "title": "【遊子歸心】- 幻音流光 ✨ 觸動靈魂深處的歸鄉思緒，純粹音色溫暖療癒｜原聲 Acoustic / 溫馨療癒 / 回憶旅程 #原創音樂  #放鬆音樂 #思鄉 #歸屬感"
+      "title": "【遊子歸心】- 幻音流光 ✨ 觸動靈魂深處的歸鄉思緒，純粹音色溫暖療癒｜原聲 Acoustic / 溫馨療癒 / 回憶旅程 #原創音樂  #放鬆音樂 #思鄉 #歸屬感",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "YlkOgh_89JQ",
-      "title": "【你就是唯一】- 幻音流光 🔥 你就是唯一 的音樂世界｜都市流行 Piano / Amazing / 音樂欣賞#都市流行 #你就是唯一 #Music #Listening #Amazing"
+      "title": "【你就是唯一】- 幻音流光 🔥 你就是唯一 的音樂世界｜都市流行 Piano / Amazing / 音樂欣賞#都市流行 #你就是唯一 #Music #Listening #Amazing",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "7PlgTFm2m9g",
-      "title": "【遠方的你】 💞 柔和旋律輕撫心緒，將對遠方的思念化為一份寧靜慰藉｜Chill Music / 療癒放鬆 / 靜心讀書#ChillMusic #PopMusic"
+      "title": "【遠方的你】 💞 柔和旋律輕撫心緒，將對遠方的思念化為一份寧靜慰藉｜Chill Music / 療癒放鬆 / 靜心讀書#ChillMusic #PopMusic",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "sBxkCMef5mA",
