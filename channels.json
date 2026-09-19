@@ -1,7 +1,22 @@
 [
-  { "id": "UC4sQ-mQ_AiZrNtSOEzqY7FA", "name": "語音星空" },
-  { "id": "UCYyzOVPBHzhr_cFFJbGoymQ", "name": "安餒An_Nei" },
-  { "id": "UCdUiLDnjJc3fcH-0wT7CFpg", "name": "COYA可夜" },
-  { "id": "UCMdsgcXZrPl5axnKrH1UsYQ", "name": "修卡迪特AI_創作" },
-  { "id": "UCQOPNojFmmirTrJj7Uy_YpA", "name": "浣月Huanyue" }
+  {
+    "id": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
+    "name": "Yu Starry Music"
+  },
+  {
+    "id": "UCYyzOVPBHzhr_cFFJbGoymQ",
+    "name": "安餒An_Nei"
+  },
+  {
+    "id": "UCdUiLDnjJc3fcH-0wT7CFpg",
+    "name": "COYA可夜"
+  },
+  {
+    "id": "UCMdsgcXZrPl5axnKrH1UsYQ",
+    "name": "修卡迪特AI_創作"
+  },
+  {
+    "id": "UCQOPNojFmmirTrJj7Uy_YpA",
+    "name": "浣月Huanyue"
+  }
 ]
