@@ -1,7 +1,7 @@
 {
   "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
   "channelTitle": "ChillVibes",
-  "lastUpdated": "2026-09-19T12:55:39.751+08:00",
+  "lastUpdated": "2026-09-19T13:00:45.214+08:00",
   "latestVideo": {
     "videoId": "1w0JaA9_ueQ",
     "title": "One Earbud Each | Warm R&B for Sharing a Quiet Night · NIGHT.11 (Lyric Video)",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "VRct_1OfYnA",
-      "title": "未寄出的訊息｜那些始終說不出口的話・深夜療癒 R&B｜夜行日記 03（歌詞版）"
+      "title": "未寄出的訊息｜那些始終說不出口的話・深夜療癒 R&B｜夜行日記 03（歌詞版）",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "VBCf8jobWk8",
-      "title": "凌晨兩點的便利商店｜寫給還沒準備好回家的你・夜行日記02（歌詞版）"
+      "title": "凌晨兩點的便利商店｜寫給還沒準備好回家的你・夜行日記02（歌詞版）",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "pAjXrlefki4",
-      "title": "末班車｜寫給那個你仍然想回去見的人・夜行日記01（歌詞版）"
+      "title": "末班車｜寫給那個你仍然想回去見的人・夜行日記01（歌詞版）",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "4lqE90O6NjU",
-      "title": "【R&B Playlist】20分鐘療癒旅行音樂｜放鬆、讀書、通勤與夜晚陪伴｜Travel Diary Chapter 2 ✈️"
+      "title": "【R&B Playlist】20分鐘療癒旅行音樂｜放鬆、讀書、通勤與夜晚陪伴｜Travel Diary Chapter 2 ✈️",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "SE6ydzxmaN0",
-      "title": "【R&B Single】整理行李，也整理心情｜放下、釋懷、重新出發｜Extra Baggage【Original Song】｜旅行日記・第十四站"
+      "title": "【R&B Single】整理行李，也整理心情｜放下、釋懷、重新出發｜Extra Baggage【Original Song】｜旅行日記・第十四站",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "qH3oOa_ZFWg",
-      "title": "【R&B Single】薰衣草旅館的安靜夜晚｜獨處、放鬆、睡前療癒｜Lavender Hotel【Original Song】｜旅行日記・第十三站"
+      "title": "【R&B Single】薰衣草旅館的安靜夜晚｜獨處、放鬆、睡前療癒｜Lavender Hotel【Original Song】｜旅行日記・第十三站",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "DCM20ikQ2l8",
-      "title": "【R&B Single】夜航月光下的思念｜旅行、放鬆、睡前療癒｜Different Sky, Same Moon【Original Song】｜旅行日記・第十二站"
+      "title": "【R&B Single】夜航月光下的思念｜旅行、放鬆、睡前療癒｜Different Sky, Same Moon【Original Song】｜旅行日記・第十二站",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "wYLqa32i6JE",
-      "title": "【R&B Single】雨夜寫給自己的明信片｜獨處、放鬆、睡前療癒｜Postcard To Myself【Original Song】｜旅行日記・第十一站"
+      "title": "【R&B Single】雨夜寫給自己的明信片｜獨處、放鬆、睡前療癒｜Postcard To Myself【Original Song】｜旅行日記・第十一站",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "HMx8cRLACdc",
-      "title": "【R&B Single】夕陽海邊慢騎｜放空、療癒、回家路上｜Sunset Bicycle【Official Video】｜旅行日記・第十站"
+      "title": "【R&B Single】夕陽海邊慢騎｜放空、療癒、回家路上｜Sunset Bicycle【Official Video】｜旅行日記・第十站",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "ljw_N33dH7M",
-      "title": "【R&B Single】濟州橘子路黃昏｜公路旅行、散步、放鬆｜Tangerine Soda【Original Song】｜旅行日記・第九站"
+      "title": "【R&B Single】濟州橘子路黃昏｜公路旅行、散步、放鬆｜Tangerine Soda【Original Song】｜旅行日記・第九站",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "fGmsixLVejs",
