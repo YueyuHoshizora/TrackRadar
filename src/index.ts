@@ -3,6 +3,7 @@ import { getJson, putJson } from "./github";
 import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails } from "./youtube";
 import { evaluateVideo } from "./filter";
 import { toUtc8Iso } from "./time";
+import { classifyGenre } from "./genre";
 
 const CONCURRENCY = 5;
 
@@ -87,7 +88,16 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
     }
   }
 
-  // 2. 全部影片 ID 清單，僅作備查/稽核用途（新到舊），不抓詳情、不過濾
+  // 3. 曲風分類（typesafe/jev）：只在最新影片缺少分類時呼叫，避免每次執行都重複打模型
+  if (latestVideo && !latestVideo.genre) {
+    const genreResult = await classifyGenre(env, latestVideo.title, channelTitle ?? channelId);
+    if (genreResult) {
+      latestVideo = { ...latestVideo, genre: genreResult.genre, genreConfidence: genreResult.confidence };
+      latestChanged = true;
+    }
+  }
+
+  // 4. 全部影片 ID 清單，僅作備查/稽核用途（新到舊），不抓詳情、不過濾
   let allVideoIds = existingData?.allVideoIds ?? [];
   let allIdsChanged = false;
   try {

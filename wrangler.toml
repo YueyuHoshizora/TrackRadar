@@ -2,6 +2,10 @@ name = "track-radar"
 main = "src/index.ts"
 compatibility_date = "2024-11-01"
 
+# Workers AI binding，用於呼叫 typesafe/jev 模型做曲風分類
+[ai]
+binding = "AI"
+
 # 每 5 分鐘觸發一次
 [triggers]
 crons = ["*/5 * * * *"]

@@ -10,6 +10,7 @@ export interface Env {
   ALL_IDS_MAX_VIDEOS: string;
   GITHUB_TOKEN: string;
   ADMIN_TOKEN?: string;
+  AI: Ai;
 }
 
 /** 單支影片資料（存放於 data/<channelId>.json） */
@@ -21,6 +22,8 @@ export interface VideoRecord {
   durationSeconds: number;
   publishedAt: string; // ISO 8601 (UTC+8)，來自 watch page microformat，精確到日
   fetchedAt: string; // ISO 8601 (UTC+8)，本系統抓到這支影片的時間
+  genre?: string; // 由 typesafe/jev 模型根據標題判斷的曲風分類（src/genres.json 其中一項）
+  genreConfidence?: number; // 0~1，該曲風分類的信心值
 }
 
 /**
