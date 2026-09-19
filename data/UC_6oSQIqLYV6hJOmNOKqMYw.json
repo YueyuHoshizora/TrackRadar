@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-09-19T15:15:41.046+08:00",
+  "lastUpdated": "2026-09-19T15:20:40.669+08:00",
   "latestVideo": {
     "videoId": "pwQhe19X_6g",
     "title": "《我還是會想你》｜明明放下了，心卻還停在那裡｜EIRYN Official Music Video",
@@ -202,43 +202,63 @@
     },
     {
       "videoId": "ndTW6N14QwE",
-      "title": "「後來，我們呢？」深夜聽這首，你還敢想他嗎？| 2026揪心催淚原創歌曲"
+      "title": "「後來，我們呢？」深夜聽這首，你還敢想他嗎？| 2026揪心催淚原創歌曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "rJxhtdo424A",
-      "title": "《風吹過，你懂的》 - EIRYN｜雲南民謠療癒情歌，送給回不去的從前"
+      "title": "《風吹過，你懂的》 - EIRYN｜雲南民謠療癒情歌，送給回不去的從前",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "8BNDpDa8k8U",
-      "title": "《後來的我們》EIRYN｜不是放不下，而是青春有個名字【動態歌詞】"
+      "title": "《後來的我們》EIRYN｜不是放不下，而是青春有個名字【動態歌詞】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "cOW86JU1jFE",
-      "title": "【隔著螢幕抱緊你】｜你有沒有正在想卻見不到的人？｜獻給每一段遠距離愛情｜EIRYN"
+      "title": "【隔著螢幕抱緊你】｜你有沒有正在想卻見不到的人？｜獻給每一段遠距離愛情｜EIRYN",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "LnkXRPtZMhY",
-      "title": "《我們還會再見吧》EIRYN｜2026最催淚校園畢業歌｜"
+      "title": "《我們還會再見吧》EIRYN｜2026最催淚校園畢業歌｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "jb04EAHngzI",
-      "title": "【跟著媽祖走】EIRYN - 2026 白沙屯媽祖進香主題曲（全程隨香感動MV版）"
+      "title": "【跟著媽祖走】EIRYN - 2026 白沙屯媽祖進香主題曲（全程隨香感動MV版）",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "4plEpehC-iI",
-      "title": "【灰】 - EIRYN｜迷幻神遊 Trip-Hop：這聲音有毒，治癒每一個下墜的靈魂"
+      "title": "【灰】 - EIRYN｜迷幻神遊 Trip-Hop：這聲音有毒，治癒每一個下墜的靈魂",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "8JMe3gH-dkg",
-      "title": "【晚一點發光也沒關係】EIRYN ｜給所有覺得自己走得太慢、正處於焦慮中的你：不是每朵花都必須同時盛開。｜"
+      "title": "【晚一點發光也沒關係】EIRYN ｜給所有覺得自己走得太慢、正處於焦慮中的你：不是每朵花都必須同時盛開。｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "3-rZfEa5bIU",
-      "title": "《跟著皮皮去冒險》EIRYN｜今天也搬水果、種花、打磨菇了嗎｜ 一玩就上癮"
+      "title": "《跟著皮皮去冒險》EIRYN｜今天也搬水果、種花、打磨菇了嗎｜ 一玩就上癮",
+      "genre": "遊戲音樂 Game Music",
+      "genreConfidence": 0.49
     },
     {
       "videoId": "2YzlBsDn4t4",
-      "title": "【凌晨三點的藍色房間】-EIRYN｜凌晨三點，安靜變得刺眼：這首歌送給所有還在等天亮的靈魂。｜2026最催淚深夜情歌｜"
+      "title": "【凌晨三點的藍色房間】-EIRYN｜凌晨三點，安靜變得刺眼：這首歌送給所有還在等天亮的靈魂。｜2026最催淚深夜情歌｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "ZFH3s5Cqw_E",
