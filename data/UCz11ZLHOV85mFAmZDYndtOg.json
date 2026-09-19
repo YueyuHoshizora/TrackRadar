@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:05:42.569+08:00",
+  "lastUpdated": "2026-09-19T16:10:42.314+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -202,43 +202,63 @@
     },
     {
       "videoId": "Yfb9EX4Zam0",
-      "title": "🎧 D1 Waiting Static | Signal #008 — Transmission Delay"
+      "title": "🎧 D1 Waiting Static | Signal #008 — Transmission Delay",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "vam4au7Xpi0",
-      "title": "🎧 D5 Dawn Across the Water | Signal #007 — Lights Over Water"
+      "title": "🎧 D5 Dawn Across the Water | Signal #007 — Lights Over Water",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "2wgPn7Z91qg",
-      "title": "🎧 D4 Waves Carry Meaning | Signal #007 — Lights Over Water"
+      "title": "🎧 D4 Waves Carry Meaning | Signal #007 — Lights Over Water",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "gHJVr_axRzc",
-      "title": "🎧 D3 The Lake Starts Singing | Signal #007 — Lights Over Water"
+      "title": "🎧 D3 The Lake Starts Singing | Signal #007 — Lights Over Water",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "X5S_JYJkQKI",
-      "title": "🎧 D2 Reflections Awake | Signal #007 — Lights Over Water"
+      "title": "🎧 D2 Reflections Awake | Signal #007 — Lights Over Water",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "1NXD8VZQ19M",
-      "title": "🎧 D1 Flicker on the Surface | Signal #007 — Lights Over Water"
+      "title": "🎧 D1 Flicker on the Surface | Signal #007 — Lights Over Water",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "-gVWXb3UX1s",
-      "title": "🎧 D5 — Blue Planet Smiles | Signal #006 — Orbit Response"
+      "title": "🎧 D5 — Blue Planet Smiles | Signal #006 — Orbit Response",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "21BnXQrRQpg",
-      "title": "🎧 D4 — Passing in Balance | Signal #006 — Orbit Response"
+      "title": "🎧 D4 — Passing in Balance | Signal #006 — Orbit Response",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "iAOCDkrCdkU",
-      "title": "🎧 D3 — Orbit Answers Back | Signal #006 — Orbit Response"
+      "title": "🎧 D3 — Orbit Answers Back | Signal #006 — Orbit Response",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "5SudZfergEA",
-      "title": "🎧 D2 — Spiral Transmission | Signal #006 — Orbit Response"
+      "title": "🎧 D2 — Spiral Transmission | Signal #006 — Orbit Response",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "br3umr8q2Hs",
