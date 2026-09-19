@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-09-19T12:55:40.442+08:00",
+  "lastUpdated": "2026-09-19T13:00:51.743+08:00",
   "latestVideo": {
     "videoId": "pwQhe19X_6g",
     "title": "《我還是會想你》｜明明放下了，心卻還停在那裡｜EIRYN Official Music Video",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "KolHKp5YIaQ",
-      "title": "《留在昨天》｜如果回憶有期限，我希望停在遇見你的那一天。｜EIRYN Official Music Video｜"
+      "title": "《留在昨天》｜如果回憶有期限，我希望停在遇見你的那一天。｜EIRYN Official Music Video｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "k8oIz2laCqw",
-      "title": "《不打擾》｜如果愛會讓你為難，我選擇安靜離開｜EIRYN Official Music Video｜"
+      "title": "《不打擾》｜如果愛會讓你為難，我選擇安靜離開｜EIRYN Official Music Video｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "da0vwTdTgRg",
-      "title": "《鬼門開》｜午夜鐘聲響起，你敢回頭嗎？｜陰陽兩界的思念｜國風電影感歌曲｜EIRYN Official Music Video｜"
+      "title": "《鬼門開》｜午夜鐘聲響起，你敢回頭嗎？｜陰陽兩界的思念｜國風電影感歌曲｜EIRYN Official Music Video｜",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "x_rnYcy11vw",
-      "title": "《散場》｜當燈亮起，我們成了彼此的過客 人群散了，我們也散了｜EIRYN Official Music Video｜"
+      "title": "《散場》｜當燈亮起，我們成了彼此的過客 人群散了，我們也散了｜EIRYN Official Music Video｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "e74xs0BDr3s",
-      "title": "《謝謝你.老爸》｜聽到最後一定會哭 😭 最感人的父愛歌曲・送給爸爸的一首歌｜2026最催淚父親節歌曲｜Official Lyric Video"
+      "title": "《謝謝你.老爸》｜聽到最後一定會哭 😭 最感人的父愛歌曲・送給爸爸的一首歌｜2026最催淚父親節歌曲｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "itulYkCE8GQ",
-      "title": "《慢半拍的想念》｜原來最深的遺憾，是生活恢復平靜以後｜Official Lyric Video｜2026最新華語情歌"
+      "title": "《慢半拍的想念》｜原來最深的遺憾，是生活恢復平靜以後｜Official Lyric Video｜2026最新華語情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "P9Jnoz0R_RI",
-      "title": "《夜色收藏了你》｜那些沒能說出口的話，都藏在夜裡｜ Official Music Video｜ 2026華語情歌"
+      "title": "《夜色收藏了你》｜那些沒能說出口的話，都藏在夜裡｜ Official Music Video｜ 2026華語情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "UpozaQ_d_HE",
-      "title": "《留白的季節》｜如果重逢只是幻想，我也不再埋怨｜ Official Music Video｜2026必聽情歌"
+      "title": "《留白的季節》｜如果重逢只是幻想，我也不再埋怨｜ Official Music Video｜2026必聽情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "4ZT0f7uUfbI",
-      "title": "《我們只是錯過了》｜不是不愛了，只是晚了一步｜ Official Lyrics MV"
+      "title": "《我們只是錯過了》｜不是不愛了，只是晚了一步｜ Official Lyrics MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "igZxj_n1dD8",
-      "title": "《第三人稱的遺憾》｜為什麼最愛的人，最後只能留在故事裡？｜Official Lyrics MV"
+      "title": "《第三人稱的遺憾》｜為什麼最愛的人，最後只能留在故事裡？｜Official Lyrics MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "qeXG58wBE8I",
