@@ -1,7 +1,7 @@
 {
   "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
   "channelTitle": "予安YUAN",
-  "lastUpdated": "2026-09-19T12:55:41.637+08:00",
+  "lastUpdated": "2026-09-19T13:00:53.118+08:00",
   "latestVideo": {
     "videoId": "7aouI_5Zjro",
     "title": "《借我一點你的時光》｜如果你累了，就聽這首歌。 聽一遍就會愛上的深夜情歌｜予安 Yuan Official MV Music  Video",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "x8Odx5jhQDM",
-      "title": "《農曆七月鬼門開》｜鬼門已開，你敢回頭嗎？當陰陽界線變得模糊，你敢聽完這首歌嗎？｜予安 Yuan Official Music Video"
+      "title": "《農曆七月鬼門開》｜鬼門已開，你敢回頭嗎？當陰陽界線變得模糊，你敢聽完這首歌嗎？｜予安 Yuan Official Music Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "iOWZFz9Jons",
-      "title": "《我們都》｜沒有出軌、沒有爭吵，最後卻還是分開了。｜予安 Yuan Official Music Video"
+      "title": "《我們都》｜沒有出軌、沒有爭吵，最後卻還是分開了。｜予安 Yuan Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "gCgPqNF3EO0",
-      "title": "《爸爸，你辛苦了》｜寫給全天下爸爸的一首感謝之歌｜2026父親節必聽歌曲｜予安 Yuan Official Music Video"
+      "title": "《爸爸，你辛苦了》｜寫給全天下爸爸的一首感謝之歌｜2026父親節必聽歌曲｜予安 Yuan Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "qtBzWusyXlo",
-      "title": "《擁抱過的遺憾》｜原來最深的遺憾，是連爭吵都沒有就散了｜予安 Yuan Official Music Video"
+      "title": "《擁抱過的遺憾》｜原來最深的遺憾，是連爭吵都沒有就散了｜予安 Yuan Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "-0WXx5vQS48",
-      "title": "《擦肩而過》｜明明一句挽留就夠了，最後卻成了一輩子的遺憾｜Official Music Video"
+      "title": "《擦肩而過》｜明明一句挽留就夠了，最後卻成了一輩子的遺憾｜Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "MfwitT7CRIQ",
-      "title": "《錯過》｜我們不是沒有愛過，只是沒有走到最後｜予安 Yuan Official Music Video"
+      "title": "《錯過》｜我們不是沒有愛過，只是沒有走到最後｜予安 Yuan Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "tiCFs3jRaAM",
-      "title": "《霓虹燈下的告別》｜我們都以為還有明天，卻在今晚走散｜動態歌詞 MV｜最新城市抒情單曲"
+      "title": "《霓虹燈下的告別》｜我們都以為還有明天，卻在今晚走散｜動態歌詞 MV｜最新城市抒情單曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "hxTj0A8imFA",
-      "title": "《時差的錯覺》｜原來我們住在同一個城市，卻過著不同的時區｜Official Music Video"
+      "title": "《時差的錯覺》｜原來我們住在同一個城市，卻過著不同的時區｜Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "Eqq7fvYZcVM",
-      "title": "《沒說出口的話》｜我們輸給了沉默，不是輸給了不愛｜予安 Yuan Official Music Video"
+      "title": "《沒說出口的話》｜我們輸給了沉默，不是輸給了不愛｜予安 Yuan Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "JUCpG5mUxmU",
-      "title": "《我輸給了時間》｜有些人不是不愛了，而是輸給了時間｜Official Lyrics Video"
+      "title": "《我輸給了時間》｜有些人不是不愛了，而是輸給了時間｜Official Lyrics Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "osy6YBKkl_I",
