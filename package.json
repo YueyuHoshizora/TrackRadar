@@ -2,6 +2,7 @@
   "name": "trackradar",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "description": "TrackRadar - Cloudflare Worker that polls YouTube channel uploads and stores new videos as JSON in a GitHub repository.",
   "scripts": {
     "dev": "wrangler dev",
