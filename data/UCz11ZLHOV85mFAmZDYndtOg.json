@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:25:42.180+08:00",
+  "lastUpdated": "2026-09-19T16:30:41.590+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -442,43 +442,63 @@
     },
     {
       "videoId": "2qBj2jOVMs0",
-      "title": "D1 Noise Under Rain | Signal #003 — Signal Beneath Clouds"
+      "title": "D1 Noise Under Rain | Signal #003 — Signal Beneath Clouds",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "BQigOgbWT08",
-      "title": "Case #003 — Midnight Passenger | D5   Silence Remains | Gentlemen’s Lounge"
+      "title": "Case #003 — Midnight Passenger | D5   Silence Remains | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "2GjCQ8RFQss",
-      "title": "D5 Transmission Complete | Signal #002 — I Was Always There"
+      "title": "D5 Transmission Complete | Signal #002 — I Was Always There",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "4qK_R8Bhb5w",
-      "title": "Case #003 — Midnight Passenger | D4   No Turning Back | Gentlemen’s Lounge"
+      "title": "Case #003 — Midnight Passenger | D4   No Turning Back | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "a44GHtIVtqQ",
-      "title": "D4 Overload | Signal #002 — Identity Fragmentation"
+      "title": "D4 Overload | Signal #002 — Identity Fragmentation",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "pc9HZKean34",
-      "title": "Case #003 — Midnight Passenger | D3   Shadows Reveal Truth | Gentlemen’s Lounge"
+      "title": "Case #003 — Midnight Passenger | D3   Shadows Reveal Truth | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "UaPtnudgJp8",
-      "title": "D3 Partial Decode | Signal #002 — Parallel Echo"
+      "title": "D3 Partial Decode | Signal #002 — Parallel Echo",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "4kjLOzJFwOg",
-      "title": "Case #003 — Midnight Passenger | D2   The Road Knows | Gentlemen’s Lounge"
+      "title": "Case #003 — Midnight Passenger | D2   The Road Knows | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "zNjqkiGh_JI",
-      "title": "D2 Instability | Signal #002 — Parallel Echo"
+      "title": "D2 Instability | Signal #002 — Parallel Echo",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "eT0XfD1k1tk",
-      "title": "Case #003 — Midnight Passenger | D1   Contract Begins | Gentlemen’s Lounge"
+      "title": "Case #003 — Midnight Passenger | D1   Contract Begins | Gentlemen’s Lounge",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "9uCBCvX1zfc",
