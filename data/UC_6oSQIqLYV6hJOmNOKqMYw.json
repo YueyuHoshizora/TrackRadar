@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-09-19T15:10:40.851+08:00",
+  "lastUpdated": "2026-09-19T15:15:41.046+08:00",
   "latestVideo": {
     "videoId": "pwQhe19X_6g",
     "title": "《我還是會想你》｜明明放下了，心卻還停在那裡｜EIRYN Official Music Video",
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "qeXG58wBE8I",
-      "title": "《你的世界沒有我》｜如果你的世界沒有我，你會比較快樂嗎？一首唱給放不下的人｜Official Lyrics MV"
+      "title": "《你的世界沒有我》｜如果你的世界沒有我，你會比較快樂嗎？一首唱給放不下的人｜Official Lyrics MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "YXBXTF8UhWY",
-      "title": "《回不去的從前》｜如果時間能倒流，你還會選擇離開嗎？那些回憶，終究回不去了｜Official Lyrics MV"
+      "title": "《回不去的從前》｜如果時間能倒流，你還會選擇離開嗎？那些回憶，終究回不去了｜Official Lyrics MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "2echtMyf6Zw",
-      "title": "《我還愛著你》｜如果還忘不了一個人，就把這首歌聽完｜Official Lyrics MV"
+      "title": "《我還愛著你》｜如果還忘不了一個人，就把這首歌聽完｜Official Lyrics MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "8cjGNPhF-gk",
-      "title": "【那天以後】2026最催淚失戀情歌｜聽完才知道原來放下一個人這麼難｜Official Lyrics MV"
+      "title": "【那天以後】2026最催淚失戀情歌｜聽完才知道原來放下一個人這麼難｜Official Lyrics MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "17Xcf13uOFc",
-      "title": "回憶沒有刪除鍵｜聽一次就想起那個人 💔｜催淚失戀情歌｜動態歌詞 MV｜2026 最新傷感情歌｜"
+      "title": "回憶沒有刪除鍵｜聽一次就想起那個人 💔｜催淚失戀情歌｜動態歌詞 MV｜2026 最新傷感情歌｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "9TExVPi3-b0",
-      "title": "《最後一次想你》｜關於放下，關於那個曾陪我走過的你｜ (Official Lyric Video)"
+      "title": "《最後一次想你》｜關於放下，關於那個曾陪我走過的你｜ (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "B-R5CjSZstM",
-      "title": "《不只是朋友》｜明明互相喜歡，卻誰都沒有說出口｜2026最遺憾曖昧情歌【動態歌詞】"
+      "title": "《不只是朋友》｜明明互相喜歡，卻誰都沒有說出口｜2026最遺憾曖昧情歌【動態歌詞】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "-5G14NYZGK4",
-      "title": "Playlist 2026 深夜單曲循環｜陪你度過寂寞的夜晚，10 首越聽越上癮的精選歌單 🌙"
+      "title": "Playlist 2026 深夜單曲循環｜陪你度過寂寞的夜晚，10 首越聽越上癮的精選歌單 🌙",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "8BPr_U__1RA",
-      "title": "【如果當時有告白】EIRYN｜辦公室暗戀故事｜錯過的愛情，你是否也曾這樣遺憾？｜催淚情歌｜"
+      "title": "【如果當時有告白】EIRYN｜辦公室暗戀故事｜錯過的愛情，你是否也曾這樣遺憾？｜催淚情歌｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "Rycm9m2-9wA",
-      "title": "《阿嬤包的粽》聽哭無數人的端午節歌曲｜獻給最思念的人｜2026端午節歌曲"
+      "title": "《阿嬤包的粽》聽哭無數人的端午節歌曲｜獻給最思念的人｜2026端午節歌曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "ndTW6N14QwE",
