@@ -1,20 +1,10 @@
 {
-  "updatedAt": "2026-09-19T14:10:36.499+08:00",
+  "updatedAt": "2026-09-19T14:15:33.082+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "語音星空",
-      "latestVideo": {
-        "videoId": "VlPInz7dIDs",
-        "title": "我們要的不是復合，是用現在重新相愛｜不是回到從前｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=VlPInz7dIDs",
-        "thumbnail": "https://i.ytimg.com/vi/VlPInz7dIDs/maxresdefault.jpg",
-        "durationSeconds": 222,
-        "publishedAt": "2026-09-19T05:30:12.000+08:00",
-        "fetchedAt": "2026-09-19T08:31:27.310+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.98
-      }
+      "channelTitle": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
+      "latestVideo": null
     },
     {
       "channelId": "UCYyzOVPBHzhr_cFFJbGoymQ",
@@ -63,23 +53,23 @@
     },
     {
       "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
-      "channelTitle": "浣月Huanyue",
-      "latestVideo": {
-        "videoId": "2DbzF9kJs_g",
-        "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
-        "url": "https://www.youtube.com/watch?v=2DbzF9kJs_g",
-        "thumbnail": "https://i.ytimg.com/vi_webp/2DbzF9kJs_g/maxresdefault.webp",
-        "durationSeconds": 234,
-        "publishedAt": "2026-09-15T19:15:37.000+08:00",
-        "fetchedAt": "2026-09-19T10:35:47.312+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
-      }
+      "channelTitle": "UCQOPNojFmmirTrJj7Uy_YpA",
+      "latestVideo": null
     },
     {
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
-      "channelTitle": "UCa_pscMvUHKyWOSyRPocS9g",
-      "latestVideo": null
+      "channelTitle": "予棠 Lumiora",
+      "latestVideo": {
+        "videoId": "Top7T6uaMkc",
+        "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
+        "url": "https://www.youtube.com/watch?v=Top7T6uaMkc",
+        "thumbnail": "https://i.ytimg.com/vi/Top7T6uaMkc/maxresdefault.jpg",
+        "durationSeconds": 254,
+        "publishedAt": "2026-09-16T20:11:33.000+08:00",
+        "fetchedAt": "2026-09-19T10:46:06.245+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.52
+      }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
@@ -113,18 +103,8 @@
     },
     {
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
-      "channelTitle": "Lume vei 璃沫",
-      "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-09-19T10:46:07.291+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.33
-      }
+      "channelTitle": "UCSop8F751Q9bfYy-NAwPfiA",
+      "latestVideo": null
     },
     {
       "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
