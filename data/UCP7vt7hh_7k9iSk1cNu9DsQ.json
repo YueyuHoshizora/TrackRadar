@@ -1,7 +1,7 @@
 {
   "channelId": "UCP7vt7hh_7k9iSk1cNu9DsQ",
   "channelTitle": "洛陽-Luo Sequence ",
-  "lastUpdated": "2026-09-19T12:55:45.020+08:00",
+  "lastUpdated": "2026-09-19T13:00:58.522+08:00",
   "latestVideo": {
     "videoId": "AQGbIHAQ44Q",
     "title": "《浮生舊夢 : 歸雁》洛陽｜中國風原創｜有些人一別，便錯過了一生",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "fqdjkbad4pk",
-      "title": "《國色天香》洛陽Luo Sequence｜Official Music Video｜唯美古風・閉月羞花｜此生絕色・付與流年"
+      "title": "《國色天香》洛陽Luo Sequence｜Official Music Video｜唯美古風・閉月羞花｜此生絕色・付與流年",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "07GQNVBICgk",
-      "title": "【中國風-但願人長久】洛陽-Luo Sequence ｜中國風歌曲推薦 | 必聽深夜循環歌單"
+      "title": "【中國風-但願人長久】洛陽-Luo Sequence ｜中國風歌曲推薦 | 必聽深夜循環歌單",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "mHoyOpRcOt0",
-      "title": "【中國風 - 竹簡情書】｜中國風古風音樂｜一封寫在竹簡上的千年情書"
+      "title": "【中國風 - 竹簡情書】｜中國風古風音樂｜一封寫在竹簡上的千年情書",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "_gnSOaec9s8",
-      "title": "【中國風合輯𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 入骨相思】- 紅豆生南國🎧一聽就沉醉的唯美古風，聽著聽著就循環了一整天"
+      "title": "【中國風合輯𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 入骨相思】- 紅豆生南國🎧一聽就沉醉的唯美古風，聽著聽著就循環了一整天",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "2YaBxACVptI",
-      "title": "《曲終人散》深夜傷感歌曲｜回憶像刀片，割破了最後的溫柔"
+      "title": "《曲終人散》深夜傷感歌曲｜回憶像刀片，割破了最後的溫柔",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "uFcclk_oadU",
-      "title": "【一盞禪心】聽碎靈魂的佛系禪意神曲，治癒無數深夜焦慮的解脫之音｜2026必聽"
+      "title": "【一盞禪心】聽碎靈魂的佛系禪意神曲，治癒無數深夜焦慮的解脫之音｜2026必聽",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "qg7dUj5hfeM",
-      "title": "《戲樓後的雨》R&B原創歌曲｜她把半生風月都藏走｜傷感情歌"
+      "title": "《戲樓後的雨》R&B原創歌曲｜她把半生風月都藏走｜傷感情歌",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "SKeeBm5QS6Q",
-      "title": "《西廂房》洛陽｜一首唱到心碎的中國風情歌｜動態歌詞"
+      "title": "《西廂房》洛陽｜一首唱到心碎的中國風情歌｜動態歌詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "_nXajUQQtSQ",
-      "title": "《赤壁懷古 英雄夢》 洛陽-Luo Sequence ｜滾滾長江東逝水，英雄成敗皆入酒"
+      "title": "《赤壁懷古 英雄夢》 洛陽-Luo Sequence ｜滾滾長江東逝水，英雄成敗皆入酒",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Oa9RGxkOCJA",
-      "title": "《壁上觀：飛天霓裳》洛陽｜敦煌飛天古風歌曲｜一眼千年，魂入畫間｜動態歌詞"
+      "title": "《壁上觀：飛天霓裳》洛陽｜敦煌飛天古風歌曲｜一眼千年，魂入畫間｜動態歌詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "CVvUgshiq6M",
