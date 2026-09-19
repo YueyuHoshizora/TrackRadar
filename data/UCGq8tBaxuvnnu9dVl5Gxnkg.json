@@ -1,7 +1,7 @@
 {
   "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
   "channelTitle": "Sonar.Music.Studio",
-  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
+  "lastUpdated": "2026-09-19T12:55:26.744+08:00",
   "latestVideo": {
     "videoId": "E8PK1SITqeg",
     "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
@@ -11,54 +11,74 @@
     "publishedAt": "2026-09-12T04:57:52.000+08:00",
     "fetchedAt": "2026-09-19T11:18:36.900+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 1.0
+    "genreConfidence": 1
   },
   "allVideoIds": [
     {
       "videoId": "77-vdphiFeY",
-      "title": "💔「明明那麼深愛，為什麼只能走到這裡……」《只因太愛你》2026 催淚情歌 #shorts"
+      "title": "💔「明明那麼深愛，為什麼只能走到這裡……」《只因太愛你》2026 催淚情歌 #shorts",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "1uvUGsLLLWA",
-      "title": "2026 全新虐心催淚情歌《只因太愛你》看完全程淚崩😭💔 #shorts"
+      "title": "2026 全新虐心催淚情歌《只因太愛你》看完全程淚崩😭💔 #shorts",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "E8PK1SITqeg",
       "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
       "genre": "抒情/情歌 Ballad",
-      "genreConfidence": 1.0
+      "genreConfidence": 1
     },
     {
       "videoId": "i_XT4j6Oe8I",
-      "title": "2026 全新虐心催淚情歌《別走了》完整版已上線！"
+      "title": "2026 全新虐心催淚情歌《別走了》完整版已上線！",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "D28qUdmiLck",
-      "title": "2026年必聽新歌《別走了》當他連一句抱歉都懶得說……💔"
+      "title": "2026年必聽新歌《別走了》當他連一句抱歉都懶得說……💔",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "MXSCwXpVs4M",
-      "title": "《別走了》當他轉身說再見的那一刻，你也是這樣默默把眼淚吞下去的嗎？ 😢"
+      "title": "《別走了》當他轉身說再見的那一刻，你也是這樣默默把眼淚吞下去的嗎？ 😢",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "pDYIqv0HhUs",
-      "title": "2026年必聽新歌《別走了》當他連一句抱歉都懶得說……💔"
+      "title": "2026年必聽新歌《別走了》當他連一句抱歉都懶得說……💔",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "w9OStc48niU",
-      "title": "2026催淚情歌《別走了》「把我的心帶走，你叫我怎麼活呢」Official MV"
+      "title": "2026催淚情歌《別走了》「把我的心帶走，你叫我怎麼活呢」Official MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "XnLNBPgERI4",
-      "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]"
+      "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "kARS0K0wW_8",
-      "title": "這是我對你，唯一的祈求…《拜託了，幫我照顧她》 #shorts  #ai音樂 #華語流行 #抒情歌 #催淚 #成全 #失戀心聲 #新歌推薦"
+      "title": "這是我對你，唯一的祈求…《拜託了，幫我照顧她》 #shorts  #ai音樂 #華語流行 #抒情歌 #催淚 #成全 #失戀心聲 #新歌推薦",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "qOpR4d9DQXg",
-      "title": "【2026最催淚情歌】《拜託了，幫我照顧她》— 「求求你，替我守護她！」【Official Audio/歌詞】"
+      "title": "【2026最催淚情歌】《拜託了，幫我照顧她》— 「求求你，替我守護她！」【Official Audio/歌詞】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "y1olYtgG4uE",
