@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-19T16:20:35.852+08:00",
+  "lastUpdated": "2026-09-19T16:45:36.000+08:00",
   "latestVideo": {
     "videoId": "VlPInz7dIDs",
     "title": "我們要的不是復合，是用現在重新相愛｜不是回到從前｜Yu Stellar｜星語",
@@ -16,25 +16,25 @@
   "allVideoIds": [
     {
       "videoId": "VlPInz7dIDs",
-      "title": "不是回到從前｜寫給重新選擇彼此的愛情主題曲｜Yu Stellar｜星語",
+      "title": "我們要的不是復合，是用現在重新相愛｜不是回到從前｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
     {
       "videoId": "iaq0nSfm-r4",
-      "title": "這次站上台接受掌聲，我沒有再想起誰的手｜名片上的我｜Yu Stellar｜星語",
+      "title": "名片上的我，終於不再寫在誰的身後｜名片上的我｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.81
     },
     {
       "videoId": "gEYq4QAzi4Q",
-      "title": "重新認識你｜給重逢後重新開始的成熟情歌｜Yu Stellar｜星語",
+      "title": "我們沒有假裝熟悉，而是重新認識彼此｜重新認識你｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
     {
       "videoId": "OtVXQi8Nm0Q",
-      "title": "星期三的湯｜寫給獨居生活重新有光的溫柔情歌｜Yu Stellar｜星語",
+      "title": "一個人吃飯的晚上，我終於學會照顧自己｜星期三的湯｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -52,19 +52,19 @@
     },
     {
       "videoId": "IRyuDXF3zrU",
-      "title": "你也走了很遠｜寫給多年後終於互相理解的兩個人｜Yu Stellar｜星語",
+      "title": "我以為只有我放不下，直到想起你也曾孤單｜你也走了很遠｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "M4LBN1LsIsw",
-      "title": "天亮前失重｜給不必一直假裝堅強的你｜Yu Stellar｜星語",
+      "title": "白天裝得很好的人，終於在凌晨浴室哭了｜天亮前失重｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "-sbjaxnFS_Y",
-      "title": "我不再問如果，決定把遺憾活成答案｜把遺憾活成答案｜Yu Stellar｜星語",
+      "title": "那段失去沒有白費，它把我帶成更好的人｜把遺憾活成答案｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
@@ -76,19 +76,19 @@
     },
     {
       "videoId": "nXMpNlR50t8",
-      "title": "沒有你的新生活｜寫給正在獨自重新開始的人｜Yu Stellar｜星語",
+      "title": "沒有你的房間，我終於學會把日子過好｜沒有你的新生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
     {
       "videoId": "_zr28L0K774",
-      "title": "我們隔著兩座時區，把晚安說成了再見｜兩座時區｜Yu Stellar｜星語",
+      "title": "當兩個人的一天再也碰不到，愛會先斷線嗎？｜兩座時區｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
     {
       "videoId": "RLQCLGovr70",
-      "title": "當你的晚安成了我的早安，愛還能撐多久？｜不同時區的晚安｜Yu Stellar｜星語",
+      "title": "不同時區的晚安｜遠距離愛情最安靜的消耗｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -100,13 +100,13 @@
     },
     {
       "videoId": "tr7okYyGTI0",
-      "title": "那年我們鬆開手，繞了一圈才懂得重逢｜我們在遠方告別｜Yu Stellar｜星語",
+      "title": "明明還相愛，卻只能在遠方告別｜我們在遠方告別｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
     {
       "videoId": "ejhtg1ukR-o",
-      "title": "〈不同的城市〉遠距離戀愛終章｜療癒系華語抒情女聲",
+      "title": "分手後再遇見，她只想問一句「最近還好嗎」｜〈不同的城市〉",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -130,13 +130,13 @@
     },
     {
       "videoId": "y2DPSbjtREc",
-      "title": "〈回程靠窗的位置〉我沒帶回你的愛，卻帶回完整的自己",
+      "title": "去程為了愛，為什麼回程她終於只為自己靠窗？｜〈回程靠窗的位置〉",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "C_hmzYKi2C0",
-      "title": "不飲孟婆湯｜孟婆遞來那碗湯，她卻說：留給下一個人｜Yu Stellar｜星語",
+      "title": "不飲孟婆湯｜忘了你，重生又有什麼意義？｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.68
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "gm1q3vQ3Szc",
-      "title": "〈誰先變得沉默〉遠距離分手情歌｜已讀以後的華語抒情",
+      "title": "紀念日的一個微笑，讓她知道愛快結束了｜〈誰先變得沉默〉",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
@@ -178,19 +178,19 @@
     },
     {
       "videoId": "3hySsQx0X7c",
-      "title": "《歸途》｜華語原創療癒系 EDM・寫給在孤獨夜裡找方向的你｜Yu Stellar｜星語",
+      "title": "《歸途》走到世界盡頭，才明白回家從來不是回到原點｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.59
     },
     {
       "videoId": "ivNbbx76E6I",
-      "title": "〈月台背面的眼淚〉每次都說不累，轉過身卻哭到站不穩",
+      "title": "車門關上後，她才敢讓眼淚掉下來｜〈月台背面的眼淚〉",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
     {
       "videoId": "R3gV6vUkCLQ",
-      "title": "〈抵達〉我飛了幾千公里，你卻連一則訊息都沒有",
+      "title": "接機人群散了一次又一次，她還在替他找理由｜〈抵達〉",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
@@ -208,13 +208,13 @@
     },
     {
       "videoId": "wtLpZKrVHkI",
-      "title": "今日不問江湖事｜古風女聲・瀟灑女俠的偷閒之歌｜Yu Stellar｜星語",
+      "title": "你不是撐不住，只是太久沒休息｜今日不問江湖事｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.35
     },
     {
       "videoId": "87E6EExCuGk",
-      "title": "〈你那邊下雨嗎〉我把關心打了又刪，只怕你不回答",
+      "title": "〈你那邊下雨嗎〉遠距離戀愛情歌｜雨夜華語抒情女聲",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
@@ -616,457 +616,457 @@
     },
     {
       "videoId": "Z1EhWiA1b4Y",
-      "title": "An Iced Coffee at the Late-Night Convenience Store to Keep You Going",
+      "title": "深夜便利店裡，一杯冰咖啡撐住疲憊的你",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
     {
       "videoId": "S871t1vKGUc",
-      "title": "I Flipped to the Last Page of the Photo Album | Turns Out, Even the Sweetest Photos Teach You How...",
+      "title": "我把相簿翻到最後｜原來最甜的照片，也會教人放手｜語音星空",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
     {
       "videoId": "U6jeV6HuC9Y",
-      "title": "As the night starts to glow, the neon lights slowly set the stage for you",
+      "title": "夜色開始發亮，霓虹慢慢替你開場",
       "genre": "電子 Electronic",
       "genreConfidence": 0.62
     },
     {
       "videoId": "9TwJIIhqMow",
-      "title": "Rain Outside the Hotel Window | No Goodbye That Night, Only the Rain Speaking for Us | Voice of t...",
+      "title": "旅館窗外的雨｜那一晚沒有告別，只有雨替我們說話｜語音星空",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
     {
       "videoId": "tZDqL73SCKA",
-      "title": "Exhausted after a long day, thank goodness that dinner spot was still open.",
+      "title": "累了一整天，還好那間晚餐店還亮著",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.75
     },
     {
       "videoId": "hDaKlg2kULg",
-      "title": "\"Thank You for Having Been There\" I can finally look back with a smile, yet I still think of you",
+      "title": "〈謝謝曾經有你〉我終於能笑著回首，卻還是會想起你",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "Aqm60ygESUU",
-      "title": "The City Is Too Big Without Your Voice | The Louder the Crowd, the More I Hear My Longing | Voice...",
+      "title": "城市太大沒有你的聲音｜人潮越吵，越聽見想念｜語音星空",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
     {
       "videoId": "jVDoIyTRcE0",
-      "title": "The sunset outside the subway window slowly carries the daylight away",
+      "title": "捷運窗外的夕陽，像把白天慢慢帶走",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.31
     },
     {
       "videoId": "yEnGgtQnhgE",
-      "title": "Walking to the Riverside Alone | Some Tears Can Only Be Taken Away by the Night Wind | Voice of t...",
+      "title": "一個人走到河邊｜有些眼淚，只能交給夜風帶走｜語音星空",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
     {
       "videoId": "gy7PpO6G2kc",
-      "title": "Not Ready to Go Home After Work? Let the Night Embrace You | Clocking Out at Sunset",
+      "title": "下班後不想回家，就讓夜色接住你｜日暮打卡",
       "genre": "純音樂/器樂 Instrumental",
       "genreConfidence": 0.24
     },
     {
       "videoId": "PfMsQM6cTWI",
-      "title": "Leaving the Keys in the Entryway | They're Gone, but Their Traces Remain at Home | Audio Starry Sky",
+      "title": "把鑰匙留在玄關｜那個人走了，家裡卻還留著他的痕跡｜語音星空",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
     {
       "videoId": "0HvywlZi-DI",
-      "title": "Broken Promises | Leave Unfulfilled Forever in Yesterday | Yu Yin Xing Kong Official Audio",
+      "title": "破碎的諾言｜把沒實現的永遠留在昨天｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.61
     },
     {
       "videoId": "tI3U88OptmQ",
-      "title": "When the Dawn Breaks, I Finally Reach Not You, But Myself | When the Dawn Breaks, I Will Reach My...",
+      "title": "天亮的時候，我終於不是抵達你，而是抵達自己｜天亮時我會抵達自己",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
     {
       "videoId": "lJ6aJPiKzfo",
-      "title": "The Intersection of No Return | This Time, I'm Really Not Waiting for You | Yuyinxingkong Officia...",
+      "title": "不再回頭的路口｜這一次，我真的不等你了｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
     {
       "videoId": "b0ojmjtQTD0",
-      "title": "Arriving at the Unmanned Northern Station, I Finally Hear the Sound of My Own Heartbreaking | Unm...",
+      "title": "抵達無人的北國車站，才聽見自己心碎的聲音｜北國小鎮的無人車站",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "meNK3KA03WI",
-      "title": "I Walk Toward My Own Light | Waiting No More, Returning to Myself | Yu Yin Xing Kong Official Audio",
+      "title": "我走向自己的天光｜不等你了，我要回到自己身邊｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.38
     },
     {
       "videoId": "BPUKTtbnTYQ",
-      "title": "Beyond the Snowline, I Really Won't Wait for You Anymore | No Longer Waiting for You North of the...",
+      "title": "越過雪線以後，我真的不再等你了｜雪線以北不再等你",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
     {
       "videoId": "ximnBugpbgE",
-      "title": "Leaving doesn't mean I lost | I finally saved myself | Yu Yin Xing Kong Official Audio",
+      "title": "離開不是輸了｜我只是終於把自己救回來｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.65
     },
     {
       "videoId": "3hIZLvhjAdI",
-      "title": "Before Crossing the Tunnel, I Leave You in the Darkness One Last Time | Before Crossing the Tunnel",
+      "title": "穿過隧道以前，我最後一次把你留在黑暗裡｜穿過隧道以前",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.36
     },
     {
       "videoId": "6tdrNw-sLaQ",
-      "title": "Releasing Promises into the Wind | No Longer Holding onto Fragments Awaiting Your Return | Yuyin ...",
+      "title": "把諾言放回風裡｜不再抱著碎片等你回來｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.57
     },
     {
       "videoId": "tPR-bzT9trw",
-      "title": "The Rain Outside the Window Blurs the Old City and You Together | The Rain of the Old City Fallin...",
+      "title": "車窗外的雨，替我把舊城市和你一起模糊了｜車窗裡下著舊城市的雨",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.57
     },
     {
       "videoId": "G1oQ-Z2NApk",
-      "title": "The Goodnight That Never Came | A Phone Lit Until Dawn, A Heart Chilled Until Dawn | Yuyinxingkon...",
+      "title": "等不到的晚安｜手機亮到天亮，心也冷到天亮｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
     {
       "videoId": "A9aQdsx4CaI",
-      "title": "I Bought a One-Way Ticket Only to Realize Your Name Was Never the Destination | A One-Way Ticket ...",
+      "title": "買了單程票才發現，目的地從來沒有你的名字｜單程票沒有你的名字",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
     {
       "videoId": "qJFEcoam8k4",
-      "title": "The Cracks in the Glass | Some Relationships Aren't About a Lack of Love, They Just Can No Longer...",
+      "title": "玻璃杯裡的裂痕｜有些關係不是不愛，是再也盛不住｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
     {
       "videoId": "gDFHlQt6mMc",
-      "title": "On the platform without your send-off, even \"goodbye\" is as light as snow | The platform whispers...",
+      "title": "沒有你送行的月台，連再見都輕得像雪｜月台把再見說得很輕",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.78
     },
     {
       "videoId": "E_dREhOrA80",
-      "title": "The Promise That Never Came to Be | Where Did the \"Forever\" You Promised Go? | Yuyinxingkong Offi...",
+      "title": "那句永遠沒有下文｜你說過的永遠，後來去哪了｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
     {
       "videoId": "gtaTgbpoSqE",
-      "title": "The Return Flight Is Quiet | Album \"Postcards Not Sent from the South\" Track 09・Official Audio",
+      "title": "回程班機很安靜｜專輯《南國未寄的明信片》Track 09・Official Audio",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.3
     },
     {
       "videoId": "uV6ozL-xJlA",
-      "title": "I Still Leave the Light on for You | If You Can't Wait for Someone to Come Home, It’s Time to Lea...",
+      "title": "我還替你留著燈｜等不到回家的人，也該學會關門｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "q7rPDJ9PW1s",
-      "title": "Before the Sunset, I Let You Go | Album \"Postcards Never Sent from the South\" Track 08・Official A...",
+      "title": "日落以前，我把你放下｜專輯《南國未寄的明信片》Track 08・Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.6
     },
     {
       "videoId": "O-B039Ub8tA",
-      "title": "The Rainy Season We Promised｜For Those Who Never Arrived, the Rain Will Answer for You｜Starlit Vo...",
+      "title": "說好會來的雨季｜等不到的人，雨會替你回答｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "msiWhjOUbUw",
-      "title": "Typhoon Night for Two | Album \"Typhoon Night for Two\" Track 09・Official Audio",
+      "title": "兩個人的颱風夜｜專輯《兩個人的颱風夜》Track 09・Official Audio",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.28
     },
     {
       "videoId": "z8fmSnxSm8Q",
-      "title": "The Ferry Heads to the Island Without You | Album \"Postcards Never Sent from the South\" Track 07・...",
+      "title": "渡輪開往沒有你的島｜專輯《南國未寄的明信片》Track 07・Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.29
     },
     {
       "videoId": "gnzB_LQfH_c",
-      "title": "Dawn Has Broken, the Candlelight Remains | After the Darkness, the Tenderness Never Fades | Voice...",
+      "title": "天亮了，燭光還在｜黑夜過後，溫柔沒有熄滅｜語音星空",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.77
     },
     {
       "videoId": "O8XTF0E5AVQ",
-      "title": "Rooftops After the Morning Rain | Album \"Typhoon Night for Two\" Track 08・Official Audio",
+      "title": "清晨雨停的屋頂｜專輯《兩個人的颱風夜》Track 08・Official Audio",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.3
     },
     {
       "videoId": "-6Ib_SQQB_0",
-      "title": "The Unsent Postcard | Album \"Unsent Postcards from the South\" Track 06・Official Audio",
+      "title": "沒寄出的明信片｜專輯《南國未寄的明信片》Track 06・Official Audio",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.22
     },
     {
       "videoId": "xo0JMzCEjvU",
-      "title": "Orchestra Before Dawn | Emotions Unleashed Before Nightfall Ends | Yu Yin Xing Kong Official Audio",
+      "title": "黎明前的管弦樂｜黑夜結束前，情緒全開｜語音星空 Official Audio",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.4
     },
     {
       "videoId": "bisbE86UDEo",
-      "title": "You Say Don't Be Afraid, I'm Here | Album \"A Typhoon Night for Two\" Track 07・Official Audio",
+      "title": "你說別怕我在｜專輯《兩個人的颱風夜》Track 07・Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.5
     },
     {
       "videoId": "ie7O8XH9hh8",
-      "title": "I Lost My Longing at the Night Market | Album \"Postcards Never Sent from the South\" Track 05・Offi...",
+      "title": "我在夜市走丟了想念｜專輯《南國未寄的明信片》Track 05・Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.29
     },
     {
       "videoId": "yy2J151IRjk",
-      "title": "Someone Left a Light On for Me | You Don't Have to Carry It All Alone | Starry Voice",
+      "title": "有人替我留了一盞燈｜原來你不是只能一個人撐著｜語音星空",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.9
     },
     {
       "videoId": "WiMI36BMbsw",
-      "title": "Signal Lost Before the Confession | Album \"A Typhoon Night for Two\" Track 06・Official Audio",
+      "title": "訊號斷在告白前｜專輯《兩個人的颱風夜》Track 06・Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.39
     },
     {
       "videoId": "szBGltdBsBc",
-      "title": "Afternoon Downpour Like You | Album \"Unsent Postcards from the South\" Track 04・Official Audio",
+      "title": "午後驟雨像你｜專輯《南國未寄的明信片》Track 04・Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.27
     },
     {
       "videoId": "M8HS5HiTOF0",
-      "title": "Leaving Hope on the Windowsill | Slowly Moving From Night to Dawn | Voice of the Starry Sky Offic...",
+      "title": "把希望留在窗台｜從黑夜慢慢走向清晨｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.71
     },
     {
       "videoId": "dZqKgo3kKxo",
-      "title": "The Flowerpot on the Balcony Is About to Fly Away | Album \"A Typhoon Night for Two\" Track 05・Offi...",
+      "title": "陽台的花盆快飛走｜專輯《兩個人的颱風夜》Track 05・Official Audio",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.29
     },
     {
       "videoId": "nyeHHyYGpew",
-      "title": "The Sea from the Hotel Balcony | Album \"Unsent Postcards from the South\" Track 03・Official Audio",
+      "title": "旅館陽台的海｜專輯《南國未寄的明信片》Track 03・Official Audio",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.28
     },
     {
       "videoId": "7hCFo4kvMEI",
-      "title": "Photo by Candlelight | Putting Memories in a Place That Doesn't Hurt | Voice of the Starry Sky",
+      "title": "燭光裡的合照｜把回憶放到不疼的位置｜語音星空",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.81
     },
     {
       "videoId": "IWUJtGU9uXs",
-      "title": "Candlelight After the Power Outage | Album \"Typhoon Night for Two\" Track 04・Official Audio",
+      "title": "停電後的燭光｜專輯《兩個人的颱風夜》Track 04・Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.3
     },
     {
       "videoId": "svaS5rCBUAI",
-      "title": "Southern Winds Don't Ask About the Past | Album \"Unsent Postcards from the South\" Track 02・Offici...",
+      "title": "南方的風不問從前｜專輯《南國未寄的明信片》Track 02・Official Audio",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.18
     },
     {
       "videoId": "v7PQQo4zTqo",
-      "title": "After the Movie Ends | Walking Out of Memories, Finding Myself Again | Starry Sky Audio Official ...",
+      "title": "電影散場以後｜走出回憶，也走回自己｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
     {
       "videoId": "lsImN2gUyCA",
-      "title": "Star-Shaped Tape | Album \"A Typhoon Night for Two\" Track 03・Official Audio",
+      "title": "膠帶貼成星星｜專輯《兩個人的颱風夜》Track 03・Official Audio",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
     {
       "videoId": "XvxMJI8QaZY",
-      "title": "Silence at the Boarding Gate | Album \"Postcards Never Sent from the South\" Track 01・Official Audio",
+      "title": "登機門前的沉默｜專輯《南國未寄的明信片》Track 01・Official Audio",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.3
     },
     {
       "videoId": "gZRLWpA8H5o",
-      "title": "Since You Left, The Moon Sits In Your Place | The Most Cinematic Heartbreak Anthem | Audio Starry...",
+      "title": "你走後，月亮替你坐著｜最有電影感的失戀主打｜語音星空",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "7WWJDs-j9vE",
-      "title": "The Last Umbrella in the Supermarket | Album \"A Typhoon Night for Two\" Track 02・Official Audio",
+      "title": "超市最後一把傘｜專輯《兩個人的颱風夜》Track 02・Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.35
     },
     {
       "videoId": "cgDFbp0aP7A",
-      "title": "\"Falling Snow\" | The snow will still fall, but I'm no longer waiting for you",
+      "title": "《飄落的雪》｜雪還會落下，但我已經不再等你",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
     {
       "videoId": "0iTdjq7pv1U",
-      "title": "The Shop at the End of the Alley Is Still Open | Someone Is Keeping a Warm Spot for You Late at N...",
+      "title": "巷口那家還沒打烊｜深夜還有人替你留著溫度｜語音星空",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.3
     },
     {
       "videoId": "WTElBbqfB7k",
-      "title": "Hold Me Tight Before the Wind Arrives | Album \"A Typhoon Night for Two\" Track 01・Official Audio",
+      "title": "風來之前先抱緊｜專輯《兩個人的颱風夜》Track 01・Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.62
     },
     {
       "videoId": "Pmstxuwuymw",
-      "title": "\"Before the Snow Melts\" | Returning You to Winter Before the Snow Melts",
+      "title": "《融雪以前》｜在雪融化以前，把你還給冬天",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.49
     },
     {
       "videoId": "JDx9azuG39I",
-      "title": "Turning Down the Volume of My Longing | Late-Night Love Songs for When the Silence Makes You Miss...",
+      "title": "把思念調成小聲｜越安靜越想你的深夜情歌｜語音星空",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "rt0dZEpEEc4",
-      "title": "\"Don't Mistake Silence for Forever\" | Stop Treating No Answer Like It's Forever",
+      "title": "《別把沉默說成永遠》｜別再把不回答，當成永遠",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.63
     },
     {
       "videoId": "_4Kkg3_n9NQ",
-      "title": "Midnight Jazz Radio | Loneliness Can Be Gently Managed | Starry Night Audio Official Audio",
+      "title": "午夜爵士電台｜孤單也能被溫柔安排｜語音星空 Official Audio",
       "genre": "爵士 Jazz",
       "genreConfidence": 0.98
     },
     {
       "videoId": "v0TkQPveuKY",
-      "title": "\"White Night Flight\" | Entrusting Unfinished Love to a White Night Flight",
+      "title": "《白色夜航》｜把未完成的愛，交給一場白色夜航",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
     {
       "videoId": "U6EY58kgLAw",
-      "title": "Your Name Fogs Up the Glass | Rain-Soaked Nostalgic Love Song | Yu Yin Xing Kong Official Audio",
+      "title": "你的名字在玻璃上起霧｜雨夜想念系情歌｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
     {
       "videoId": "j9m-BJR6atc",
-      "title": "\"Waiting for Spring in the Snow\" | It’s Not You I’m Waiting for in the Snow, It’s Spring",
+      "title": "《我在雪裡等春天》｜我在雪裡等的，不是你，是春天",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.48
     },
     {
       "videoId": "9Ab4GI6m8S8",
-      "title": "Lighting a Lamp in the Dead of Night | A Tender Love Song to Get You Through to Dawn | Yuyinxingk...",
+      "title": "深夜點燈｜一首陪你撐到天亮的溫柔情歌｜語音星空 Official Audio",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "Tq0BFoGs6Eg",
-      "title": "\"December Has No Echo\" | The Coldest Thing About December Isn't the Snow, It's the Lack of an Echo",
+      "title": "《十二月沒有回聲》｜十二月最冷的不是雪，是沒有回聲",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.3
     },
     {
       "videoId": "0x_kF6DKC4E",
-      "title": "The Scarf Still Keeps Your Warmth | That Scarf Is Still Holding My Winter for You",
+      "title": "《圍巾還留著你的溫度》｜那條圍巾，還替你抱著我的冬天",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.78
     },
     {
       "videoId": "XO3Svb4Y9_4",
-      "title": "The White Street Corner After You Left | After You Left, The Whole City Turned White",
+      "title": "《你離開後的白色街口》｜你離開後，整座城市都變成白色",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.63
     },
     {
       "videoId": "tOgGB_YCLgo",
-      "title": "Snow Falling on an Unsent Letter | Some Longing Can Only Reside in an Unsent Letter",
+      "title": "《雪落在未寄出的信》｜有些想念，只能落在未寄出的信裡",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.68
     },
     {
       "videoId": "VtyYEQQFZXI",
-      "title": "After the Rain Stops, I Finally Find Myself | \"The Night Sky After the Rain\"",
+      "title": "雨停以後，我終於把自己找回來｜《雨停以後的夜空》",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
     {
       "videoId": "6kW76j6bUSo",
-      "title": "Don't Look Back for That Person Before Dawn | \"Don't Look Back Before Dawn\"",
+      "title": "天亮以前，別再為那個人回頭｜《天亮前別回頭》",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
     {
       "videoId": "cnKY6fa3zx0",
-      "title": "Leaving My Longing in the Rain to Slowly Find Myself Again | \"Leaving My Longing in the Rain\"",
+      "title": "把想念留在雨裡，才能慢慢走回自己｜《我把想念留在雨裡》",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
     {
       "videoId": "2gktMMA8Kh0",
-      "title": "Streetlights Stretch Out My Shadow, and Illuminate My Longing Too Clearly | \"Streetlights Stretch...",
+      "title": "路燈把影子拉長，也把想念照得太清楚｜《路燈把影子拉長》",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
     {
       "videoId": "sBUJFXiBbx0",
-      "title": "Half an umbrella empty, only then I knew you weren't coming back | \"Under the Umbrella Without You\"",
+      "title": "傘下空了一半，才知道你不會回來了｜《傘下沒有你》",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
     {
       "videoId": "nKHMBkrFzVQ",
-      "title": "That \"Goodnight\" remains unread, and I still can't let go | \"Unread Goodnight\"",
+      "title": "那句晚安一直未讀，我也一直沒放下｜《未讀的晚安》",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "L7-O9NfnoqE",
-      "title": "Ever Since You Left, the Whole City Misses You Along With Me | \"After You Left, It Started Rainin...",
+      "title": "你走以後，連整座城市都替我想你｜《你離開以後，城市開始下雨》雨夜失戀情歌",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "YkYKwpaTt3s",
-      "title": "Some Longing Can Only Be Hidden in the Rain | \"Night Sky Where Rain Falls\" A Healing Breakup Ballad",
+      "title": "有些想念，只敢藏進雨裡｜《雨落下的夜空》療癒系失戀情歌",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "GIWnD8ZacLc",
-      "title": "You're not alone | This song is for those who are still awake. \"A Glimmer of Light in the World\" ...",
+      "title": "你不是一個人撐著｜這首歌寫給還沒睡的人《塵世微光》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.77
     },
@@ -1078,37 +1078,37 @@
     },
     {
       "videoId": "CdtwRv5rlPY",
-      "title": "The light wasn't off | Actually, I wasn't waiting for you, I just didn't dare to sleep | Yu Stell...",
+      "title": "燈沒有關｜其實我沒有在等你，只是還不敢睡｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
     {
       "videoId": "k_Cbi62mlIM",
-      "title": "Yesterday's clothes are drying on the balcony | The moment the wind blew, I finally let go | Yu S...",
+      "title": "陽台晾著昨天｜風吹過的那一刻，我終於放下了｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.78
     },
     {
       "videoId": "sPOrEp2-Ozw",
-      "title": "The Twelve Zodiac Animals aren't animals, they're you at night 🌙｜Yu Stellar｜Star Language",
+      "title": "《十二生肖》不是動物，是夜晚裡的你 🌙｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.62
     },
     {
       "videoId": "tNNOqU0tsJc",
-      "title": "The rain stopped, but I didn't move forward. | Rain stopped on my shoes. | Yu Stellar | Star Lang...",
+      "title": "雨停了，我卻沒有往前走｜雨停在鞋尖｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.6
     },
     {
       "videoId": "_KE0Qk2P4ro",
-      "title": "At 2 a.m., only the convenience store was still waiting for me | Yu Stellar | Star Language",
+      "title": "凌晨兩點，只有便利商店還在等我｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
     {
       "videoId": "OcnCtesxiKs",
-      "title": "No signal at 2 AM | That's when I realized you were really gone | Yu Stellar | Star Language",
+      "title": "凌晨兩點沒有訊號｜那一刻，我才發現你真的不在了｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.9
     },
@@ -1126,247 +1126,247 @@
     },
     {
       "videoId": "-yvVYRDhUTE",
-      "title": "The curtains weren't drawn properly | The moment that light came in, I completely panicked | Yu S...",
+      "title": "窗簾沒有拉好｜那道光一進來，我整個人崩了｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.56
     },
     {
       "videoId": "Jo1nDYg8u8M",
-      "title": "The alarm clock is more punctual than dreams | Have you ever woken up like this? | Yu Stellar | S...",
+      "title": "鬧鐘比夢更準時｜你是不是也這樣醒來過？｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.55
     },
     {
       "videoId": "MXEh7HlYqR8",
-      "title": "If You Are Still Far Away | A Song for Someone You Missed | Yu Stellar | Star Language",
+      "title": "如果你還在遠方｜一首寫給錯過的人的歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
     {
       "videoId": "OgASiV0BRM8",
-      "title": "The name carried away by the wind | That person who was once important, now only a memory remains...",
+      "title": "風帶走的名字｜那個曾經重要的人，最後只剩回憶｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.69
     },
     {
       "videoId": "FZE4IOUlQ3M",
-      "title": "When the city falls silent | When the whole city is asleep, that's when I start thinking of you |...",
+      "title": "城市靜音的時候｜當整座城市睡著，我才開始想你｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.9
     },
     {
       "videoId": "7Jz8_3SMyN8",
-      "title": "Give your tears to the starry sky | A healing Chinese love song to accompany you through the dark...",
+      "title": "把眼淚交給星空｜一首陪你度過黑夜的華語療癒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
     {
       "videoId": "0TGZUKcajEU",
-      "title": "We were close, but not together | A song for \"almost falling in love\" | Yu Stellar | Star Language",
+      "title": "我們曾靠近過，但沒有在一起｜一首寫給「差一點愛上」的歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "VkWy4Zvtom0",
-      "title": "Moonlight Says Goodnight for Me | A Gentle Love Song to Listen to Alone at Night | Yu Stellar | S...",
+      "title": "月光替我說晚安｜深夜一個人時聽的溫柔情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
     {
       "videoId": "YtzBshKhCas",
-      "title": "The aurora truly showered down its light for me | The Journey of the Aurora - Full Story Album 🌌 ...",
+      "title": "極光真的為我傾落了｜《極光的旅程》完整故事專輯 🌌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.29
     },
     {
       "videoId": "9lCGbSXT17o",
-      "title": "A Dream Unseen by Anyone | A Fleeting Dream Only Revealed Upon Waking | Ethereal Female Voice in ...",
+      "title": "不為人知的夢｜夢醒才懂的黃粱一夢｜空靈女聲華語抒情｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.31
     },
     {
       "videoId": "R5Sg7eiwtrk",
-      "title": "\"Cat: The Eaves Reserve a Place for the Night\" | Only when it finally stepped down from the eaves...",
+      "title": "《貓：屋簷替夜保留位置》｜當牠終於走下屋簷，我才懂得溫柔｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.65
     },
     {
       "videoId": "0gBJUng8ffA",
-      "title": "Some weights don't need to be washed away | Raindrops rest on my shoulders | Yu Stellar | Star La...",
+      "title": "有些重量，不需要被沖走｜雨水停在肩上｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.61
     },
     {
       "videoId": "M3ohtZWqp-U",
-      "title": "He didn't actually go far... \"The Doorknob Is Still Warm\" | Yu Stellar | Star Language",
+      "title": "他其實沒有走遠…《門把仍然溫熱》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.43
     },
     {
       "videoId": "cF1I32BQlyA",
-      "title": "Before dawn arrives | Before daybreak, someone wakes up for you | Yu Stellar | Star Language",
+      "title": "清晨尚未抵達｜在天亮之前，有人先替你醒來｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.69
     },
     {
       "videoId": "tjK-Bm3ue-k",
-      "title": "That laugh from the rooftop—was it just me running away? | Monkey: Laughter falls on the roof | Y...",
+      "title": "屋頂上的那一聲笑，原來是我自己在逃避？｜猴：笑聲落在屋頂｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.39
     },
     {
       "videoId": "YdPvGopDcQg",
-      "title": "When even my shadow bows its head first, what am I still stubbornly holding on for? | Sheep: My s...",
+      "title": "當影子都先低頭，我還在硬撐什麼？｜羊：影子比我先低頭｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
     {
       "videoId": "rGv8lOzCGwU",
-      "title": "Echoes of Light | 13 Healing Ballads to Help You Through Low Points 🌌 | Yu Stellar | Starry Words",
+      "title": "《光的回音》｜13首療癒抒情歌陪你走過低潮 🌌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "eoGG5LQsgYE",
-      "title": "When the streetlights begin to recede, your heartbeat truly moves forward. | Yu Stellar | Star La...",
+      "title": "當路燈開始倒退，心跳才真正向前｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.57
     },
     {
       "videoId": "aISk9gp4Ak8",
-      "title": "🐍 For whom does the moonlight change its shape? | Snake: The moonlight has changed its shape | Yu...",
+      "title": "🐍 月色為誰改變形狀？｜蛇：月色換了一種形狀｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.71
     },
     {
       "videoId": "brs3VPUMr9I",
-      "title": "Dragon: Echoes from High Places | When Loneliness Becomes the Throne | Yu Stellar | Star Language",
+      "title": "龍：高處的回聲｜當孤獨成為王座｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.61
     },
     {
       "videoId": "dtb6a557zw8",
-      "title": "The wind really did pass through the glass, but I didn't shatter | Rabbit: The wind passed throug...",
+      "title": "風真的穿過了玻璃，我卻沒有碎裂｜兔：風從玻璃穿過｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.31
     },
     {
       "videoId": "WZm88RWc_5A",
-      "title": "I did not roar, but the whole forest heard me | Tiger: Glowing in its throat | Yu Stellar | Star ...",
+      "title": "我沒有咆哮，但整片森林都聽見我｜虎：在喉嚨裡發光｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.59
     },
     {
       "videoId": "A5hVeXEXZhQ",
-      "title": "When you hold on until nobody knows | Ox: Weight makes no sound | Yu Stellar | Star Language",
+      "title": "當你撐到沒人知道的時候｜牛：重量沒有聲音｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.37
     },
     {
       "videoId": "GA7kWQ97crg",
-      "title": "Prologue to \"The Twelve Zodiac Animals\" | Rat: Between Lamplight and Door Crack | Yu Stellar | St...",
+      "title": "《十二生肖》序章｜鼠：燈影與門縫之間｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.8
     },
     {
       "videoId": "jKGMEEnFpAU",
-      "title": "This time, I no longer look up | Light falls into my heart Official Audio | Yu Stellar | Star Lan...",
+      "title": "這一次，我不再仰望｜光落在我心裡 Official Audio｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.71
     },
     {
       "videoId": "uiqeVoKDyjQ",
-      "title": "Returning to the Light | As the Aurora Fades, I Finally Become a Better Version of Myself | Yu St...",
+      "title": "向光而歸｜當極光退去，我終於成為更好的自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.58
     },
     {
       "videoId": "Bh56F1P2GWw",
-      "title": "Seeing the aurora for the first time in my life made me realize how insignificant I am. | Yu Stel...",
+      "title": "此生第一次看見極光，我才知道自己有多渺小｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.55
     },
     {
       "videoId": "dC8sbNMFJXw",
-      "title": "Bacon escaped the frying pan?! Its dream is actually pasta 🍝🥓｜Yu Stellar｜Star Language",
+      "title": "培根逃離平底鍋？！它的夢想居然是義大利麵 🍝🥓｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.8
     },
     {
       "videoId": "6Ans7NffxN0",
-      "title": "When the dream truly came true, I was speechless. | Reaching the End of Daylight | Yu Stellar | S...",
+      "title": "當夢真的實現那一刻，我反而說不出話｜抵達白晝盡頭｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
     {
       "videoId": "63S5Nzc1X0A",
-      "title": "✈️ Delayed Flights | When Dreams Are Paused, Should I Still Fly? [Lyrical Female Vocals] | Yu Ste...",
+      "title": "✈️ 延誤的航班｜當夢想被按下暫停鍵，我還要飛嗎？【抒情女聲】｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
     {
       "videoId": "ihXpQCMhB30",
-      "title": "Only after setting off did I understand the meaning of this light | The Light Before Departure | ...",
+      "title": "出發之後，我才明白這道光的意義｜啟程前的光｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.47
     },
     {
       "videoId": "SiK5WJxB-yw",
-      "title": "\"Light Will Remember Us\" Official Lyric Video | The Final Chapter of the Album | Yu Stellar | Sta...",
+      "title": "《光會記得我們》Official Lyric Video｜專輯最終章｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.43
     },
     {
       "videoId": "4OdXif5BkTQ",
-      "title": "Before the wind stopped, I had already walked to the other side | The other side of the wind | Yu...",
+      "title": "風停之前，我已經走到了另一側｜風的另一側｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.34
     },
     {
       "videoId": "PxvoUfMiZ7g",
-      "title": "She sang this song at dawn… The entire audience was silent for three seconds | Stars Never Sleep ...",
+      "title": "她在凌晨唱了這首歌…全場安靜了三秒｜星辰未眠｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
     {
       "videoId": "gt1Gft2QwJc",
-      "title": "When taro successfully escapes the hot pot... it turns into a dessert?! | Yu Stellar | Star Language",
+      "title": "當芋頭成功逃出火鍋…結局竟然變成甜品？！｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.78
     },
     {
       "videoId": "oqFi7ylES68",
-      "title": "Hearing the chorus completely broke me down… “You Once Lighted Me Up”, a tender Mandarin love son...",
+      "title": "聽到副歌直接破防…《你曾照亮我》溫柔到不敢重播的華語情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "bMdb7rQTMD0",
-      "title": "Blooming in Silence | The Tenderest Mandarin Ballad of 2026 - Self-Redemption for the Lonely | Yu...",
+      "title": "在沉默裡綻放｜2026最溫柔華語抒情歌・孤單者的自我救贖｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "SvR6-nHvn10",
-      "title": "The Lingering Warmth Slowly Fades | When Love No Longer Burns, I Finally Learn to Let Go | Yu Ste...",
+      "title": "《餘溫慢慢散去》｜當愛不再灼熱，我終於學會放手｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
     {
       "videoId": "z22rpo_fhms",
-      "title": "After losing you, I finally learned to fly | Glimmering Flight Official MV | Yu Stellar | Star La...",
+      "title": "失去你之後，我終於學會飛行｜微光航線 Official MV｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.7
     },
     {
       "videoId": "w0xeZH8rNGk",
-      "title": "While the world still sleeps, I already hear the distant land calling to me. | Yu Stellar | Star ...",
+      "title": "當世界還在沉睡，我已經聽見遠方｜遠方在呼喚我｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.26
     },
     {
       "videoId": "iAAyFL2rIk8",
-      "title": "\"The Letter Never Sent in the Wind\" | The deepest pain is that confession that was never sent | Y...",
+      "title": "《風中未寄出的信》｜原來最痛的，是那封沒有寄出的告白｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -1378,139 +1378,139 @@
     },
     {
       "videoId": "nYrItcL06ys",
-      "title": "Arguing over a plate of curry... Which side are you on? 😤🍛｜Yu Stellar｜Star Language",
+      "title": "為了一盤咖哩吵起來…你是哪一派？😤🍛｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.92
     },
     {
       "videoId": "eCbcv2d1JhQ",
-      "title": "Those sleepless nights are actually teaching you to grow up | \"Night Etude\" | Yu Stellar | Starry...",
+      "title": "那些讓你失眠的夜晚，其實在教你長大｜《夜色練習曲》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.47
     },
     {
       "videoId": "L6YCyOcgp9k",
-      "title": "Transparent Courage | When the light shines through me, I finally stop hiding | Yu Stellar | Star...",
+      "title": "半透明的勇敢｜當光穿過我，我終於不再躲｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "sju5UmOgSMY",
-      "title": "Just a touch of sweetness is enough | Everyday light sweetness ☕🍰 Three gentle love songs to acco...",
+      "title": "一點甜就夠了｜日常微糖 ☕🍰 三首溫柔情歌陪你整個下午｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
     {
       "videoId": "E-KsV5lYaFA",
-      "title": "The Stars Never Sleep | This song is for those who are still awake at 2 a.m. | Yu Stellar | Star ...",
+      "title": "星辰未眠｜這首歌寫給凌晨兩點還醒著的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.65
     },
     {
       "videoId": "ca2y33WDrbY",
-      "title": "Why me?! A song about taro being added to hot pot | Cute and funny single | Yu Stellar | Star Lan...",
+      "title": "為什麼是我？！芋頭被加入火鍋的歌｜可愛系搞笑單曲｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.68
     },
     {
       "videoId": "C28OW8svX6M",
-      "title": "Walking Against the Light | The Moment When the Pain Brings Clearer Vision, I'm Finally No Longer...",
+      "title": "逆光而行｜越痛越清醒的那一刻，我終於不再害怕｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
     {
       "videoId": "guImQvolroY",
-      "title": "Love Drifting Through Time Chapter I｜A 21-Minute Immersive Love Journey｜Yu Stellar｜Starry Words",
+      "title": "在時光裡漂流的愛 Chapter I｜21分鐘沉浸式愛情旅程｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.81
     },
     {
       "videoId": "REAftxZ_JTA",
-      "title": "When the world doesn't respond to you | Echo of Light Official MV | Yu Stellar | Star Language",
+      "title": "當世界沒有回應你｜光的回音 Official MV｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.33
     },
     {
       "videoId": "F9pKYkEztmw",
-      "title": "A Cake with a Bit Taken Out | Why Does This Song Make You Want to Cry? | Original Chinese Female ...",
+      "title": "被咬一口的蛋糕｜為什麼這首歌讓人聽完想哭？｜華語女聲原創｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.78
     },
     {
       "videoId": "TpNuqgP5-sI",
-      "title": "What's life like after the Lunar New Year? | Still the same after the New Year 🌤 Healing Mandarin...",
+      "title": "過年後的生活是什麼樣子？｜年後依然如常 🌤 療癒系華語流行歌曲｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.32
     },
     {
       "videoId": "toV_t5L8r3s",
-      "title": "King salmon jumping and jumping 🐟｜An irresistibly cute and catchy food song｜Mandarin pop｜Yu Stell...",
+      "title": "帝王鮭跳啊跳 🐟｜可愛到犯規的美食洗腦歌｜華語流行｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.99
     },
     {
       "videoId": "BZErY6XEOfw",
-      "title": "Excessive sugar content ⚠️｜Sweet Candied Hawthorn｜Yu Stellar｜Star Language",
+      "title": "糖度超標⚠️｜甜心糖葫蘆｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.35
     },
     {
       "videoId": "UJxPiCbSr4o",
-      "title": "YuStellar is not Starlux Airlines | Upbeat and funny Mandarin songs | Songs with puns | Voice-ove...",
+      "title": "星語不是星宇航空｜輕快搞笑華語歌｜諧音梗歌曲推薦｜語音星空 YuStellar｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.82
     },
     {
       "videoId": "ObER6vMbWY4",
-      "title": "YouTube Crash 50 | A Gentle Rant Song About YouTube's Major Crash | Chinese Lyrical Parody | Yu S...",
+      "title": "YT壞掉50收｜YouTube 大當機的溫柔吐槽歌｜華語抒情惡搞｜Yu Stellar｜星語",
       "genre": "翻唱 Cover",
       "genreConfidence": 0.19
     },
     {
       "videoId": "9jKERAwh8WE",
-      "title": "Cilantro | Cute New Pop Song | Rabbits Love Cilantro | Original Chinese Music | Yu Stellar | Star...",
+      "title": "香菜｜可愛流行新歌｜兔子愛吃香菜｜華語原創音樂｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.99
     },
     {
       "videoId": "EFOQT6QKrIc",
-      "title": "The festive atmosphere of the Lunar New Year is so lively! 🧧 It's packed and the party never stop...",
+      "title": "擁擠的年味 🧧 擠啊擠High到不打烊！｜過年必唱KTV洗腦歌｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.74
     },
     {
       "videoId": "EBpTvtco71A",
-      "title": "Busier than usual during Chinese New Year | A Mandarin R&B ballad about everyday life during the ...",
+      "title": "過年比平常還忙碌｜一首寫給過年日常的華語R&B抒情歌｜溫馨家庭系｜Yu Stellar｜星語",
       "genre": "R&B/Soul",
       "genreConfidence": 0.96
     },
     {
       "videoId": "RzupOn1qgRA",
-      "title": "A Cup of Coffee | A Song for You Who Are Trying to Hold On | Healing Original Song | Yu Stellar |...",
+      "title": "一杯咖啡｜寫給努力撐著的你｜療癒系原創歌曲｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.9
     },
     {
       "videoId": "iJo1SYytqtc",
-      "title": "The Lingering Fragrance of New Year's Eve | Warm Mandarin Pop Ballad | A Healing New Song to Acco...",
+      "title": "年夜的餘香｜溫暖華語流行抒情歌｜陪你走過團圓夜的療癒新歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
     {
       "videoId": "kkinutlT8sw",
-      "title": "Lost Love | Healing Mandarin Ballad | Dedicated to You Who Are Heartbroken | Yu Stellar | Starry ...",
+      "title": "失落的愛情｜療癒系華語抒情歌｜獻給正在心碎的你｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "AiYPbol1IFI",
-      "title": "Forgetting the Past | Chinese Ancient Style Love Song | Sad Female Vocal | Yu Stellar | Starry Night",
+      "title": "舊日忘情｜古風女聲情歌｜Chinese Ancient Style Love Song｜Sad Female Vocal｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "W4HalnsG17Q",
-      "title": "I Have a Small Wish | A Mandarin Lyrical Female Vocal | A Slightly Heartbreaking and Healing Orig...",
+      "title": "我有一個小小的願望｜華語抒情女聲｜微心酸治癒系流行原創歌曲｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -1534,7 +1534,7 @@
     },
     {
       "videoId": "gJ7h8V9YePU",
-      "title": "🎵 The Loneliness of Making Music | Mandarin Pop Emotional Song | A Song for Lonely Creators | Yu ...",
+      "title": "做音樂的寂寞｜華語抒情原創｜寫給每個為夢想努力的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     }
