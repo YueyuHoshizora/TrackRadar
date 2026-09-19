@@ -1,7 +1,7 @@
 {
   "channelId": "UCP7vt7hh_7k9iSk1cNu9DsQ",
   "channelTitle": "洛陽-Luo Sequence ",
-  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
+  "lastUpdated": "2026-09-19T12:55:45.020+08:00",
   "latestVideo": {
     "videoId": "AQGbIHAQ44Q",
     "title": "《浮生舊夢 : 歸雁》洛陽｜中國風原創｜有些人一別，便錯過了一生",
@@ -11,54 +11,74 @@
     "publishedAt": "2026-09-15T12:05:06.000+08:00",
     "fetchedAt": "2026-09-19T11:17:46.778+08:00",
     "genre": "古風/國風 Chinese Style",
-    "genreConfidence": 1.0
+    "genreConfidence": 1
   },
   "allVideoIds": [
     {
       "videoId": "AQGbIHAQ44Q",
       "title": "《浮生舊夢 : 歸雁》洛陽｜中國風原創｜有些人一別，便錯過了一生",
       "genre": "古風/國風 Chinese Style",
-      "genreConfidence": 1.0
+      "genreConfidence": 1
     },
     {
       "videoId": "03werozKftg",
-      "title": "《千年的祈禱 - 月下祈願》壁上飛天醒千年；月下梵音渡長風 | #國風 #古風 #飛天  | Official MV"
+      "title": "《千年的祈禱 - 月下祈願》壁上飛天醒千年；月下梵音渡長風 | #國風 #古風 #飛天  | Official MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "aGJahVmFYbk",
-      "title": "《長夜聽雨》｜孤舟寒月下，一個人守著沒有歸期的愛【古風情歌】"
+      "title": "《長夜聽雨》｜孤舟寒月下，一個人守著沒有歸期的愛【古風情歌】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "fBRqEiofePI",
-      "title": "《上上籤》洛陽｜紙傘江南遇良緣，一場命中注定的東方愛情【新國風】"
+      "title": "《上上籤》洛陽｜紙傘江南遇良緣，一場命中注定的東方愛情【新國風】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "gEFZIjUC1AM",
-      "title": "《凌晨三點半》雨停了，我還在等你｜華語原創抒情・治癒內耗・深夜必聽"
+      "title": "《凌晨三點半》雨停了，我還在等你｜華語原創抒情・治癒內耗・深夜必聽",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "_4NqX92Qkdc",
-      "title": "《踏雪》洛陽｜雪落人散，紅塵終究留不住誰｜古風情歌・動態歌詞"
+      "title": "《踏雪》洛陽｜雪落人散，紅塵終究留不住誰｜古風情歌・動態歌詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "CcJqNIxmR-E",
-      "title": "《希望》洛陽｜就算星辰全熄滅，也要照亮你在的遠方｜治癒系鋼琴女聲 Original Song"
+      "title": "《希望》洛陽｜就算星辰全熄滅，也要照亮你在的遠方｜治癒系鋼琴女聲 Original Song",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "m8MEI5yVsx0",
-      "title": "《菩提樹下》洛陽｜一念執著，萬般因果皆成空【禪意新國風・動態歌詞】"
+      "title": "《菩提樹下》洛陽｜一念執著，萬般因果皆成空【禪意新國風・動態歌詞】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "iNMXqhugHRg",
-      "title": "MV《再續七夕緣》洛陽｜三百六十五天，只為等妳這一日【中國風情歌】"
+      "title": "MV《再續七夕緣》洛陽｜三百六十五天，只為等妳這一日【中國風情歌】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "C42OLKZX3kg",
-      "title": "《中國風 - 織不成雙》洛陽｜一場注定無法相守的東方愛情傳說｜動態歌詞"
+      "title": "《中國風 - 織不成雙》洛陽｜一場注定無法相守的東方愛情傳說｜動態歌詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "89LDloWB5SM",
-      "title": "【中國風 - 燈下願】🎵 唯美古風音樂 | 陪伴孤單夜晚的靜心療癒之作 | 國風高音質純享"
+      "title": "【中國風 - 燈下願】🎵 唯美古風音樂 | 陪伴孤單夜晚的靜心療癒之作 | 國風高音質純享",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "fqdjkbad4pk",
