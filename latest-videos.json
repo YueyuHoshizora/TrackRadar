@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T09:15:19.231+08:00",
+  "updatedAt": "2026-09-19T09:17:37.223+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -11,7 +11,9 @@
         "thumbnail": "https://i.ytimg.com/vi/VlPInz7dIDs/maxresdefault.jpg",
         "durationSeconds": 222,
         "publishedAt": "2026-09-19T05:30:12.000+08:00",
-        "fetchedAt": "2026-09-19T08:31:27.310+08:00"
+        "fetchedAt": "2026-09-19T08:31:27.310+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.97
       }
     },
     {
@@ -24,7 +26,9 @@
         "thumbnail": "https://i.ytimg.com/vi/raTgEUcEkz8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSSggMA8=&rs=AOn4CLCYtUhQ-XB0maxV96CgadyR8-iX-Q",
         "durationSeconds": 215,
         "publishedAt": "2026-09-18T11:00:13.000+08:00",
-        "fetchedAt": "2026-09-19T08:31:27.133+08:00"
+        "fetchedAt": "2026-09-19T08:31:27.133+08:00",
+        "genre": "拉丁 Latin",
+        "genreConfidence": 0.5
       }
     }
   ]
