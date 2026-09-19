@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:10:38.325+08:00",
+  "updatedAt": "2026-09-19T22:15:38.502+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -65,15 +65,15 @@
       "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
       "channelTitle": "浣月Huanyue",
       "latestVideo": {
-        "videoId": "2DbzF9kJs_g",
-        "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
-        "url": "https://www.youtube.com/watch?v=2DbzF9kJs_g",
-        "thumbnail": "https://i.ytimg.com/vi_webp/2DbzF9kJs_g/maxresdefault.webp",
-        "durationSeconds": 234,
-        "publishedAt": "2026-09-15T19:15:37.000+08:00",
-        "fetchedAt": "2026-09-19T10:35:47.312+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "S2Qfo6S2chA",
+        "title": "最遺憾的不是分手，而是你從來沒有真正相信我｜《就這樣吧》｜華語流行歌曲🎧浣月Huanyue—YT十二弦月",
+        "url": "https://www.youtube.com/watch?v=S2Qfo6S2chA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/S2Qfo6S2chA/maxresdefault.webp",
+        "durationSeconds": 222,
+        "publishedAt": "2026-09-19T20:28:39.000+08:00",
+        "fetchedAt": "2026-09-19T22:15:28.601+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.48
       }
     },
     {
