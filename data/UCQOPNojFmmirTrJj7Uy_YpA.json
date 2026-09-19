@@ -1,7 +1,7 @@
 {
   "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
   "channelTitle": "浣月Huanyue",
-  "lastUpdated": "2026-09-19T14:40:21.276+08:00",
+  "lastUpdated": "2026-09-19T14:45:21.672+08:00",
   "latestVideo": {
     "videoId": "2DbzF9kJs_g",
     "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "g-zmyNryFqA",
-      "title": "山河萬里，終究沒能等你同歸｜《山河未許》｜古風・中國風原創歌曲🎧浣月Huanyue—YT十二弦月",
+      "title": "你向煙波深處去，我守一城春｜《山河未許》｜古風・中國風原創歌曲🎧浣月Huanyue—YT十二弦月",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -682,43 +682,63 @@
     },
     {
       "videoId": "q4Dzmu2jFRI",
-      "title": "【Beautiful Ancient Style】Destined for This Life - Wishing to Spend a Long Year with You | Immersi..."
+      "title": "【Beautiful Ancient Style】Destined for This Life - Wishing to Spend a Long Year with You | Immersi...",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "o0muflz4XVk",
-      "title": "【仙境純音樂】琉璃仙境・月華流光 | 絕美夜色古風純音樂 |  療癒系中國風 | 沉浸式月光・靜謐・淨化心靈 |  Moonlight Fantasy BGM"
+      "title": "【仙境純音樂】琉璃仙境・月華流光 | 絕美夜色古風純音樂 |  療癒系中國風 | 沉浸式月光・靜謐・淨化心靈 |  Moonlight Fantasy BGM",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "H1yK4N9htw4",
-      "title": "The final chapter of \"Tears of the River of Oblivion\": Eternal Guardianship | The sublimation of ..."
+      "title": "The final chapter of \"Tears of the River of Oblivion\": Eternal Guardianship | The sublimation of ...",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "D1xernj-0kM",
-      "title": "【Fairyland Pure Music】Palaces Above the Clouds, Fairy Breeze and Jade Dew | Exquisitely Ethereal ..."
+      "title": "【Fairyland Pure Music】Palaces Above the Clouds, Fairy Breeze and Jade Dew | Exquisitely Ethereal ...",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "64qph5kbM0s",
-      "title": "【仙境純音樂】仙子踏霧・輕靈羽裳 🧚‍♀️ 深度助眠放鬆音樂 | 療癒輕音樂、冥想、瑜伽、紓壓 BGM | 夢幻薄紗般的聽覺享受 (Ethereal Fairy Music)#助眠音樂#放鬆音樂"
+      "title": "【仙境純音樂】仙子踏霧・輕靈羽裳 🧚‍♀️ 深度助眠放鬆音樂 | 療癒輕音樂、冥想、瑜伽、紓壓 BGM | 夢幻薄紗般的聽覺享受 (Ethereal Fairy Music)#助眠音樂#放鬆音樂",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 1
     },
     {
       "videoId": "s86jZLJjkVg",
-      "title": "\"The Wind of Night Shanghai\" - A retro melody that takes you back to the Paramount Ballroom | Dre..."
+      "title": "\"The Wind of Night Shanghai\" - A retro melody that takes you back to the Paramount Ballroom | Dre...",
+      "genre": "爵士 Jazz",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "4772jeNmSJ4",
-      "title": "The second part of \"Tears of the River of Oblivion\": Unparalleled Love | A poignant and beautiful..."
+      "title": "The second part of \"Tears of the River of Oblivion\": Unparalleled Love | A poignant and beautiful...",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "C2FYmo2zJ5w",
-      "title": "【The Lingering Warmth of Love】🎻 In the city night, savoring the lingering warmth of love｜Urban Po..."
+      "title": "【The Lingering Warmth of Love】🎻 In the city night, savoring the lingering warmth of love｜Urban Po...",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "wJUzvYi4SK4",
-      "title": "【Walking in the Rain】 💟 Gentle urban melodies, the unique mood and chill atmosphere of walking in..."
+      "title": "【Walking in the Rain】 💟 Gentle urban melodies, the unique mood and chill atmosphere of walking in...",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.47
     },
     {
       "videoId": "Wa4oBkh9kWY",
-      "title": "【Waiting in Vain】The Forgotten Promise 💘 Promises are like the wind, deep affection waits in vain..."
+      "title": "【Waiting in Vain】The Forgotten Promise 💘 Promises are like the wind, deep affection waits in vain...",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "u35kBjcWECo",
