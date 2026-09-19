@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T14:00:38.528+08:00",
+  "updatedAt": "2026-09-19T14:05:57.422+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -78,8 +78,18 @@
     },
     {
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
-      "channelTitle": "UCa_pscMvUHKyWOSyRPocS9g",
-      "latestVideo": null
+      "channelTitle": "予棠 Lumiora",
+      "latestVideo": {
+        "videoId": "Top7T6uaMkc",
+        "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
+        "url": "https://www.youtube.com/watch?v=Top7T6uaMkc",
+        "thumbnail": "https://i.ytimg.com/vi/Top7T6uaMkc/maxresdefault.jpg",
+        "durationSeconds": 254,
+        "publishedAt": "2026-09-16T20:11:33.000+08:00",
+        "fetchedAt": "2026-09-19T10:46:06.245+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.52
+      }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
@@ -278,18 +288,8 @@
     },
     {
       "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
-      "channelTitle": "Breathe And Be",
-      "latestVideo": {
-        "videoId": "_rUbmQcvdxQ",
-        "title": "我選了愛我的人，卻不是那個我愛的人｜還是會想你，但不會再等你｜華語情歌【動態歌詞】",
-        "url": "https://www.youtube.com/watch?v=_rUbmQcvdxQ",
-        "thumbnail": "https://i.ytimg.com/vi/_rUbmQcvdxQ/maxresdefault.jpg",
-        "durationSeconds": 307,
-        "publishedAt": "2026-09-12T14:21:14.000+08:00",
-        "fetchedAt": "2026-09-19T13:55:50.560+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
-      }
+      "channelTitle": "UCKfPZtgGAXxnPoWzhopNRmA",
+      "latestVideo": null
     },
     {
       "channelId": "UCfHGjnH3G-Gwjh9kj281FZQ",
