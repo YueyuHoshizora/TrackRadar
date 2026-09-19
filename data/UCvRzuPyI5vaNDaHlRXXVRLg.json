@@ -1,8 +1,18 @@
 {
   "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
   "channelTitle": "Aria艾莉亞",
-  "lastUpdated": "2026-09-19T10:39:38.700+08:00",
-  "latestVideo": null,
+  "lastUpdated": "2026-09-19T11:17:52.130+08:00",
+  "latestVideo": {
+    "videoId": "lGgaSXRYhk8",
+    "title": "從此各自安好，互不相欠不再提及｜《各自安好》Aria艾莉亞 Official Lyric Video",
+    "url": "https://www.youtube.com/watch?v=lGgaSXRYhk8",
+    "thumbnail": "https://i.ytimg.com/vi/lGgaSXRYhk8/maxresdefault.jpg",
+    "durationSeconds": 259,
+    "publishedAt": "2026-09-14T19:30:25.000+08:00",
+    "fetchedAt": "2026-09-19T11:17:51.449+08:00",
+    "genre": "抒情/情歌 Ballad",
+    "genreConfidence": 0.85
+  },
   "allVideoIds": [
     "q6L3WZAbAYk",
     "lGgaSXRYhk8",
