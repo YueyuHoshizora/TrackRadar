@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-20T05:25:33.704+08:00",
+  "updatedAt": "2026-09-20T05:30:36.432+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "IrSZG7Qbqng",
-        "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=IrSZG7Qbqng",
-        "thumbnail": "https://i.ytimg.com/vi/IrSZG7Qbqng/maxresdefault.jpg",
-        "durationSeconds": 263,
-        "publishedAt": "2026-09-19T17:30:36.000+08:00",
-        "fetchedAt": "2026-09-19T17:50:55.640+08:00",
+        "videoId": "TP2X8ip_55Y",
+        "title": "這次不急著愛滿，只想把每一天過好｜這次慢慢愛｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=TP2X8ip_55Y",
+        "thumbnail": "https://i.ytimg.com/vi/TP2X8ip_55Y/maxresdefault.jpg",
+        "durationSeconds": 191,
+        "publishedAt": "2026-09-20T05:30:21.000+08:00",
+        "fetchedAt": "2026-09-20T05:30:28.504+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.8
+        "genreConfidence": 0.91
       }
     },
     {
