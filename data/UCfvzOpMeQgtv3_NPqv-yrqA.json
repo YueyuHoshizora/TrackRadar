@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-19T14:30:30.457+08:00",
+  "lastUpdated": "2026-09-19T14:35:36.294+08:00",
   "latestVideo": {
     "videoId": "YTy8H78Tp1s",
     "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
@@ -382,43 +382,63 @@
     },
     {
       "videoId": "iHg5uAjAs6E",
-      "title": "🔮《雙子座 斷線》｜兩個我都決定，不再為你徬徨｜Official Lyric Video"
+      "title": "🔮《雙子座 斷線》｜兩個我都決定，不再為你徬徨｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.33
     },
     {
       "videoId": "-0Q_bds5jTc",
-      "title": "🔮《雙魚座 溺水》｜我曾困在愛裡不肯呼救，最後還是決定游回自己身邊｜Official Lyric Video"
+      "title": "🔮《雙魚座 溺水》｜我曾困在愛裡不肯呼救，最後還是決定游回自己身邊｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "zXxL2uEv4lQ",
-      "title": "🔮《水瓶座 異類》｜你越想把我留下，我越想逃回自己的宇宙｜Official Lyric Video"
+      "title": "🔮《水瓶座 異類》｜你越想把我留下，我越想逃回自己的宇宙｜Official Lyric Video",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.34
     },
     {
       "videoId": "5epxtaLYDkA",
-      "title": "🔮《摩羯座 冰川》｜不是不痛，只是我寧願把遺憾埋進冰川｜Official Lyric Video"
+      "title": "🔮《摩羯座 冰川》｜不是不痛，只是我寧願把遺憾埋進冰川｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "L5_oPvjKB84",
-      "title": "🔮《射手座 遠方》｜如果愛讓我失去自己，那我寧願一個人奔向遠方｜Official Lyric Video"
+      "title": "🔮《射手座 遠方》｜如果愛讓我失去自己，那我寧願一個人奔向遠方｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "VGC8jD_skmA",
-      "title": "🔮《天蠍座 毒性》｜愛得越深，背叛之後的恨就越徹底｜Official Lyric Video"
+      "title": "🔮《天蠍座 毒性》｜愛得越深，背叛之後的恨就越徹底｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "uk0A_LkGAgs",
-      "title": "🔮《天秤座 傾斜》｜為了維持平衡，我差點把自己也一起失去｜Official Lyric Video"
+      "title": "🔮《天秤座 傾斜》｜為了維持平衡，我差點把自己也一起失去｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "PylRoPv4z_g",
-      "title": "🔮《處女座 塵埃》｜我不是非要完美，只是不想再替敷衍找理由｜Official Lyric Video"
+      "title": "🔮《處女座 塵埃》｜我不是非要完美，只是不想再替敷衍找理由｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "UGcYgIFnB5g",
-      "title": "🔮《獅子座 落幕》｜你看見的是我的驕傲，沒看見的是我轉身後的荒蕪｜Official Lyric Video"
+      "title": "🔮《獅子座 落幕》｜你看見的是我的驕傲，沒看見的是我轉身後的荒蕪｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "c6z0c5SydCM",
-      "title": "🔮《巨蟹座 褪殼》｜把最柔軟的自己交出去，卻換來一場練習重生的離開｜Official Lyric Video"
+      "title": "🔮《巨蟹座 褪殼》｜把最柔軟的自己交出去，卻換來一場練習重生的離開｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "-BGx3i75BWU",
