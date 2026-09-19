@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-19T14:40:35.276+08:00",
+  "lastUpdated": "2026-09-19T14:45:31.834+08:00",
   "latestVideo": {
     "videoId": "YTy8H78Tp1s",
     "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
@@ -502,43 +502,63 @@
     },
     {
       "videoId": "sbF3nux_K1o",
-      "title": "🌱《中途站》｜就算還不知道目的地，也不用急著追上誰｜Official Lyric Video"
+      "title": "🌱《中途站》｜就算還不知道目的地，也不用急著追上誰｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.49
     },
     {
       "videoId": "S3DMUjdrj-0",
-      "title": "🐔《我是那隻醬板鴨》｜我不是狐狸，我是回來報仇的醬板鴨｜Official Lyric Video"
+      "title": "🐔《我是那隻醬板鴨》｜我不是狐狸，我是回來報仇的醬板鴨｜Official Lyric Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "W_Zg8gvebD4",
-      "title": "🖤《百鬼行》｜百鬼巡遊，今夜沒有誰能活著走出這場祭典｜Official Lyric Video"
+      "title": "🖤《百鬼行》｜百鬼巡遊，今夜沒有誰能活著走出這場祭典｜Official Lyric Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "H1FlAvn709M",
-      "title": "🌱《黑色垃圾袋》｜把過期的感情打包丟掉，房間空了心也輕了｜Official Lyric Video"
+      "title": "🌱《黑色垃圾袋》｜把過期的感情打包丟掉，房間空了心也輕了｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "ZIf19z3ZM5s",
-      "title": "🐔《王冠將死》｜規則太無聊，掀翻整場局才是我們的玩法｜Official Lyric Video"
+      "title": "🐔《王冠將死》｜規則太無聊，掀翻整場局才是我們的玩法｜Official Lyric Video",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "y9fzKPJTKIk",
-      "title": "🖤《雙生血月》｜當另一個自己奪走身體，我們只剩一起沉淪｜Official Lyric Video"
+      "title": "🖤《雙生血月》｜當另一個自己奪走身體，我們只剩一起沉淪｜Official Lyric Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.34
     },
     {
       "videoId": "ZqVkDB20Hfs",
-      "title": "🐔《社會化不良》｜當「懂事的大人」太久了，今天老娘不幹了｜Official Lyric Video"
+      "title": "🐔《社會化不良》｜當「懂事的大人」太久了，今天老娘不幹了｜Official Lyric Video",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.27
     },
     {
       "videoId": "s-gqSpeFMWA",
-      "title": "💗《為你拔劍》｜就算全世界反對，我也要站在你身前｜Official Lyric Video"
+      "title": "💗《為你拔劍》｜就算全世界反對，我也要站在你身前｜Official Lyric Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "mv1P1rnUez0",
-      "title": "🌱《無法倒轉的BPM》｜回不去那個一無所有，卻敢對命運大笑的我們｜Official Lyric Video"
+      "title": "🌱《無法倒轉的BPM》｜回不去那個一無所有，卻敢對命運大笑的我們｜Official Lyric Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.28
     },
     {
       "videoId": "fSqXoAxWeFY",
-      "title": "🖤《殘次品》｜我不回收，這種有瑕疵的殘次品｜Official Lyric Video"
+      "title": "🖤《殘次品》｜我不回收，這種有瑕疵的殘次品｜Official Lyric Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "JD5NZEzVUOo",
