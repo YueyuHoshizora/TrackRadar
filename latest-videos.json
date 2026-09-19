@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T14:05:57.422+08:00",
+  "updatedAt": "2026-09-19T14:08:26.066+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -63,18 +63,8 @@
     },
     {
       "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
-      "channelTitle": "浣月Huanyue",
-      "latestVideo": {
-        "videoId": "2DbzF9kJs_g",
-        "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
-        "url": "https://www.youtube.com/watch?v=2DbzF9kJs_g",
-        "thumbnail": "https://i.ytimg.com/vi_webp/2DbzF9kJs_g/maxresdefault.webp",
-        "durationSeconds": 234,
-        "publishedAt": "2026-09-15T19:15:37.000+08:00",
-        "fetchedAt": "2026-09-19T10:35:47.312+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
-      }
+      "channelTitle": "UCQOPNojFmmirTrJj7Uy_YpA",
+      "latestVideo": null
     },
     {
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
@@ -288,8 +278,18 @@
     },
     {
       "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
-      "channelTitle": "UCKfPZtgGAXxnPoWzhopNRmA",
-      "latestVideo": null
+      "channelTitle": "Breathe And Be",
+      "latestVideo": {
+        "videoId": "_rUbmQcvdxQ",
+        "title": "我選了愛我的人，卻不是那個我愛的人｜還是會想你，但不會再等你｜華語情歌【動態歌詞】",
+        "url": "https://www.youtube.com/watch?v=_rUbmQcvdxQ",
+        "thumbnail": "https://i.ytimg.com/vi/_rUbmQcvdxQ/maxresdefault.jpg",
+        "durationSeconds": 307,
+        "publishedAt": "2026-09-12T14:21:14.000+08:00",
+        "fetchedAt": "2026-09-19T13:55:50.560+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
+      }
     },
     {
       "channelId": "UCfHGjnH3G-Gwjh9kj281FZQ",
@@ -304,6 +304,21 @@
         "fetchedAt": "2026-09-19T13:55:50.261+08:00",
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 0.99
+      }
+    },
+    {
+      "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
+      "channelTitle": "Vera Studio",
+      "latestVideo": {
+        "videoId": "YTy8H78Tp1s",
+        "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
+        "url": "https://www.youtube.com/watch?v=YTy8H78Tp1s",
+        "thumbnail": "https://i.ytimg.com/vi/YTy8H78Tp1s/maxresdefault.jpg",
+        "durationSeconds": 238,
+        "publishedAt": "2026-09-18T15:00:17.000+08:00",
+        "fetchedAt": "2026-09-19T14:08:22.616+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.96
       }
     }
   ]
