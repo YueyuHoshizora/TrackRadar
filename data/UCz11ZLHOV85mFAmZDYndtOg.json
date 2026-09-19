@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:50:43.027+08:00",
+  "lastUpdated": "2026-09-19T16:51:08.680+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -742,43 +742,63 @@
     },
     {
       "videoId": "Y43Ca-n7rfo",
-      "title": "4 0、Rhythm Alive"
+      "title": "4 0、Rhythm Alive",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "mkJ6WSSHsro",
-      "title": "7 0、Final Rep"
+      "title": "7 0、Final Rep",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "NHxKjcE7i4U",
-      "title": "3 0、Rhythm Alive"
+      "title": "3 0、Rhythm Alive",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "a6rQV_rfCLY",
-      "title": "2 0、Neon Circuitry"
+      "title": "2 0、Neon Circuitry",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "PEKv2DL2uh4",
-      "title": "6 0、Rage Unleashed"
+      "title": "6 0、Rage Unleashed",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "F0De9zb3X0c",
-      "title": "6 0、Rage Unleashed"
+      "title": "6 0、Rage Unleashed",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "yAGvAfCthhY",
-      "title": "5 0、Rage Unleashed"
+      "title": "5 0、Rage Unleashed",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "tR3fXq1-w5Y",
-      "title": "5 0、Rage Unleashed"
+      "title": "5 0、Rage Unleashed",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "GzZkaIZifCQ",
-      "title": "5 0、Rage Unleashed"
+      "title": "5 0、Rage Unleashed",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "JRwhV5nqgSY",
-      "title": "【Late Night Reverie】- LUMINA 💖 Warm Rhodes & 808｜Lofi Neo-Soul / Dreamy Soulful / Cozy Night Vibes"
+      "title": "【Late Night Reverie】- LUMINA 💖 Warm Rhodes & 808｜Lofi Neo-Soul / Dreamy Soulful / Cozy Night Vibes",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "j_3wiETOPR0",
