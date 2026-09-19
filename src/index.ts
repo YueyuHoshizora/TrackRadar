@@ -149,19 +149,25 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
     if (all.channelTitle) channelTitle = all.channelTitle;
     if (all.channelAvatarUrl) channelAvatarUrl = all.channelAvatarUrl;
     const prevById = new Map(allVideoIds.map((e) => [e.videoId, e]));
-    const merged = all.videos.map((v) => {
-      const prev = prevById.get(v.videoId);
-      const isLatest = Boolean(latestVideo && latestVideo.videoId === v.videoId);
-      return compactAllVideoEntry({
-        videoId: v.videoId,
-        title: v.title || prev?.title || (isLatest && latestVideo ? latestVideo.title : ""),
-        genre: prev?.genre ?? (isLatest && latestVideo ? latestVideo.genre : undefined),
-        genreConfidence: prev?.genreConfidence ?? (isLatest && latestVideo ? latestVideo.genreConfidence : undefined),
+    if (all.videos.length === 0 && allVideoIds.length > 0) {
+      // 抓到 0 支多半是 YouTube 回了同意頁/空殼頁（不會 throw），不是頻道真的清空作品；
+      // 直接寫入會把整份清單洗掉，所以保留既有資料，等下一輪重抓。
+      console.error(`TrackRadar: empty uploads list for ${channelId}, keeping ${allVideoIds.length} cached entries`);
+    } else {
+      const merged = all.videos.map((v) => {
+        const prev = prevById.get(v.videoId);
+        const isLatest = Boolean(latestVideo && latestVideo.videoId === v.videoId);
+        return compactAllVideoEntry({
+          videoId: v.videoId,
+          title: v.title || prev?.title || (isLatest && latestVideo ? latestVideo.title : ""),
+          genre: prev?.genre ?? (isLatest && latestVideo ? latestVideo.genre : undefined),
+          genreConfidence: prev?.genreConfidence ?? (isLatest && latestVideo ? latestVideo.genreConfidence : undefined),
+        });
       });
-    });
-    if (JSON.stringify(merged) !== JSON.stringify(allVideoIds)) {
-      allVideoIds = merged;
-      allIdsChanged = true;
+      if (JSON.stringify(merged) !== JSON.stringify(allVideoIds)) {
+        allVideoIds = merged;
+        allIdsChanged = true;
+      }
     }
   } catch (err) {
     console.error(`TrackRadar: fetchAllUploadedVideoIds failed for ${channelId}`, err);
@@ -216,6 +222,29 @@ async function loadChannelList(env: Env): Promise<ChannelListEntry[]> {
   return list ?? [];
 }
 
+/**
+ * 單頻道處理整個失敗時的替補結果：改讀已寫入的 data/<channelId>.json，
+ * 讓 latest-videos.json 沿用上一輪的標題與最新影片，而不是被覆寫成 null。
+ */
+async function cachedOutcome(env: Env, channelId: string, err: unknown): Promise<ProcessOutcome> {
+  let existing: ChannelData | null = null;
+  try {
+    existing = await getJson<ChannelData>(env, channelDataPath(env, channelId));
+  } catch (readErr) {
+    console.error(`TrackRadar: fallback read failed for ${channelId}`, readErr);
+  }
+  return {
+    channelId,
+    updated: false,
+    channelTitle: existing?.channelTitle ?? null,
+    channelAvatarUrl: null,
+    latestVideo: existing?.latestVideo ?? null,
+    scanned: 0,
+    allVideoIdsCount: existing?.allVideoIds?.length ?? 0,
+    error: err instanceof Error ? err.message : String(err),
+  };
+}
+
 async function runOnce(env: Env): Promise<ProcessOutcome[]> {
   const channels = await loadChannelList(env);
   const scanLimit = Number(env.CANDIDATE_SCAN_LIMIT || "10");
@@ -231,16 +260,7 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
         outcomes[index] = await processChannel(env, channelId, scanLimit);
       } catch (err) {
         console.error(`TrackRadar: failed processing ${channelId}`, err);
-        outcomes[index] = {
-          channelId,
-          updated: false,
-          channelTitle: null,
-          channelAvatarUrl: null,
-          latestVideo: null,
-          scanned: 0,
-          allVideoIdsCount: 0,
-          error: err instanceof Error ? err.message : String(err),
-        };
+        outcomes[index] = await cachedOutcome(env, channelId, err);
       }
     }
   }
@@ -270,9 +290,9 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
   const index: LatestIndex = {
     updatedAt: toUtc8Iso(new Date()),
     channels: outcomes.map(
-      (o): LatestIndexEntry => ({
+      (o, i): LatestIndexEntry => ({
         channelId: o.channelId,
-        channelTitle: o.channelTitle ?? o.channelId,
+        channelTitle: o.channelTitle ?? channels[i]?.name ?? o.channelId,
         latestVideo: o.latestVideo,
       })
     ),
