@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T11:18:29.002+08:00",
+  "updatedAt": "2026-09-19T11:18:45.543+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -109,7 +109,17 @@
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "E8PK1SITqeg",
+        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+        "durationSeconds": 255,
+        "publishedAt": "2026-09-12T04:57:52.000+08:00",
+        "fetchedAt": "2026-09-19T11:18:36.900+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
+      }
     },
     {
       "channelId": "UCTrgJME6bNivRn8-rERa9Ww",
@@ -248,8 +258,18 @@
     },
     {
       "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
-      "channelTitle": "UCX-yDZrgJr3_JZDft-VUsrw",
-      "latestVideo": null
+      "channelTitle": "田井魚",
+      "latestVideo": {
+        "videoId": "338djo367Vg",
+        "title": "你還在我身旁，卻一直等著她，原來...不被愛的才是第三者 《我們。你們》｜華語輕搖滾",
+        "url": "https://www.youtube.com/watch?v=338djo367Vg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/338djo367Vg/maxresdefault.webp",
+        "durationSeconds": 193,
+        "publishedAt": "2026-09-16T18:30:25.000+08:00",
+        "fetchedAt": "2026-09-19T11:18:40.135+08:00",
+        "genre": "搖滾 Rock",
+        "genreConfidence": 0.77
+      }
     },
     {
       "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
