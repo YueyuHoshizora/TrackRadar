@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-20T03:35:28.397+08:00",
+  "lastUpdated": "2026-09-20T03:50:29.257+08:00",
   "latestVideo": {
     "videoId": "IrSZG7Qbqng",
     "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "聽見你的好消息，我第一次只剩一句真好｜遠方也明亮｜Yu Stellar｜星語",
+      "title": "遠方也明亮｜寫給真正放下比較與遺憾的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "iaq0nSfm-r4",
-      "title": "這次站上台接受掌聲，我沒有再想起誰的手｜名片上的我｜Yu Stellar｜星語",
+      "title": "名片上的我，終於不再寫在誰的身後｜名片上的我｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.81
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "OtVXQi8Nm0Q",
-      "title": "星期三的湯，慢慢把我煮回日常｜星期三的湯｜Yu Stellar｜星語",
+      "title": "一個人吃飯的晚上，我終於學會照顧自己｜星期三的湯｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -52,13 +52,13 @@
     },
     {
       "videoId": "Ry_wW8Zs4zM",
-      "title": "沒有突然痊癒，只是今天願意走進人群｜把窗打開｜Yu Stellar｜星語",
+      "title": "我把窗打開，也把今天重新放進來｜把窗打開｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
     {
       "videoId": "IRyuDXF3zrU",
-      "title": "原來你也走了很遠，才終於懂我的沉默｜你也走了很遠｜Yu Stellar｜星語",
+      "title": "我以為只有我放不下，直到想起你也曾孤單｜你也走了很遠｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "-sbjaxnFS_Y",
-      "title": "那段失去沒有白費，它把我帶成更好的人｜把遺憾活成答案｜Yu Stellar｜星語",
+      "title": "我不再問如果，決定把遺憾活成答案｜把遺憾活成答案｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "nXMpNlR50t8",
-      "title": "分開後第一次整理房間，也整理了自己｜沒有你的新生活｜Yu Stellar｜星語",
+      "title": "沒有你的房間，我終於學會把日子過好｜沒有你的新生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "RLQCLGovr70",
-      "title": "不同時區的晚安｜遠距離愛情最安靜的消耗｜Yu Stellar｜星語",
+      "title": "不是不想說晚安，是我們活在不同的時間｜不同時區的晚安｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -118,7 +118,7 @@
     },
     {
       "videoId": "pTp_Pj-Wb5k",
-      "title": "〈我飛過去了〉失戀成長情歌｜寫給曾為愛奔赴的你",
+      "title": "〈我飛過去了〉你沒有出現，不代表我的勇敢是笑話",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "y2DPSbjtREc",
-      "title": "去程為了愛，為什麼回程她終於只為自己靠窗？｜〈回程靠窗的位置〉",
+      "title": "〈回程靠窗的位置〉我沒帶回你的愛，卻帶回完整的自己",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
@@ -184,7 +184,7 @@
     },
     {
       "videoId": "3hySsQx0X7c",
-      "title": "《歸途》原來你不是迷路，只是走了很遠的路｜Yu Stellar｜星語",
+      "title": "《歸途》走到世界盡頭，才明白回家從來不是回到原點｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.59
     },
@@ -196,13 +196,13 @@
     },
     {
       "videoId": "R3gV6vUkCLQ",
-      "title": "接機人群散了一次又一次，她還在替他找理由｜〈抵達〉",
+      "title": "〈抵達〉機場失約情歌｜跨國網戀華語抒情女聲",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
     {
       "videoId": "gcrkqHSG0Lo",
-      "title": "〈時差沒有說的話〉遠距離戀愛情歌｜錯過彼此的華語抒情",
+      "title": "〈時差沒有說的話〉明明同一個時區，我們卻活成兩個世界",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -214,19 +214,19 @@
     },
     {
       "videoId": "wtLpZKrVHkI",
-      "title": "人人都等她出劍，她卻在酒肆裝醉｜今日不問江湖事｜Yu Stellar｜星語",
+      "title": "你不是撐不住，只是太久沒休息｜今日不問江湖事｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.35
     },
     {
       "videoId": "87E6EExCuGk",
-      "title": "雨停了，等了一整晚的訊息還是沒來｜〈你那邊下雨嗎〉",
+      "title": "〈你那邊下雨嗎〉我把關心打了又刪，只怕你不回答",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "cTGwaoSKlbc",
-      "title": "〈一張飛往你的票〉跨國網戀情歌｜為愛奔赴的華語抒情",
+      "title": "〈一張飛往你的票〉她省下每一杯咖啡，只為飛去見你",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -244,7 +244,7 @@
     },
     {
       "videoId": "-xiJ8gkPppM",
-      "title": "凌晨三點｜手機關掉後，我們把這座城市開到天亮｜Yu Stellar｜星語",
+      "title": "凌晨三點｜白天忍住的一切，今晚全部甩在身後｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.71
     },
@@ -274,7 +274,7 @@
     },
     {
       "videoId": "qm8jtFFZfis",
-      "title": "不眠的夜｜深夜循環播放，一首陪你到天亮的歌",
+      "title": "不眠的夜｜一整晚睡不著，只因為心裡還有你",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
