@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-19T14:08:25.200+08:00",
+  "lastUpdated": "2026-09-19T14:10:35.385+08:00",
   "latestVideo": {
     "videoId": "YTy8H78Tp1s",
     "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "p_HjBrhBIWc",
-      "title": "🖤《地獄》｜最深的地獄沒有火，只有你不再愛我｜Official MV"
+      "title": "🖤《地獄》｜最深的地獄沒有火，只有你不再愛我｜Official MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "CO3rakw5WAA",
-      "title": "💗《星期一也很可愛》｜因為喜歡你，連最討厭的星期一都開始值得期待｜Official MV"
+      "title": "💗《星期一也很可愛》｜因為喜歡你，連最討厭的星期一都開始值得期待｜Official MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "W4cG402nPlM",
-      "title": "🌧️《不失禮貌的微笑》｜等你們走遠，我才承認自己還沒放下｜Official MV"
+      "title": "🌧️《不失禮貌的微笑》｜等你們走遠，我才承認自己還沒放下｜Official MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "31MtHQWRPRw",
-      "title": "🖤《浪人》｜就算刀口向我，也要走到妳身旁｜Official MV"
+      "title": "🖤《浪人》｜就算刀口向我，也要走到妳身旁｜Official MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.42
     },
     {
       "videoId": "ee065vAbOtQ",
-      "title": "🌧️《我還站在原地》｜只有留下的人，還困在回憶裡｜Official MV"
+      "title": "🌧️《我還站在原地》｜只有留下的人，還困在回憶裡｜Official MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "BQX88WhQXMQ",
-      "title": "🐔《戀愛演算法》｜SEO 都做滿了，還是擠不進你的推薦欄｜Official MV"
+      "title": "🐔《戀愛演算法》｜SEO 都做滿了，還是擠不進你的推薦欄｜Official MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "tvGawbRcD2A",
-      "title": "🐔《山魈》｜巨山在笑，笑盡人間貪婪｜Official Lyric Video"
+      "title": "🐔《山魈》｜巨山在笑，笑盡人間貪婪｜Official Lyric Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.49
     },
     {
       "videoId": "dNElYMGTRAU",
-      "title": "🌧️《請將我遺忘》｜這一次，我會主動放手讓你解脫｜Official MV"
+      "title": "🌧️《請將我遺忘》｜這一次，我會主動放手讓你解脫｜Official MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "JKtZ57gyKMc",
-      "title": "🌧️《不敢打破的平衡》｜喜歡你，卻怕告白後連朋友都做不成｜Official Lyric Video"
+      "title": "🌧️《不敢打破的平衡》｜喜歡你，卻怕告白後連朋友都做不成｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "Iz8KbRCqBaU",
-      "title": "🎙️運將人生｜台語饒舌｜寫給小黃、Uber司機的日夜心聲｜Official Lyric Video"
+      "title": "🎙️運將人生｜台語饒舌｜寫給小黃、Uber司機的日夜心聲｜Official Lyric Video",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1
     },
     {
       "videoId": "QYY8F-KPP3o",
