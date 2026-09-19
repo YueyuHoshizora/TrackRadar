@@ -1,7 +1,7 @@
 {
   "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
   "channelTitle": "浣月Huanyue",
-  "lastUpdated": "2026-09-19T14:50:21.137+08:00",
+  "lastUpdated": "2026-09-19T14:55:20.984+08:00",
   "latestVideo": {
     "videoId": "2DbzF9kJs_g",
     "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "g-zmyNryFqA",
-      "title": "山河萬里，終究沒能等你同歸｜《山河未許》｜古風・中國風原創歌曲🎧浣月Huanyue—YT十二弦月",
+      "title": "你向煙波深處去，我守一城春｜《山河未許》｜古風・中國風原創歌曲🎧浣月Huanyue—YT十二弦月",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -802,43 +802,63 @@
     },
     {
       "videoId": "sBxkCMef5mA",
-      "title": "【別後青燈】-幻音流光🎲融合新中式古典詩意與都會流行節拍，青燈下細訴別後情思，迴盪古今｜古典音樂鋼琴 / 溫柔傷感，清雅而深邃 / 獨處思維，雨夜聽歌"
+      "title": "【別後青燈】-幻音流光🎲融合新中式古典詩意與都會流行節拍，青燈下細訴別後情思，迴盪古今｜古典音樂鋼琴 / 溫柔傷感，清雅而深邃 / 獨處思維，雨夜聽歌",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "rPDxeTfG5YM",
-      "title": "In the hazy night, forget-me-not. The dim light lingers on — may the world remember forever."
+      "title": "In the hazy night, forget-me-not. The dim light lingers on — may the world remember forever.",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "f5dCX2z5QPE",
-      "title": "催淚古風《深宮月》｜一曲深宮怨，道盡年華虛擲...「君王恩寵，薄如蟬翼」 (Gufeng / 悲傷古風)"
+      "title": "催淚古風《深宮月》｜一曲深宮怨，道盡年華虛擲...「君王恩寵，薄如蟬翼」 (Gufeng / 悲傷古風)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "8qsbC2nQ2ko",
-      "title": "催淚古風《深宮月》｜一曲深宮怨，道盡年華虛擲...「君王恩寵，薄如蟬翼」 (Gufeng / 悲傷古風)"
+      "title": "催淚古風《深宮月》｜一曲深宮怨，道盡年華虛擲...「君王恩寵，薄如蟬翼」 (Gufeng / 悲傷古風)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "NoV5UPJ0vc8",
-      "title": "【你笑的瞬間】🎧都會基準心跳，溫暖捕捉心動每個瞬間｜都市流行音樂/微甜浪漫/夜間放鬆/咖啡時光"
+      "title": "【你笑的瞬間】🎧都會基準心跳，溫暖捕捉心動每個瞬間｜都市流行音樂/微甜浪漫/夜間放鬆/咖啡時光",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "NIzsKCzHps8",
-      "title": "【你走了，風停了】🖤輕柔緩釋思緒，在風停的靜謐中，回溯那些你走後的痕跡｜Chill / 沈靜、釋懷、微帶感傷的思念 / 午夜獨處、靜思、睡前靜"
+      "title": "【你走了，風停了】🖤輕柔緩釋思緒，在風停的靜謐中，回溯那些你走後的痕跡｜Chill / 沈靜、釋懷、微帶感傷的思念 / 午夜獨處、靜思、睡前靜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "Lrgb98oeDIo",
-      "title": "【情關難】🥁 溫暖原聲重現60年代都會情韻｜原聲 Acoustic / 深情無奈 / 懷舊都會夜色 #60年代 #原聲音樂 #懷舊音樂 #翻唱 #mandopop #ai音樂"
+      "title": "【情關難】🥁 溫暖原聲重現60年代都會情韻｜原聲 Acoustic / 深情無奈 / 懷舊都會夜色 #60年代 #原聲音樂 #懷舊音樂 #翻唱 #mandopop #ai音樂",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "doCK4wiavUM",
-      "title": "【情關難】🥁 溫暖原聲重現60年代都會情韻｜原聲 Acoustic / 深情無奈 / 懷舊都會夜色 #60年代 #原聲音樂 #懷舊音樂"
+      "title": "【情關難】🥁 溫暖原聲重現60年代都會情韻｜原聲 Acoustic / 深情無奈 / 懷舊都會夜色 #60年代 #原聲音樂 #懷舊音樂",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "8Ie2t8IAkA8",
-      "title": "寫滿「對不起」和「我還愛你」，卻永遠寄不到你手裡｜《未寄出的信》｜華語傷感情歌🎧浣月_YT十二弦月"
+      "title": "寫滿「對不起」和「我還愛你」，卻永遠寄不到你手裡｜《未寄出的信》｜華語傷感情歌🎧浣月_YT十二弦月",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "KuqfKTYmcsA",
-      "title": "【四十九夜·長安夢】悼于朦朧 49盞魂燈 願君安息 / 縹緲思古追憶  #ai音樂 #lyricvideo"
+      "title": "【四十九夜·長安夢】悼于朦朧 49盞魂燈 願君安息 / 縹緲思古追憶  #ai音樂 #lyricvideo",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "jU4CXKJXKZA",
