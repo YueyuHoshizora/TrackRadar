@@ -2,10 +2,6 @@ name = "track-radar"
 main = "src/index.ts"
 compatibility_date = "2024-11-01"
 
-# Workers AI binding，用於呼叫 typesafe/jev 模型做曲風分類
-[ai]
-binding = "AI"
-
 # 每 5 分鐘觸發一次
 [triggers]
 crons = ["*/5 * * * *"]
@@ -29,3 +25,4 @@ ALL_IDS_MAX_VIDEOS = "2000"
 # 機密資訊請用以下指令設定，不要寫在這裡：
 #   wrangler secret put GITHUB_TOKEN
 #   wrangler secret put ADMIN_TOKEN   (手動觸發 /run 用的驗證 token，可選)
+#   wrangler secret put OPENROUTER_API_KEY   (曲風分類用，呼叫 OpenRouter Decisions API 的 typesafe/jev 模型，可選)

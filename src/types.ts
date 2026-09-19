@@ -10,7 +10,7 @@ export interface Env {
   ALL_IDS_MAX_VIDEOS: string;
   GITHUB_TOKEN: string;
   ADMIN_TOKEN?: string;
-  AI: Ai;
+  OPENROUTER_API_KEY?: string; // 用於呼叫 OpenRouter Decisions API（typesafe/jev）做曲風分類，未設定時跳過分類
 }
 
 /** 單支影片資料（存放於 data/<channelId>.json） */
