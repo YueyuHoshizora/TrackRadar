@@ -1,8 +1,18 @@
 {
   "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
   "channelTitle": "Sonar.Music.Studio",
-  "lastUpdated": "2026-09-19T10:39:26.455+08:00",
-  "latestVideo": null,
+  "lastUpdated": "2026-09-19T11:18:37.260+08:00",
+  "latestVideo": {
+    "videoId": "E8PK1SITqeg",
+    "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+    "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+    "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+    "durationSeconds": 255,
+    "publishedAt": "2026-09-12T04:57:52.000+08:00",
+    "fetchedAt": "2026-09-19T11:18:36.900+08:00",
+    "genre": "抒情/情歌 Ballad",
+    "genreConfidence": 1
+  },
   "allVideoIds": [
     "77-vdphiFeY",
     "1uvUGsLLLWA",
