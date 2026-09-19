@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-09-19T16:10:38.521+08:00",
+  "lastUpdated": "2026-09-19T16:15:38.457+08:00",
   "latestVideo": {
     "videoId": "Top7T6uaMkc",
     "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
@@ -202,43 +202,63 @@
     },
     {
       "videoId": "EiMBd4jkQ30",
-      "title": "史書之外｜史書不留名，山河替我作證【古風歌曲・中文原創歌曲・Official Audio】"
+      "title": "史書之外｜史書不留名，山河替我作證【古風歌曲・中文原創歌曲・Official Audio】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "-jE2Pl9P2kw",
-      "title": "無赦｜若神不肯赦免，我就赦免自己【中文原創歌曲・Industrial Metal・Official Audio】"
+      "title": "無赦｜若神不肯赦免，我就赦免自己【中文原創歌曲・Industrial Metal・Official Audio】",
+      "genre": "金屬 Metal",
+      "genreConfidence": 1
     },
     {
       "videoId": "Z9kcYPJ-3rg",
-      "title": "次の世で、また｜今生無法相守，那就約定來世相見【日文原創歌曲・日文抒情歌・Official Audio】"
+      "title": "次の世で、また｜今生無法相守，那就約定來世相見【日文原創歌曲・日文抒情歌・Official Audio】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "n2ePUS4UZF0",
-      "title": "EMBER｜就算只剩餘燼，我也會再次燃燒【英文原創歌曲・Cinematic Pop・Official Audio】"
+      "title": "EMBER｜就算只剩餘燼，我也會再次燃燒【英文原創歌曲・Cinematic Pop・Official Audio】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "WRcq0UFOB4o",
-      "title": "Tonight (Neon Hearts)｜如果天亮終究會來，就讓今夜留在霓虹裡【英文原創歌曲・Synth Pop・Official Audio】"
+      "title": "Tonight (Neon Hearts)｜如果天亮終究會來，就讓今夜留在霓虹裡【英文原創歌曲・Synth Pop・Official Audio】",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "bNyPlyNxV1g",
-      "title": "새벽 너머로｜走過漫長黑夜，我仍朝第一道光奔去【韓文原創歌曲・Pop Rock・Official Audio】"
+      "title": "새벽 너머로｜走過漫長黑夜，我仍朝第一道光奔去【韓文原創歌曲・Pop Rock・Official Audio】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "07JJVPOYJPQ",
-      "title": "UNBROKEN｜當世界逼你低頭，我仍選擇站立【英文原創歌曲・Epic Pop・Official Audio】"
+      "title": "UNBROKEN｜當世界逼你低頭，我仍選擇站立【英文原創歌曲・Epic Pop・Official Audio】",
+      "genre": "流行 Pop",
+      "genreConfidence": 1
     },
     {
       "videoId": "y2a2A__0_pg",
-      "title": "星降る夜に｜在星光落下的夜裡，我們終於明白彼此心意【日文原創歌曲・J-Pop・Lumiora Chapter 05】"
+      "title": "星降る夜に｜在星光落下的夜裡，我們終於明白彼此心意【日文原創歌曲・J-Pop・Lumiora Chapter 05】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "oG_QS_LUxTY",
-      "title": "春を待つ｜走過雨季後，我們終於再次並肩【日文原創歌曲・J-Pop・Lumiora Chapter 04】"
+      "title": "春を待つ｜走過雨季後，我們終於再次並肩【日文原創歌曲・J-Pop・Lumiora Chapter 04】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "0GIxsFEjTNo",
-      "title": "雨のホーム｜終電駛離以前，我還在等你出現【日文原創歌曲・J-Pop・Lumiora Chapter 03】"
+      "title": "雨のホーム｜終電駛離以前，我還在等你出現【日文原創歌曲・J-Pop・Lumiora Chapter 03】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "jttwidlhOXA",
