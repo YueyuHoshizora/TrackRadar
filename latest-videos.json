@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:45:54.762+08:00",
+  "updatedAt": "2026-09-19T10:46:18.561+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -94,46 +94,96 @@
     {
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "Top7T6uaMkc",
+        "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
+        "url": "https://www.youtube.com/watch?v=Top7T6uaMkc",
+        "thumbnail": "https://i.ytimg.com/vi/Top7T6uaMkc/maxresdefault.jpg",
+        "durationSeconds": 254,
+        "publishedAt": "2026-09-16T20:11:33.000+08:00",
+        "fetchedAt": "2026-09-19T10:46:06.245+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.53
+      }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
-      "channelTitle": "Sonar.Music.Studio",
+      "channelTitle": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "latestVideo": null
     },
     {
       "channelId": "UCTrgJME6bNivRn8-rERa9Ww",
       "channelTitle": "Zoe. G",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "HtvMX1f3zdE",
+        "title": "喝下孟婆湯，就真的能忘掉一個人嗎？｜《孟婆》- Zoe. G - 我是ZOE｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲",
+        "url": "https://www.youtube.com/watch?v=HtvMX1f3zdE",
+        "thumbnail": "https://i.ytimg.com/vi/HtvMX1f3zdE/maxresdefault.jpg",
+        "durationSeconds": 249,
+        "publishedAt": "2026-09-11T16:02:42.000+08:00",
+        "fetchedAt": "2026-09-19T10:46:12.787+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.74
+      }
     },
     {
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "qGc_gkTS0KY",
+        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
+        "durationSeconds": 253,
+        "publishedAt": "2026-09-15T18:32:58.000+08:00",
+        "fetchedAt": "2026-09-19T10:46:07.291+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.35
+      }
     },
     {
       "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
       "channelTitle": "迷子 Maigo",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "UnLYmfA2ias",
+        "title": "夏恋ノ残火 / 迷子 feat. 重音テト",
+        "url": "https://www.youtube.com/watch?v=UnLYmfA2ias",
+        "thumbnail": "https://i.ytimg.com/vi/UnLYmfA2ias/maxresdefault.jpg",
+        "durationSeconds": 245,
+        "publishedAt": "2026-09-04T19:18:31.000+08:00",
+        "fetchedAt": "2026-09-19T10:46:09.359+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.63
+      }
     },
     {
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
-      "channelTitle": "筠芙得利",
+      "channelTitle": "UCTyJuFjiImTIMqzs-pIjgfw",
       "latestVideo": null
     },
     {
       "channelId": "UCLdQFGact5lDLLtpaX50fAg",
-      "channelTitle": "苏砚Suyan",
+      "channelTitle": "UCLdQFGact5lDLLtpaX50fAg",
       "latestVideo": null
     },
     {
       "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
       "channelTitle": "ChillVibes",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "azudOtnA9YA",
+        "title": "Let It Pass｜讓它經過 | Healing R&B for Letting Go · STILL.01 (Lyric Video)",
+        "url": "https://www.youtube.com/watch?v=azudOtnA9YA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/azudOtnA9YA/maxresdefault.webp",
+        "durationSeconds": 227,
+        "publishedAt": "2026-09-15T21:00:33.000+08:00",
+        "fetchedAt": "2026-09-19T10:46:16.162+08:00",
+        "genre": "R&B/Soul",
+        "genreConfidence": 1
+      }
     },
     {
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
-      "channelTitle": "Aria艾莉亞",
+      "channelTitle": "UCvRzuPyI5vaNDaHlRXXVRLg",
       "latestVideo": null
     }
   ]
