@@ -1,0 +1,36 @@
+{
+  "channelId": "UCfHGjnH3G-Gwjh9kj281FZQ",
+  "channelTitle": "Nova Bird",
+  "lastUpdated": "2026-09-19T13:55:51.020+08:00",
+  "latestVideo": {
+    "videoId": "6hSMyQ4klQ4",
+    "title": "《影渡町異聞：月下無影》｜「滿城尋他，滿城不見。」｜原創音樂故事",
+    "url": "https://www.youtube.com/watch?v=6hSMyQ4klQ4",
+    "thumbnail": "https://i.ytimg.com/vi_webp/6hSMyQ4klQ4/maxresdefault.webp?v=6aa6bc78",
+    "durationSeconds": 286,
+    "publishedAt": "2026-09-13T23:13:36.000+08:00",
+    "fetchedAt": "2026-09-19T13:55:50.261+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 0.99
+  },
+  "allVideoIds": [
+    {
+      "videoId": "6hSMyQ4klQ4",
+      "title": "《影渡町異聞：月下無影》｜「滿城尋他，滿城不見。」｜原創音樂故事",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
+    },
+    {
+      "videoId": "L2UIHpTiXF0",
+      "title": "《影渡町異聞：橋下的孩子》｜「我不知道他的名字，但那一夜——他真的來過。」｜原創音樂故事・動態歌詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.51
+    },
+    {
+      "videoId": "1-NWRTy-7A8",
+      "title": "《影渡町傳說》 「踏過影、渡過夜，一身黑衣，不拜權貴、不跪天」｜原創音樂故事 MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.94
+    }
+  ]
+}
