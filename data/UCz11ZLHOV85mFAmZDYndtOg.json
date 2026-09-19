@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:35:44.294+08:00",
+  "lastUpdated": "2026-09-19T16:40:44.840+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -562,43 +562,63 @@
     },
     {
       "videoId": "5E1VpRA5w6s",
-      "title": "D4 1 — The Silent Strike by Case #001 — The Man Who Never Spoke"
+      "title": "D4 1 — The Silent Strike by Case #001 — The Man Who Never Spoke",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "jNCji3i5464",
-      "title": "D4 1 — The Silent Strike by Case #001 — The Man Who Never Spoke"
+      "title": "D4 1 — The Silent Strike by Case #001 — The Man Who Never Spoke",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "0GaCKBc6gRo",
-      "title": "D3 1 — Eyes in the Alley by Case #001 — The Man Who Never Spoke"
+      "title": "D3 1 — Eyes in the Alley by Case #001 — The Man Who Never Spoke",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "Y6ULxwQTMBw",
-      "title": "D2 1 — Road Without Questions by Case #001 — The Man Who Never Spoke"
+      "title": "D2 1 — Road Without Questions by Case #001 — The Man Who Never Spoke",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "Yo-OajGoAAA",
-      "title": "D1 1 — The Letter on the Bar by Case #001 — The Man Who Never Spoke"
+      "title": "D1 1 — The Letter on the Bar by Case #001 — The Man Who Never Spoke",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "Yt3s4wmiAyQ",
-      "title": "D1 Detection | Signal #001 — The First Alignment Raw Signal"
+      "title": "D1 Detection | Signal #001 — The First Alignment Raw Signal",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "wDBcgwpdqTo",
-      "title": "D4 — The Silent Strike | Flow State (128 BPM Trance) by Case #001 — The Man Who Never Spoke"
+      "title": "D4 — The Silent Strike | Flow State (128 BPM Trance) by Case #001 — The Man Who Never Spoke",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "ySEpwjgSdEg",
-      "title": "D3 — Eyes in the Alley | Flow State (128 BPM Trance) by Case #001 — The Man Who Never Spoke"
+      "title": "D3 — Eyes in the Alley | Flow State (128 BPM Trance) by Case #001 — The Man Who Never Spoke",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "EnPLLYPkl80",
-      "title": "D2 — Road Without Questions | Flow State (128 BPM Trance) by Case #001 — The Man Who Never Spoke"
+      "title": "D2 — Road Without Questions | Flow State (128 BPM Trance) by Case #001 — The Man Who Never Spoke",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "CFo6zp9YFUw",
-      "title": "D1 — The Letter on the Bar  | Flow State (128 BPM Trance) by Case #001 — The Man Who Never Spoke"
+      "title": "D1 — The Letter on the Bar  | Flow State (128 BPM Trance) by Case #001 — The Man Who Never Spoke",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "QAfzcBLOISU",
