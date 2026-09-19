@@ -1,7 +1,7 @@
 {
   "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
   "channelTitle": "浣月Huanyue",
-  "lastUpdated": "2026-09-19T14:55:20.984+08:00",
+  "lastUpdated": "2026-09-19T15:00:29.738+08:00",
   "latestVideo": {
     "videoId": "2DbzF9kJs_g",
     "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
@@ -862,43 +862,63 @@
     },
     {
       "videoId": "jU4CXKJXKZA",
-      "title": "【四十九夜·長安夢】悼于朦朧--四十九盞魂燈.願君安息/ 縹緲思古追憶 / 月下千年一夢 #于朦朧"
+      "title": "【四十九夜·長安夢】悼于朦朧--四十九盞魂燈.願君安息/ 縹緲思古追憶 / 月下千年一夢 #于朦朧",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "OSkRn_SO7Gg",
-      "title": "【竹林細語】🎶靜心冥想，洗滌塵囂的竹林細語，調節壓力，助眠冥想的療癒純音｜純音樂 / 寧靜致遠 / 讀書放鬆"
+      "title": "【竹林細語】🎶靜心冥想，洗滌塵囂的竹林細語，調節壓力，助眠冥想的療癒純音｜純音樂 / 寧靜致遠 / 讀書放鬆",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "0Ybm4oVlhdc",
-      "title": "【夜色未央】💞 沉浸都市夜色，釋放內心思緒，動人旋律伴你入夢｜都市流行 Version / 浪漫沉醉 / 深夜獨享"
+      "title": "【夜色未央】💞 沉浸都市夜色，釋放內心思緒，動人旋律伴你入夢｜都市流行 Version / 浪漫沉醉 / 深夜獨享",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "uj_UQQw5qCI",
-      "title": "于朦朧--獻給善良潔淨的靈魂｜雪落無聲，光仍在                                                          #于朦朧 #獻給于朦朧 #紀念MV"
+      "title": "于朦朧--獻給善良潔淨的靈魂｜雪落無聲，光仍在                                                          #于朦朧 #獻給于朦朧 #紀念MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "52pHii5KVsU",
-      "title": "【現在的我們】-無名藝人💘當愛變成囚籠，光芒下是病態的獨佔欲與瘋狂執念｜yandere Music / 致命誘惑，偏執愛戀 /  黑暗繫戀情"
+      "title": "【現在的我們】-無名藝人💘當愛變成囚籠，光芒下是病態的獨佔欲與瘋狂執念｜yandere Music / 致命誘惑，偏執愛戀 /  黑暗繫戀情",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.26
     },
     {
       "videoId": "ETEVmUpCvxs",
-      "title": "【心跳貼著心跳】- Unknown Artist 🎶 醉人80年代都會風華｜city-pop Version / 微醺浪漫 / 霓虹夜駕"
+      "title": "【心跳貼著心跳】- Unknown Artist 🎶 醉人80年代都會風華｜city-pop Version / 微醺浪漫 / 霓虹夜駕",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "O4LtmR7LoPk",
-      "title": "【流光相思】💎 沉醉於古風雅韻，盡享東方古典的詩意與寧靜｜chinese-style Instrumental / 幽遠思念，詩意情懷 / 品茗賞畫，靜心冥想，古裝劇配樂"
+      "title": "【流光相思】💎 沉醉於古風雅韻，盡享東方古典的詩意與寧靜｜chinese-style Instrumental / 幽遠思念，詩意情懷 / 品茗賞畫，靜心冥想，古裝劇配樂",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "tA38JneCIdM",
-      "title": "【在你懷裡的春天】💖R&B靈魂之聲，溫暖擁抱春日浪漫｜rnb音樂/溫暖心動/浪漫約會夜"
+      "title": "【在你懷裡的春天】💖R&B靈魂之聲，溫暖擁抱春日浪漫｜rnb音樂/溫暖心動/浪漫約會夜",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "B5WNHf9PYUg",
-      "title": "煙雨長安｜古風原創歌曲 MV｜煙雨朦朧下的離愁與守候，穿越千年的誓言"
+      "title": "煙雨長安｜古風原創歌曲 MV｜煙雨朦朧下的離愁與守候，穿越千年的誓言",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "A9bnU3hsSw4",
-      "title": "【原創中文歌曲】淡然的憂傷 華語流行音樂 夢幻旋律｜人工智慧創作音樂"
+      "title": "【原創中文歌曲】淡然的憂傷 華語流行音樂 夢幻旋律｜人工智慧創作音樂",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "n0VguV0PIDw",
