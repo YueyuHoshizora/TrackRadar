@@ -1,7 +1,7 @@
 {
   "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
   "channelTitle": "予安YUAN",
-  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
+  "lastUpdated": "2026-09-19T12:55:41.637+08:00",
   "latestVideo": {
     "videoId": "7aouI_5Zjro",
     "title": "《借我一點你的時光》｜如果你累了，就聽這首歌。 聽一遍就會愛上的深夜情歌｜予安 Yuan Official MV Music  Video",
@@ -11,54 +11,74 @@
     "publishedAt": "2026-09-18T11:00:00.000+08:00",
     "fetchedAt": "2026-09-19T11:18:07.224+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 1.0
+    "genreConfidence": 1
   },
   "allVideoIds": [
     {
       "videoId": "7aouI_5Zjro",
       "title": "《借我一點你的時光》｜如果你累了，就聽這首歌。 聽一遍就會愛上的深夜情歌｜予安 Yuan Official MV Music  Video",
       "genre": "抒情/情歌 Ballad",
-      "genreConfidence": 1.0
+      "genreConfidence": 1
     },
     {
       "videoId": "EjOiVCDHBA0",
-      "title": "《愛的空位》｜我一直留著那個位置，只等你出現｜予安 Yuan Official Music MV Video"
+      "title": "《愛的空位》｜我一直留著那個位置，只等你出現｜予安 Yuan Official Music MV Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "tFgqpqEQqPE",
-      "title": "《還是你》｜走了多遠都還是你，一首唱給忘不了的人聽的情歌｜予安 Yuan Official Music  Video"
+      "title": "《還是你》｜走了多遠都還是你，一首唱給忘不了的人聽的情歌｜予安 Yuan Official Music  Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "rEZCcroQokU",
-      "title": "《再見以前》｜有些愛，只能停在告別以前，如果那天，我們再多說一句…｜予安 Yuan Official Music MV Video"
+      "title": "《再見以前》｜有些愛，只能停在告別以前，如果那天，我們再多說一句…｜予安 Yuan Official Music MV Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "3vxZjEbHgcE",
-      "title": "《愛會消失的》｜聽完這首，你終於懂了為什麼有些愛留不住...｜予安 Yuan Official Music Video"
+      "title": "《愛會消失的》｜聽完這首，你終於懂了為什麼有些愛留不住...｜予安 Yuan Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "GR7PfG1azns",
-      "title": "《剩下我呢》｜你走了，我還在呢…｜一首唱給失戀後還放不下的人｜予安 Yuan Official Music Video"
+      "title": "《剩下我呢》｜你走了，我還在呢…｜一首唱給失戀後還放不下的人｜予安 Yuan Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "V6dyR_pogXM",
-      "title": "《無人認領》｜我像一封寄錯地址的信，等了很久，還是沒人回來｜2026華語傷感情歌｜予安 Yuan Official Music Video"
+      "title": "《無人認領》｜我像一封寄錯地址的信，等了很久，還是沒人回來｜2026華語傷感情歌｜予安 Yuan Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "L-Yk2Mzxnx0",
-      "title": "《晚風》｜寫給每一個曾經深愛、最後學會放手的人｜2026超耐聽華語情歌｜予安 Yuan Official Music Video"
+      "title": "《晚風》｜寫給每一個曾經深愛、最後學會放手的人｜2026超耐聽華語情歌｜予安 Yuan Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "i7Wv9K17PL4",
-      "title": "《共犯》｜明知道不該愛，卻還是一步一步靠近｜予安 Yuan Official Music Video"
+      "title": "《共犯》｜明知道不該愛，卻還是一步一步靠近｜予安 Yuan Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "5qi3JTnJngw",
-      "title": "《凌晨三點的牛肉麵》｜到底誰半夜叫你吃牛肉麵？｜超洗腦迷因舞曲｜予安 Yuan Official Music Video"
+      "title": "《凌晨三點的牛肉麵》｜到底誰半夜叫你吃牛肉麵？｜超洗腦迷因舞曲｜予安 Yuan Official Music Video",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "SDi3G1gVytw",
-      "title": "《影子說》｜其實你早就已經不在了，是我自己捨不得醒來呢。｜予安 Yuan Official Music Video"
+      "title": "《影子說》｜其實你早就已經不在了，是我自己捨不得醒來呢。｜予安 Yuan Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "x8Odx5jhQDM",
