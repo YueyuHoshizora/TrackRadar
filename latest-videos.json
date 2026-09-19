@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T14:35:45.064+08:00",
+  "updatedAt": "2026-09-19T14:40:46.413+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -33,8 +33,18 @@
     },
     {
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
-      "channelTitle": "UCdUiLDnjJc3fcH-0wT7CFpg",
-      "latestVideo": null
+      "channelTitle": "COYA可夜",
+      "latestVideo": {
+        "videoId": "k0zf1ZphcfY",
+        "title": "「從鬼門開，到鬼門關。」🕯️｜《神鬼誌》｜可夜｜新國風MV合輯｜40分鐘完整收錄｜Official MV｜神鬼誌系列｜",
+        "url": "https://www.youtube.com/watch?v=k0zf1ZphcfY",
+        "thumbnail": "https://i.ytimg.com/vi/k0zf1ZphcfY/maxresdefault.jpg",
+        "durationSeconds": 2381,
+        "publishedAt": "2026-09-18T10:15:28.000+08:00",
+        "fetchedAt": "2026-09-19T09:38:05.675+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
+      }
     },
     {
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
