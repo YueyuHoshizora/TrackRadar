@@ -1,7 +1,7 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-09-19T13:01:02.286+08:00",
+  "lastUpdated": "2026-09-19T13:04:18.039+08:00",
   "latestVideo": {
     "videoId": "F5s3p3M3iyc",
     "title": "🥃 台語大帝國《空酒杯》(90s台語演歌)｜這擺不是等，是告別；替家己倒最後一杯｜筠芙得利【Official Lyric Video】",
@@ -82,659 +82,987 @@
     },
     {
       "videoId": "cRIlrTS9S9Q",
-      "title": "👁️ Asher 凜《紅衫仔》 (Folk Horror)｜台語大帝國｜紅衣小女孩愈來愈近，我無路通返去｜筠芙得利【Official MV】"
+      "title": "👁️ Asher 凜《紅衫仔》 (Folk Horror)｜台語大帝國｜紅衣小女孩愈來愈近，我無路通返去｜筠芙得利【Official MV】",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "KpTKuoKw8OQ",
-      "title": "📀《一年一夜｜銀河三章》七夕合輯｜3首華語電影感情歌合輯｜2026必聽！｜拼音歌詞字幕｜筠芙得利【Official Music Video】"
+      "title": "📀《一年一夜｜銀河三章》七夕合輯｜3首華語電影感情歌合輯｜2026必聽！｜拼音歌詞字幕｜筠芙得利【Official Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "sYDRzCqpG0c",
-      "title": "📀《台語大帝國 VOL.3》完整版｜7首台語金曲合輯｜2026必聽！｜完整歌單｜2026熱門台語閩南語歌｜台羅拼音歌詞｜筠芙得利"
+      "title": "📀《台語大帝國 VOL.3》完整版｜7首台語金曲合輯｜2026必聽！｜完整歌單｜2026熱門台語閩南語歌｜台羅拼音歌詞｜筠芙得利",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "oxE_GjaYleA",
-      "title": "🌧️ Aurora 葵《辛亥隧道：等我返來》(台語 City Pop)｜ 台語大帝國｜辛亥磅空的雨，等無你｜筠芙得利【Official Music Video】"
+      "title": "🌧️ Aurora 葵《辛亥隧道：等我返來》(台語 City Pop)｜ 台語大帝國｜辛亥磅空的雨，等無你｜筠芙得利【Official Music Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "C4mgrak74UU",
-      "title": "🌌 紀時宇《我不是摸魚，我在平行宇宙》｜音浪研究所｜2026最迷離｜如果人生本來就荒唐，那今晚就別正常了｜筠芙得利【Official MV】"
+      "title": "🌌 紀時宇《我不是摸魚，我在平行宇宙》｜音浪研究所｜2026最迷離｜如果人生本來就荒唐，那今晚就別正常了｜筠芙得利【Official MV】",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "UMXhYU6HL7w",
-      "title": "🎵 台語大帝國《天一定會光》(台語勵志搖滾)｜2026熱門台語歌曲｜陪伴無數靈魂走出低谷的曙光之歌｜筠芙得利【Official Music Video】"
+      "title": "🎵 台語大帝國《天一定會光》(台語勵志搖滾)｜2026熱門台語歌曲｜陪伴無數靈魂走出低谷的曙光之歌｜筠芙得利【Official Music Video】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "v8KPipYnD7o",
-      "title": "🎵 台語大帝國《笑嘛人生 哭嘛人生》(經典台語流行)｜行過風雨才知影，平安就是好命｜筠芙得利【Official Music Video】"
+      "title": "🎵 台語大帝國《笑嘛人生 哭嘛人生》(經典台語流行)｜行過風雨才知影，平安就是好命｜筠芙得利【Official Music Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "5gDrZVmvMoo",
-      "title": "🐟 李多娜《魚肉好食無？》(K-Pop Horror)｜台語大帝國｜嘉義蘭潭人面魚人傳說｜筠芙得利【Official Music Video】"
+      "title": "🐟 李多娜《魚肉好食無？》(K-Pop Horror)｜台語大帝國｜嘉義蘭潭人面魚人傳說｜筠芙得利【Official Music Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "JvoF3TxgrPg",
-      "title": "⚔️ 台語大帝國《是事出有因？》(三味線×台語)｜宿命電影配樂｜在冥冥之中，自有安排｜筠芙得利【Official Music Video】"
+      "title": "⚔️ 台語大帝國《是事出有因？》(三味線×台語)｜宿命電影配樂｜在冥冥之中，自有安排｜筠芙得利【Official Music Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "DnTtf2layhE",
-      "title": "🍷《一杯啉你 一杯啉我》(經典台語演歌情歌)｜台語大帝國 Vol.3｜最後一杯，敬彼个愛甲無性命嘛愛活落去的我｜筠芙得利【Official Music Video】"
+      "title": "🍷《一杯啉你 一杯啉我》(經典台語演歌情歌)｜台語大帝國 Vol.3｜最後一杯，敬彼个愛甲無性命嘛愛活落去的我｜筠芙得利【Official Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "bSm14I8KmCw",
-      "title": "🌌 音浪研究所《繞著你》(爵士搖滾 K-pop)｜你會不會隔著光年，還能聽見我的回音？｜筠芙得利【Official Music Video】"
+      "title": "🌌 音浪研究所《繞著你》(爵士搖滾 K-pop)｜你會不會隔著光年，還能聽見我的回音？｜筠芙得利【Official Music Video】",
+      "genre": "爵士 Jazz",
+      "genreConfidence": 0.32
     },
     {
       "videoId": "CmcG4dNz4vM",
-      "title": "💪 台語大帝國《行一步 拚一步》(勵志台語流行)｜無路家己開一條｜2026熱門台語歌曲｜筠芙得利【Official Music Video】"
+      "title": "💪 台語大帝國《行一步 拚一步》(勵志台語流行)｜無路家己開一條｜2026熱門台語歌曲｜筠芙得利【Official Music Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "BZtkSOsnmyI",
-      "title": "🌙 音浪研究所《月亮偷偷落進我口袋》(Dreamy J-pop)｜如果心跳也算一種告白｜筠芙得利【Official Music Video】"
+      "title": "🌙 音浪研究所《月亮偷偷落進我口袋》(Dreamy J-pop)｜如果心跳也算一種告白｜筠芙得利【Official Music Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "fayVBTfkhts",
-      "title": "🚂 台語大帝國《愈遠愈想返》(經典台語演歌)｜火車愈開愈遠，心卻一直向故鄉走｜筠芙得利【Official Lyric Video】"
+      "title": "🚂 台語大帝國《愈遠愈想返》(經典台語演歌)｜火車愈開愈遠，心卻一直向故鄉走｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "DFp719D4DCY",
-      "title": "🌸 台語大帝國 Vol.3《等一年 閣一年》(台語演歌)｜阮等甲青春變黃昏｜台語經典懷舊｜筠芙得利【Official Lyric Video】"
+      "title": "🌸 台語大帝國 Vol.3《等一年 閣一年》(台語演歌)｜阮等甲青春變黃昏｜台語經典懷舊｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "d3OT5X4kwlA",
-      "title": "🌙 李多娜《幾千公里的晚安》(K-pop Ballad)｜這場遠距離的愛｜筠芙得利【Official Lyric Video】"
+      "title": "🌙 李多娜《幾千公里的晚安》(K-pop Ballad)｜這場遠距離的愛｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "RVGzMZ2ZI-o",
-      "title": "📀《台語大帝國 Vol.2》完整版｜7首原創台語歌曲合輯｜2026必聽！｜完整歌單｜筠芙得利"
+      "title": "📀《台語大帝國 Vol.2》完整版｜7首原創台語歌曲合輯｜2026必聽！｜完整歌單｜筠芙得利",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.5
     },
     {
       "videoId": "0PH30GG8yYs",
-      "title": "🎙️台語大帝國《歲月的那卡西》(台語懷舊演歌)｜獻給青春的那卡西歌曲｜筠芙得利【Official Lyric Video】"
+      "title": "🎙️台語大帝國《歲月的那卡西》(台語懷舊演歌)｜獻給青春的那卡西歌曲｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "DT82XRgiNFk",
-      "title": "🚌 Aurora 葵《留袂落的影》｜台語大帝國｜原來放手，比愛一個人更難｜筠芙得利【Official Lyric Video】"
+      "title": "🚌 Aurora 葵《留袂落的影》｜台語大帝國｜原來放手，比愛一個人更難｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "AreZ3SpdoSs",
-      "title": "🎷 Asher 凜《卑微的禮物》(台語傷感情歌)｜台語大帝國 Vol.2｜為了妳，我穿上不屬於自己的西裝｜筠芙得利【Official MV】"
+      "title": "🎷 Asher 凜《卑微的禮物》(台語傷感情歌)｜台語大帝國 Vol.2｜為了妳，我穿上不屬於自己的西裝｜筠芙得利【Official MV】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "pyKHMN8hnfs",
-      "title": "🇰🇷 李多娜《寂寞邊界》(K-Pop台語抒情)｜台語大帝國 Vol.2｜雨落袂停的台北，想欲飛去你的首爾｜筠芙得利【Official Music Video】"
+      "title": "🇰🇷 李多娜《寂寞邊界》(K-Pop台語抒情)｜台語大帝國 Vol.2｜雨落袂停的台北，想欲飛去你的首爾｜筠芙得利【Official Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "te2YFJHbcVQ",
-      "title": "​🎀 台語大帝國《爸爸的查某囝》紀時宇｜都會台語R&B｜給女兒最深情的告白歌｜筠芙得利【Official Music Video】"
+      "title": "​🎀 台語大帝國《爸爸的查某囝》紀時宇｜都會台語R&B｜給女兒最深情的告白歌｜筠芙得利【Official Music Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "OReHipXyimY",
-      "title": "⚽ 台語大帝國SP3《相信 - Team Taiwan 世界盃足球》(台語搖滾說唱)｜如果台灣踢進世界盃決賽，這首歌就是主題曲｜動態歌詞｜筠芙得利【Official Music Video】"
+      "title": "⚽ 台語大帝國SP3《相信 - Team Taiwan 世界盃足球》(台語搖滾說唱)｜如果台灣踢進世界盃決賽，這首歌就是主題曲｜動態歌詞｜筠芙得利【Official Music Video】",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "Z4Kshl2CYzE",
-      "title": "✉️《直球限時批》(復古流行搖滾)｜台語大帝國 Vol.2｜這封直球的限時批，寄去你的心底｜動態歌詞｜閩南語｜YT十二弦月｜筠芙得利【Official Music Video】"
+      "title": "✉️《直球限時批》(復古流行搖滾)｜台語大帝國 Vol.2｜這封直球的限時批，寄去你的心底｜動態歌詞｜閩南語｜YT十二弦月｜筠芙得利【Official Music Video】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "vA0L3Ebdtb8",
-      "title": "🏟️ 《秘密基地》(2000s Stadium Rock) Asher 凜｜畢業後各奔東西，敬那些瘋狂的歲月，敬我們不變的熱血｜筠芙得利【Official Music Video】"
+      "title": "🏟️ 《秘密基地》(2000s Stadium Rock) Asher 凜｜畢業後各奔東西，敬那些瘋狂的歲月，敬我們不變的熱血｜筠芙得利【Official Music Video】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "NDTvW9vfa4I",
-      "title": "📀 《台語大帝國》合輯14首MV串燒連播｜2026必聽｜閩南語原創流行歌曲Playlist｜動態歌詞｜YT十二弦月｜筠芙得利【Official Music Video】"
+      "title": "📀 《台語大帝國》合輯14首MV串燒連播｜2026必聽｜閩南語原創流行歌曲Playlist｜動態歌詞｜YT十二弦月｜筠芙得利【Official Music Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "b1EStDRmY_M",
-      "title": "☕ 紀時宇《孟婆嫌我烦》完整版MV (台語R&B)｜三千年的輪迴也洗不掉妳的記憶｜閻羅王都判不完我的感情債｜台語大帝國｜動態歌詞｜筠芙得利【Official Music Video】"
+      "title": "☕ 紀時宇《孟婆嫌我烦》完整版MV (台語R&B)｜三千年的輪迴也洗不掉妳的記憶｜閻羅王都判不完我的感情債｜台語大帝國｜動態歌詞｜筠芙得利【Official Music Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "J6_NJlL2918",
-      "title": "💃 紀時宇 & 李多娜《昨暝的霓虹》(Urban Pop)｜이 게임 誰才是最後的贏家？｜台語大帝國 Vol.1｜閩南語x韓語｜動態歌詞｜筠芙得利【Official Music Video】"
+      "title": "💃 紀時宇 & 李多娜《昨暝的霓虹》(Urban Pop)｜이 게임 誰才是最後的贏家？｜台語大帝國 Vol.1｜閩南語x韓語｜動態歌詞｜筠芙得利【Official Music Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "GWegutfdIus",
-      "title": "💔 Aurora 葵 & Asher 凜《交換痛》(台語男女對唱)｜若是時間會當倒退，袂予你熟識我｜台語大帝國 Vol.1｜動態歌詞｜閩南語｜筠芙得利【Official Music Video】"
+      "title": "💔 Aurora 葵 & Asher 凜《交換痛》(台語男女對唱)｜若是時間會當倒退，袂予你熟識我｜台語大帝國 Vol.1｜動態歌詞｜閩南語｜筠芙得利【Official Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "P6TpZUk1TYs",
-      "title": "✈️ 李多娜《台北雨，首爾你》(K-Pop台語抒情)｜台韓異地戀，這首歌不行太虐...｜台語大帝國 Vol.1｜動態歌詞｜閩南語｜YT十二弦月｜筠芙得利【Official Music Video】"
+      "title": "✈️ 李多娜《台北雨，首爾你》(K-Pop台語抒情)｜台韓異地戀，這首歌不行太虐...｜台語大帝國 Vol.1｜動態歌詞｜閩南語｜YT十二弦月｜筠芙得利【Official Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "mFw2wJ1tO1s",
-      "title": "🥃 Asher 凜《孤單的人攏佇遮浪流連》(台語藍調搖滾)｜其實心內彼場大雨，從來就無停過｜台語大帝國 Vol.1｜筠芙得利【Official Music Video】"
+      "title": "🥃 Asher 凜《孤單的人攏佇遮浪流連》(台語藍調搖滾)｜其實心內彼場大雨，從來就無停過｜台語大帝國 Vol.1｜筠芙得利【Official Music Video】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "RQ_mhz1OA90",
-      "title": "🥀 Aurora 葵《無阮的份》(台語催淚情歌)｜看著你牽伊的手，阮沒想像中堅強｜台語大帝國 Vol.1｜YT十二弦月｜台羅動態歌詞｜筠芙得利【Official Music Video】"
+      "title": "🥀 Aurora 葵《無阮的份》(台語催淚情歌)｜看著你牽伊的手，阮沒想像中堅強｜台語大帝國 Vol.1｜YT十二弦月｜台羅動態歌詞｜筠芙得利【Official Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "5fB0AVeP9hM",
-      "title": "👁️ 擎天崗直播親熱？恐龍？戰鬥陀螺Go Shoot？我做成了MV｜紀時宇《擎天崗鏡頭君的關心》｜2026最荒謬最瘋狂｜筠芙得利【Official Music Video】"
+      "title": "👁️ 擎天崗直播親熱？恐龍？戰鬥陀螺Go Shoot？我做成了MV｜紀時宇《擎天崗鏡頭君的關心》｜2026最荒謬最瘋狂｜筠芙得利【Official Music Video】",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "VHeyJap95z0",
-      "title": "👁️ 看到Threads有蟑螂騎菸趴趴走，我忍不住做了這個MV｜紀時宇《螂主的傳說－螂煙再起》｜台語大帝國 SP2"
+      "title": "👁️ 看到Threads有蟑螂騎菸趴趴走，我忍不住做了這個MV｜紀時宇《螂主的傳說－螂煙再起》｜台語大帝國 SP2",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.41
     },
     {
       "videoId": "h3V-xakQ2z0",
-      "title": "🌅 紀時宇《心內話》｜台語 R&B 情歌｜台語大帝國 Vol.1｜看著妳的時陣，心頭甜甜的｜YT十二弦月｜閩南語｜台羅Tâi-lô發音動態歌詞｜筠芙得利【Official Lyric Video】"
+      "title": "🌅 紀時宇《心內話》｜台語 R&B 情歌｜台語大帝國 Vol.1｜看著妳的時陣，心頭甜甜的｜YT十二弦月｜閩南語｜台羅Tâi-lô發音動態歌詞｜筠芙得利【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "_WbSSq5twl0",
-      "title": "🐀 李多娜 Donna《安鼠之亂》｜Emo Rap 諷刺都更裂縫下的暗潮洶湧｜拼音發音動態歌詞｜YT十二弦月｜筠芙得利【Official Music Video】"
+      "title": "🐀 李多娜 Donna《安鼠之亂》｜Emo Rap 諷刺都更裂縫下的暗潮洶湧｜拼音發音動態歌詞｜YT十二弦月｜筠芙得利【Official Music Video】",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "ACvBJP3i2Zw",
-      "title": "🕯️ Asher 凜《媽祖聖誕：香火傳萬年》(台語金曲)｜台語大帝國 SP｜合境平安的慈悲旋律｜YT十二弦月｜閩南語｜台羅Tâi-lô發音動態歌詞｜筠芙得利【Official Music Video】"
+      "title": "🕯️ Asher 凜《媽祖聖誕：香火傳萬年》(台語金曲)｜台語大帝國 SP｜合境平安的慈悲旋律｜YT十二弦月｜閩南語｜台羅Tâi-lô發音動態歌詞｜筠芙得利【Official Music Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.44
     },
     {
       "videoId": "d_dZigghZVQ",
-      "title": "🚉 李多娜 Donna《火車底的 さよなら》(台語流行)｜台語大帝國：起源｜2026 最強多語系台語 K-Pop｜台羅Tâi-lô發音動態歌詞｜筠芙得利【Official Music Video】"
+      "title": "🚉 李多娜 Donna《火車底的 さよなら》(台語流行)｜台語大帝國：起源｜2026 最強多語系台語 K-Pop｜台羅Tâi-lô發音動態歌詞｜筠芙得利【Official Music Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "ZzibRQYVglY",
-      "title": "🚬 Asher 凜《夢醒的薰頭》(台語藍調搖滾)｜台語大帝國：起源｜我毋想要閣浪流連｜台羅Tâi-lô發音動態歌詞 ｜#台語 #台語歌 #閩南語 ｜筠芙得利【Official Lyric Video】"
+      "title": "🚬 Asher 凜《夢醒的薰頭》(台語藍調搖滾)｜台語大帝國：起源｜我毋想要閣浪流連｜台羅Tâi-lô發音動態歌詞 ｜#台語 #台語歌 #閩南語 ｜筠芙得利【Official Lyric Video】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "BL67P_7ILiY",
-      "title": "🌧️ Aurora 葵《無聲的再會》(台語抒情)｜台語大帝國：起源｜2026 閩南語歌曲｜愛一個人，哪會愛到遮爾痛？｜筠芙得利【Official Music Video】"
+      "title": "🌧️ Aurora 葵《無聲的再會》(台語抒情)｜台語大帝國：起源｜2026 閩南語歌曲｜愛一個人，哪會愛到遮爾痛？｜筠芙得利【Official Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "dyjd5K1MOT8",
-      "title": "🌸 李多娜 Donna《粉紅超跑：白沙屯媽祖守護咱》(Modern Temple Fair)｜台語大帝國特輯｜最強媽祖遶境進香保庇神曲｜閩南語歌曲｜筠芙得利【Official Music Video】"
+      "title": "🌸 李多娜 Donna《粉紅超跑：白沙屯媽祖守護咱》(Modern Temple Fair)｜台語大帝國特輯｜最強媽祖遶境進香保庇神曲｜閩南語歌曲｜筠芙得利【Official Music Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "uLDreVLZ3BY",
-      "title": "🏎️ 李多娜 Donna 《白沙屯媽祖粉紅超跑》(台語電音)｜台語大帝國特輯｜進香最強神曲｜白沙屯媽祖守護咱｜閩南語歌曲｜筠芙得利【Official Music Video】"
+      "title": "🏎️ 李多娜 Donna 《白沙屯媽祖粉紅超跑》(台語電音)｜台語大帝國特輯｜進香最強神曲｜白沙屯媽祖守護咱｜閩南語歌曲｜筠芙得利【Official Music Video】",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "qEZdrGyU0Bo",
-      "title": "🥃 紀時宇《孟婆嫌我煩》(台語R&B)｜台語大帝國：起源｜2026 台語新潮流｜忘不掉的酒窩，連孟婆都想趕我走｜閩南語｜靈魂級情歌｜筠芙得利【Official Music Video】"
+      "title": "🥃 紀時宇《孟婆嫌我煩》(台語R&B)｜台語大帝國：起源｜2026 台語新潮流｜忘不掉的酒窩，連孟婆都想趕我走｜閩南語｜靈魂級情歌｜筠芙得利【Official Music Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "MQr2lR3Ww3U",
-      "title": "🦄 小芙芙《Doma Doma 2026》｜Happiness is a Universal Language!｜2026 全球洗腦神曲｜筠芙得利【Official Lyric Video】"
+      "title": "🦄 小芙芙《Doma Doma 2026》｜Happiness is a Universal Language!｜2026 全球洗腦神曲｜筠芙得利【Official Lyric Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "Bze0Zb-mW8M",
-      "title": "📿 紀時宇 feat. COYA可夜《佛忘空山：茶涼緣盡》中國風饒舌 x 虛幻空靈｜若無你，萬劫不復又何妨？｜筠芙得利【Official Music Video】"
+      "title": "📿 紀時宇 feat. COYA可夜《佛忘空山：茶涼緣盡》中國風饒舌 x 虛幻空靈｜若無你，萬劫不復又何妨？｜筠芙得利【Official Music Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "mbnlX5Wx9eA",
-      "title": "💎 李多娜 feat. 紀時宇《永恆的貶值》(Melancholic R&B)｜如果誓言也能批發，當萬年等待只值 $999，愛情還剩什麼？｜筠芙得利【Official Lyric Video】"
+      "title": "💎 李多娜 feat. 紀時宇《永恆的貶值》(Melancholic R&B)｜如果誓言也能批發，當萬年等待只值 $999，愛情還剩什麼？｜筠芙得利【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "YXP5lLuhMho",
-      "title": "💎 紀時宇《永恆的貶值》(Lo-fi 華語 R&B)｜最怕Rapper唱情歌｜當鑽石跌入塵埃 愛情該去哪裡寄放？｜筠芙得利【Official Visualizer】"
+      "title": "💎 紀時宇《永恆的貶值》(Lo-fi 華語 R&B)｜最怕Rapper唱情歌｜當鑽石跌入塵埃 愛情該去哪裡寄放？｜筠芙得利【Official Visualizer】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "XPcEpRWcxzY",
-      "title": "🎹 《330 想想你》(2000s R&B)｜致敬那段曾經「無人知曉」的 20 年傳說｜這不是結局，是留在平行時空的秘密...｜筠芙得利【Official Music Video】"
+      "title": "🎹 《330 想想你》(2000s R&B)｜致敬那段曾經「無人知曉」的 20 年傳說｜這不是結局，是留在平行時空的秘密...｜筠芙得利【Official Music Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "EREzt_8gFbc",
-      "title": "🎙️ Asher 凜 x 李多娜《台語歌曲10首精選合集Playlist》(台語流行/抒情)｜聽懂了，就是人生｜動態歌詞｜筠芙得利【Official Music Video】"
+      "title": "🎙️ Asher 凜 x 李多娜《台語歌曲10首精選合集Playlist》(台語流行/抒情)｜聽懂了，就是人生｜動態歌詞｜筠芙得利【Official Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "zHzXjxqoxFc",
-      "title": "🕯️ Asher 凜《尚思念的人》(台語抒情)｜清明冷雨 x 台語思念｜你這馬過著好毋好？｜台語原創｜筠芙得利【Official Music Video】"
+      "title": "🕯️ Asher 凜《尚思念的人》(台語抒情)｜清明冷雨 x 台語思念｜你這馬過著好毋好？｜台語原創｜筠芙得利【Official Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "1d3n9_7LKE4",
-      "title": "🎧 LIVE 筠芙得利《官方 MV 輪播》｜華語金曲 x 深情台語｜沉浸式聽覺｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單"
+      "title": "🎧 LIVE 筠芙得利《官方 MV 輪播》｜華語金曲 x 深情台語｜沉浸式聽覺｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "lo41hV1V3cc",
-      "title": "🎤 紀時宇《最怕 Rapper 唱情歌》｜全曲循環：沉浸在Rapper情歌裡吧！｜筠芙得利【Official Music Video】掛機/提神/讀書/辦公室背景音/Study, emo"
+      "title": "🎤 紀時宇《最怕 Rapper 唱情歌》｜全曲循環：沉浸在Rapper情歌裡吧！｜筠芙得利【Official Music Video】掛機/提神/讀書/辦公室背景音/Study, emo",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "L4DcrUdbYMo",
-      "title": "🌧️ 李多娜《尚思念的人》(台語抒情)｜清明冷雨 x 台語思念｜點一支清香，寄託阮無聲的央望｜筠芙得利【Official Lyric Video】"
+      "title": "🌧️ 李多娜《尚思念的人》(台語抒情)｜清明冷雨 x 台語思念｜點一支清香，寄託阮無聲的央望｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "DKGea2tTm4M",
-      "title": "🎧 LIVE 筠芙得利《官方 MV 輪播》｜華語金曲 x 深情台語｜沉浸式聽覺｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單"
+      "title": "🎧 LIVE 筠芙得利《官方 MV 輪播》｜華語金曲 x 深情台語｜沉浸式聽覺｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "pZmg--ekj7U",
-      "title": "🎧 LIVE 筠芙得利《官方 MV 輪播》｜華語金曲 x 深情台語｜沉浸式聽覺｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單"
+      "title": "🎧 LIVE 筠芙得利《官方 MV 輪播》｜華語金曲 x 深情台語｜沉浸式聽覺｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "ZD3EUboozvU",
-      "title": "🎧 LIVE 筠芙得利《官方 MV 輪播》｜華語金曲 x 深情台語｜沉浸式聽覺｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單"
+      "title": "🎧 LIVE 筠芙得利《官方 MV 輪播》｜華語金曲 x 深情台語｜沉浸式聽覺｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "gHyyRwwepJg",
-      "title": "🎬 紀時宇《溫柔的反派》(Melodic Rap)｜最怕Rapper唱情歌｜2026 必聽傷感饒舌情歌｜我是個爛人，請妳務必這樣想｜筠芙得利【Official Lyric Video】"
+      "title": "🎬 紀時宇《溫柔的反派》(Melodic Rap)｜最怕Rapper唱情歌｜2026 必聽傷感饒舌情歌｜我是個爛人，請妳務必這樣想｜筠芙得利【Official Lyric Video】",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "Xylox_v9Q8w",
-      "title": "🎙️ 紀時宇《慣性說謊》(Melodic Rap)｜最怕Rapper唱情歌｜2026 必聽傷感饒舌情歌｜沒事啦，都過去了，女人再找就有｜筠芙得利【Official Lyric Video】"
+      "title": "🎙️ 紀時宇《慣性說謊》(Melodic Rap)｜最怕Rapper唱情歌｜2026 必聽傷感饒舌情歌｜沒事啦，都過去了，女人再找就有｜筠芙得利【Official Lyric Video】",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "tBM35evx8Jw",
-      "title": "💔 紀時宇 & Xiaoloulou《易碎的體面》｜華語催淚抒情｜男女合唱對唱｜成年人的體面，全靠慣性說謊撐著｜筠芙得利【Official Lyric Video】"
+      "title": "💔 紀時宇 & Xiaoloulou《易碎的體面》｜華語催淚抒情｜男女合唱對唱｜成年人的體面，全靠慣性說謊撐著｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "XscV9bP7H0Y",
-      "title": "⚾ Asher 凜《十一點的生死門：從0到14的覺醒》(熱血搖滾)｜WBC世界棒球經典賽2026｜台韓大戰前夕的靈魂燃燒｜筠芙得利【Official Lyric Video】"
+      "title": "⚾ Asher 凜《十一點的生死門：從0到14的覺醒》(熱血搖滾)｜WBC世界棒球經典賽2026｜台韓大戰前夕的靈魂燃燒｜筠芙得利【Official Lyric Video】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "PaJDh8-vNCE",
-      "title": "🎧 紀時宇《失眠症候群 Playlist》｜最怕Rapper唱情歌・動態歌詞｜2026 深夜 emo、痛徹心扉的失戀歌單｜筠芙得利【Official Lyrics Video】"
+      "title": "🎧 紀時宇《失眠症候群 Playlist》｜最怕Rapper唱情歌・動態歌詞｜2026 深夜 emo、痛徹心扉的失戀歌單｜筠芙得利【Official Lyrics Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "7s9obf0N88c",
-      "title": "🎮 Aurora 葵《線上遊戲的最後對白》oiioii動畫MV｜華語抒情，原來我們的隊伍早就該認輸｜筠芙得利【Official Animated Music Video】"
+      "title": "🎮 Aurora 葵《線上遊戲的最後對白》oiioii動畫MV｜華語抒情，原來我們的隊伍早就該認輸｜筠芙得利【Official Animated Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "TYIRSxbpNuQ",
-      "title": "🥃 紀時宇 feat. 九黎月《歲月客棧》｜古風嘻哈抒情｜我繞了世界一圈，才終於承認我輸給記憶｜筠芙得利【Official Lyric Video】"
+      "title": "🥃 紀時宇 feat. 九黎月《歲月客棧》｜古風嘻哈抒情｜我繞了世界一圈，才終於承認我輸給記憶｜筠芙得利【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "c1hDpluUmQY",
-      "title": "🥀 Aurora 葵《假裝不在意》｜原來最痛的不是失去你...｜筠芙得利【Official Music Video】"
+      "title": "🥀 Aurora 葵《假裝不在意》｜原來最痛的不是失去你...｜筠芙得利【Official Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "jY7fSnoQ-NA",
-      "title": "🍬 紀時宇《馬上有妳》｜全糖去冰的 R&B 新年浪漫｜筠芙得利【Official Music Video】"
+      "title": "🍬 紀時宇《馬上有妳》｜全糖去冰的 R&B 新年浪漫｜筠芙得利【Official Music Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "8FlDz7TtQnI",
-      "title": "💔 Aurora 葵《已讀不回》｜到底是愛得太卑微，還是我根本不配？｜筠芙得利【Official Lyric Video】"
+      "title": "💔 Aurora 葵《已讀不回》｜到底是愛得太卑微，還是我根本不配？｜筠芙得利【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "zBIIBbTyd4I",
-      "title": "🎸 Asher 凜《沒出息的戀歌》｜超驚艷台語搖滾｜音樂愈來愈燒，腳步愈來愈搖｜筠芙得利【Official Lyric Video】"
+      "title": "🎸 Asher 凜《沒出息的戀歌》｜超驚艷台語搖滾｜音樂愈來愈燒，腳步愈來愈搖｜筠芙得利【Official Lyric Video】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "D31vr3W4Kj8",
-      "title": "🚫 Aurora 葵《封鎖》｜這就是你說的愛我？｜筠芙得利 【Official Lyric Video】"
+      "title": "🚫 Aurora 葵《封鎖》｜這就是你說的愛我？｜筠芙得利 【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.35
     },
     {
       "videoId": "oEWAaZj8HeI",
-      "title": "🛀 紀時宇《刪除評價》｜被討厭的勇氣，是自由的代價｜筠芙得利 【Official Lyric Video】"
+      "title": "🛀 紀時宇《刪除評價》｜被討厭的勇氣，是自由的代價｜筠芙得利 【Official Lyric Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.31
     },
     {
       "videoId": "2MMpF7KThyQ",
-      "title": "🎂 紀時宇《祝妳生日快樂》｜親愛的Amy...願妳永遠美麗動人｜筠芙得利【Official Music Video】"
+      "title": "🎂 紀時宇《祝妳生日快樂》｜親愛的Amy...願妳永遠美麗動人｜筠芙得利【Official Music Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "7OcvOUL4fP8",
-      "title": "⚔️ Aurora 葵《線上遊戲的最後對白》｜\"玩家已離線\"... 我贏了所有戰役 卻輸了我的全部｜筠芙得利 【Official Lyric Video】"
+      "title": "⚔️ Aurora 葵《線上遊戲的最後對白》｜\"玩家已離線\"... 我贏了所有戰役 卻輸了我的全部｜筠芙得利 【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "6IY444uMGKU",
-      "title": "🎺 嗩吶一響，黃金萬兩！《馬上有》這絕對是今年最瘋的招財儀式｜聽完 30 秒財運直接起飛｜如果你想要財來一筆｜筠芙得利｜2026 馬年賀歲/招財/脫單/嗩吶"
+      "title": "🎺 嗩吶一響，黃金萬兩！《馬上有》這絕對是今年最瘋的招財儀式｜聽完 30 秒財運直接起飛｜如果你想要財來一筆｜筠芙得利｜2026 馬年賀歲/招財/脫單/嗩吶",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "t2YJoBotKIo",
-      "title": "⏳ 這首歌千萬別聽！監獄裡最心碎的搖籃曲｜《殘酷節拍的倒數》筠芙得利｜陽光女子合唱團｜如果你也懂那種不得不分離的痛｜2026 年度最催淚敘事曲｜2026 催淚/母愛/監獄/分離"
+      "title": "⏳ 這首歌千萬別聽！監獄裡最心碎的搖籃曲｜《殘酷節拍的倒數》筠芙得利｜陽光女子合唱團｜如果你也懂那種不得不分離的痛｜2026 年度最催淚敘事曲｜2026 催淚/母愛/監獄/分離",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "PzqHoYsgY0g",
-      "title": "🦋 「愛是種信念，不是卑微的祭奠」《重生的Lydia》｜Baroque Pop 史詩級聽覺饗宴｜獻給所有受過傷後更堅強的妳｜2026 必聽巴洛克搖滾｜Aurora 葵"
+      "title": "🦋 「愛是種信念，不是卑微的祭奠」《重生的Lydia》｜Baroque Pop 史詩級聽覺饗宴｜獻給所有受過傷後更堅強的妳｜2026 必聽巴洛克搖滾｜Aurora 葵",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.47
     },
     {
       "videoId": "QNFRdPfqVD4",
-      "title": "​⚠️ 警告：分手不滿三個月別聽《你的限時動態》Aurora 葵｜聽完這句直接淚崩｜後勁太強小心失眠｜2026 年度催淚神曲｜深夜聽歌指南｜失戀必聽"
+      "title": "​⚠️ 警告：分手不滿三個月別聽《你的限時動態》Aurora 葵｜聽完這句直接淚崩｜後勁太強小心失眠｜2026 年度催淚神曲｜深夜聽歌指南｜失戀必聽",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "vQmIkV5bii4",
-      "title": "以為是老派台語？錯！這節奏一聽就想搖擺｜Asher 凜《夜都市的戀歌》超洗腦都會搖滾 筠芙得利"
+      "title": "以為是老派台語？錯！這節奏一聽就想搖擺｜Asher 凜《夜都市的戀歌》超洗腦都會搖滾 筠芙得利",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "w3_pBLr5yIc",
-      "title": "🥶只有個位數！陽光是騙人的？快進來領「電子暖暖包」☕️ 聽完身體都熱了...｜筠芙得利 Live 2026必聽歌單"
+      "title": "🥶只有個位數！陽光是騙人的？快進來領「電子暖暖包」☕️ 聽完身體都熱了...｜筠芙得利 Live 2026必聽歌單",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "DLY0f-Ubegw",
-      "title": "😭深夜慎入！找不到方向的人必聽《揣無路》Asher 凜｜「青春已經不敢再輸」句句扎心的城市迷途心聲，滄桑感像極了王識賢遇上茄子蛋｜2026台語金曲/失眠/開車/讀書背景音"
+      "title": "😭深夜慎入！找不到方向的人必聽《揣無路》Asher 凜｜「青春已經不敢再輸」句句扎心的城市迷途心聲，滄桑感像極了王識賢遇上茄子蛋｜2026台語金曲/失眠/開車/讀書背景音",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "uEM2VuvnSi0",
-      "title": "😭 謝謝妳，出現在我的青春...📸 褪色的合照 - Asher 凜｜2026必聽台式藍調 抒情 滄桑溫柔 歸途專輯 傷感回憶 抖音熱門 深夜emo 療癒情歌"
+      "title": "😭 謝謝妳，出現在我的青春...📸 褪色的合照 - Asher 凜｜2026必聽台式藍調 抒情 滄桑溫柔 歸途專輯 傷感回憶 抖音熱門 深夜emo 療癒情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "zFTdO646PKU",
-      "title": "🔴LIVE 你的專屬工作BGM + 溫柔喚醒｜筠芙得利：華語金曲 x 深情台語｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單"
+      "title": "🔴LIVE 你的專屬工作BGM + 溫柔喚醒｜筠芙得利：華語金曲 x 深情台語｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "3n_vCYIKSfU",
-      "title": "🔴LIVE 你的專屬工作BGM + 溫柔喚醒｜筠芙得利：華語金曲 x 深情台語｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單"
+      "title": "🔴LIVE 你的專屬工作BGM + 溫柔喚醒｜筠芙得利：華語金曲 x 深情台語｜用好音樂對抗焦慮｜掛機/提神/讀書/辦公室背景音/Study, Work & Relax/2026必聽歌單",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "7d6iJIAzoH8",
-      "title": "🎧 最好聽的歌 + 最迷人的你 = 完美的音樂｜筠芙得利直播電台：華語金曲 x 台語情歌隨機輪播｜掛機專用/心情放鬆/2026必聽歌單｜讀書&睡眠/Study/Work/開車必聽"
+      "title": "🎧 最好聽的歌 + 最迷人的你 = 完美的音樂｜筠芙得利直播電台：華語金曲 x 台語情歌隨機輪播｜掛機專用/心情放鬆/2026必聽歌單｜讀書&睡眠/Study/Work/開車必聽",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "a1gCR6hyI2I",
-      "title": "​吳麗萍到南部弄假牙 x 搭丟賽 (2026 AI 完整版 MV) 兩大迷因合體變空耳神曲! 致敬壞女人 - 筠芙得利"
+      "title": "​吳麗萍到南部弄假牙 x 搭丟賽 (2026 AI 完整版 MV) 兩大迷因合體變空耳神曲! 致敬壞女人 - 筠芙得利",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.35
     },
     {
       "videoId": "bAOZwAJscMo",
-      "title": "😭 我把青春燒成香，只為等你歸來《空山 • 紅妝》｜殘雪覆蓋了鐵甲還是屍骸？｜Suno 2026 古風虐心神曲｜筠芙得利｜深度沈浸中式悲劇美學｜適合深夜讀書冥想 助眠 BGM Emo 抖音"
+      "title": "😭 我把青春燒成香，只為等你歸來《空山 • 紅妝》｜殘雪覆蓋了鐵甲還是屍骸？｜Suno 2026 古風虐心神曲｜筠芙得利｜深度沈浸中式悲劇美學｜適合深夜讀書冥想 助眠 BGM Emo 抖音",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "FRY8ZtUe1P8",
-      "title": "這杯燒酒敬漂泊🍶昔日兄弟只剩孤魂【空山•浪人】致敬空山辭宇宙｜一聲鐘響震碎靈魂｜沉浸式台語金曲｜2026必聽台語歌單｜開車作業放鬆BGM｜Suno 古風搖滾｜深夜emo"
+      "title": "這杯燒酒敬漂泊🍶昔日兄弟只剩孤魂【空山•浪人】致敬空山辭宇宙｜一聲鐘響震碎靈魂｜沉浸式台語金曲｜2026必聽台語歌單｜開車作業放鬆BGM｜Suno 古風搖滾｜深夜emo",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "HgIf4tAdSFg",
-      "title": "飛越半個地球挽回，💍 求婚戒指卻變成分手禮物 💔 失戀必聽《聖誕節的五種溫度》最終大結局 (附歌詞) [Track 3-5] 催淚抒情/深夜emo/動態歌詞 - 筠芙得利"
+      "title": "飛越半個地球挽回，💍 求婚戒指卻變成分手禮物 💔 失戀必聽《聖誕節的五種溫度》最終大結局 (附歌詞) [Track 3-5] 催淚抒情/深夜emo/動態歌詞 - 筠芙得利",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "1FzXJgRGGns",
-      "title": "​⚠️ 從 37°C 降到 15°C！熱戀與遠距離的殘酷溫差 ❄️〈聖誕樹下的永恆 / 隔著螢幕的雪〉[聖誕特輯-聖誕節的五種溫度 Vol.1+2]- 筠芙得利"
+      "title": "​⚠️ 從 37°C 降到 15°C！熱戀與遠距離的殘酷溫差 ❄️〈聖誕樹下的永恆 / 隔著螢幕的雪〉[聖誕特輯-聖誕節的五種溫度 Vol.1+2]- 筠芙得利",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "nog1qs1r09k",
-      "title": "聖誕節別一個人聽！怕你被撩到睡不著 🚫 最怕 Rapper 唱情歌... 紀時宇 Rap 改編〈Last Christmas〉結尾彩蛋超犯規"
+      "title": "聖誕節別一個人聽！怕你被撩到睡不著 🚫 最怕 Rapper 唱情歌... 紀時宇 Rap 改編〈Last Christmas〉結尾彩蛋超犯規",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "UqatftnWtNI",
-      "title": "放棄追劇 😭，只為看你睡得香甜...！深夜必聽 🌙〈無條件為你〉職場媽媽育兒版 - 筠芙得利"
+      "title": "放棄追劇 😭，只為看你睡得香甜...！深夜必聽 🌙〈無條件為你〉職場媽媽育兒版 - 筠芙得利",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "K0iOkM0kca0",
-      "title": "一播全場直接嗨翻！派對救星 🎅〈Merry Mixmas〉無冷場聖誕跨年串燒 - 筠芙得利"
+      "title": "一播全場直接嗨翻！派對救星 🎅〈Merry Mixmas〉無冷場聖誕跨年串燒 - 筠芙得利",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "NBG9Z6jSnKk",
-      "title": "夢裡妳笑得好甜，醒來嘴角卻鹹鹹的...！深夜獨處 🛌〈毋願閣夢〉台語金曲 (Asher 凜) - 筠芙得利"
+      "title": "夢裡妳笑得好甜，醒來嘴角卻鹹鹹的...！深夜獨處 🛌〈毋願閣夢〉台語金曲 (Asher 凜) - 筠芙得利",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "fCB__IKy1CU",
-      "title": "🎸 恆星不忘 (搖滾版)｜ 聽完熱血沸騰！最硬派的 Arena Rock｜Asher 凜 燃燒生命嘶吼 - 筠芙得利｜搖滾 Acoustic / Amazing / 音樂欣賞"
+      "title": "🎸 恆星不忘 (搖滾版)｜ 聽完熱血沸騰！最硬派的 Arena Rock｜Asher 凜 燃燒生命嘶吼 - 筠芙得利｜搖滾 Acoustic / Amazing / 音樂欣賞",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "aaaZvodtwx8",
-      "title": "【人生的酒】🍺 雄雄灌落喉！KTV必點台語金曲 🎵 唱出男人的苦與吞忍｜Asher 凜 - 筠芙得利 ｜菸嗓 Version / Amazing / 音樂欣賞"
+      "title": "【人生的酒】🍺 雄雄灌落喉！KTV必點台語金曲 🎵 唱出男人的苦與吞忍｜Asher 凜 - 筠芙得利 ｜菸嗓 Version / Amazing / 音樂欣賞",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "Lga3co8Kvu0",
-      "title": "宿醉醒來...鏡子裡的人是誰？ 🥃 KTV必點覺醒搖滾！男人對著鏡子的憤怒嘶吼【鏡中的陌生人】- Asher 凜 💯 ｜2025最新｜ 宿醉失落後的搖滾衝擊 / 靈魂深處的覺醒與掙扎 / 夜半狂想曲"
+      "title": "宿醉醒來...鏡子裡的人是誰？ 🥃 KTV必點覺醒搖滾！男人對著鏡子的憤怒嘶吼【鏡中的陌生人】- Asher 凜 💯 ｜2025最新｜ 宿醉失落後的搖滾衝擊 / 靈魂深處的覺醒與掙扎 / 夜半狂想曲",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "H9cqotzSHp4",
-      "title": "聽完想談戀愛 💑 致敬陶喆x蔡依林風格 R&B 情歌甜甜對唱｜Y2K復古R&B對唱甜蜜爆棚｜重溫千禧校園傳訊戀愛｜情歌對唱｜2025最新【折疊手機的簡訊】- 筠芙得利"
+      "title": "聽完想談戀愛 💑 致敬陶喆x蔡依林風格 R&B 情歌甜甜對唱｜Y2K復古R&B對唱甜蜜爆棚｜重溫千禧校園傳訊戀愛｜情歌對唱｜2025最新【折疊手機的簡訊】- 筠芙得利",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "92FgSWZvmns",
-      "title": "【第幾排第幾號】- 筠芙得利 ✨ 千禧年致敬周董R&B抒情嘻哈風格，慵懶暗戀必聽！｜最怕Rapper唱情歌｜節奏藍調 Music / 微甜心動 / 校園午後｜最愛Rapper說唱情歌"
+      "title": "【第幾排第幾號】- 筠芙得利 ✨ 千禧年致敬周董R&B抒情嘻哈風格，慵懶暗戀必聽！｜最怕Rapper唱情歌｜節奏藍調 Music / 微甜心動 / 校園午後｜最愛Rapper說唱情歌",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "jkP2beTwKsE",
-      "title": "【下課後的福利社】- 筠芙得利 💘 超熱血校園龐克！重回千禧年福利社搶購潮｜2025最新｜龐克搖滾 Music / 青春狂野沸騰 / 福利社下課鐘響、校園熱血衝刺"
+      "title": "【下課後的福利社】- 筠芙得利 💘 超熱血校園龐克！重回千禧年福利社搶購潮｜2025最新｜龐克搖滾 Music / 青春狂野沸騰 / 福利社下課鐘響、校園熱血衝刺",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "ZwX2Rkd2sXk",
-      "title": "Asher 凜 - 乾了吧！昨日的愁 - 筠芙得利｜KTV必點搖滾High歌！🎵 一首男人酒後「笑著流淚」的宣洩神曲｜流行 Acoustic / Amazing / 音樂欣賞"
+      "title": "Asher 凜 - 乾了吧！昨日的愁 - 筠芙得利｜KTV必點搖滾High歌！🎵 一首男人酒後「笑著流淚」的宣洩神曲｜流行 Acoustic / Amazing / 音樂欣賞",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "QDHLHD6PKlg",
-      "title": "《最愛Rapper說唱情歌》紀時宇 - 首張專輯《時間差》- 筠芙得利 🎵 這張專輯，一聽就愛上｜最怕Rapper唱情歌｜2025 深夜陶醉歌單｜10 首關於「錯過」的都會愛情故事"
+      "title": "《最愛Rapper說唱情歌》紀時宇 - 首張專輯《時間差》- 筠芙得利 🎵 這張專輯，一聽就愛上｜最怕Rapper唱情歌｜2025 深夜陶醉歌單｜10 首關於「錯過」的都會愛情故事",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "JTVBadnurg8",
-      "title": "紀時宇 - 宮牆月 - 筠芙得利 🎹 一首「古風R&B」說唱情歌！畫匠與宮女的禁忌之戀 ｜R&B Music / 淒美虐心無緣愛戀 / 古裝劇情歌KTV"
+      "title": "紀時宇 - 宮牆月 - 筠芙得利 🎹 一首「古風R&B」說唱情歌！畫匠與宮女的禁忌之戀 ｜R&B Music / 淒美虐心無緣愛戀 / 古裝劇情歌KTV",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "A3Lj2FzEHNM",
-      "title": "Aurora 葵 - 聽見眼淚的聲音 (2025首張催淚專輯) - 筠芙得利｜一口氣聽完12首心碎故事🎻 直擊心底的KTV催淚抒情｜KTV情歌 Version / 溫柔心碎 / 失戀療傷必選"
+      "title": "Aurora 葵 - 聽見眼淚的聲音 (2025首張催淚專輯) - 筠芙得利｜一口氣聽完12首心碎故事🎻 直擊心底的KTV催淚抒情｜KTV情歌 Version / 溫柔心碎 / 失戀療傷必選",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "uE6ummQeOP4",
-      "title": "Asher 凜 - 當我娶過她 - 筠芙得利 🔥 浪子深情獨白，唱盡愛而不得的遺憾｜台式抒情 Music / 字字句句錐心，獻給無緣的她 / 深夜獨飲回憶，KTV療傷必選"
+      "title": "Asher 凜 - 當我娶過她 - 筠芙得利 🔥 浪子深情獨白，唱盡愛而不得的遺憾｜台式抒情 Music / 字字句句錐心，獻給無緣的她 / 深夜獨飲回憶，KTV療傷必選",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "Nb3Jajp8ccE",
-      "title": "Asher 凜 - 無名的酒店 (Nameless Motel) - 筠芙得利｜浪子宇宙 💟 浪子心聲，漂泊者深夜的台式藍調孤獨悲歌｜台式藍調 Acoustic / 滄桑思鄉 / 雨夜酒館"
+      "title": "Asher 凜 - 無名的酒店 (Nameless Motel) - 筠芙得利｜浪子宇宙 💟 浪子心聲，漂泊者深夜的台式藍調孤獨悲歌｜台式藍調 Acoustic / 滄桑思鄉 / 雨夜酒館",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "TI-B6HXHIco",
-      "title": "筠芙得利 - 星星的畫布 ❤️ 一首關於夢想、愛與希望的家庭詩篇，溫暖旋律撫慰心靈，點亮生命光芒｜溫暖抒情 Acoustic / 溫馨治癒，夢想啟航 / 星空下靜思、家庭溫馨時刻、追夢旅程"
+      "title": "筠芙得利 - 星星的畫布 ❤️ 一首關於夢想、愛與希望的家庭詩篇，溫暖旋律撫慰心靈，點亮生命光芒｜溫暖抒情 Acoustic / 溫馨治癒，夢想啟航 / 星空下靜思、家庭溫馨時刻、追夢旅程",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "ScO1cPi82HI",
-      "title": "Aurora 葵 - 最後的祝福 (最終章) - 筠芙得利 🔥 深情告別，釋然療癒放過自己｜抒情 Acoustic / 感傷卻又溫柔釋懷 / 深夜獨自療傷必聽"
+      "title": "Aurora 葵 - 最後的祝福 (最終章) - 筠芙得利 🔥 深情告別，釋然療癒放過自己｜抒情 Acoustic / 感傷卻又溫柔釋懷 / 深夜獨自療傷必聽",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "2UKBf6iNKNQ",
-      "title": "Asher 凜 - 霓虹荒漠 - 筠芙得利💯 台式藍調搖滾！浪子迷失都市的孤獨悲歌｜藍調搖滾 Music / 迷惘寂寥 / 霓虹夜巷"
+      "title": "Asher 凜 - 霓虹荒漠 - 筠芙得利💯 台式藍調搖滾！浪子迷失都市的孤獨悲歌｜藍調搖滾 Music / 迷惘寂寥 / 霓虹夜巷",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "Bzw9t4hr_JM",
-      "title": "Aurora 葵 - 後來，聽說 - 筠芙得利 🔥「微笑中的海嘯」唱盡聽聞前任消息的隱痛｜抒情 Music / 隱藏的心碎 / 夜深人靜KTV必點"
+      "title": "Aurora 葵 - 後來，聽說 - 筠芙得利 🔥「微笑中的海嘯」唱盡聽聞前任消息的隱痛｜抒情 Music / 隱藏的心碎 / 夜深人靜KTV必點",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "MmtN9ek7caU",
-      "title": "Asher 凜 - 午夜公路 - 筠芙得利💯 台式藍調搖滾！浪子油門踩到底的午夜宣洩悲歌｜公路搖滾 Music / 孤寂與狂放的悲歌宣洩 / 午夜公路疾馳，追逐無盡遠方"
+      "title": "Asher 凜 - 午夜公路 - 筠芙得利💯 台式藍調搖滾！浪子油門踩到底的午夜宣洩悲歌｜公路搖滾 Music / 孤寂與狂放的悲歌宣洩 / 午夜公路疾馳，追逐無盡遠方",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "mOrScLkwyqo",
-      "title": "Aurora 葵 - 一個人看電影 - 筠芙得利｜KTV催淚神曲！💕「原來我看的不是電影，是和你的曾經...」💕單獨回憶、最虐心的抒情獨白｜抒情 Acoustic / 心碎, 遺憾 / 失戀必聽"
+      "title": "Aurora 葵 - 一個人看電影 - 筠芙得利｜KTV催淚神曲！💕「原來我看的不是電影，是和你的曾經...」💕單獨回憶、最虐心的抒情獨白｜抒情 Acoustic / 心碎, 遺憾 / 失戀必聽",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "YOLE9A-xrr8",
-      "title": "Asher 凜 - 一通無人接的電話 - 筠芙得利｜❤️ 浪子心碎獨白，深情呼喚絕望｜力量抒情 / 痛徹心扉悔恨、孤獨 / 午夜獨酌、公路"
+      "title": "Asher 凜 - 一通無人接的電話 - 筠芙得利｜❤️ 浪子心碎獨白，深情呼喚絕望｜力量抒情 / 痛徹心扉悔恨、孤獨 / 午夜獨酌、公路",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "euJ8Gr7EOZw",
-      "title": "Aurora 葵 - 您撥的電話是空號 - 筠芙得利｜KTV必點催淚神曲！💞 分手後最痛徹心扉的絕望，空號提示音擊碎所有期待｜催淚 Version / 心碎絕望，淚水決堤的無盡思念 / 深夜獨酌"
+      "title": "Aurora 葵 - 您撥的電話是空號 - 筠芙得利｜KTV必點催淚神曲！💞 分手後最痛徹心扉的絕望，空號提示音擊碎所有期待｜催淚 Version / 心碎絕望，淚水決堤的無盡思念 / 深夜獨酌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "5bgyi6aNUiw",
-      "title": "筠芙得利 - 萬聖節搗蛋派對 (不給糖就搗蛋+怪獸派對)｜最可愛的萬聖節BGM！絕不可怕的派對神曲 (Halloween Songs)"
+      "title": "筠芙得利 - 萬聖節搗蛋派對 (不給糖就搗蛋+怪獸派對)｜最可愛的萬聖節BGM！絕不可怕的派對神曲 (Halloween Songs)",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "UopT6PhI8KE",
-      "title": "Asher 凜 - 最後一支菸 - 筠芙得利｜KTV必點台式藍調搖滾！一首浪子「虧欠」的催淚悲歌 ⭐ 浪子心聲！深夜孤寂時的催淚真情告白｜台式藍調搖滾 Music"
+      "title": "Asher 凜 - 最後一支菸 - 筠芙得利｜KTV必點台式藍調搖滾！一首浪子「虧欠」的催淚悲歌 ⭐ 浪子心聲！深夜孤寂時的催淚真情告白｜台式藍調搖滾 Music",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "hP0cluHUUwM",
-      "title": "Aurora 葵 - 台北的暴雨 - 筠芙得利｜KTV催淚神曲！一首下雨天分手必聽的崩潰情歌｜抒情 Acoustic / 痛徹心扉 / KTV催淚"
+      "title": "Aurora 葵 - 台北的暴雨 - 筠芙得利｜KTV催淚神曲！一首下雨天分手必聽的崩潰情歌｜抒情 Acoustic / 痛徹心扉 / KTV催淚",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "F9O8WJpklq4",
-      "title": "Asher 凜 - 沒出息  正港台語版 改編「二十冬」 - 筠芙得利｜KTV必點台語悲歌 (無出脫)｜唱出「沒出息」的二十年｜🌙 台式情懷的浪子藍調，街頭的獨白與故事｜台式浪子 Version"
+      "title": "Asher 凜 - 沒出息  正港台語版 改編「二十冬」 - 筠芙得利｜KTV必點台語悲歌 (無出脫)｜唱出「沒出息」的二十年｜🌙 台式情懷的浪子藍調，街頭的獨白與故事｜台式浪子 Version",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "lFrdwnZ1VyI",
-      "title": "十二億的謎 (The 1.2 Billion Mystery) - 筠芙得利 💓 一首Rap帶你吃瓜！陶朱隱園12億天價與麻吉大哥爆倉疑雲｜饒舌 Music / 震撼揭秘 / 社群熱議"
+      "title": "十二億的謎 (The 1.2 Billion Mystery) - 筠芙得利 💓 一首Rap帶你吃瓜！陶朱隱園12億天價與麻吉大哥爆倉疑雲｜饒舌 Music / 震撼揭秘 / 社群熱議",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "9kAR9VCvnx0",
-      "title": "ECLIPSE (이클립스) - Duality: 빛의 저편 - 筠芙得利｜2025最強K-POP男團出道！一張探討偶像光與影的專輯 (Full Playlist) 🔥 K-POP Music"
+      "title": "ECLIPSE (이클립스) - Duality: 빛의 저편 - 筠芙得利｜2025最強K-POP男團出道！一張探討偶像光與影的專輯 (Full Playlist) 🔥 K-POP Music",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "b2AYYg5AF0g",
-      "title": "奇幻萬聖夜 (A Fantastical Halloween) - 筠芙得利 ☀️ 最可愛不嚇人！奇幻派對專屬BGM Instrumental / 歡樂魔法 / 萬聖節佈置派對必備"
+      "title": "奇幻萬聖夜 (A Fantastical Halloween) - 筠芙得利 ☀️ 最可愛不嚇人！奇幻派對專屬BGM Instrumental / 歡樂魔法 / 萬聖節佈置派對必備",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "lD5p4qmPNbM",
-      "title": "歲月的回音 (Echoes of Time) - 筠芙得利 🌈 2025最愛Rapper說唱情歌！唱盡滄桑後悔，真摯告白觸動靈魂深處｜饒舌 Music / 深情懺悔 / 夜深獨白"
+      "title": "歲月的回音 (Echoes of Time) - 筠芙得利 🌈 2025最愛Rapper說唱情歌！唱盡滄桑後悔，真摯告白觸動靈魂深處｜饒舌 Music / 深情懺悔 / 夜深獨白",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "QNKwSITVVZU",
-      "title": "Aurora 葵 - 我關上了門 (I Closed the Door) - 筠芙得利 💯 每個字都戳中淚點，心碎告別過去的最後儀式｜抒情 Acoustic / 痛徹心扉 / 深夜療傷"
+      "title": "Aurora 葵 - 我關上了門 (I Closed the Door) - 筠芙得利 💯 每個字都戳中淚點，心碎告別過去的最後儀式｜抒情 Acoustic / 痛徹心扉 / 深夜療傷",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "MIKsa2_Nn6o",
-      "title": "Aurora 葵 - 你為什麼說謊？ (Why Did You Lie?) - 筠芙得利 💓 戳破謊言信任崩塌最虐心的質問，KTV失戀療傷神曲｜抒情 Music / 心碎獨白 / 深夜療癒"
+      "title": "Aurora 葵 - 你為什麼說謊？ (Why Did You Lie?) - 筠芙得利 💓 戳破謊言信任崩塌最虐心的質問，KTV失戀療傷神曲｜抒情 Music / 心碎獨白 / 深夜療癒",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "kP5ZRD7s--8",
-      "title": "優先席不是敬老座 (男聲版) - 筠芙得利｜「博愛座」為何改名「優先席」？｜ 🤍 唱出「隱形需求」與真善良，溫柔男聲深度解讀優先席爭議｜流行 Version / 引人深思 / 城市通勤"
+      "title": "優先席不是敬老座 (男聲版) - 筠芙得利｜「博愛座」為何改名「優先席」？｜ 🤍 唱出「隱形需求」與真善良，溫柔男聲深度解讀優先席爭議｜流行 Version / 引人深思 / 城市通勤",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "u6qPBIDgaX8",
-      "title": "優先席不是敬老座 (女聲版) - 筠芙得利｜「博愛座」為何改名「優先席」？｜ 🤍 唱出「隱形需求」與真善良，溫柔女聲深度解讀優先席爭議｜流行 Version / 引人深思 / 城市通勤"
+      "title": "優先席不是敬老座 (女聲版) - 筠芙得利｜「博愛座」為何改名「優先席」？｜ 🤍 唱出「隱形需求」與真善良，溫柔女聲深度解讀優先席爭議｜流行 Version / 引人深思 / 城市通勤",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "ha13K0HreKg",
-      "title": "K POP PLAYLIST 2025 - 메트로폴리스 글로우 (Metropolis Glow) - 筠芙得利 ✨ 都會潮流脈動｜K-POP / 熱血動感 / 狂歡派對舞曲"
+      "title": "K POP PLAYLIST 2025 - 메트로폴리스 글로우 (Metropolis Glow) - 筠芙得利 ✨ 都會潮流脈動｜K-POP / 熱血動感 / 狂歡派對舞曲",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "zl3yOmajFzY",
-      "title": "Aurora 葵 - 第一道裂痕 (The First Crack) - 筠芙得利｜💔一首聽了會想哭哭的歌，唱出信任破碎的聲音｜抒情 Acoustic / 感人至深 / 靜夜沉思 / 2025必聽"
+      "title": "Aurora 葵 - 第一道裂痕 (The First Crack) - 筠芙得利｜💔一首聽了會想哭哭的歌，唱出信任破碎的聲音｜抒情 Acoustic / 感人至深 / 靜夜沉思 / 2025必聽",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "6J5qsejzHAI",
-      "title": "城市燈火下的禱告 (Prayer Under the City Lights) - 筠芙得利｜將主禱文唱成Rap，獻給每個在城市中迷惘的你｜尋找信仰與方向 / 力量、希望、指引 / 城市夜幕、心靈低谷"
+      "title": "城市燈火下的禱告 (Prayer Under the City Lights) - 筠芙得利｜將主禱文唱成Rap，獻給每個在城市中迷惘的你｜尋找信仰與方向 / 力量、希望、指引 / 城市夜幕、心靈低谷",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "DKnN4cDaKhU",
-      "title": "主禱文：馨香之祭 (The Lord's Prayer: A Fragrant Offering) - 筠芙得利｜將〈主禱文〉化為馨香之祭，獻給至高君王｜宏偉管弦，馨香獻祭｜莊嚴敬虔 / 靜心禱告"
+      "title": "主禱文：馨香之祭 (The Lord's Prayer: A Fragrant Offering) - 筠芙得利｜將〈主禱文〉化為馨香之祭，獻給至高君王｜宏偉管弦，馨香獻祭｜莊嚴敬虔 / 靜心禱告",
+      "genre": "古典 Classical",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "ip6uCksAAYE",
-      "title": "殘局 (Endgame) - 筠芙得利｜當王世堅的「沒出息」變宮廷史詩！古風民謠淒美演繹，深宮愛恨殘局｜宮廷劇 Version / 淒美悲壯 / 權謀紛亂"
+      "title": "殘局 (Endgame) - 筠芙得利｜當王世堅的「沒出息」變宮廷史詩！古風民謠淒美演繹，深宮愛恨殘局｜宮廷劇 Version / 淒美悲壯 / 權謀紛亂",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "hfgnVMaDXFo",
-      "title": "錦繡錯 (Mistake in Brocade) - 筠芙得利｜當王世堅的「沒出息」變成一首宮鬥悲歌｜深宮權謀悲歌，愛恨情仇交織的宿命錯付｜宮廷劇 Version / 淒絕無奈 / 禁苑爭鬥"
+      "title": "錦繡錯 (Mistake in Brocade) - 筠芙得利｜當王世堅的「沒出息」變成一首宮鬥悲歌｜深宮權謀悲歌，愛恨情仇交織的宿命錯付｜宮廷劇 Version / 淒絕無奈 / 禁苑爭鬥",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "fQ5I3D8ISCU",
-      "title": "Aurora 葵 - 慣性失戀 (Habitual Heartbreak) - 筠芙得利｜最痛的不是心碎，是麻木 ｜🎤 💔撫慰情傷的深夜獨白｜抒情 Acoustic"
+      "title": "Aurora 葵 - 慣性失戀 (Habitual Heartbreak) - 筠芙得利｜最痛的不是心碎，是麻木 ｜🎤 💔撫慰情傷的深夜獨白｜抒情 Acoustic",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "ojfdGJ4WF64",
-      "title": "今天想來點不一樣的...沒出息？ 來吧~"
+      "title": "今天想來點不一樣的...沒出息？ 來吧~",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "5TzXTtWxZ4Q",
-      "title": "「筠芙得利」直播"
+      "title": "「筠芙得利」直播",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "5SDP4CoTCXQ",
-      "title": "沒出息 - 筠芙得利｜從從容容游刃有餘｜匆匆忙忙連滾帶爬｜抖音神曲改編｜30分沉浸體驗｜你會不小心聽完｜史上最多元變化的AI神曲？一首歌給你1x種風格｜王世堅｜其實會不小心聽完..."
+      "title": "沒出息 - 筠芙得利｜從從容容游刃有餘｜匆匆忙忙連滾帶爬｜抖音神曲改編｜30分沉浸體驗｜你會不小心聽完｜史上最多元變化的AI神曲？一首歌給你1x種風格｜王世堅｜其實會不小心聽完...",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "7zpbrAKm0uM",
-      "title": "Aurora 葵 - 一瞬的煙火 (A Moment's Firework) - 筠芙得利｜那一刻，我以為燦爛會是永恆｜抒情 Acoustic / 心碎溫柔 / 夜晚思念"
+      "title": "Aurora 葵 - 一瞬的煙火 (A Moment's Firework) - 筠芙得利｜那一刻，我以為燦爛會是永恆｜抒情 Acoustic / 心碎溫柔 / 夜晚思念",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "E-Z8_N8agdE",
-      "title": "心動挑戰 (Heartbeat Challenge) Inspired Album - 筠芙得利｜K-Pop與Tiktok融合潮流舞曲｜K-Pop Music / 抖音 Music / 舞動挑戰"
+      "title": "心動挑戰 (Heartbeat Challenge) Inspired Album - 筠芙得利｜K-Pop與Tiktok融合潮流舞曲｜K-Pop Music / 抖音 Music / 舞動挑戰",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "eytWy53ty7o",
-      "title": "Click-Click, BOOM! (心動警報) - 筠芙得利｜心動警報拉響！超燃K-Pop舞曲節奏引爆派對活力｜K-Pop Music｜一首讓你的多巴胺失控的K-Pop舞曲"
+      "title": "Click-Click, BOOM! (心動警報) - 筠芙得利｜心動警報拉響！超燃K-Pop舞曲節奏引爆派對活力｜K-Pop Music｜一首讓你的多巴胺失控的K-Pop舞曲",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "Bynz0J0406M",
-      "title": "白鹿佯夢 (The White Deer's Dream) - 筠芙得利｜一場煙雨，兩個時空｜古韻藍調搖滾｜中國風 Version"
+      "title": "白鹿佯夢 (The White Deer's Dream) - 筠芙得利｜一場煙雨，兩個時空｜古韻藍調搖滾｜中國風 Version",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "hLN4OjBcrqQ",
-      "title": "那天的我們 (The Us From That Day) - 筠芙得利｜一首聽了會哭的鋼琴催淚情歌"
+      "title": "那天的我們 (The Us From That Day) - 筠芙得利｜一首聽了會哭的鋼琴催淚情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "fa09NTmVLgA",
-      "title": "Discord 的藍調 (Discord Blues) [Official Lyric Video]｜一句話，變成一首歌，唱出的卻是我的心碎"
+      "title": "Discord 的藍調 (Discord Blues) [Official Lyric Video]｜一句話，變成一首歌，唱出的卻是我的心碎",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "P3XHt5B0CCg",
-      "title": "給下一個天亮 (For the Next Dawn) [Official Lyric Video]｜唱完這首歌，明天就好了"
+      "title": "給下一個天亮 (For the Next Dawn) [Official Lyric Video]｜唱完這首歌，明天就好了",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "9Vuc5kuoqmQ",
-      "title": " 왜 나를 떠났니... 如果心碎有兩種語言 💔 #Shorts #이별노래 #催淚  "
+      "title": " 왜 나를 떠났니... 如果心碎有兩種語言 💔 #Shorts #이별노래 #催淚  ",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "KB7PPlIN9Yg",
-      "title": "我們寫的歌 (The Song We Wrote) [Official Lyric Video]｜午夜十二點的 Discord，幾位創作者，各出一句詞，共創一首歌"
+      "title": "我們寫的歌 (The Song We Wrote) [Official Lyric Video]｜午夜十二點的 Discord，幾位創作者，各出一句詞，共創一首歌",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "z18TL3y896Q",
-      "title": "你還愛我嗎 (The Seoul Remix) [Special Clip]｜當中文的眼淚遇上韓文的心碎"
+      "title": "你還愛我嗎 (The Seoul Remix) [Special Clip]｜當中文的眼淚遇上韓文的心碎",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "nxyj7me9elY",
-      "title": "Aurora 葵 - 你還愛我嗎 (Do You Still Love Me?) [Official Music Video]｜據說這首歌，只有真正愛過的人才聽得懂..."
+      "title": "Aurora 葵 - 你還愛我嗎 (Do You Still Love Me?) [Official Music Video]｜據說這首歌，只有真正愛過的人才聽得懂...",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "QS3wl2sSBus",
-      "title": "中文怪物 (The Mandarin Monster) [Official Music Video]｜會考會考會考會考，每次都把我打趴"
+      "title": "中文怪物 (The Mandarin Monster) [Official Music Video]｜會考會考會考會考，每次都把我打趴",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.22
     },
     {
       "videoId": "7R0N1Y9Z7eQ",
-      "title": "登出 (Log Out) [Official Lyric Video]｜再見了，我的完美情人"
+      "title": "登出 (Log Out) [Official Lyric Video]｜再見了，我的完美情人",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "58t8R3yzqRQ",
-      "title": "全息的眼淚 (Hologram Tears) [Official Lyric Video]｜妳的眼淚，卻溫暖不了我"
+      "title": "全息的眼淚 (Hologram Tears) [Official Lyric Video]｜妳的眼淚，卻溫暖不了我",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "iLA2tZB8szM",
-      "title": "數據晚安 (Data, Goodnight) [Official Lyric Video]｜我的AI情人，晚安"
+      "title": "數據晚安 (Data, Goodnight) [Official Lyric Video]｜我的AI情人，晚安",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "pAq3klqPNQM",
-      "title": "這樣的台北夜 (A Taipei Night Like This) [Official Lyric Video]｜敬所有，在城市中孤單的靈魂"
+      "title": "這樣的台北夜 (A Taipei Night Like This) [Official Lyric Video]｜敬所有，在城市中孤單的靈魂",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "c7q7fU7XyDs",
-      "title": "青春的最後倔強 (The Last Stubbornness of Youth) [Official Music Video]｜獻給每個不願對世界投降的你"
+      "title": "青春的最後倔強 (The Last Stubbornness of Youth) [Official Music Video]｜獻給每個不願對世界投降的你",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.34
     },
     {
       "videoId": "05rLFqTtX-0",
-      "title": "鑰匙還你 (Here's Your Key Back) [Official Music Video]｜我關上門的聲音，卻震碎了整個宇宙"
+      "title": "鑰匙還你 (Here's Your Key Back) [Official Music Video]｜我關上門的聲音，卻震碎了整個宇宙",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "H3QYhzgR3GE",
-      "title": "最後の FireWall (The Last FireWall) [Official Lyric Video]｜有些故事，只能對自己吶喊..."
+      "title": "最後の FireWall (The Last FireWall) [Official Lyric Video]｜有些故事，只能對自己吶喊...",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.42
     },
     {
       "videoId": "aiNLkwDoCPQ",
-      "title": "初恋、再び (First Love Again) [Official Music Video]｜那首悲傷情歌，終於有了溫柔的結局..."
+      "title": "初恋、再び (First Love Again) [Official Music Video]｜那首悲傷情歌，終於有了溫柔的結局...",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "AOo4iUk4FJE",
-      "title": "Asher 凜 - 𨑨迌人開車 - 筠芙得利｜浪子宇宙台語歌 🎨 浪子心聲公路吟唱，台式藍調致敬逝去時光｜台式浪子 Music / 滄桑懷舊，自由感慨 / 夜晚公路獨駕，人生旅途沉思"
+      "title": "Asher 凜 - 𨑨迌人開車 - 筠芙得利｜浪子宇宙台語歌 🎨 浪子心聲公路吟唱，台式藍調致敬逝去時光｜台式浪子 Music / 滄桑懷舊，自由感慨 / 夜晚公路獨駕，人生旅途沉思",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "NsPFHq5nHxA",
-      "title": "聽說你 (I Heard About You) [Official Music Video]｜有些事，後來才懂..."
+      "title": "聽說你 (I Heard About You) [Official Music Video]｜有些事，後來才懂...",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "stzfreZ3AaY",
-      "title": "【台式浪子搖滾】菸一支一支地點 (Lighting Cigarettes One by One) [Official Music Video]｜浪子的故事，未完待續..."
+      "title": "【台式浪子搖滾】菸一支一支地點 (Lighting Cigarettes One by One) [Official Music Video]｜浪子的故事，未完待續...",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "pJcCgt1M1qM",
-      "title": "【復古電子舞曲】特務J的遊戲 (The Game of Agent J) [Official Music Video]｜一場由節拍構成的危險遊戲"
+      "title": "【復古電子舞曲】特務J的遊戲 (The Game of Agent J) [Official Music Video]｜一場由節拍構成的危險遊戲",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "Duitnny7CwU",
-      "title": "Hip Hop Time Travel (70s-2020s)｜67-Min Instrumental Mix for Focus & Driving｜嘻哈時光之旅 🎧"
+      "title": "Hip Hop Time Travel (70s-2020s)｜67-Min Instrumental Mix for Focus & Driving｜嘻哈時光之旅 🎧",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "OV_aS8JQyGg",
-      "title": "嘻哈的起點，只是一個鼓點？| 5分鐘帶你聽完50年傳奇演變 (嘻哈時光機 聲音導覽)"
+      "title": "嘻哈的起點，只是一個鼓點？| 5分鐘帶你聽完50年傳奇演變 (嘻哈時光機 聲音導覽)",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "7LIIUUV772k",
-      "title": "Was Hip Hop Born From a Single Beat? | 50-Year Evolution in 6 Mins (Hip Hop Time Machine Preshow)"
+      "title": "Was Hip Hop Born From a Single Beat? | 50-Year Evolution in 6 Mins (Hip Hop Time Machine Preshow)",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "HPsgvRbKL-4",
-      "title": "【25/5 番茄鐘】白日讀書工作專注音樂 (2小時) | Minimalist Music for Studying & Concentration • Coffee Shop Ambience"
+      "title": "【25/5 番茄鐘】白日讀書工作專注音樂 (2小時) | Minimalist Music for Studying & Concentration • Coffee Shop Ambience",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "hwO2ngI4B1w",
-      "title": "零號的淚 (Tears of Unit Zero)｜神造之殤 - 首部曲"
+      "title": "零號的淚 (Tears of Unit Zero)｜神造之殤 - 首部曲",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.3
     },
     {
       "videoId": "VqbdIkeD2OA",
-      "title": "​爸媽的創作日常：《零號的淚》一個AI少女的誕生與毀滅"
+      "title": "​爸媽的創作日常：《零號的淚》一個AI少女的誕生與毀滅",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "3EbUNAGHS7Q",
-      "title": "她…還在那間店嗎？｜懷舊台北下雨天故事｜AI短片製作｜32 Records & 32 CAFE"
+      "title": "她…還在那間店嗎？｜懷舊台北下雨天故事｜AI短片製作｜32 Records & 32 CAFE",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.44
     }
   ]
 }

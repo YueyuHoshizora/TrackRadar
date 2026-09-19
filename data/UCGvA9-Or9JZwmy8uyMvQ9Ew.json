@@ -1,7 +1,7 @@
 {
   "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
   "channelTitle": "予安YUAN",
-  "lastUpdated": "2026-09-19T13:00:53.118+08:00",
+  "lastUpdated": "2026-09-19T13:04:18.039+08:00",
   "latestVideo": {
     "videoId": "7aouI_5Zjro",
     "title": "《借我一點你的時光》｜如果你累了，就聽這首歌。 聽一遍就會愛上的深夜情歌｜予安 Yuan Official MV Music  Video",
@@ -142,167 +142,249 @@
     },
     {
       "videoId": "osy6YBKkl_I",
-      "title": "《忘不了你》｜如果你還放不下一個人，一定要聽完｜戴上耳機，你會想起那個人【動態歌詞】｜2026"
+      "title": "《忘不了你》｜如果你還放不下一個人，一定要聽完｜戴上耳機，你會想起那個人【動態歌詞】｜2026",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "d4xp7BPLlGU",
-      "title": "《你還會想我嗎》｜如果想念有聲音，你還會回頭嗎？｜每一句都唱進心裡【動態歌詞】"
+      "title": "《你還會想我嗎》｜如果想念有聲音，你還會回頭嗎？｜每一句都唱進心裡【動態歌詞】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "iNeTsnjB7oc",
-      "title": "《原來放下這麼難》｜放下一個人到底有多難？聽一次就忍不住想起那個人｜動態歌詞 MV2026 最新傷感情歌｜"
+      "title": "《原來放下這麼難》｜放下一個人到底有多難？聽一次就忍不住想起那個人｜動態歌詞 MV2026 最新傷感情歌｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "clt5yXhNx6Y",
-      "title": "已讀不回的晚安｜明明看見了訊息，卻等不到一句晚安💔｜2026華語催淚情歌【動態歌詞】"
+      "title": "已讀不回的晚安｜明明看見了訊息，卻等不到一句晚安💔｜2026華語催淚情歌【動態歌詞】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "_YIHa7KD-yY",
-      "title": "《差一步的戀人》｜明明互相喜歡，卻誰都沒有開口｜聽到副歌直接破防💔【動態歌詞】"
+      "title": "《差一步的戀人》｜明明互相喜歡，卻誰都沒有開口｜聽到副歌直接破防💔【動態歌詞】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "MgGbShTreEg",
-      "title": "《尬電》全網都在尬電 🤯🔥 2026最洗腦迷因神曲｜Taiwan Meme EDM"
+      "title": "《尬電》全網都在尬電 🤯🔥 2026最洗腦迷因神曲｜Taiwan Meme EDM",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "ifIlZcA17zQ",
-      "title": "《十七歲的喜歡》予安YUAN｜長大後才發現，最難忘的人還是你｜2026催淚青春情歌【動態歌詞】"
+      "title": "《十七歲的喜歡》予安YUAN｜長大後才發現，最難忘的人還是你｜2026催淚青春情歌【動態歌詞】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "9mKP9xfp-wI",
-      "title": "《Playlist華語》2026最催淚華語情歌精選｜😍｜開車必聽・深夜單曲循環｜予安YUAN"
+      "title": "《Playlist華語》2026最催淚華語情歌精選｜😍｜開車必聽・深夜單曲循環｜予安YUAN",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "tVpO2xCpZDU",
-      "title": "《這就是愛情》予安 —— 原來最好的未來，不是奇蹟，而是身邊一直有你。 | 暖心療癒系單曲"
+      "title": "《這就是愛情》予安 —— 原來最好的未來，不是奇蹟，而是身邊一直有你。 | 暖心療癒系單曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "EMAYxuTgz7w",
-      "title": "《那年一起看的煙火》｜「如果重逢在人海之中，你是否還認得我？」｜療癒系抒情｜EIRYN"
+      "title": "《那年一起看的煙火》｜「如果重逢在人海之中，你是否還認得我？」｜療癒系抒情｜EIRYN",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "UY5rk7mxG4I",
-      "title": "《我沒靠誰》予安YUAN—— 凌晨三點的便利店，我買了一杯冷掉的想念｜自我療癒單曲"
+      "title": "《我沒靠誰》予安YUAN—— 凌晨三點的便利店，我買了一杯冷掉的想念｜自我療癒單曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "m8hAkUtC9Ko",
-      "title": "《歡迎光臨》「叮咚，歡迎光臨。」獻給每一個在深夜裡努力生活的你｜便利商店之歌｜予安YUAN"
+      "title": "《歡迎光臨》「叮咚，歡迎光臨。」獻給每一個在深夜裡努力生活的你｜便利商店之歌｜予安YUAN",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.41
     },
     {
       "videoId": "POmI7vm03AI",
-      "title": "外送員必聽！《外送人生》：風雨裡的感動，每一單都是生活。｜予安YUAN"
+      "title": "外送員必聽！《外送人生》：風雨裡的感動，每一單都是生活。｜予安YUAN",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "_TdS8HJtpjw",
-      "title": "《微光的翅膀》予安YUAN｜2026畢業季主題曲｜獻給所有即將畢業的我們"
+      "title": "《微光的翅膀》予安YUAN｜2026畢業季主題曲｜獻給所有即將畢業的我們",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "VDDQhSwqrew",
-      "title": "《一遍一遍》予安YUAN｜如果遺憾是一種美學...  聽碎了心，才懂往事只能鎖進夢裡｜Official Lyric Video"
+      "title": "《一遍一遍》予安YUAN｜如果遺憾是一種美學...  聽碎了心，才懂往事只能鎖進夢裡｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "eVPD0cycvJw",
-      "title": "《日落收藏》予安YUAN｜這一刻的溫柔，終於有人替我留住了｜2026最療癒女聲"
+      "title": "《日落收藏》予安YUAN｜這一刻的溫柔，終於有人替我留住了｜2026最療癒女聲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "fiIMPOQ23y0",
-      "title": "《你沒有回來》- 予安 Yuan｜這首歌送給還放不下的人｜2026最痛女聲情歌"
+      "title": "《你沒有回來》- 予安 Yuan｜這首歌送給還放不下的人｜2026最痛女聲情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "ysQprD22ZWU",
-      "title": "【媽祖帶我走】2026白沙屯媽祖進香歌曲｜粉紅超跑"
+      "title": "【媽祖帶我走】2026白沙屯媽祖進香歌曲｜粉紅超跑",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "kBokl2Q4jKY",
-      "title": "2026 催淚首選 😭｜《你離開以後》- 予安 Yuan｜「你沒帶走的那些，全變成失眠的線...」深夜emo必聽 💔"
+      "title": "2026 催淚首選 😭｜《你離開以後》- 予安 Yuan｜「你沒帶走的那些，全變成失眠的線...」深夜emo必聽 💔",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "iHdEm_1wgB8",
-      "title": "《別回來》 Don't Come Back - 予安 (Yu An)｜2026 Urban R&B / City Pop 推薦"
+      "title": "《別回來》 Don't Come Back - 予安 (Yu An)｜2026 Urban R&B / City Pop 推薦",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "tZaAIsBnjf8",
-      "title": "《誰讓》予安YUAN -🔥2026最虐心神曲｜副歌一出直接崩潰💔「誰讓愛變得如此決絕…」無限循環上癮版"
+      "title": "《誰讓》予安YUAN -🔥2026最虐心神曲｜副歌一出直接崩潰💔「誰讓愛變得如此決絕…」無限循環上癮版",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "P92ZtELim34",
-      "title": "《深不見底》聽完這首歌，就好好說再見吧。致那些無法修復的遺憾｜Official Music Video"
+      "title": "《深不見底》聽完這首歌，就好好說再見吧。致那些無法修復的遺憾｜Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "EqcBv8_gDPM",
-      "title": "《想你》予安YUAN 我說別再想你 卻整夜想你…這首歌會讓你失眠｜2026最催淚華語情歌"
+      "title": "《想你》予安YUAN 我說別再想你 卻整夜想你…這首歌會讓你失眠｜2026最催淚華語情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "mg7gWwJ1ZCQ",
-      "title": "「聽一遍就心碎」2026最強失戀emo神曲 —《灰色的結尾》官方歌詞版  | 當愛與恨都化作冷掉的煙灰..."
+      "title": "「聽一遍就心碎」2026最強失戀emo神曲 —《灰色的結尾》官方歌詞版  | 當愛與恨都化作冷掉的煙灰...",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "HGXUuZA4tGM",
-      "title": "聽完這首歌，誰還能不流淚？😭《差一點》：如果當時勇敢一點，結局會不會改寫？💔 2026 必聽虐心神曲｜每一句「差點」都是一輩子的遺憾。"
+      "title": "聽完這首歌，誰還能不流淚？😭《差一點》：如果當時勇敢一點，結局會不會改寫？💔 2026 必聽虐心神曲｜每一句「差點」都是一輩子的遺憾。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "U1CEZZNrjew",
-      "title": "《TEAM TAIWAN》 挺台灣｜讓世界看見台灣🔥2026全場炸裂！國際賽最燃應援神曲｜全場高能無冷場"
+      "title": "《TEAM TAIWAN》 挺台灣｜讓世界看見台灣🔥2026全場炸裂！國際賽最燃應援神曲｜全場高能無冷場",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "FQ97NMNfIKw",
-      "title": "《燒吧》Burn It Down｜熱血女聲搖滾 Band Sound 原創單曲 2026 Official"
+      "title": "《燒吧》Burn It Down｜熱血女聲搖滾 Band Sound 原創單曲 2026 Official",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "gqQEvb0CD-w",
-      "title": "2026 療癒天花板 🌿 聽到《那魯灣情歌7-11版》我真的跪了... ｜ 這份歌單有毒，聽完心碎又笑噴！"
+      "title": "2026 療癒天花板 🌿 聽到《那魯灣情歌7-11版》我真的跪了... ｜ 這份歌單有毒，聽完心碎又笑噴！",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "427EASv_-TU",
-      "title": "《給你愛情處方》予安｜2026 抒情首選 致那個習慣假裝沒事的你｜"
+      "title": "《給你愛情處方》予安｜2026 抒情首選 致那個習慣假裝沒事的你｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "lxnFtrQzje4",
-      "title": "閉上眼，全是你。這首歌唱碎了所有「想留卻留不住」的遺憾... 💔｜2026 必聽治癒系單曲《回聲裡的溫柔》"
+      "title": "閉上眼，全是你。這首歌唱碎了所有「想留卻留不住」的遺憾... 💔｜2026 必聽治癒系單曲《回聲裡的溫柔》",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "XAUhKTFA-0I",
-      "title": "2026 最扎心告別單曲《愛情怎麼翻譯》：如果沉默也是一種回應，那我收下這一遍。"
+      "title": "2026 最扎心告別單曲《愛情怎麼翻譯》：如果沉默也是一種回應，那我收下這一遍。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "WrZK6kVU-i8",
-      "title": "「願世界再亂，你都有處靠岸。」原創治癒神曲《予你心安》致每個疲憊的靈魂。"
+      "title": "「願世界再亂，你都有處靠岸。」原創治癒神曲《予你心安》致每個疲憊的靈魂。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "BAyydv1nUBk",
-      "title": "「我笑著說一切都好，但心還逗留。」原創歌曲《原來我還沒走開》— 送給每個假裝痊癒的靈魂 💔"
+      "title": "「我笑著說一切都好，但心還逗留。」原創歌曲《原來我還沒走開》— 送給每個假裝痊癒的靈魂 💔",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "RhudCIPz6EI",
-      "title": "[徒手之巔] 沒有繩索！Alex Honnold 徒手征服 508 公尺台北 101 | 歷史性的一刻 [原創歌曲]"
+      "title": "[徒手之巔] 沒有繩索！Alex Honnold 徒手征服 508 公尺台北 101 | 歷史性的一刻 [原創歌曲]",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "wcs52nlLBoA",
-      "title": "是你 It's You - [予安。]｜Original Song 原創單曲｜不管結局去到哪裡，心跳只記得你 (Dynamic Lyrics)"
+      "title": "是你 It's You - [予安。]｜Original Song 原創單曲｜不管結局去到哪裡，心跳只記得你 (Dynamic Lyrics)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "_4kUjr3OajI",
-      "title": "原來遺憾，才是成長的必經點。｜《抓耳的旋律》【原創歌曲】Official Audio"
+      "title": "原來遺憾，才是成長的必經點。｜《抓耳的旋律》【原創歌曲】Official Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "anqfp6uOieM",
-      "title": "【原創歌曲】這首歌，送給每個在城市中感到孤單的你《借我一點你的時光》｜予安。｜深夜聽歌｜新歌2026｜動態歌詞｜抒情女聲｜Lyrics｜"
+      "title": "【原創歌曲】這首歌，送給每個在城市中感到孤單的你《借我一點你的時光》｜予安。｜深夜聽歌｜新歌2026｜動態歌詞｜抒情女聲｜Lyrics｜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "2gssd4T_t78",
-      "title": "【洗腦神曲】《那魯灣情歌7-11版》Nalu-One Two Three 7-11｜轉角的燈光永遠為你亮著 [原創歌曲]｜中文歌曲2026｜原創音樂｜現代流行｜IndiePop｜動態歌詞｜Lyrics"
+      "title": "【洗腦神曲】《那魯灣情歌7-11版》Nalu-One Two Three 7-11｜轉角的燈光永遠為你亮著 [原創歌曲]｜中文歌曲2026｜原創音樂｜現代流行｜IndiePop｜動態歌詞｜Lyrics",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.5
     },
     {
       "videoId": "Ov6jJvdsbNE",
-      "title": "【原創中文歌曲】《吳麗萍你好像搭丟賽》獻給每一個覺得「今天糟透了」的你  聽完這首就不衰了｜中文歌曲2026｜原創音樂｜現代流行｜IndiePop｜動態歌詞｜Lyrics｜正能量｜#吳麗萍你好像搭丟賽"
+      "title": "【原創中文歌曲】《吳麗萍你好像搭丟賽》獻給每一個覺得「今天糟透了」的你  聽完這首就不衰了｜中文歌曲2026｜原創音樂｜現代流行｜IndiePop｜動態歌詞｜Lyrics｜正能量｜#吳麗萍你好像搭丟賽",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "UEc5blUv3Rg",
-      "title": "【 古風歌曲 】古風悲情《相思誤》｜相思錯付的一生｜傷感古風｜國風音樂｜古風音樂2025｜中國風音樂｜古風抒情女聲｜古風原創歌曲｜#古風音樂#Gufeng#國風 #史詩#二胡#相思誤#悲情#傷感音樂"
+      "title": "【 古風歌曲 】古風悲情《相思誤》｜相思錯付的一生｜傷感古風｜國風音樂｜古風音樂2025｜中國風音樂｜古風抒情女聲｜古風原創歌曲｜#古風音樂#Gufeng#國風 #史詩#二胡#相思誤#悲情#傷感音樂",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "zeMWISuu57g",
-      "title": "【中文歌曲】我不怕路長，只怕遺憾比重逢更漫長。遠距離戀愛必聽搖滾強曲 —《鋼鐵與荒野》｜中文音樂2025｜抒情｜華語歌曲｜華語抒情搖滾｜#鋼鐵與荒野 #遠距離戀愛  #思念 #混厚女聲 #時差"
+      "title": "【中文歌曲】我不怕路長，只怕遺憾比重逢更漫長。遠距離戀愛必聽搖滾強曲 —《鋼鐵與荒野》｜中文音樂2025｜抒情｜華語歌曲｜華語抒情搖滾｜#鋼鐵與荒野 #遠距離戀愛  #思念 #混厚女聲 #時差",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.81
     }
   ]
 }

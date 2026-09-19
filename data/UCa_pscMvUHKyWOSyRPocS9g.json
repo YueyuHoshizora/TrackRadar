@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-09-19T12:55:32.812+08:00",
+  "lastUpdated": "2026-09-19T13:04:18.039+08:00",
   "latestVideo": {
     "videoId": "Top7T6uaMkc",
     "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
@@ -82,131 +82,195 @@
     },
     {
       "videoId": "WrPFCUFF49g",
-      "title": "《哪吒》🔥｜鬼門開那一夜，她成了哪吒的乩身"
+      "title": "《哪吒》🔥｜鬼門開那一夜，她成了哪吒的乩身",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "ucFloRP9RD8",
-      "title": "《哪吒》｜鬼門開那一夜，她成了神明的乩身【Official MV・超燃國風電音・中文原創歌曲】"
+      "title": "《哪吒》｜鬼門開那一夜，她成了神明的乩身【Official MV・超燃國風電音・中文原創歌曲】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "SIrH8u58Hxk",
-      "title": "《畫皮》🎭｜她為了成為他喜歡的樣子，最後連自己都認不出了"
+      "title": "《畫皮》🎭｜她為了成為他喜歡的樣子，最後連自己都認不出了",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "noxN5SQK76U",
-      "title": "《畫皮》｜聊齋裡最痛的不是鬼，是為了被愛失去自己【Official MV・虐心情歌・中文原創歌曲】"
+      "title": "《畫皮》｜聊齋裡最痛的不是鬼，是為了被愛失去自己【Official MV・虐心情歌・中文原創歌曲】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "xvpXhW9n66I",
-      "title": "女鍾馗來斬鬼，最後劍卻指向了人｜《人間有鬼》【中文原創歌曲・動畫MV】"
+      "title": "女鍾馗來斬鬼，最後劍卻指向了人｜《人間有鬼》【中文原創歌曲・動畫MV】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "mKlUjuGrbak",
-      "title": "《人間有鬼》｜鬼門大開，女鍾馗卻把劍指向了活人【Official MV・中文原創歌曲】"
+      "title": "《人間有鬼》｜鬼門大開，女鍾馗卻把劍指向了活人【Official MV・中文原創歌曲】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "eK0NfFZB-fc",
-      "title": "妹妹被畫走後，她直接殺進了畫中世界｜《壁上人》【史詩搖滾・中文原創】"
+      "title": "妹妹被畫走後，她直接殺進了畫中世界｜《壁上人》【史詩搖滾・中文原創】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "_PxrTgWcB6c",
-      "title": "她明明抓住了妹妹，卻還是被畫進牆裡｜《壁上人》【史詩搖滾・中文原創】"
+      "title": "她明明抓住了妹妹，卻還是被畫進牆裡｜《壁上人》【史詩搖滾・中文原創】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "lwiwT8inPF8",
-      "title": "《壁上人》｜她修復一幅古畫後，牆上多一人，世間少一人【Official MV・國風搖滾・中文原創歌曲】"
+      "title": "《壁上人》｜她修復一幅古畫後，牆上多一人，世間少一人【Official MV・國風搖滾・中文原創歌曲】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "CQBdmhinaBc",
-      "title": "她想終止獻祭，卻讓整座島開始崩裂｜《忘れ灯》【日文原創歌曲・Dark Fantasy Music】"
+      "title": "她想終止獻祭，卻讓整座島開始崩裂｜《忘れ灯》【日文原創歌曲・Dark Fantasy Music】",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.32
     },
     {
       "videoId": "QmrZ3GMuU0c",
-      "title": "每年夏天，都必須有一個人消失｜《忘れ灯》【日文原創歌曲・Dark Fantasy Music】"
+      "title": "每年夏天，都必須有一個人消失｜《忘れ灯》【日文原創歌曲・Dark Fantasy Music】",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.33
     },
     {
       "videoId": "GAvWt9An-pM",
-      "title": "忘れ灯｜每年夏天，都必須有一個人消失【Official MV・日文原創歌曲・Dark Fantasy Music】"
+      "title": "忘れ灯｜每年夏天，都必須有一個人消失【Official MV・日文原創歌曲・Dark Fantasy Music】",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "4Li_Bx99ook",
-      "title": "最後一秒，你會相信自己，還是相信別人？｜《残り一秒》【日文原創歌曲・J-Pop】"
+      "title": "最後一秒，你會相信自己，還是相信別人？｜《残り一秒》【日文原創歌曲・J-Pop】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "bwUOmyUzHu8",
-      "title": "残り一秒｜只剩最後一秒，你會選擇相信誰？【Official MV・日文原創歌曲・J-Pop】"
+      "title": "残り一秒｜只剩最後一秒，你會選擇相信誰？【Official MV・日文原創歌曲・J-Pop】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "rjTEJt9DT5c",
-      "title": "有些聲音，你越想忘記，反而聽得越清楚｜《噤聲》演唱版【中文原創歌曲・Cinematic Pop】"
+      "title": "有些聲音，你越想忘記，反而聽得越清楚｜《噤聲》演唱版【中文原創歌曲・Cinematic Pop】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "kppy6QjK83U",
-      "title": "她找遍整座城市，最後找到的卻是自己｜《噤聲》【中文原創歌曲・Cinematic Pop】"
+      "title": "她找遍整座城市，最後找到的卻是自己｜《噤聲》【中文原創歌曲・Cinematic Pop】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "pbtT8dUgMRE",
-      "title": "噤聲｜一座禁止歌唱的城市，她卻聽見了自己的聲音【Official MV・中文原創歌曲・Cinematic Pop】"
+      "title": "噤聲｜一座禁止歌唱的城市，她卻聽見了自己的聲音【Official MV・中文原創歌曲・Cinematic Pop】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "s0aLHXCB98Y",
-      "title": "「可我呢，誰會記得我姓名？」｜《無名碑》【古風歌曲・中文原創歌曲】"
+      "title": "「可我呢，誰會記得我姓名？」｜《無名碑》【古風歌曲・中文原創歌曲】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "lDLln50NH-Q",
-      "title": "無名碑｜我替萬人刻下姓名，最後卻忘了自己【古風歌曲・中文原創歌曲・Official Audio】"
+      "title": "無名碑｜我替萬人刻下姓名，最後卻忘了自己【古風歌曲・中文原創歌曲・Official Audio】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "0en_dMFXX3U",
-      "title": "司命｜我替萬人寫盡生死，唯獨把你留在空白【古風歌曲・中文原創歌曲・Official Audio】"
+      "title": "司命｜我替萬人寫盡生死，唯獨把你留在空白【古風歌曲・中文原創歌曲・Official Audio】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "EiMBd4jkQ30",
-      "title": "史書之外｜史書不留名，山河替我作證【古風歌曲・中文原創歌曲・Official Audio】"
+      "title": "史書之外｜史書不留名，山河替我作證【古風歌曲・中文原創歌曲・Official Audio】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "-jE2Pl9P2kw",
-      "title": "無赦｜若神不肯赦免，我就赦免自己【中文原創歌曲・Industrial Metal・Official Audio】"
+      "title": "無赦｜若神不肯赦免，我就赦免自己【中文原創歌曲・Industrial Metal・Official Audio】",
+      "genre": "金屬 Metal",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "Z9kcYPJ-3rg",
-      "title": "次の世で、また｜今生無法相守，那就約定來世相見【日文原創歌曲・日文抒情歌・Official Audio】"
+      "title": "次の世で、また｜今生無法相守，那就約定來世相見【日文原創歌曲・日文抒情歌・Official Audio】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "n2ePUS4UZF0",
-      "title": "EMBER｜就算只剩餘燼，我也會再次燃燒【英文原創歌曲・Cinematic Pop・Official Audio】"
+      "title": "EMBER｜就算只剩餘燼，我也會再次燃燒【英文原創歌曲・Cinematic Pop・Official Audio】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "WRcq0UFOB4o",
-      "title": "Tonight (Neon Hearts)｜如果天亮終究會來，就讓今夜留在霓虹裡【英文原創歌曲・Synth Pop・Official Audio】"
+      "title": "Tonight (Neon Hearts)｜如果天亮終究會來，就讓今夜留在霓虹裡【英文原創歌曲・Synth Pop・Official Audio】",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "bNyPlyNxV1g",
-      "title": "새벽 너머로｜走過漫長黑夜，我仍朝第一道光奔去【韓文原創歌曲・Pop Rock・Official Audio】"
+      "title": "새벽 너머로｜走過漫長黑夜，我仍朝第一道光奔去【韓文原創歌曲・Pop Rock・Official Audio】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "07JJVPOYJPQ",
-      "title": "UNBROKEN｜當世界逼你低頭，我仍選擇站立【英文原創歌曲・Epic Pop・Official Audio】"
+      "title": "UNBROKEN｜當世界逼你低頭，我仍選擇站立【英文原創歌曲・Epic Pop・Official Audio】",
+      "genre": "流行 Pop",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "y2a2A__0_pg",
-      "title": "星降る夜に｜在星光落下的夜裡，我們終於明白彼此心意【日文原創歌曲・J-Pop・Lumiora Chapter 05】"
+      "title": "星降る夜に｜在星光落下的夜裡，我們終於明白彼此心意【日文原創歌曲・J-Pop・Lumiora Chapter 05】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "oG_QS_LUxTY",
-      "title": "春を待つ｜走過雨季後，我們終於再次並肩【日文原創歌曲・J-Pop・Lumiora Chapter 04】"
+      "title": "春を待つ｜走過雨季後，我們終於再次並肩【日文原創歌曲・J-Pop・Lumiora Chapter 04】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "0GIxsFEjTNo",
-      "title": "雨のホーム｜終電駛離以前，我還在等你出現【日文原創歌曲・J-Pop・Lumiora Chapter 03】"
+      "title": "雨のホーム｜終電駛離以前，我還在等你出現【日文原創歌曲・J-Pop・Lumiora Chapter 03】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "jttwidlhOXA",
-      "title": "雨停之前｜只要雨還沒停，我就願意繼續等你【中文原創歌曲・抒情歌・Lumiora Chapter 02】"
+      "title": "雨停之前｜只要雨還沒停，我就願意繼續等你【中文原創歌曲・抒情歌・Lumiora Chapter 02】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1.0
     },
     {
       "videoId": "ooAOR7jHPro",
-      "title": "夜に光る君へ｜那一夜，我在人群中看見了你【日文原創歌曲・J-Pop・Lumiora Chapter 01】"
+      "title": "夜に光る君へ｜那一夜，我在人群中看見了你【日文原創歌曲・J-Pop・Lumiora Chapter 01】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.9
     }
   ]
 }
