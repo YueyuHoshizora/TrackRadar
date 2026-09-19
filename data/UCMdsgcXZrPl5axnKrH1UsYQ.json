@@ -1,8 +1,18 @@
 {
   "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
   "channelTitle": "修卡迪特AI_創作",
-  "lastUpdated": "2026-09-19T09:40:00.832+08:00",
-  "latestVideo": null,
+  "lastUpdated": "2026-09-19T09:47:27.719+08:00",
+  "latestVideo": {
+    "videoId": "K02R9QG_sAY",
+    "title": "能量水晶之戰EP04｜七彩能量覺醒｜歌曲:Wake the Light",
+    "url": "https://www.youtube.com/watch?v=K02R9QG_sAY",
+    "thumbnail": "https://i.ytimg.com/vi_webp/K02R9QG_sAY/maxresdefault.webp",
+    "durationSeconds": 676,
+    "publishedAt": "2026-09-12T11:53:46.000+08:00",
+    "fetchedAt": "2026-09-19T09:47:26.950+08:00",
+    "genre": "動漫/ACG",
+    "genreConfidence": 0.78
+  },
   "allVideoIds": [
     "fofj2GdGjJs",
     "K02R9QG_sAY",
