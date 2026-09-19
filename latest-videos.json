@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T09:47:29.705+08:00",
+  "updatedAt": "2026-09-19T09:50:00.960+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -60,6 +60,11 @@
         "genre": "動漫/ACG",
         "genreConfidence": 0.78
       }
+    },
+    {
+      "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
+      "channelTitle": "浣月Huanyue",
+      "latestVideo": null
     }
   ]
 }
