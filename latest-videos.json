@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T13:55:37.956+08:00",
+  "updatedAt": "2026-09-19T13:55:54.636+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -33,18 +33,8 @@
     },
     {
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
-      "channelTitle": "COYA可夜",
-      "latestVideo": {
-        "videoId": "k0zf1ZphcfY",
-        "title": "「從鬼門開，到鬼門關。」🕯️｜《神鬼誌》｜可夜｜新國風MV合輯｜40分鐘完整收錄｜Official MV｜神鬼誌系列｜",
-        "url": "https://www.youtube.com/watch?v=k0zf1ZphcfY",
-        "thumbnail": "https://i.ytimg.com/vi/k0zf1ZphcfY/maxresdefault.jpg",
-        "durationSeconds": 2381,
-        "publishedAt": "2026-09-18T10:15:28.000+08:00",
-        "fetchedAt": "2026-09-19T09:38:05.675+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
-      }
+      "channelTitle": "UCdUiLDnjJc3fcH-0wT7CFpg",
+      "latestVideo": null
     },
     {
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
@@ -284,6 +274,36 @@
         "fetchedAt": "2026-09-19T11:17:46.778+08:00",
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 1
+      }
+    },
+    {
+      "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
+      "channelTitle": "Breathe And Be",
+      "latestVideo": {
+        "videoId": "_rUbmQcvdxQ",
+        "title": "我選了愛我的人，卻不是那個我愛的人｜還是會想你，但不會再等你｜華語情歌【動態歌詞】",
+        "url": "https://www.youtube.com/watch?v=_rUbmQcvdxQ",
+        "thumbnail": "https://i.ytimg.com/vi/_rUbmQcvdxQ/maxresdefault.jpg",
+        "durationSeconds": 307,
+        "publishedAt": "2026-09-12T14:21:14.000+08:00",
+        "fetchedAt": "2026-09-19T13:55:50.560+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
+      }
+    },
+    {
+      "channelId": "UCfHGjnH3G-Gwjh9kj281FZQ",
+      "channelTitle": "Nova Bird",
+      "latestVideo": {
+        "videoId": "6hSMyQ4klQ4",
+        "title": "《影渡町異聞：月下無影》｜「滿城尋他，滿城不見。」｜原創音樂故事",
+        "url": "https://www.youtube.com/watch?v=6hSMyQ4klQ4",
+        "thumbnail": "https://i.ytimg.com/vi_webp/6hSMyQ4klQ4/maxresdefault.webp?v=6aa6bc78",
+        "durationSeconds": 286,
+        "publishedAt": "2026-09-13T23:13:36.000+08:00",
+        "fetchedAt": "2026-09-19T13:55:50.261+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.99
       }
     }
   ]
