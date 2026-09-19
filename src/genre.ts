@@ -1,8 +1,8 @@
 import type { Env } from "./types";
 import genreCriteria from "../genres.json";
 
-const DECISIONS_ENDPOINT = "https://openrouter.ai/api/alpha/decisions";
-const MODEL = "typesafe/jev-1.13";
+const SYSTEMONE_ENDPOINT = "https://api.typesafe.ai/v1/systemone";
+const MODEL = "jev-latest";
 
 interface JevChoiceAnswer {
   type: "choice";
@@ -11,7 +11,7 @@ interface JevChoiceAnswer {
   probabilities: Record<string, number>;
 }
 
-interface DecisionsResponse {
+interface SystemOneResponse {
   answers: {
     genre?: JevChoiceAnswer;
   };
@@ -23,16 +23,16 @@ export interface GenreResult {
 }
 
 /**
- * 透過 OpenRouter 的 Decisions API 呼叫 typesafe/jev 模型，根據影片標題與頻道名稱判斷曲風分類。
- * 分類選項與判斷依據定義在 genres.json（repo 根目錄）；分類失敗（未設定 OPENROUTER_API_KEY/模型錯誤）時回傳 null，不中斷主流程。
+ * 透過 TypeSafe 官方 System One API 呼叫 Jev，根據影片標題與頻道名稱判斷曲風分類。
+ * 分類選項與判斷依據定義在 genres.json（repo 根目錄）；分類失敗（未設定 TYPESAFE_API_KEY/模型錯誤）時回傳 null，不中斷主流程。
  */
 export async function classifyGenre(env: Env, title: string, channelTitle: string): Promise<GenreResult | null> {
-  if (!env.OPENROUTER_API_KEY) return null;
+  if (!env.TYPESAFE_API_KEY) return null;
   try {
-    const res = await fetch(DECISIONS_ENDPOINT, {
+    const res = await fetch(SYSTEMONE_ENDPOINT, {
       method: "POST",
       headers: {
-        Authorization: `Bearer ${env.OPENROUTER_API_KEY}`,
+        Authorization: `Bearer ${env.TYPESAFE_API_KEY}`,
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
@@ -48,10 +48,10 @@ export async function classifyGenre(env: Env, title: string, channelTitle: strin
       }),
     });
     if (!res.ok) {
-      console.error(`TrackRadar: OpenRouter decisions request failed: ${res.status} ${await res.text()}`);
+      console.error(`TrackRadar: TypeSafe systemone request failed: ${res.status} ${await res.text()}`);
       return null;
     }
-    const data = (await res.json()) as DecisionsResponse;
+    const data = (await res.json()) as SystemOneResponse;
     const answer = data?.answers?.genre;
     if (!answer || answer.type !== "choice" || !answer.choice) return null;
     return { genre: answer.choice, confidence: answer.confidence };

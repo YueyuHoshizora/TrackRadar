@@ -8,7 +8,7 @@
 
 1. `fetch` 的 `/run` 端點 — 唯一接受外部輸入的路徑（`?token=`）。
 2. `scheduled`（cron）— 不接受外部輸入，但執行的邏輯跟 `/run` 完全共用（`runOnce`）。
-3. 對外呼叫：GitHub Contents API、YouTube 內部端點、OpenRouter Decisions API — Worker 是呼叫方，但回應內容（尤其 YouTube 抓回來的標題/描述等自由文字）會被當成資料寫回 GitHub，也會被塞進 OpenRouter 的 `state`。
+3. 對外呼叫：GitHub Contents API、YouTube 內部端點、TypeSafe System One API — Worker 是呼叫方，但回應內容（尤其 YouTube 抓回來的標題/描述等自由文字）會被當成資料寫回 GitHub，也會被塞進 TypeSafe 的 `state`。
 
 ## 修改前必查的規則
 
@@ -19,7 +19,7 @@
 - token 走 query string，會出現在 Cloudflare 存取日誌、`wrangler tail` 輸出裡。**不要**把 `ADMIN_TOKEN` 的值印進任何 `console.log`；目前程式碼沒有這樣做，改動時保持這個狀態。
 
 ### 2. 機密只能經 `wrangler secret`，永遠不進版本控制
-- `GITHUB_TOKEN` / `ADMIN_TOKEN` / `OPENROUTER_API_KEY` 三者都不可以出現在：`wrangler.toml`、任何 `.ts` 檔、commit message、log 輸出。
+- `GITHUB_TOKEN` / `ADMIN_TOKEN` / `TYPESAFE_API_KEY` 三者都不可以出現在：`wrangler.toml`、任何 `.ts` 檔、commit message、log 輸出。
 - 新增任何第三方 API 整合，一律用 `env.<NAME>` 從 secret 讀取，不要 hardcode，不要用 `[vars]`（明文，會進 commit 歷史和 `wrangler.toml`）。
 - Push 前如果不小心把明文 token 打進程式碼或 commit，**不能只靠下一個 commit 覆蓋**：要立即到對應平台撤銷該 token（見 `SECURITY.md`），並評估是否需要改寫 git 歷史。
 
@@ -32,7 +32,7 @@
 ### 4. 外部抓回來的自由文字（標題、描述）視為不可信
 - YouTube 影片標題、頻道名稱是外部可控的自由文字，會：
   - 原封不動寫進 GitHub 上的 JSON（`data/*.json`、`latest-videos.json`）。
-  - 被塞進 `src/genre.ts` 送給 OpenRouter 的 `state.title`/`state.channelTitle`。
+  - 被塞進 `src/genre.ts` 送給 TypeSafe 的 `state.title`/`state.channelTitle`。
 - 現況都是走 `JSON.stringify`/`fetch` 的 JSON body，不是字串拼接進 HTML/SQL/shell，本身沒有注入風險。**新增任何處理這些欄位的程式碼時，維持這個原則**：不要把標題/描述字串拼進 HTML 模板、SQL 查詢、shell 指令，或任何非 JSON-body 的請求格式。
 - 曲風分類的 `criteria`/`instructions` 是我方定義的固定文字（`genres.json`），不是使用者輸入，維持這樣：不要讓外部文字直接變成 Jev 的 `questions`/`criteria` 結構本身（會有 prompt injection 影響分類邏輯的風險），只能進 `state`。
 

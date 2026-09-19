@@ -4,7 +4,7 @@
 
 ## 專案是什麼
 
-Cloudflare Worker（部署名稱 `track-radar`），每 5 分鐘輪詢 `channels.json` 列出的 YouTube 頻道，找出每個頻道「目前最新一支」上傳影片（排除 Shorts/直播/首播），選填用 OpenRouter 的 `typesafe/jev` 模型判斷曲風，結果寫回本 GitHub 儲存庫（`YueyuHoshizora/TrackRadar`，同時是程式碼與資料儲存庫）。
+Cloudflare Worker（部署名稱 `track-radar`），每 5 分鐘輪詢 `channels.json` 列出的 YouTube 頻道，找出每個頻道「目前最新一支」上傳影片（排除 Shorts/直播/首播），選填用 TypeSafe 官方 System One API 的 Jev 模型判斷曲風，結果寫回本 GitHub 儲存庫（`YueyuHoshizora/TrackRadar`，同時是程式碼與資料儲存庫）。
 
 ## 檔案地圖
 
@@ -13,7 +13,7 @@ src/
   index.ts   orchestration：processChannel（單頻道處理邏輯）、runOnce（掃全部頻道）、scheduled/fetch handler
   youtube.ts 抓 YouTube：播放清單首頁掃描、youtubei/v1/player 詳情 API、youtubei/v1/browse 全量 ID 分頁
   filter.ts  evaluateVideo：判斷是否排除 Shorts/直播/首播/預告
-  genre.ts   classifyGenre：呼叫 OpenRouter Decisions API 做曲風分類（選填功能）
+  genre.ts   classifyGenre：呼叫 TypeSafe System One API 做曲風分類（選填功能）
   github.ts  GitHub Contents API 讀寫封裝（getJson/putJson，自動處理 base64 與 sha）
   time.ts    toUtc8Iso：全專案唯一的時間格式化入口
   types.ts   Env/VideoRecord/ChannelData/LatestIndex 等型別定義
@@ -40,13 +40,13 @@ curl "https://track-radar.plain-leaf-e871.workers.dev/run?token=<ADMIN_TOKEN>"  
 
 2. **只手動部署，沒有 CI/CD。** 沒有接 Cloudflare Workers Builds 的 Git 自動部署。改完程式碼、`tsc --noEmit` 過了之後，**必須自己跑 `npx wrangler deploy`**，push 到 GitHub 不會自動生效。
 
-3. **不要用 Cloudflare Workers AI binding。** 這個帳號的 `type: ai` binding 有後端 provisioning bug（`internal error [10021]`，CLI 和 Dashboard 手動新增都重現），已改用 OpenRouter 的 Decisions API（純 HTTP fetch，見 `src/genre.ts`）繞過。除非確認 CF 那邊的帳號問題已解決，否則不要再往 `wrangler.toml` 加 `[ai]` binding。
+3. **不要用 Cloudflare Workers AI binding。** 這個帳號的 `type: ai` binding 有後端 provisioning bug（`internal error [10021]`，CLI 和 Dashboard 手動新增都重現），已改用 TypeSafe 官方 System One API（純 HTTP fetch，見 `src/genre.ts`）繞過。除非確認 CF 那邊的帳號問題已解決，否則不要再往 `wrangler.toml` 加 `[ai]` binding。
 
 4. **不要重新導入 RSS。** YouTube RSS（`feeds/videos.xml`）對部分頻道會回 404，已確認不可靠並整個移除。候選影片來源只有播放清單首頁掃描（`fetchLatestUploadedVideoIds`）這一條路徑。
 
 5. **時間格式一律 UTC+8。** 任何新增的日期輸出欄位都要過 `toUtc8Iso()`，不要直接用 `date.toISOString()`（那會是 UTC/`Z` 結尾）。
 
-6. **機密只能用 `wrangler secret put`。** `GITHUB_TOKEN`、`ADMIN_TOKEN`、`OPENROUTER_API_KEY` 都不寫進 `wrangler.toml` 或任何程式碼檔案，細節見 `SECURITY.md`。
+6. **機密只能用 `wrangler secret put`。** `GITHUB_TOKEN`、`ADMIN_TOKEN`、`TYPESAFE_API_KEY` 都不寫進 `wrangler.toml` 或任何程式碼檔案，細節見 `SECURITY.md`。
 
 7. **`watch page HTML` 抓不到東西是正常的。** Cloudflare Worker 的出口 IP 會被 YouTube 判定為 bot（`LOGIN_REQUIRED`），因此一律用 `youtubei/v1/player` 內部 API 取代直接抓 watch page，不要「修好」這個看似異常的設計。
 

@@ -91,7 +91,7 @@ async function processChannel(env: Env, channelId: string, scanLimit: number): P
     }
   }
 
-  // 3. 曲風分類（typesafe/jev）：只在最新影片缺少分類時呼叫，避免每次執行都重複打模型
+  // 3. 曲風分類（TypeSafe Jev）：只在最新影片缺少分類時呼叫，避免每次執行都重複打模型
   if (latestVideo && !latestVideo.genre) {
     const genreResult = await classifyGenre(env, latestVideo.title, channelTitle ?? channelId);
     if (genreResult) {
