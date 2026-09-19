@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T12:15:40.060+08:00",
+  "updatedAt": "2026-09-19T12:20:38.293+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -43,7 +43,7 @@
         "publishedAt": "2026-09-18T10:15:28.000+08:00",
         "fetchedAt": "2026-09-19T09:38:05.675+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1.0
+        "genreConfidence": 1
       }
     },
     {
@@ -73,7 +73,7 @@
         "publishedAt": "2026-09-15T19:15:37.000+08:00",
         "fetchedAt": "2026-09-19T10:35:47.312+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1.0
+        "genreConfidence": 1
       }
     },
     {
@@ -88,7 +88,7 @@
         "publishedAt": "2026-09-19T10:00:00.000+08:00",
         "fetchedAt": "2026-09-19T10:36:07.291+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1.0
+        "genreConfidence": 1
       }
     },
     {
@@ -118,7 +118,7 @@
         "publishedAt": "2026-09-12T04:57:52.000+08:00",
         "fetchedAt": "2026-09-19T11:18:36.900+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1.0
+        "genreConfidence": 1
       }
     },
     {
@@ -208,7 +208,7 @@
         "publishedAt": "2026-09-18T21:00:13.000+08:00",
         "fetchedAt": "2026-09-19T11:17:42.739+08:00",
         "genre": "R&B/Soul",
-        "genreConfidence": 1.0
+        "genreConfidence": 1
       }
     },
     {
@@ -253,7 +253,7 @@
         "publishedAt": "2026-09-18T11:00:00.000+08:00",
         "fetchedAt": "2026-09-19T11:18:07.224+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1.0
+        "genreConfidence": 1
       }
     },
     {
@@ -298,7 +298,7 @@
         "publishedAt": "2026-09-15T12:05:06.000+08:00",
         "fetchedAt": "2026-09-19T11:17:46.778+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1.0
+        "genreConfidence": 1
       }
     }
   ]
