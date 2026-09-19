@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T09:38:09.166+08:00",
+  "updatedAt": "2026-09-19T09:40:02.391+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -45,6 +45,11 @@
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 1
       }
+    },
+    {
+      "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
+      "channelTitle": "修卡迪特AI_創作",
+      "latestVideo": null
     }
   ]
 }
