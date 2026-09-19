@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T09:55:27.918+08:00",
+  "updatedAt": "2026-09-19T09:57:29.058+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -64,7 +64,17 @@
     {
       "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
       "channelTitle": "浣月Huanyue",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "g-zmyNryFqA",
+        "title": "你向煙波深處去，我守一城春｜《山河未許》｜古風・中國風原創歌曲🎧浣月Huanyue—YT十二弦月",
+        "url": "https://www.youtube.com/watch?v=g-zmyNryFqA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/g-zmyNryFqA/maxresdefault.webp",
+        "durationSeconds": 264,
+        "publishedAt": "2026-09-09T19:21:28.000+08:00",
+        "fetchedAt": "2026-09-19T09:57:27.152+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
+      }
     }
   ]
 }
