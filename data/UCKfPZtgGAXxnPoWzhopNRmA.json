@@ -1,7 +1,7 @@
 {
   "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
   "channelTitle": "Breathe And Be",
-  "lastUpdated": "2026-09-19T13:55:53.490+08:00",
+  "lastUpdated": "2026-09-19T14:00:36.619+08:00",
   "latestVideo": {
     "videoId": "_rUbmQcvdxQ",
     "title": "我選了愛我的人，卻不是那個我愛的人｜還是會想你，但不會再等你｜華語情歌【動態歌詞】",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "Ic5cGpvydgg",
-      "title": "🎧 Rynn - 口袋裡的雪｜你的口袋裡，也藏著回憶嗎？｜華語流行 / Pop / 原創音樂｜抒情女聲｜Breathe and Be｜Official MV"
+      "title": "🎧 Rynn - 口袋裡的雪｜你的口袋裡，也藏著回憶嗎？｜華語流行 / Pop / 原創音樂｜抒情女聲｜Breathe and Be｜Official MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "ltMg2iCzrx8",
-      "title": "🎧 Rynn 曖昧期必聽《一公分的距離》我們之間剛剛好的甜度｜輕快微甜情歌｜甜蜜女聲｜Breathe and Be｜Official MV 重製"
+      "title": "🎧 Rynn 曖昧期必聽《一公分的距離》我們之間剛剛好的甜度｜輕快微甜情歌｜甜蜜女聲｜Breathe and Be｜Official MV 重製",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "ZsHdjLHJCW0",
-      "title": "🎧 R&B情歌 - 你曾經住在我心裡，但...都已是過去｜Rynn．Breathe and Be｜Official Music Video｜MV 重製"
+      "title": "🎧 R&B情歌 - 你曾經住在我心裡，但...都已是過去｜Rynn．Breathe and Be｜Official Music Video｜MV 重製",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "s6nTuRaS82w",
-      "title": "🎧 2026 精選 R&B 情歌 Playlist｜釋放心中的遺憾，我們陪你｜Rynn - Breathe and Be"
+      "title": "🎧 2026 精選 R&B 情歌 Playlist｜釋放心中的遺憾，我們陪你｜Rynn - Breathe and Be",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "kcdrIAlKFus",
-      "title": "🎧Rynn - 天地之間，只剩下我和你。微光中的孤獨與溫暖｜純白噪訊｜原創音樂 / 中文R&B｜Breathe and Be｜Official MV"
+      "title": "🎧Rynn - 天地之間，只剩下我和你。微光中的孤獨與溫暖｜純白噪訊｜原創音樂 / 中文R&B｜Breathe and Be｜Official MV",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "Aoo7UK69_bI",
-      "title": "🎧 Rynn - 光年之外｜同一片星空下，彼此的心跳卻如光年般遙遠｜R&B / 原創歌曲｜Breathe and Be｜Official MV"
+      "title": "🎧 Rynn - 光年之外｜同一片星空下，彼此的心跳卻如光年般遙遠｜R&B / 原創歌曲｜Breathe and Be｜Official MV",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "BlBvlGG_oiM",
-      "title": "🎧 你曾經住在我心裡｜思念總是在深夜撒野｜R&B / 原創歌曲｜Rynn．Breathe and Be｜Official Lyric Video"
+      "title": "🎧 你曾經住在我心裡｜思念總是在深夜撒野｜R&B / 原創歌曲｜Rynn．Breathe and Be｜Official Lyric Video",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "NbwX4hGudUM",
-      "title": "你看著我，就是唯一的意義《翻譯愛情》| 浪漫系 Acoustic Pop 🌸｜Rynn。Breathe and Be｜Official MV"
+      "title": "你看著我，就是唯一的意義《翻譯愛情》| 浪漫系 Acoustic Pop 🌸｜Rynn。Breathe and Be｜Official MV",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "dAQx6yZtoVM",
-      "title": "獨旅情歌｜下一站，不見｜Rynn．Breathe and Be｜Official Music"
+      "title": "獨旅情歌｜下一站，不見｜Rynn．Breathe and Be｜Official Music",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "iwdPtHJ0WJw",
-      "title": "【Fan OST】Lay Down Together｜愛情怎麼翻譯 / Can This Love Be Translated?｜Breathe and Be｜Official Lyric Video"
+      "title": "【Fan OST】Lay Down Together｜愛情怎麼翻譯 / Can This Love Be Translated?｜Breathe and Be｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "Qno42Qk8bqk",
