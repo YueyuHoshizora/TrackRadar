@@ -109,28 +109,55 @@ interface PlaylistPage {
   channelTitle: string | null;
 }
 
+/** 從 ytInitialData 找頻道名稱：支援新版 ownerText 與舊版 playlistVideoOwnerRenderer/videoOwnerRenderer */
+function extractChannelTitle(data: unknown): string | null {
+  if (!data) return null;
+  for (const node of walk(data)) {
+    const ownerText = node["ownerText"] as { runs?: { text: string }[] } | undefined;
+    if (ownerText?.runs?.[0]?.text) return ownerText.runs[0].text;
+    const owner = node["playlistVideoOwnerRenderer"] || node["videoOwnerRenderer"];
+    if (owner) {
+      const runs = (owner as Record<string, unknown>)["title"] as { runs?: { text: string }[] } | undefined;
+      if (runs?.runs?.[0]?.text) return runs.runs[0].text;
+    }
+  }
+  return null;
+}
+
 function parsePlaylistRenderers(root: unknown): { videoIds: string[]; continuationToken: string | null } {
   const videoIds: string[] = [];
   let continuationToken: string | null = null;
   for (const node of walk(root)) {
+    // 舊版格式（部分頁面/帳號仍可能回傳）
     const renderer = node["playlistVideoRenderer"] as Record<string, unknown> | undefined;
     if (renderer && typeof renderer["videoId"] === "string") {
       videoIds.push(renderer["videoId"] as string);
     }
-    const continuationItem = node["continuationItemRenderer"] as Record<string, unknown> | undefined;
-    if (continuationItem) {
-      const endpoint = continuationItem["continuationEndpoint"] as Record<string, unknown> | undefined;
-      const command = endpoint?.["continuationCommand"] as Record<string, unknown> | undefined;
-      const token = command?.["token"];
-      if (typeof token === "string") continuationToken = token;
+    // 新版格式（2025+ Material 3 改版）：lockupViewModel.contentId + contentType
+    const lockup = node["lockupViewModel"] as Record<string, unknown> | undefined;
+    if (
+      lockup &&
+      lockup["contentType"] === "LOCKUP_CONTENT_TYPE_VIDEO" &&
+      typeof lockup["contentId"] === "string"
+    ) {
+      videoIds.push(lockup["contentId"] as string);
+    }
+    // continuation token：不論外層包裝為 continuationItemRenderer 或 continuationItemViewModel，
+    // token 一律巢狀在某個 continuationCommand.token 底下，直接全樹搜尋此欄位最穩健。
+    const continuationCommand = node["continuationCommand"] as Record<string, unknown> | undefined;
+    if (continuationCommand && typeof continuationCommand["token"] === "string") {
+      continuationToken = continuationCommand["token"] as string;
     }
   }
-  return { videoIds, continuationToken };
+  // 去重（保留原順序，新舊格式可能重複命中同一支影片）
+  const seen = new Set<string>();
+  const deduped = videoIds.filter((id) => (seen.has(id) ? false : (seen.add(id), true)));
+  return { videoIds: deduped, continuationToken };
 }
 
 async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
-  const res = await fetch(`https://www.youtube.com/playlist?list=${playlistId}`, {
-    headers: { "User-Agent": UA, "Accept-Language": "en-US,en;q=0.9" },
+  const res = await fetch(`https://www.youtube.com/playlist?list=${playlistId}&hl=zh-TW&gl=TW`, {
+    headers: { "User-Agent": UA, "Accept-Language": "zh-TW,zh-Hant;q=0.9,zh;q=0.8,en;q=0.5" },
   });
   if (!res.ok) throw new Error(`Playlist fetch failed for ${playlistId}: ${res.status}`);
   const html = await res.text();
@@ -138,15 +165,23 @@ async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
   const apiKey = html.match(/"INNERTUBE_API_KEY":"([^"]+)"/)?.[1] ?? null;
   const clientVersion = html.match(/"INNERTUBE_CONTEXT_CLIENT_VERSION":"([^"]+)"/)?.[1] ?? "2.20240101.00.00";
   const { videoIds, continuationToken } = data ? parsePlaylistRenderers(data) : { videoIds: [], continuationToken: null };
-  let channelTitle: string | null = null;
-  for (const node of data ? walk(data) : []) {
-    const owner = node["playlistVideoOwnerRenderer"] || node["videoOwnerRenderer"];
-    if (owner) {
-      const runs = (owner as Record<string, unknown>)["title"] as { runs?: { text: string }[] } | undefined;
-      if (runs?.runs?.[0]?.text) {
-        channelTitle = runs.runs[0].text;
-        break;
-      }
+  if (videoIds.length === 0) {
+    console.error(
+      `TrackRadar: playlist parse yielded 0 videos for ${playlistId}; htmlLen=${html.length} hasData=${Boolean(
+        data
+      )} titleSnippet=${html.slice(0, 200).replace(/\s+/g, " ")}`
+    );
+  }
+  // 頻道名稱：優先抓中文（請求已用 hl=zh-TW），抓不到才退回英文重新請求一次。
+  let channelTitle: string | null = extractChannelTitle(data);
+  if (!channelTitle) {
+    const enRes = await fetch(`https://www.youtube.com/playlist?list=${playlistId}&hl=en&gl=US`, {
+      headers: { "User-Agent": UA, "Accept-Language": "en-US,en;q=0.9" },
+    });
+    if (enRes.ok) {
+      const enHtml = await enRes.text();
+      const enData = extractJsonAfter(enHtml, "var ytInitialData");
+      channelTitle = extractChannelTitle(enData);
     }
   }
   return {
@@ -156,6 +191,19 @@ async function fetchPlaylistHtml(playlistId: string): Promise<PlaylistPage> {
     context: { client: { clientName: "WEB", clientVersion } },
     channelTitle,
   };
+}
+
+/**
+ * 只抓播放清單第一頁（新到舊），用於 RSS 失效時的 fallback，或穩定頻道判斷「目前最新影片」。
+ * 已知部分頻道的官方 RSS feed 會回 404（即使頻道有影片，原因不明，屬 YouTube 端行為），
+ * 此時改用播放清單首頁掃描最新影片作為替代資料源。不分頁：只需要最新的少數幾支影片即可。
+ */
+export async function fetchLatestUploadedVideoIds(
+  channelId: string
+): Promise<{ videoIds: string[]; channelTitle: string | null }> {
+  const playlistId = uploadsPlaylistId(channelId);
+  const first = await fetchPlaylistHtml(playlistId);
+  return { videoIds: first.videoIds, channelTitle: first.channelTitle };
 }
 
 async function fetchContinuation(
@@ -174,8 +222,8 @@ async function fetchContinuation(
 }
 
 /**
- * 列出頻道「全部上傳」播放清單中的影片 ID（新到舊）。
- * 用於新頻道第一次抓取的全量回填。設有安全上限避免無限分頁。
+ * 列出頻道「全部上傳」播放清單中的影片 ID（新到舊），僅作備查/稽核用途，不抓詳情、不過濾。
+ * 透過 YouTube 內部 youtubei/v1/browse continuation API 分頁抓取，設有安全上限避免無限分頁。
  */
 export async function fetchAllUploadedVideoIds(
   channelId: string,
@@ -193,7 +241,6 @@ export async function fetchAllUploadedVideoIds(
     videoIds.push(...page.videoIds);
     token = page.continuationToken;
   }
-  // 去重（保留原順序）
   const seen = new Set<string>();
   const deduped = videoIds.filter((id) => (seen.has(id) ? false : (seen.add(id), true)));
   return { videoIds: deduped.slice(0, maxVideos), channelTitle: first.channelTitle };

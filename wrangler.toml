@@ -13,10 +13,14 @@ GITHUB_REPO = "TrackRadar"
 GITHUB_BRANCH = "main"
 DATA_DIR = "data"
 CHANNELS_FILE = "channels.json"
+# 根目錄彙整檔：記錄各頻道目前最新影片，方便總覽
+LATEST_INDEX_FILE = "latest-videos.json"
 # Shorts 判定門檻（秒），<= 此秒數視為 Shorts
 SHORT_MAX_SECONDS = "60"
-# 每次執行最多處理的「新影片詳情」抓取數量，避免 Worker 執行逾時
-MAX_VIDEOS_PER_RUN = "25"
+# 每個頻道每次執行最多檢查幾支候選影片（由新到舊）以找出「目前最新一支」；找到第一支符合條件即停止
+CANDIDATE_SCAN_LIMIT = "10"
+# 備查用「全部影片 ID」清單，單一頻道最多列出幾支（避免超大頻道拖垮單次執行時間）
+ALL_IDS_MAX_VIDEOS = "2000"
 
 # 機密資訊請用以下指令設定，不要寫在這裡：
 #   wrangler secret put GITHUB_TOKEN

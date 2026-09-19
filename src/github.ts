@@ -83,17 +83,3 @@ export async function putJson(env: Env, path: string, data: unknown, message: st
   const content = JSON.stringify(data, null, 2) + "\n";
   await putFile(env, path, content, message, existing?.sha);
 }
-
-/** 刪除檔案（用於初次回填完成後清除 state 檔） */
-export async function deleteFile(env: Env, path: string, message: string): Promise<void> {
-  const existing = await getFile(env, path);
-  if (!existing) return;
-  const res = await fetch(apiUrl(env, path), {
-    method: "DELETE",
-    headers: { ...headers(env), "Content-Type": "application/json" },
-    body: JSON.stringify({ message, sha: existing.sha, branch: env.GITHUB_BRANCH }),
-  });
-  if (!res.ok) {
-    throw new Error(`GitHub deleteFile(${path}) failed: ${res.status} ${await res.text()}`);
-  }
-}

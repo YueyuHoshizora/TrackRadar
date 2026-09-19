@@ -4,8 +4,10 @@ export interface Env {
   GITHUB_BRANCH: string;
   DATA_DIR: string;
   CHANNELS_FILE: string;
+  LATEST_INDEX_FILE: string;
   SHORT_MAX_SECONDS: string;
-  MAX_VIDEOS_PER_RUN: string;
+  CANDIDATE_SCAN_LIMIT: string;
+  ALL_IDS_MAX_VIDEOS: string;
   GITHUB_TOKEN: string;
   ADMIN_TOKEN?: string;
 }
@@ -21,20 +23,29 @@ export interface VideoRecord {
   fetchedAt: string; // ISO 8601，本系統抓到這支影片的時間
 }
 
-/** data/<channelId>.json 內容 */
+/**
+ * data/<channelId>.json 內容：
+ * - latestVideo：該頻道目前最新一支（已過濾 Shorts/直播/首播）的影片，供實際使用。
+ * - allVideoIds：該頻道「全部上傳影片」ID 清單（新到舊），僅作備查/稽核用途，不含詳情、不經過濾。
+ */
 export interface ChannelData {
   channelId: string;
   channelTitle: string;
   lastUpdated: string;
-  videos: VideoRecord[];
+  latestVideo: VideoRecord | null;
+  allVideoIds: string[];
 }
 
-/** data/state/<channelId>.json 內容：處理中的初次全量回填佇列 */
-export interface ChannelState {
+/** 摘要各頻道最新影片，寫在 repo 根目錄，方便一次掃過所有頻道現況 */
+export interface LatestIndexEntry {
   channelId: string;
-  backfillPending: string[]; // 尚未處理完的 videoId（新頻道第一次抓取用）
-  backfillTotal: number;
+  channelTitle: string;
+  latestVideo: VideoRecord | null;
+}
+
+export interface LatestIndex {
   updatedAt: string;
+  channels: LatestIndexEntry[];
 }
 
 /** 從 watch page 解析出的原始影片詳情 */

@@ -1,214 +1,183 @@
-import type { ChannelData, ChannelState, Env, VideoRecord } from "./types";
-import { deleteFile, getJson, putJson } from "./github";
-import { fetchAllUploadedVideoIds, fetchRssEntries, fetchVideoDetails } from "./youtube";
+import type { ChannelData, Env, LatestIndex, LatestIndexEntry, VideoRecord } from "./types";
+import { getJson, putJson } from "./github";
+import {
+  fetchAllUploadedVideoIds,
+  fetchLatestUploadedVideoIds,
+  fetchRssEntries,
+  fetchVideoDetails,
+} from "./youtube";
 import { evaluateVideo } from "./filter";
 
 const CONCURRENCY = 5;
-
-async function mapWithConcurrency<T, R>(
-  items: T[],
-  limit: number,
-  fn: (item: T) => Promise<R>
-): Promise<R[]> {
-  const results: R[] = new Array(items.length);
-  let cursor = 0;
-  async function worker() {
-    while (cursor < items.length) {
-      const index = cursor++;
-      results[index] = await fn(items[index]);
-    }
-  }
-  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, worker));
-  return results;
-}
 
 function channelDataPath(env: Env, channelId: string): string {
   return `${env.DATA_DIR}/${channelId}.json`;
 }
 
-function channelStatePath(env: Env, channelId: string): string {
-  return `${env.DATA_DIR}/state/${channelId}.json`;
-}
-
-function sortByPublishedDesc(videos: VideoRecord[]): VideoRecord[] {
-  return [...videos].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
-}
-
 interface ProcessOutcome {
   channelId: string;
-  added: number;
-  skipped: number;
-  pendingRemaining: number;
-  mode: "backfill" | "incremental" | "backfill-init";
+  updated: boolean;
+  channelTitle: string | null;
+  latestVideo: VideoRecord | null;
+  scanned: number;
+  allVideoIdsCount: number;
+  error?: string;
 }
 
-/** 抓取一批 videoId 的詳情、過濾，回傳「應納入清單」與「應丟棄（含抓取失敗需重試）」 */
-async function fetchAndFilter(
-  videoIds: string[],
+/**
+ * 依「新到舊」掃描候選 videoId，找出第一支通過過濾（非 Shorts/直播/首播）的影片即回傳；
+ * 只需要找到「目前最新一支」，不需要抓完整份清單，掃描到即停止，節省抓取次數。
+ */
+async function findLatestQualifying(
+  candidateIds: string[],
   shortMaxSeconds: number
-): Promise<{ included: VideoRecord[]; excludedIds: string[]; failedIds: string[] }> {
-  const now = new Date().toISOString();
-  const included: VideoRecord[] = [];
-  const excludedIds: string[] = [];
-  const failedIds: string[] = [];
-
-  await mapWithConcurrency(videoIds, CONCURRENCY, async (videoId) => {
+): Promise<{ video: VideoRecord | null; scanned: number }> {
+  for (let i = 0; i < candidateIds.length; i++) {
+    const videoId = candidateIds[i];
     const details = await fetchVideoDetails(videoId);
-    if (!details) {
-      failedIds.push(videoId);
-      return;
+    if (!details) continue;
+    const result = evaluateVideo(details, shortMaxSeconds);
+    if (result.include && details.publishDate) {
+      return {
+        video: {
+          videoId: details.videoId,
+          title: details.title,
+          url: `https://www.youtube.com/watch?v=${details.videoId}`,
+          thumbnail: details.thumbnail,
+          durationSeconds: details.lengthSeconds,
+          publishedAt: new Date(details.publishDate).toISOString(),
+          fetchedAt: new Date().toISOString(),
+        },
+        scanned: i + 1,
+      };
     }
-    const verdict = evaluateVideo(details, shortMaxSeconds);
-    if (!verdict.include) {
-      excludedIds.push(videoId);
-      return;
-    }
-    included.push({
-      videoId: details.videoId,
-      title: details.title,
-      url: `https://www.youtube.com/watch?v=${details.videoId}`,
-      thumbnail: details.thumbnail,
-      durationSeconds: details.lengthSeconds,
-      publishedAt: new Date(`${details.publishDate}T00:00:00Z`).toISOString(),
-      fetchedAt: now,
-    });
-  });
-
-  return { included, excludedIds, failedIds };
+  }
+  return { video: null, scanned: candidateIds.length };
 }
 
-async function processChannel(env: Env, channelId: string, budget: number): Promise<ProcessOutcome> {
+async function processChannel(env: Env, channelId: string, scanLimit: number): Promise<ProcessOutcome> {
   const shortMaxSeconds = Number(env.SHORT_MAX_SECONDS || "60");
+  const allIdsMaxVideos = Number(env.ALL_IDS_MAX_VIDEOS || "2000");
   const dataPath = channelDataPath(env, channelId);
-  const statePath = channelStatePath(env, channelId);
-
   const existingData = await getJson<ChannelData>(env, dataPath);
-  const existingState = await getJson<ChannelState>(env, statePath);
+  const existingLatestId = existingData?.latestVideo?.videoId ?? null;
+  let channelTitle: string | null = existingData?.channelTitle ?? null;
 
-  // 情境一：全新頻道，尚未建立資料檔也沒有回填狀態 -> 列出全部上傳影片，建立回填佇列
-  if (!existingData && !existingState) {
-    const { videoIds, channelTitle } = await fetchAllUploadedVideoIds(channelId);
-    const initialData: ChannelData = {
-      channelId,
-      channelTitle: channelTitle ?? channelId,
-      lastUpdated: new Date().toISOString(),
-      videos: [],
-    };
-    await putJson(env, dataPath, initialData, `TrackRadar: init ${channelId}`);
+  // 1. 找出目前最新一支合格影片（快速路徑：RSS 優先，失敗才退回播放清單首頁）
+  let candidateIds: string[];
+  try {
+    candidateIds = (await fetchRssEntries(channelId)).map((e) => e.videoId);
+  } catch (err) {
+    console.error(`TrackRadar: RSS failed for ${channelId}, falling back to playlist scan`, err);
+    const fallback = await fetchLatestUploadedVideoIds(channelId);
+    candidateIds = fallback.videoIds;
+    channelTitle = channelTitle ?? fallback.channelTitle;
+  }
+  candidateIds = candidateIds.slice(0, scanLimit);
 
-    const slice = videoIds.slice(0, budget);
-    const remaining = videoIds.slice(budget);
-    const { included, failedIds } = await fetchAndFilter(slice, shortMaxSeconds);
+  let latestVideo: VideoRecord | null = existingData?.latestVideo ?? null;
+  let scanned = 0;
+  let latestChanged = false;
 
-    initialData.videos = sortByPublishedDesc(included);
-    initialData.lastUpdated = new Date().toISOString();
-    await putJson(env, dataPath, initialData, `TrackRadar: backfill ${channelId} (${included.length} videos)`);
-
-    const pending = [...failedIds, ...remaining];
-    if (pending.length > 0) {
-      const state: ChannelState = {
-        channelId,
-        backfillPending: pending,
-        backfillTotal: videoIds.length,
-        updatedAt: new Date().toISOString(),
-      };
-      await putJson(env, statePath, state, `TrackRadar: backfill state ${channelId}`);
+  if (existingLatestId && candidateIds[0] === existingLatestId) {
+    // 候選清單最前面就是已知最新影片，跳過重抓詳情
+  } else {
+    const result = await findLatestQualifying(candidateIds, shortMaxSeconds);
+    scanned = result.scanned;
+    if (result.video && result.video.videoId !== existingLatestId) {
+      latestVideo = result.video;
+      latestChanged = true;
     }
-    return {
-      channelId,
-      added: included.length,
-      skipped: slice.length - included.length - failedIds.length,
-      pendingRemaining: pending.length,
-      mode: "backfill-init",
-    };
   }
 
-  // 情境二：回填進行中 -> 繼續處理佇列
-  if (existingState && existingState.backfillPending.length > 0) {
-    const slice = existingState.backfillPending.slice(0, budget);
-    const remaining = existingState.backfillPending.slice(budget);
-    const { included, failedIds } = await fetchAndFilter(slice, shortMaxSeconds);
-
-    const data: ChannelData = existingData ?? {
-      channelId,
-      channelTitle: channelId,
-      lastUpdated: new Date().toISOString(),
-      videos: [],
-    };
-    data.videos = sortByPublishedDesc([...data.videos, ...included]);
-    data.lastUpdated = new Date().toISOString();
-    await putJson(env, dataPath, data, `TrackRadar: backfill ${channelId} (+${included.length})`);
-
-    const pending = [...failedIds, ...remaining];
-    if (pending.length > 0) {
-      const state: ChannelState = {
-        ...existingState,
-        backfillPending: pending,
-        updatedAt: new Date().toISOString(),
-      };
-      await putJson(env, statePath, state, `TrackRadar: backfill state ${channelId}`);
-    } else {
-      await deleteFile(env, statePath, `TrackRadar: backfill complete ${channelId}`);
+  // 2. 全部影片 ID 清單，僅作備查/稽核用途（新到舊），不抓詳情、不過濾
+  let allVideoIds = existingData?.allVideoIds ?? [];
+  let allIdsChanged = false;
+  try {
+    const all = await fetchAllUploadedVideoIds(channelId, allIdsMaxVideos);
+    channelTitle = channelTitle ?? all.channelTitle;
+    if (JSON.stringify(all.videoIds) !== JSON.stringify(allVideoIds)) {
+      allVideoIds = all.videoIds;
+      allIdsChanged = true;
     }
-    return {
+  } catch (err) {
+    console.error(`TrackRadar: fetchAllUploadedVideoIds failed for ${channelId}`, err);
+  }
+
+  if (latestChanged || allIdsChanged || !existingData) {
+    const data: ChannelData = {
       channelId,
-      added: included.length,
-      skipped: slice.length - included.length - failedIds.length,
-      pendingRemaining: pending.length,
-      mode: "backfill",
+      channelTitle: channelTitle ?? existingData?.channelTitle ?? channelId,
+      lastUpdated: new Date().toISOString(),
+      latestVideo,
+      allVideoIds,
     };
+    await putJson(
+      env,
+      dataPath,
+      data,
+      `TrackRadar: update ${channelId}${latestChanged ? ` (latest=${latestVideo?.videoId})` : ""}`
+    );
   }
 
-  // 情境三：穩定狀態 -> 以 RSS 偵測新影片
-  const data = existingData as ChannelData;
-  const knownIds = new Set(data.videos.map((v) => v.videoId));
-  const rssEntries = await fetchRssEntries(channelId);
-  const newIds = rssEntries.filter((e) => !knownIds.has(e.videoId)).map((e) => e.videoId);
-  const slice = newIds.slice(0, budget);
-
-  if (slice.length === 0) {
-    return { channelId, added: 0, skipped: 0, pendingRemaining: 0, mode: "incremental" };
-  }
-
-  const { included, excludedIds } = await fetchAndFilter(slice, shortMaxSeconds);
-  if (included.length > 0) {
-    data.videos = sortByPublishedDesc([...data.videos, ...included]);
-    data.lastUpdated = new Date().toISOString();
-    await putJson(env, dataPath, data, `TrackRadar: new videos ${channelId} (+${included.length})`);
-  }
   return {
     channelId,
-    added: included.length,
-    skipped: excludedIds.length,
-    pendingRemaining: newIds.length - slice.length,
-    mode: "incremental",
+    updated: latestChanged,
+    channelTitle: channelTitle ?? existingData?.channelTitle ?? null,
+    latestVideo,
+    scanned,
+    allVideoIdsCount: allVideoIds.length,
   };
 }
 
 async function loadChannelList(env: Env): Promise<string[]> {
   const list = await getJson<string[]>(env, env.CHANNELS_FILE);
-  if (!list) return [];
-  return list.filter((id) => /^UC[\w-]{22}$/.test(id));
+  return list ?? [];
 }
 
 async function runOnce(env: Env): Promise<ProcessOutcome[]> {
   const channels = await loadChannelList(env);
-  const perChannelBudget = Number(env.MAX_VIDEOS_PER_RUN || "25");
-  const outcomes: ProcessOutcome[] = [];
-  for (const channelId of channels) {
-    try {
-      outcomes.push(await processChannel(env, channelId, perChannelBudget));
-    } catch (err) {
-      outcomes.push({
-        channelId,
-        added: 0,
-        skipped: 0,
-        pendingRemaining: -1,
-        mode: "incremental",
-      });
-      console.error(`TrackRadar: failed processing ${channelId}`, err);
+  const scanLimit = Number(env.CANDIDATE_SCAN_LIMIT || "10");
+  const outcomes: ProcessOutcome[] = new Array(channels.length);
+  let cursor = 0;
+
+  async function worker() {
+    while (true) {
+      const index = cursor++;
+      if (index >= channels.length) return;
+      const channelId = channels[index];
+      try {
+        outcomes[index] = await processChannel(env, channelId, scanLimit);
+      } catch (err) {
+        console.error(`TrackRadar: failed processing ${channelId}`, err);
+        outcomes[index] = {
+          channelId,
+          updated: false,
+          channelTitle: null,
+          latestVideo: null,
+          scanned: 0,
+          allVideoIdsCount: 0,
+          error: err instanceof Error ? err.message : String(err),
+        };
+      }
     }
   }
+
+  await Promise.all(Array.from({ length: Math.min(CONCURRENCY, channels.length) }, worker));
+
+  // 根目錄彙整檔：一次掃過所有頻道目前最新影片，方便總覽（不需逐一開啟 data/<channelId>.json）
+  const index: LatestIndex = {
+    updatedAt: new Date().toISOString(),
+    channels: outcomes.map(
+      (o): LatestIndexEntry => ({
+        channelId: o.channelId,
+        channelTitle: o.channelTitle ?? o.channelId,
+        latestVideo: o.latestVideo,
+      })
+    ),
+  };
+  await putJson(env, env.LATEST_INDEX_FILE, index, "TrackRadar: update latest-videos index");
+
   return outcomes;
 }
 
