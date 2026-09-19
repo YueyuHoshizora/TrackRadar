@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T12:52:08.231+08:00",
+  "lastUpdated": "2026-09-19T12:55:44.601+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -22,43 +22,63 @@
     },
     {
       "videoId": "BG3CO22bSQo",
-      "title": "✨ Melodic Afro House Mix 2026｜LUMINA Sunset Coastal Drive｜45 Min"
+      "title": "✨ Melodic Afro House Mix 2026｜LUMINA Sunset Coastal Drive｜45 Min",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "i73FeEPPttI",
-      "title": "🎧 D5 We Are Not Alone | Signal #013 — Contact Confirmed"
+      "title": "🎧 D5 We Are Not Alone | Signal #013 — Contact Confirmed",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "Y3Feepzlgz8",
-      "title": "🎧 D4 Mutual Presence | Signal #013 — Contact Confirmed"
+      "title": "🎧 D4 Mutual Presence | Signal #013 — Contact Confirmed",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "G3CrdBvgUy8",
-      "title": "🎧 D3 Celebration of Contact | Signal #013 — Contact Confirmed"
+      "title": "🎧 D3 Celebration of Contact | Signal #013 — Contact Confirmed",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "9zvQNBNP5l8",
-      "title": "🎧 D2 Frequency Stabilized | Signal #013 — Contact Confirmed"
+      "title": "🎧 D2 Frequency Stabilized | Signal #013 — Contact Confirmed",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "wOdSCA6U7rc",
-      "title": "🎧 D1 Final Verification | Signal #013 — Contact Confirmed"
+      "title": "🎧 D1 Final Verification | Signal #013 — Contact Confirmed",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "0AmzveLrWT0",
-      "title": "🎧 D5 Beyond the Blue Door | Signal #012 — Blue Gate Opening"
+      "title": "🎧 D5 Beyond the Blue Door | Signal #012 — Blue Gate Opening",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "IeyVz_alCn0",
-      "title": "🎧 D4 Crossing Without Fear | Signal #012 — Blue Gate Opening"
+      "title": "🎧 D4 Crossing Without Fear | Signal #012 — Blue Gate Opening",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "VWRInM4s0mE",
-      "title": "🎧 D3 Gates of Tomorrow | Signal #012 — Blue Gate Opening png"
+      "title": "🎧 D3 Gates of Tomorrow | Signal #012 — Blue Gate Opening png",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "rKB2S-oxDE4",
-      "title": "🎧 D2 Portal Pulse Active | Signal #012 — Blue Gate Opening"
+      "title": "🎧 D2 Portal Pulse Active | Signal #012 — Blue Gate Opening",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "dESyQGeCdnU",
