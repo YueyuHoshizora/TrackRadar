@@ -1,7 +1,7 @@
 {
   "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
   "channelTitle": "浣月Huanyue",
-  "lastUpdated": "2026-09-19T14:00:25.398+08:00",
+  "lastUpdated": "2026-09-19T14:05:21.150+08:00",
   "latestVideo": {
     "videoId": "2DbzF9kJs_g",
     "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "g-zmyNryFqA",
-      "title": "山河萬里，終究沒能等你同歸｜《山河未許》｜古風・中國風原創歌曲🎧浣月Huanyue—YT十二弦月",
+      "title": "你向煙波深處去，我守一城春｜《山河未許》｜古風・中國風原創歌曲🎧浣月Huanyue—YT十二弦月",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -262,43 +262,63 @@
     },
     {
       "videoId": "Xiw2sDLZT-o",
-      "title": "華語失戀歌單：《餘燼微光》｜思念離去愛人的後勁心碎曲｜🎧YT十二弦月—浣月Huanyue"
+      "title": "華語失戀歌單：《餘燼微光》｜思念離去愛人的後勁心碎曲｜🎧YT十二弦月—浣月Huanyue",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "wtoqjJHHkO0",
-      "title": "虐心催淚的思念古風歌，一首會讓人想起遺憾過往的單曲《塵緣夢長》｜🎧浣月Huanyue 古風原創【Official Lyric Video】"
+      "title": "虐心催淚的思念古風歌，一首會讓人想起遺憾過往的單曲《塵緣夢長》｜🎧浣月Huanyue 古風原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "pOFBhm46PqQ",
-      "title": "《YT十二弦月-中國風—繾綣絲寒》深夜孤獨感拉滿，一首讓人徹底心碎的悲傷古風音樂｜深夜必聽古風單曲🎧浣月Huanyue"
+      "title": "《YT十二弦月-中國風—繾綣絲寒》深夜孤獨感拉滿，一首讓人徹底心碎的悲傷古風音樂｜深夜必聽古風單曲🎧浣月Huanyue",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "mgb_Rq6PPtM",
-      "title": "華語流行歌曲《卑微旁白》一首唱出卑微備胎心聲的催淚單曲｜🎧浣月Huanyue"
+      "title": "華語流行歌曲《卑微旁白》一首唱出卑微備胎心聲的催淚單曲｜🎧浣月Huanyue",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "I3m9xpMnZQE",
-      "title": "【原創古風】一首唱碎遺憾，適合深夜一個人聽的歌｜《聲聲慢-月下人歸晚》"
+      "title": "【原創古風】一首唱碎遺憾，適合深夜一個人聽的歌｜《聲聲慢-月下人歸晚》",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "N4qhKots8lg",
-      "title": "「若三生約定只換得一場擦肩...」《錦瑟赴朝夕》：寫給所有遺憾卻眷戀的靈魂｜古風/療癒/治癒音樂"
+      "title": "「若三生約定只換得一場擦肩...」《錦瑟赴朝夕》：寫給所有遺憾卻眷戀的靈魂｜古風/療癒/治癒音樂",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "6eHHGvL-3ys",
-      "title": "【原創古風】千燈共溯-若無爾等，哪來滿城煙火?(1K紀念) | A Thousand Lights: My World Glows Only Because of You (1K Subs)"
+      "title": "【原創古風】千燈共溯-若無爾等，哪來滿城煙火?(1K紀念) | A Thousand Lights: My World Glows Only Because of You (1K Subs)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "LnzWXDiz-Qo",
-      "title": "2026必聽古風《半卷相思譜》：願來世，能續譜這未完的曲 | 2026 C-Pop: Half a Scroll of Yearning — A Melody for Next Life"
+      "title": "2026必聽古風《半卷相思譜》：願來世，能續譜這未完的曲 | 2026 C-Pop: Half a Scroll of Yearning — A Melody for Next Life",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "rQvn2V0d6hg",
-      "title": "【古風歌曲】2026 必聽古風神曲！《霜天殘響》：萬事盡頭不過雲煙，誰在渡口弄丟了昨天？"
+      "title": "【古風歌曲】2026 必聽古風神曲！《霜天殘響》：萬事盡頭不過雲煙，誰在渡口弄丟了昨天？",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "hPaeKYHOrZE",
-      "title": "Playlis 原創華語流行歌曲🌹一次聽個夠!📀超好聽的音樂陪伴你讀書.深夜.工作時光"
+      "title": "Playlis 原創華語流行歌曲🌹一次聽個夠!📀超好聽的音樂陪伴你讀書.深夜.工作時光",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "10WnCoMONgo",
