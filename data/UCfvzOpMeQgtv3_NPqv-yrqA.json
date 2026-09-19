@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-19T14:35:36.294+08:00",
+  "lastUpdated": "2026-09-19T14:40:35.276+08:00",
   "latestVideo": {
     "videoId": "YTy8H78Tp1s",
     "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
@@ -442,43 +442,63 @@
     },
     {
       "videoId": "-BGx3i75BWU",
-      "title": "🖤《無言的結局》｜我不是想看開，我只是終於撐到徹底崩潰｜Official Lyric Video"
+      "title": "🖤《無言的結局》｜我不是想看開，我只是終於撐到徹底崩潰｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "iTQUOaPg91E",
-      "title": "🔮《金牛座 慢火》｜明知道回憶早已過期，我卻還是捨不得放手｜Official Lyric Video"
+      "title": "🔮《金牛座 慢火》｜明知道回憶早已過期，我卻還是捨不得放手｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "h_nPs4E7IzA",
-      "title": "🔮《牡羊座 餘燼》｜這場大火燒掉了我們，也燒回了我的自由｜Official Lyric Video"
+      "title": "🔮《牡羊座 餘燼》｜這場大火燒掉了我們，也燒回了我的自由｜Official Lyric Video",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "q0vT-i3mXk8",
-      "title": "🌧️《出席者》｜最後我真的去了你的婚禮，只是坐在離你最遠的位置｜Official Lyric Video"
+      "title": "🌧️《出席者》｜最後我真的去了你的婚禮，只是坐在離你最遠的位置｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "TDhqV_JG4Lk",
-      "title": "🌧️《單音節動物》｜當愛只剩「喔、好、嗯、對」，我們其實早就走散了｜Official Lyric Video"
+      "title": "🌧️《單音節動物》｜當愛只剩「喔、好、嗯、對」，我們其實早就走散了｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "if0QZdZ9fH4",
-      "title": "🌱《未讀取的自尊》｜你給的寂靜，就是我最後的答案｜Official Lyric Video"
+      "title": "🌱《未讀取的自尊》｜你給的寂靜，就是我最後的答案｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "xOZZGUK2tns",
-      "title": "🌧️《相反的習慣》｜你離開之後，連熟悉的日常都開始跟我作對｜Official Lyric Video"
+      "title": "🌧️《相反的習慣》｜你離開之後，連熟悉的日常都開始跟我作對｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "t7nGEN0HBEI",
-      "title": "🌧️《逾期存根》｜你搬走以後，連房間裡的日常都開始提醒我失去你｜Official Lyric Video"
+      "title": "🌧️《逾期存根》｜你搬走以後，連房間裡的日常都開始提醒我失去你｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "tYZ5aUmdXC0",
-      "title": "🖤《我也會痛》｜我愛過你是我的決定，離開你才是我的勇氣｜Official Lyric Video"
+      "title": "🖤《我也會痛》｜我愛過你是我的決定，離開你才是我的勇氣｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "XvPRUHpvEqk",
-      "title": "🌱《歲月的年輪》｜二十五歲的夢想，三十歲的平淡，都是最真實的我｜Official Lyric Video"
+      "title": "🌱《歲月的年輪》｜二十五歲的夢想，三十歲的平淡，都是最真實的我｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "sbF3nux_K1o",
