@@ -1,7 +1,7 @@
 {
   "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
   "channelTitle": "Breathe And Be",
-  "lastUpdated": "2026-09-19T14:10:33.723+08:00",
+  "lastUpdated": "2026-09-19T14:15:30.473+08:00",
   "latestVideo": {
     "videoId": "_rUbmQcvdxQ",
     "title": "我選了愛我的人，卻不是那個我愛的人｜還是會想你，但不會再等你｜華語情歌【動態歌詞】",
@@ -262,43 +262,63 @@
     },
     {
       "videoId": "Abbi-b-ifwo",
-      "title": "【被跳過的歌】聽完這首歌，治癒你的「不讀不回」焦慮症。 ｜Indie Pop / 中文流行 ｜Breathe and Be｜Official Music Video"
+      "title": "【被跳過的歌】聽完這首歌，治癒你的「不讀不回」焦慮症。 ｜Indie Pop / 中文流行 ｜Breathe and Be｜Official Music Video",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "CYx4aLKF_9A",
-      "title": "【走不進你的世界】– 想靠近你，卻永遠到不了的地方｜柔軟 R&B｜Breathe And Be｜Official Music Video"
+      "title": "【走不進你的世界】– 想靠近你，卻永遠到不了的地方｜柔軟 R&B｜Breathe And Be｜Official Music Video",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "sKUQX8Ruhfw",
-      "title": "【Playlist - 華語情歌】最懂你的傷心情歌，陪你度過獨自難過的夜晚｜Rynn．Breathe and Be"
+      "title": "【Playlist - 華語情歌】最懂你的傷心情歌，陪你度過獨自難過的夜晚｜Rynn．Breathe and Be",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "bKWzbqrkajA",
-      "title": "【剛剛好】– 不必像煙火拼命閃爍，做角落的薄荷也可以。致 簡單生活的我們｜Pop / 原聲 / 輕鬆｜Official Lyric Video｜Breathe and Be"
+      "title": "【剛剛好】– 不必像煙火拼命閃爍，做角落的薄荷也可以。致 簡單生活的我們｜Pop / 原聲 / 輕鬆｜Official Lyric Video｜Breathe and Be",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "YGcyzaJW1HY",
-      "title": "【夢裡的回聲｜雨的三章 · 釋懷篇】- 在寂靜裡，終於學會對自己說——沒關係｜R&B Music / 溫柔釋懷｜Official lyric video｜動態歌詞｜Breathe And Be"
+      "title": "【夢裡的回聲｜雨的三章 · 釋懷篇】- 在寂靜裡，終於學會對自己說——沒關係｜R&B Music / 溫柔釋懷｜Official lyric video｜動態歌詞｜Breathe And Be",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "Iam25IyYIAE",
-      "title": "【It's You】- 2025 最浪漫的告白歌曲｜原來繞了一圈，答案就在眼前｜心動暖心都會情歌｜Pop R&B / 約會時刻｜Official Music Video｜Bre And Be"
+      "title": "【It's You】- 2025 最浪漫的告白歌曲｜原來繞了一圈，答案就在眼前｜心動暖心都會情歌｜Pop R&B / 約會時刻｜Official Music Video｜Bre And Be",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.34
     },
     {
       "videoId": "sT-OLua2NZA",
-      "title": "貓咪視角搖滾神曲：罐罐在哪裡！獻給所有被勒索的鏟屎官 🎵｜Official MV｜Bre and Be｜ #貓 #貓奴"
+      "title": "貓咪視角搖滾神曲：罐罐在哪裡！獻給所有被勒索的鏟屎官 🎵｜Official MV｜Bre and Be｜ #貓 #貓奴",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "eMFbSFqb56M",
-      "title": "【我們之間的距離】— 一步之遙的心事｜柔光系心動 OST / 城市黃昏系 R&B / 治癒系情歌 | Bre and Be｜Official Lyric Video"
+      "title": "【我們之間的距離】— 一步之遙的心事｜柔光系心動 OST / 城市黃昏系 R&B / 治癒系情歌 | Bre and Be｜Official Lyric Video",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "SRg-GjDkufY",
-      "title": "【影子追光】- Bre And Be｜你在光裡，我在影裡｜ 每個人心裡都有一道追不上的光｜當流行旋律遇上R&B的深情律動｜流行 Music / 原聲音樂｜Official lyric video"
+      "title": "【影子追光】- Bre And Be｜你在光裡，我在影裡｜ 每個人心裡都有一道追不上的光｜當流行旋律遇上R&B的深情律動｜流行 Music / 原聲音樂｜Official lyric video",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "eYUN8Ncw-OQ",
-      "title": "【破咒者】- Bre And Be ⚡ 打破標籤，破框而生｜穿梭古今的史詩級奇幻旅程｜古風史詩磅礴再現｜流行 Music / 電音流行強勁節奏xR&B靈魂律動｜Official lyric video"
+      "title": "【破咒者】- Bre And Be ⚡ 打破標籤，破框而生｜穿梭古今的史詩級奇幻旅程｜古風史詩磅礴再現｜流行 Music / 電音流行強勁節奏xR&B靈魂律動｜Official lyric video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "1k-67B94X9A",
