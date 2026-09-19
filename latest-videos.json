@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T13:01:03.466+08:00",
+  "updatedAt": "2026-09-19T13:05:26.828+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -38,17 +38,37 @@
     },
     {
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
-      "channelTitle": "UCMdsgcXZrPl5axnKrH1UsYQ",
-      "latestVideo": null
+      "channelTitle": "修卡迪特AI_創作",
+      "latestVideo": {
+        "videoId": "K02R9QG_sAY",
+        "title": "能量水晶之戰EP04｜七彩能量覺醒｜歌曲:Wake the Light",
+        "url": "https://www.youtube.com/watch?v=K02R9QG_sAY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/K02R9QG_sAY/maxresdefault.webp",
+        "durationSeconds": 676,
+        "publishedAt": "2026-09-12T11:53:46.000+08:00",
+        "fetchedAt": "2026-09-19T09:47:26.950+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.71
+      }
     },
     {
       "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
-      "channelTitle": "UCQOPNojFmmirTrJj7Uy_YpA",
-      "latestVideo": null
+      "channelTitle": "浣月Huanyue",
+      "latestVideo": {
+        "videoId": "2DbzF9kJs_g",
+        "title": "若此身不歸，便以白骨守住萬家燈火｜《天涯無歸》｜俠義古風・中國風歌曲🎧浣月Huanyue—YT十二弦月",
+        "url": "https://www.youtube.com/watch?v=2DbzF9kJs_g",
+        "thumbnail": "https://i.ytimg.com/vi_webp/2DbzF9kJs_g/maxresdefault.webp",
+        "durationSeconds": 234,
+        "publishedAt": "2026-09-15T19:15:37.000+08:00",
+        "fetchedAt": "2026-09-19T10:35:47.312+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
+      }
     },
     {
       "channelId": "UCCCIoegIxnym7wILeOLfEMQ",
-      "channelTitle": "旋律裡的你",
+      "channelTitle": "Echoes of You",
       "latestVideo": {
         "videoId": "4pqIFuRuWZI",
         "title": "《為你憨一世人》明知妳無欲轉來，阮猶原憨憨咧等｜催淚台語情歌｜俊龍",
@@ -63,8 +83,18 @@
     },
     {
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
-      "channelTitle": "UCa_pscMvUHKyWOSyRPocS9g",
-      "latestVideo": null
+      "channelTitle": "予棠 Lumiora",
+      "latestVideo": {
+        "videoId": "Top7T6uaMkc",
+        "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
+        "url": "https://www.youtube.com/watch?v=Top7T6uaMkc",
+        "thumbnail": "https://i.ytimg.com/vi/Top7T6uaMkc/maxresdefault.jpg",
+        "durationSeconds": 254,
+        "publishedAt": "2026-09-16T20:11:33.000+08:00",
+        "fetchedAt": "2026-09-19T10:46:06.245+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.52
+      }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
@@ -218,8 +248,18 @@
     },
     {
       "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
-      "channelTitle": "UCX-yDZrgJr3_JZDft-VUsrw",
-      "latestVideo": null
+      "channelTitle": "田井魚",
+      "latestVideo": {
+        "videoId": "338djo367Vg",
+        "title": "你還在我身旁，卻一直等著她，原來...不被愛的才是第三者 《我們。你們》｜華語輕搖滾",
+        "url": "https://www.youtube.com/watch?v=338djo367Vg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/338djo367Vg/maxresdefault.webp",
+        "durationSeconds": 193,
+        "publishedAt": "2026-09-16T18:30:25.000+08:00",
+        "fetchedAt": "2026-09-19T11:18:40.135+08:00",
+        "genre": "搖滾 Rock",
+        "genreConfidence": 0.77
+      }
     },
     {
       "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
