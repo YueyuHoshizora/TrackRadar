@@ -1,8 +1,18 @@
 {
   "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
   "channelTitle": "迷子 Maigo",
-  "lastUpdated": "2026-09-19T10:39:27.460+08:00",
-  "latestVideo": null,
+  "lastUpdated": "2026-09-19T10:46:10.179+08:00",
+  "latestVideo": {
+    "videoId": "UnLYmfA2ias",
+    "title": "夏恋ノ残火 / 迷子 feat. 重音テト",
+    "url": "https://www.youtube.com/watch?v=UnLYmfA2ias",
+    "thumbnail": "https://i.ytimg.com/vi/UnLYmfA2ias/maxresdefault.jpg",
+    "durationSeconds": 245,
+    "publishedAt": "2026-09-04T19:18:31.000+08:00",
+    "fetchedAt": "2026-09-19T10:46:09.359+08:00",
+    "genre": "動漫/ACG",
+    "genreConfidence": 0.63
+  },
   "allVideoIds": [
     "UnLYmfA2ias",
     "_gITNgOavXA",
