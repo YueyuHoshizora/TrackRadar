@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:00:43.053+08:00",
+  "lastUpdated": "2026-09-19T16:05:42.569+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "FjhIVuLNHN4",
-      "title": "🎧 D1 First Audible Trace | Signal #010 — We Heard Them"
+      "title": "🎧 D1 First Audible Trace | Signal #010 — We Heard Them",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "g8e0d5WCQg0",
-      "title": "🎧 D5 Restored by Morning | Signal #009 — Memory in Static"
+      "title": "🎧 D5 Restored by Morning | Signal #009 — Memory in Static",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "Vc3QXJk9s_g",
-      "title": "🎧 D4 We Remember Together | Signal #009 — Memory in Static"
+      "title": "🎧 D4 We Remember Together | Signal #009 — Memory in Static",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "1SBely1P7f0",
-      "title": "🎧 D3 Lost Names Return | Signal #009 — Memory in Static"
+      "title": "🎧 D3 Lost Names Return | Signal #009 — Memory in Static",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "aKdMelYvKJs",
-      "title": "🎧 D2 Ghost Data Rising | Signal #009 — Memory in Static"
+      "title": "🎧 D2 Ghost Data Rising | Signal #009 — Memory in Static",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "pzyJiNzUgUU",
-      "title": "🎧 D1 Archive Corrupted | Signal #009 — Memory in Static"
+      "title": "🎧 D1 Archive Corrupted | Signal #009 — Memory in Static",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "OEXeEC7cXxs",
-      "title": "🎧 D5 Sunset of Patience | Signal #008 — Transmission Delay"
+      "title": "🎧 D5 Sunset of Patience | Signal #008 — Transmission Delay",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "EbMnoqUO8H0",
-      "title": "🎧 D4 Late but Clear | Signal #008 — Transmission Delay"
+      "title": "🎧 D4 Late but Clear | Signal #008 — Transmission Delay",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "EcQxmCWBBI4",
-      "title": "🎧 D3 Arrival After Distance | Signal #008 — Transmission Delay"
+      "title": "🎧 D3 Arrival After Distance | Signal #008 — Transmission Delay",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "IiWHCwljrvY",
-      "title": "🎧 D2 Time Bent Slowly | Signal #008 — Transmission Delay"
+      "title": "🎧 D2 Time Bent Slowly | Signal #008 — Transmission Delay",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "Yfb9EX4Zam0",
