@@ -1,20 +1,10 @@
 {
-  "updatedAt": "2026-09-19T14:50:29.499+08:00",
+  "updatedAt": "2026-09-19T14:55:36.027+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "語音星空",
-      "latestVideo": {
-        "videoId": "VlPInz7dIDs",
-        "title": "我們要的不是復合，是用現在重新相愛｜不是回到從前｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=VlPInz7dIDs",
-        "thumbnail": "https://i.ytimg.com/vi/VlPInz7dIDs/maxresdefault.jpg",
-        "durationSeconds": 222,
-        "publishedAt": "2026-09-19T05:30:12.000+08:00",
-        "fetchedAt": "2026-09-19T08:31:27.310+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.98
-      }
+      "channelTitle": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
+      "latestVideo": null
     },
     {
       "channelId": "UCYyzOVPBHzhr_cFFJbGoymQ",
