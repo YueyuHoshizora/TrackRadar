@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-19T16:15:42.617+08:00",
+  "lastUpdated": "2026-09-19T16:20:42.193+08:00",
   "latestVideo": {
     "videoId": "P44B7pD61Ko",
     "title": "Between the Streetlights",
@@ -322,43 +322,63 @@
     },
     {
       "videoId": "uDYOpa4kQFw",
-      "title": "D3 — Footsteps in the Dark | Signal #005 — Voices Without Words"
+      "title": "D3 — Footsteps in the Dark | Signal #005 — Voices Without Words",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "5Ge6pVXDo50",
-      "title": "D3 — We Finally Understand | Signal #005 — Voices Without Words"
+      "title": "D3 — We Finally Understand | Signal #005 — Voices Without Words",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "75vD1Wwgbnc",
-      "title": "D2 — Wet Roads Ahead | Signal #005 — Voices Without Words"
+      "title": "D2 — Wet Roads Ahead | Signal #005 — Voices Without Words",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "vCDeLKULUSA",
-      "title": "D2 — Speaking in Color | Signal #005 — Voices Without Words"
+      "title": "D2 — Speaking in Color | Signal #005 — Voices Without Words",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "fVVIvemeq9U",
-      "title": "D1 — A Job in the Rain | Signal #005 — Voices Without Words"
+      "title": "D1 — A Job in the Rain | Signal #005 — Voices Without Words",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "nTEflVLvOqc",
-      "title": "D1 — Fragments of Meaning Raw Signal | Signal #005 — Voices Without Words"
+      "title": "D1 — Fragments of Meaning Raw Signal | Signal #005 — Voices Without Words",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "UeRdmpnTvyw",
-      "title": "D5 — They Leave a Glow | Signal #004 — The Last Signal Before Collapse"
+      "title": "D5 — They Leave a Glow | Signal #004 — The Last Signal Before Collapse",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "sZGyeYJ4oVw",
-      "title": "D4 — Dialogue in Waves | Signal #004 — The Last Signal Before Collapse"
+      "title": "D4 — Dialogue in Waves | Signal #004 — The Last Signal Before Collapse",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "ZTvlbw95Xjc",
-      "title": "D3 — Frequency of Wonder | Signal #004 — The Last Signal Before Collapse"
+      "title": "D3 — Frequency of Wonder | Signal #004 — The Last Signal Before Collapse",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "QKE3dl9t1kM",
-      "title": "D2 — Pulse of the Unseen | Signal #004 — The Last Signal Before Collapse"
+      "title": "D2 — Pulse of the Unseen | Signal #004 — The Last Signal Before Collapse",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "FkOuiO13Dt4",
