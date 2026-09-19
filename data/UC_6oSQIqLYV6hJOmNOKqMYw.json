@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-09-19T15:25:40.924+08:00",
+  "lastUpdated": "2026-09-19T15:30:42.838+08:00",
   "latestVideo": {
     "videoId": "pwQhe19X_6g",
     "title": "《我還是會想你》｜明明放下了，心卻還停在那裡｜EIRYN Official Music Video",
@@ -322,43 +322,63 @@
     },
     {
       "videoId": "3wJppDla2mo",
-      "title": "2026 最強失戀 Emo 神曲 —《越忘越痛》Official Lyric Video | 凌晨兩點，誰還在回憶裡流浪？"
+      "title": "2026 最強失戀 Emo 神曲 —《越忘越痛》Official Lyric Video | 凌晨兩點，誰還在回憶裡流浪？",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "3pGBTRXfLnY",
-      "title": "《別再想你》｜一開口就心碎的失戀情歌 💔 2026最催淚中文歌｜越想忘記卻越想你"
+      "title": "《別再想你》｜一開口就心碎的失戀情歌 💔 2026最催淚中文歌｜越想忘記卻越想你",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "Num2HwTuuxk",
-      "title": "燒到天黑🔥 2026最炸失戀神曲｜副歌直接撕裂靈魂｜華語女聲崩潰系抒情搖滾"
+      "title": "燒到天黑🔥 2026最炸失戀神曲｜副歌直接撕裂靈魂｜華語女聲崩潰系抒情搖滾",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "txC_1LaG5Co",
-      "title": "2026 最暖心守護曲〈在你的燦爛季節〉：『只要你在，我就沒什麼奢求。』✨"
+      "title": "2026 最暖心守護曲〈在你的燦爛季節〉：『只要你在，我就沒什麼奢求。』✨",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "nlPHS_lx3fU",
-      "title": "陪妳聽這場雨 🌧️｜「如果累了，就靠在我肩膀」：2026 最溫柔的靈魂處方箋"
+      "title": "陪妳聽這場雨 🌧️｜「如果累了，就靠在我肩膀」：2026 最溫柔的靈魂處方箋",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "2KJ6oJau8Z4",
-      "title": "「誰讓這場遺憾沒完沒了...」💔《華麗圈套》｜2026 必聽虐心情歌：送給所有在深夜裡徹底投降的人"
+      "title": "「誰讓這場遺憾沒完沒了...」💔《華麗圈套》｜2026 必聽虐心情歌：送給所有在深夜裡徹底投降的人",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "e4doZuQrFTk",
-      "title": "如果心還會痛 - [EIRYN] (Official Lyrics Video) | 「原來想你，比孤單更響」— 獻給所有在回憶裡迷路的人"
+      "title": "如果心還會痛 - [EIRYN] (Official Lyrics Video) | 「原來想你，比孤單更響」— 獻給所有在回憶裡迷路的人",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "HgE1Q--Hejg",
-      "title": "《空山引》：聽碎了心，也拉出了這輩子的狂！這絕對是今年最孤傲的二胡史詩。｜原創古風｜"
+      "title": "《空山引》：聽碎了心，也拉出了這輩子的狂！這絕對是今年最孤傲的二胡史詩。｜原創古風｜",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "Ks_mEvK7jJk",
-      "title": "【原創國風】《宿命之淵 》史詩戲腔：掙破這宿命，逆流而上 (Official Audio)"
+      "title": "【原創國風】《宿命之淵 》史詩戲腔：掙破這宿命，逆流而上 (Official Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "paj2vlyhK0s",
-      "title": "【古風原創】《風過無名》：清冷古箏與二胡的對話，獻給每一位孤獨前行的人。"
+      "title": "【古風原創】《風過無名》：清冷古箏與二胡的對話，獻給每一位孤獨前行的人。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "WnWyYFGM1eo",
