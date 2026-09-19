@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T11:18:12.417+08:00",
+  "updatedAt": "2026-09-19T11:18:29.002+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -78,8 +78,18 @@
     },
     {
       "channelId": "UCCCIoegIxnym7wILeOLfEMQ",
-      "channelTitle": "UCCCIoegIxnym7wILeOLfEMQ",
-      "latestVideo": null
+      "channelTitle": "旋律裡的你",
+      "latestVideo": {
+        "videoId": "4pqIFuRuWZI",
+        "title": "《為你憨一世人》明知妳無欲轉來，阮猶原憨憨咧等｜催淚台語情歌｜俊龍",
+        "url": "https://www.youtube.com/watch?v=4pqIFuRuWZI",
+        "thumbnail": "https://i.ytimg.com/vi/4pqIFuRuWZI/maxresdefault.jpg",
+        "durationSeconds": 302,
+        "publishedAt": "2026-09-19T10:00:00.000+08:00",
+        "fetchedAt": "2026-09-19T10:36:07.291+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
+      }
     },
     {
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
@@ -98,7 +108,7 @@
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
-      "channelTitle": "UCGq8tBaxuvnnu9dVl5Gxnkg",
+      "channelTitle": "Sonar.Music.Studio",
       "latestVideo": null
     },
     {
