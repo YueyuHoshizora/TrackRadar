@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T14:05:45.522+08:00",
+  "lastUpdated": "2026-09-20T14:10:46.255+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -1222,43 +1222,63 @@
     },
     {
       "videoId": "ALDC4Gjd2JE",
-      "title": "《落花路口》有些遺憾，是折不平的紙。🌙｜霧月 Xiaoloulou｜(Official Lyric Audio) #霧月詞"
+      "title": "《落花路口》有些遺憾，是折不平的紙。🌙｜霧月 Xiaoloulou｜(Official Lyric Audio) #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "EdJjyKCihgU",
-      "title": "《可，夜去哪裡了？》當最愛的人離開，連夜晚都變得不完整。｜霧月 Xiaoloulou｜ (Official Lyric Audio) #霧月詞"
+      "title": "《可，夜去哪裡了？》當最愛的人離開，連夜晚都變得不完整。｜霧月 Xiaoloulou｜ (Official Lyric Audio) #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "I1lF2IpNpnY",
-      "title": "《偕老雪》「若此生不許白頭，就讓往生的雪，算作偕老一場。」｜霧月 Xiaoloulou｜(Official Lyric Audio) #霧月詞"
+      "title": "《偕老雪》「若此生不許白頭，就讓往生的雪，算作偕老一場。」｜霧月 Xiaoloulou｜(Official Lyric Audio) #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "uHgUcA9eOBw",
-      "title": "【單戀神曲】《界外之間》我放棄將妳稱為「我的」...｜霧月 Xiaoloulou｜只做不更名的好友 (Official Lyric Video) #霧月詞"
+      "title": "【單戀神曲】《界外之間》我放棄將妳稱為「我的」...｜霧月 Xiaoloulou｜只做不更名的好友 (Official Lyric Video) #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "rILCxngvJJ0",
-      "title": "《別讓她看見我流淚》給所有分手後說「我很好」的人｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "《別讓她看見我流淚》給所有分手後說「我很好」的人｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "vP-KHEeqZQc",
-      "title": "《西窗月・琉璃淚》最難收的非碎片，而是這雙還想觸碰的手...｜霧月 Xiaoloulou｜古風 (Official Lyric Audio) #霧月詞"
+      "title": "《西窗月・琉璃淚》最難收的非碎片，而是這雙還想觸碰的手...｜霧月 Xiaoloulou｜古風 (Official Lyric Audio) #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "N9ZPfdeWKh4",
-      "title": "🌙 欲寫離情千百語，筆落處，終惟卿名。｜《一蓑煙雨半生醒》｜霧月 Xiaoloulou｜Official Lyric Audio"
+      "title": "🌙 欲寫離情千百語，筆落處，終惟卿名。｜《一蓑煙雨半生醒》｜霧月 Xiaoloulou｜Official Lyric Audio",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "Kbfb9-RwWW4",
-      "title": "《斷片醉意的孤絮》斷片的醉意，在你走後才清醒...｜霧月 Xiaoloulou｜再也回不去的港口 (Official Lyric Audio) #霧月詞"
+      "title": "《斷片醉意的孤絮》斷片的醉意，在你走後才清醒...｜霧月 Xiaoloulou｜再也回不去的港口 (Official Lyric Audio) #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "s4VjGfiweQ0",
-      "title": "【催淚神曲】《解縷》只有妳能解這縷疼，是光也無法拆解的傷...｜The Thread of Pain (Official Lyric Video)  #霧月詞"
+      "title": "【催淚神曲】《解縷》只有妳能解這縷疼，是光也無法拆解的傷...｜The Thread of Pain (Official Lyric Video)  #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "uQ4-LY7YpDY",
-      "title": "【催淚神曲】《我們之間，霧散的地方》我們怎麼走散得這麼快...｜原來愛會在沉默裡失溫 (Official Lyric Video) #霧月詞"
+      "title": "【催淚神曲】《我們之間，霧散的地方》我們怎麼走散得這麼快...｜原來愛會在沉默裡失溫 (Official Lyric Video) #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "oeNFbgTUutE",
