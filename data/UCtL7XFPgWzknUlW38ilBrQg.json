@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T16:55:46.356+08:00",
+  "lastUpdated": "2026-09-20T17:00:46.987+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -3262,43 +3262,63 @@
     },
     {
       "videoId": "q4Q5M5nfSAw",
-      "title": "道是無晴卻有晴 - They Say It’s Cloudy,Yet the Sun Shines - Xiaoloulou || Full Album || #古風 #playlist"
+      "title": "道是無晴卻有晴 - They Say It’s Cloudy,Yet the Sun Shines - Xiaoloulou || Full Album || #古風 #playlist",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "VWgW_pjQq5s",
-      "title": "浮生散 Ephemera, Scattered - Xiaoloulou || 聽一首夢落花深的聲音，記舊人一夢，書未寄，花已盡。"
+      "title": "浮生散 Ephemera, Scattered - Xiaoloulou || 聽一首夢落花深的聲音，記舊人一夢，書未寄，花已盡。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "u14v80QQPYI",
-      "title": "瀲灩 Reflections That Never Spoke - Xiaoloulou || 三段水月錯落夢"
+      "title": "瀲灩 Reflections That Never Spoke - Xiaoloulou || 三段水月錯落夢",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "GPMvNkdb6IQ",
-      "title": "倦鳥 The Tired Wing - Xiaoloulou || 當思念成疾，我才明白，有些人不是飛不回來，而是我們從未同路。"
+      "title": "倦鳥 The Tired Wing - Xiaoloulou || 當思念成疾，我才明白，有些人不是飛不回來，而是我們從未同路。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "490WVKuCeW0",
-      "title": "藍色雲朵不說話 The Blue Clouds Stay Silent - Xiaoloulou ||  在墜落的那刻，雲朵沒有發出聲音，最後我融進了那片沒有聲音的雲。"
+      "title": "藍色雲朵不說話 The Blue Clouds Stay Silent - Xiaoloulou ||  在墜落的那刻，雲朵沒有發出聲音，最後我融進了那片沒有聲音的雲。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "apxOLZR9DIw",
-      "title": "夜深開的花 The Flower That Blooms at Midnight - Xiaoloulou || 如果那是愛，它沒有回音"
+      "title": "夜深開的花 The Flower That Blooms at Midnight - Xiaoloulou || 如果那是愛，它沒有回音",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "j-gjpPi20Pg",
-      "title": "濕漉漉的你 You, Still Dripping Wet - Xiaoloulou || 在這樣的天氣裡，我只想記得你離開的樣子。"
+      "title": "濕漉漉的你 You, Still Dripping Wet - Xiaoloulou || 在這樣的天氣裡，我只想記得你離開的樣子。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "ug-Uap-aZVA",
-      "title": "憶帝京・任歲歲年年 Memories of the Capital–Through the Endless Years - Xiaoloulou ||一念回身，一生無名。任歲歲年年，只為記你來過一次。"
+      "title": "憶帝京・任歲歲年年 Memories of the Capital–Through the Endless Years - Xiaoloulou ||一念回身，一生無名。任歲歲年年，只為記你來過一次。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "9mADDOF8NxU",
-      "title": "淺花 A Pale Bloom - Xiaoloulou || 我當了一夜的她，天亮後也留不住他。"
+      "title": "淺花 A Pale Bloom - Xiaoloulou || 我當了一夜的她，天亮後也留不住他。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "NF9h_F7XxJ8",
-      "title": "葬情吟 Elegy of a Buried Love - Xiaoloulou ||  一場落花繾綣的舊夢，低聲訴盡無緣的情深。"
+      "title": "葬情吟 Elegy of a Buried Love - Xiaoloulou ||  一場落花繾綣的舊夢，低聲訴盡無緣的情深。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "VSc2QD3mFEE",
