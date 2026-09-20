@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T13:20:46.031+08:00",
+  "lastUpdated": "2026-09-20T13:25:46.100+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -742,43 +742,63 @@
     },
     {
       "videoId": "V3QucLk4IJ4",
-      "title": "《囚時》我被囚在妳離開那一刻的光裡｜霧月 Xiaoloulou ｜(Official Lyric Audio)"
+      "title": "《囚時》我被囚在妳離開那一刻的光裡｜霧月 Xiaoloulou ｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "jmWH9bQvFNc",
-      "title": "《在妳不知道的地方》在每一則脆文停格三秒，這是我清醒的自虐...｜霧月 Xiaoloulou｜ (Official Lyric Audio) 歌詞純享版"
+      "title": "《在妳不知道的地方》在每一則脆文停格三秒，這是我清醒的自虐...｜霧月 Xiaoloulou｜ (Official Lyric Audio) 歌詞純享版",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "q-evzWqOEZk",
-      "title": "【成年崩潰】《螢幕暗下去之前》今天又在公司廁所裡，偷偷紅了眼眶...｜霧月 Xiaoloulou ｜(Official Lyric Audio)  歌詞純享版"
+      "title": "【成年崩潰】《螢幕暗下去之前》今天又在公司廁所裡，偷偷紅了眼眶...｜霧月 Xiaoloulou ｜(Official Lyric Audio)  歌詞純享版",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "a1VvEBDz-UE",
-      "title": "【虐心】《缺口的形狀》若我悄然消失，也許妳會發現缺口的形狀就是我的名字...｜霧月 Xiaoloulou ｜(Official Lyric Video)"
+      "title": "【虐心】《缺口的形狀》若我悄然消失，也許妳會發現缺口的形狀就是我的名字...｜霧月 Xiaoloulou ｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "cRFpGNuzTBE",
-      "title": "【清醒麻醉】《轉台之前的三秒鐘》我活得像備用方案，等被啟動的瞬間...｜霧月 Xiaoloulou｜(Official Lyric Audio)"
+      "title": "【清醒麻醉】《轉台之前的三秒鐘》我活得像備用方案，等被啟動的瞬間...｜霧月 Xiaoloulou｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "WFqY5CcRnv4",
-      "title": "【空靈中國風】《清如許》半畝方塘夜，白鶴飛... ｜霧月  Xiaoloulou｜(Official Lyric Video)"
+      "title": "【空靈中國風】《清如許》半畝方塘夜，白鶴飛... ｜霧月  Xiaoloulou｜(Official Lyric Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "uiVAKk54JmU",
-      "title": "【迴避型依戀受害者】《纏於妳》明明心動，卻退進影裡...｜霧月 Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【迴避型依戀受害者】《纏於妳》明明心動，卻退進影裡...｜霧月 Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "7fXmaQ9QwzM",
-      "title": "【平靜絕望】《借得太久的書》是不是長大了，就要學會這種平靜的絕望... ｜霧月 Xiaoloulou｜(Official Lyric Audio)"
+      "title": "【平靜絕望】《借得太久的書》是不是長大了，就要學會這種平靜的絕望... ｜霧月 Xiaoloulou｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "qSZ-k9FDb6s",
-      "title": "【卑微單戀】《依然在追尋著妳》我仍在追，追的不再是妳，而是曾經...｜霧月 Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【卑微單戀】《依然在追尋著妳》我仍在追，追的不再是妳，而是曾經...｜霧月 Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "E2aRY9LYmoo",
-      "title": "【溫柔釋懷】《在有妳的那段時光》我把青春給了妳，如今也不欲討回... ｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "【溫柔釋懷】《在有妳的那段時光》我把青春給了妳，如今也不欲討回... ｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "CVoF5pH95rY",
