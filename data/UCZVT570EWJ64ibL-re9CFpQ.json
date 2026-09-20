@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T18:15:45.698+08:00",
+  "lastUpdated": "2026-09-20T18:20:44.655+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -436,43 +436,63 @@
     },
     {
       "videoId": "76LQXX1ZOP0",
-      "title": "【中國武俠風 - 謫仙劫】謫仙回頭 已不是當年面凡塵的灰 染上血與謊言 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國武俠風 - 謫仙劫】謫仙回頭 已不是當年面凡塵的灰 染上血與謊言 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "sclSXgINWTg",
-      "title": "【中國風 - 後悔藥】青春已蒼老 怎麼贖回年少 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 後悔藥】青春已蒼老 怎麼贖回年少 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "ZWCuL8iEhCo",
-      "title": "【中國風 - 桃花指路】此心若許 不是一瞬🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 桃花指路】此心若許 不是一瞬🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "TLlgHdC3JHg",
-      "title": "【中國風 - 墮修羅】我為你墮成修羅 萬軍之前不曾退縮 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 墮修羅】我為你墮成修羅 萬軍之前不曾退縮 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "02IujODtVE8",
-      "title": "【中國風 - 梁祝】化成雙蝶 飛過書卷替你把 沒說完的那句說完🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 梁祝】化成雙蝶 飛過書卷替你把 沒說完的那句說完🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "NsV92Y_uOMM",
-      "title": "【中國風 - 莊周夢】我是不是真的曾經是蝶 在你眼中停留一夜🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 莊周夢】我是不是真的曾經是蝶 在你眼中停留一夜🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "kvv-fKNznmY",
-      "title": "【中國風 - 荒唐不問天】如果明天沒有答案 今夜就先把酒喝光 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 荒唐不問天】如果明天沒有答案 今夜就先把酒喝光 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "xOdVON_a21A",
-      "title": "【Dark rock - 天劫】一身逆鱗不為誰平 你說這路只准跪行 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【Dark rock - 天劫】一身逆鱗不為誰平 你說這路只准跪行 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "nAFHZJpoxRU",
-      "title": "【中國風 - 紅顏若水】就讓故事停在那天最美的那天 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 紅顏若水】就讓故事停在那天最美的那天 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "0s6cZPNQzxw",
-      "title": "【中國風 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 九黎傳說】- 九黎月🎧今晚陪我一起沉醉在這裡，好嗎？"
+      "title": "【中國風 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 九黎傳說】- 九黎月🎧今晚陪我一起沉醉在這裡，好嗎？",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "AAoAKsOMcH0",
