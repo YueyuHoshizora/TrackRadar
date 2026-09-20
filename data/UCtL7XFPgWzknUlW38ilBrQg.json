@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T16:10:46.900+08:00",
+  "lastUpdated": "2026-09-20T16:15:46.260+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "jGTPT5nvpqo",
-      "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "我一解釋，你就說我改口《說得不像我》｜說到後來，誰還需要見我｜人言可畏・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -40,25 +40,25 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
     {
       "videoId": "PBn-CJQvG6w",
-      "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+      "title": "我開始忘記你的樣子了《霓虹裡的失城者》｜恐懼的不是妳選擇放手，是鮮活記憶開始生了鏽｜忘不了一個人・中文藍調｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "sED1xy1gc0Y",
-      "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "沒人記得我，我還記得你《若只如初見》｜無人念予情，無人似予心｜深夜孤獨・文言古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "SNV1PsuGJKE",
-      "title": "情深到最後，只剩一把骨頭《風也來，雨也來》｜情深枯成骨，不負人卻寒｜愛而不得・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "一片相思，都吹成了灰《風也來，雨也來》｜吹向雲天外｜深夜孤獨・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -2722,43 +2722,63 @@
     },
     {
       "videoId": "xn7rW44YvRg",
-      "title": "⛵《#長相思》答古詩十九首・客從遠方來｜給所有去哪裡都不算回家的人｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "⛵《#長相思》答古詩十九首・客從遠方來｜給所有去哪裡都不算回家的人｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "f7G5GaL7ZJ8",
-      "title": "📜《#寒書寄孤影》答古詩十九首・孟冬寒氣至｜給所有等回覆等到不敢再看的人｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "📜《#寒書寄孤影》答古詩十九首・孟冬寒氣至｜給所有等回覆等到不敢再看的人｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "kBBZvIJ3o6g",
-      "title": "原來我只是妳孤獨的出口 Where Your Loneliness Learned to Breathe 霧月 Xiaoloulou || 我只是她孤獨裡的靜，不是她想留下的人。"
+      "title": "原來我只是妳孤獨的出口 Where Your Loneliness Learned to Breathe 霧月 Xiaoloulou || 我只是她孤獨裡的靜，不是她想留下的人。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "EDpQzvNSy-8",
-      "title": "Where Your Loneliness Learned to Breathe 原來我只是你孤獨的出口 霧月 Xiaoloulou || Where silence feels like love."
+      "title": "Where Your Loneliness Learned to Breathe 原來我只是你孤獨的出口 霧月 Xiaoloulou || Where silence feels like love.",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "ZxBiviZz5Vc",
-      "title": "🌙《#秋夜長》答古詩十九首・凜凜歲云暮｜給所有夢見他之後更睡不著的人｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "🌙《#秋夜長》答古詩十九首・凜凜歲云暮｜給所有夢見他之後更睡不著的人｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "Yq0s_kAn5Hg",
-      "title": "三途 On the Other Beach 霧月 Xiaoloulou || 留在她看不見的地方"
+      "title": "三途 On the Other Beach 霧月 Xiaoloulou || 留在她看不見的地方",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.45
     },
     {
       "videoId": "M7APMOh-K_c",
-      "title": "On the Other Beach 三途 霧月 Xiaoloulou ||  A Voice That Stayed Behind"
+      "title": "On the Other Beach 三途 霧月 Xiaoloulou ||  A Voice That Stayed Behind",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.45
     },
     {
       "videoId": "Q-j3GCm5c0U",
-      "title": "遺留在夢的盡頭 Where Dreams Go When We Stay 霧月 Xiaoloulou || 即使在光裡，夢仍緩緩呼吸"
+      "title": "遺留在夢的盡頭 Where Dreams Go When We Stay 霧月 Xiaoloulou || 即使在光裡，夢仍緩緩呼吸",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.31
     },
     {
       "videoId": "FbscgJhc1D8",
-      "title": "我送給她一隻貓 She Named the Cat After You 霧月 Xiaoloulou || 她說想你，是想那隻叫你的小貓"
+      "title": "我送給她一隻貓 She Named the Cat After You 霧月 Xiaoloulou || 她說想你，是想那隻叫你的小貓",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "OA5a8TlVUfM",
-      "title": "Where Dreams Go When We Stay  夢去何方，留者無聲 霧月 Xiaoloulou || A dream that breathes even in light"
+      "title": "Where Dreams Go When We Stay  夢去何方，留者無聲 霧月 Xiaoloulou || A dream that breathes even in light",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "pv2FQUGwdkQ",
