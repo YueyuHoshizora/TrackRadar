@@ -1,7 +1,7 @@
 {
   "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
   "channelTitle": "弦斷誰聽",
-  "lastUpdated": "2026-09-20T13:05:41.487+08:00",
+  "lastUpdated": "2026-09-20T13:10:42.864+08:00",
   "latestVideo": {
     "videoId": "ue5nkfnzy3A",
     "title": "《我不是美人魚》聽完直接破防！原來奮不顧身換來的，只是一場虛幻夢境 ｜弦斷誰聽",
@@ -16,19 +16,19 @@
   "allVideoIds": [
     {
       "videoId": "ue5nkfnzy3A",
-      "title": "《我不是美人魚》努力游向有你的方向，卻游不進你的心……唱哭千萬單戀人 ｜弦斷誰聽",
+      "title": "《我不是美人魚》聽完直接破防！原來奮不顧身換來的，只是一場虛幻夢境 ｜弦斷誰聽",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
     {
       "videoId": "GAAHyI04NcA",
-      "title": "《如果那天我沒有放你走》那年夏天沒說出口的喜歡 ｜ 2026原創華語歌曲，深夜單曲循環失戀歌單，走心療癒遺憾爆款單曲 ｜弦斷誰聽  ｜ 高清 MV 版本",
+      "title": "《如果那天我沒有放你走》撕心裂肺催淚必聽！你等我說一句別走，我卻讓這句話遲到了好多年 ｜弦斷誰聽 ｜ 那年夏天 沒說出口的喜歡  ｜ 高清 MV 版本",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "TlJ0jqnbn68",
-      "title": "《回到十八歲那天》重來一次的告白，一次不夠我重來七次，改寫遺憾純愛爆款 ｜ 弦斷誰聽 ｜ 同名小說主題曲 ｜ 2026感動人心的青春校園MV",
+      "title": "《回到十八歲那天》這一次換我先說愛妳, 就不會有遺憾！ ｜弦斷誰聽 ｜ 同名小說M V｜ 2026最感心的青春校園MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -556,43 +556,63 @@
     },
     {
       "videoId": "5lImg_VDA4Q",
-      "title": "《百鬼夜行》鬼若有形尚可避，人若無情最難醒！【暗黑古風神曲】｜YT十二弦月"
+      "title": "《百鬼夜行》鬼若有形尚可避，人若無情最難醒！【暗黑古風神曲】｜YT十二弦月",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "33pTIrGbqt4",
-      "title": "《乩身‧邪降》誰說能上身的一定是神？ Netflix 同名影集主題致敬曲｜《乩身》 三太子 Nezha #弦斷誰聽 #原創音樂 #mandopop"
+      "title": "《乩身‧邪降》誰說能上身的一定是神？ Netflix 同名影集主題致敬曲｜《乩身》 三太子 Nezha #弦斷誰聽 #原創音樂 #mandopop",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "0K53gDy7zng",
-      "title": "《空山‧紅塵之上》若能重來，只願別再相見！【虐心古風神曲】｜YT十二弦月"
+      "title": "《空山‧紅塵之上》若能重來，只願別再相見！【虐心古風神曲】｜YT十二弦月",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "rHyzfdWle9U",
-      "title": "《把回憶埋葬》若我們注定走散在人海中央，我願替你守到地老天荒！【催淚預警】｜YT十二弦月"
+      "title": "《把回憶埋葬》若我們注定走散在人海中央，我願替你守到地老天荒！【催淚預警】｜YT十二弦月",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "H41xl2N3pCk",
-      "title": "《陪你到這裡》原來最痛不是誰先離場，是還愛卻不能再講！【催淚預警】｜YT十二弦月"
+      "title": "《陪你到這裡》原來最痛不是誰先離場，是還愛卻不能再講！【催淚預警】｜YT十二弦月",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "m7mDMDfD8MY",
-      "title": "《把沉默養成刺》原來最深的傷，是心還認識你！2026最痛失戀神曲【虐心預警】 | YT十二弦月"
+      "title": "《把沉默養成刺》原來最深的傷，是心還認識你！2026最痛失戀神曲【虐心預警】 | YT十二弦月",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "FLD5UxF39wA",
-      "title": "《那場雨終究會停下來》原來失去不是失敗！2026最治癒的分手情歌 | YT十二弦月"
+      "title": "《那場雨終究會停下來》原來失去不是失敗！2026最治癒的分手情歌 | YT十二弦月",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "YxRi4KxGQ3M",
-      "title": "《把願望寄給星河》那一句沒說完的承諾，是我想你太久了！2026最浪漫守候 | YT十二弦月"
+      "title": "《把願望寄給星河》那一句沒說完的承諾，是我想你太久了！2026最浪漫守候 | YT十二弦月",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "S7POA9II538",
-      "title": "【爆哭預警】《希望你還在》如果潮聲能替我說你還在...2026最痛心神曲 |催淚傷感情歌 | YT十二弦月"
+      "title": "【爆哭預警】《希望你還在》如果潮聲能替我說你還在...2026最痛心神曲 |催淚傷感情歌 | YT十二弦月",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "sjNi8rkoPNY",
-      "title": "《失眠擎天崗》深夜的桌上運動，整個台灣都沒睡！【深夜陪伴】｜YT十二弦月"
+      "title": "《失眠擎天崗》深夜的桌上運動，整個台灣都沒睡！【深夜陪伴】｜YT十二弦月",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.26
     },
     {
       "videoId": "ikNFq6TUxt4",
