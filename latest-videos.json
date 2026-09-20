@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T12:29:41.467+08:00",
+  "updatedAt": "2026-09-20T12:30:49.039+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -349,7 +349,17 @@
     {
       "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
       "channelTitle": "黎安Leann",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "zTDsW8VQKek",
+        "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
+        "url": "https://www.youtube.com/watch?v=zTDsW8VQKek",
+        "thumbnail": "https://i.ytimg.com/vi_webp/zTDsW8VQKek/maxresdefault.webp",
+        "durationSeconds": 232,
+        "publishedAt": "2026-04-14T17:52:02.000+08:00",
+        "fetchedAt": "2026-09-20T12:30:38.269+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
+      }
     },
     {
       "channelId": "UCdgoj5KsyZVDQt0Z1_ONz-g",
