@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T13:40:42.157+08:00",
+  "lastUpdated": "2026-09-20T13:45:41.260+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -682,43 +682,63 @@
     },
     {
       "videoId": "IVuFC-uoiZw",
-      "title": "這是新的 K-POP 領袖嗎？| 震撼級概念：噪音宣言 (Noise Declaration)"
+      "title": "這是新的 K-POP 領袖嗎？| 震撼級概念：噪音宣言 (Noise Declaration)",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "Fujm8r6uvV4",
-      "title": "💗 粉色視覺暴擊 | K-POP 獨一無二的 DNA 宣告"
+      "title": "💗 粉色視覺暴擊 | K-POP 獨一無二的 DNA 宣告",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "s69r4XYQfb4",
-      "title": "Future R&B 炸曲 | 午夜主宰者 | TikTok Dance Challenge BGM"
+      "title": "Future R&B 炸曲 | 午夜主宰者 | TikTok Dance Challenge BGM",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "SIvSh9oX-eU",
-      "title": "高雄熱情 (K-Pop Fan Welcome) |  粉絲創作曲 | K-Pop Dance Pop"
+      "title": "高雄熱情 (K-Pop Fan Welcome) |  粉絲創作曲 | K-Pop Dance Pop",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "m7HurhB3Adw",
-      "title": "❄️ 暴雪中那道最溫暖的微笑！年度聖誕療癒單曲《初雪聖誕夜》"
+      "title": "❄️ 暴雪中那道最溫暖的微笑！年度聖誕療癒單曲《初雪聖誕夜》",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "-3ojn1cBZMs",
-      "title": "【全新單曲釋出！】《FLASH》💥【K-Pop 神曲】超洗腦 K-Pop"
+      "title": "【全新單曲釋出！】《FLASH》💥【K-Pop 神曲】超洗腦 K-Pop",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "9bFmAbs1eZQ",
-      "title": "獻給香港：一份不被擊垮的承諾 | 給所有選擇堅韌的你們 (A Vow to Hong Kong)"
+      "title": "獻給香港：一份不被擊垮的承諾 | 給所有選擇堅韌的你們 (A Vow to Hong Kong)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "WvMjqmG1QWs",
-      "title": "獻給東南亞：我們永不放棄的理由 | Kita Kuat, Kami Bangkit (The Rising Tide)"
+      "title": "獻給東南亞：我們永不放棄的理由 | Kita Kuat, Kami Bangkit (The Rising Tide)",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.35
     },
     {
       "videoId": "CF_-hxKPnQM",
-      "title": "獻給香港英雄與受災人民 | An Anthem for Hong Kong's Heroes and Victims (Official MV)"
+      "title": "獻給香港英雄與受災人民 | An Anthem for Hong Kong's Heroes and Victims (Official MV)",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.3
     },
     {
       "videoId": "rRfPkgqu77g",
-      "title": "EPIC 史詩鉅作｜Golden Seraphim's Awakening: 神聖帝國的最終戰士 (AI Cinematic)"
+      "title": "EPIC 史詩鉅作｜Golden Seraphim's Awakening: 神聖帝國的最終戰士 (AI Cinematic)",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.34
     },
     {
       "videoId": "sU_LIsMJ9Mg",
