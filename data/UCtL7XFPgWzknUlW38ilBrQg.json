@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T13:55:46.934+08:00",
+  "lastUpdated": "2026-09-20T14:05:45.522+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -1162,43 +1162,63 @@
     },
     {
       "videoId": "acHB0J6qGqc",
-      "title": "【虐心古風】《愛殤》予本卿庭花，花開一瞬終歸塵...｜霧月 Xiaoloulou｜而予偏愛春中卿 (Official  Lyric Audio)"
+      "title": "【虐心古風】《愛殤》予本卿庭花，花開一瞬終歸塵...｜霧月 Xiaoloulou｜而予偏愛春中卿 (Official  Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "aSNwzAKsuAU",
-      "title": "《葬花魂》若輪迴仍可尋，願夢裡再見卿...｜一霎淪魂，再無歸途｜霧月 Xiaoloulou｜ (Official  Lyric Video)"
+      "title": "《葬花魂》若輪迴仍可尋，願夢裡再見卿...｜一霎淪魂，再無歸途｜霧月 Xiaoloulou｜ (Official  Lyric Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "1vS0guheoDM",
-      "title": "【迷幻古風】《暮夢。將至》夢是卿，可卿是夢...｜霧月 Xiaoloulou｜予是卿，卻非予 (Official Lyric Video)"
+      "title": "【迷幻古風】《暮夢。將至》夢是卿，可卿是夢...｜霧月 Xiaoloulou｜予是卿，卻非予 (Official Lyric Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "-S5t3mIcyQ8",
-      "title": "【古風虐戀】《未歸》若卿問歸期，且聽夜雨答...｜此去長安，十年無話｜霧月 Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【古風虐戀】《未歸》若卿問歸期，且聽夜雨答...｜此去長安，十年無話｜霧月 Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "LW13HYVVSh8",
-      "title": "《呼吸著的痛》想妳是一種會呼吸的痛，在血裡滲成暗色...｜霧月 Xiaoloulou｜Suffocating Love｜(Official Lyric Video)"
+      "title": "《呼吸著的痛》想妳是一種會呼吸的痛，在血裡滲成暗色...｜霧月 Xiaoloulou｜Suffocating Love｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "TD5xslkMGXw",
-      "title": "【卑微神曲】《妳是我最愚蠢的一次溫柔》明知道到不了，還偏要划向妳的宇宙...｜霧月 Xiaoloulou｜ (Official Lyric Audio)"
+      "title": "【卑微神曲】《妳是我最愚蠢的一次溫柔》明知道到不了，還偏要划向妳的宇宙...｜霧月 Xiaoloulou｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "vS8meE1Jb5c",
-      "title": "《夢境邊界的清晨》原來所謂醒來，不是離開你...｜帶著你走進白日｜霧月 Xiaoloulou｜(Official Lyric Audio)"
+      "title": "《夢境邊界的清晨》原來所謂醒來，不是離開你...｜帶著你走進白日｜霧月 Xiaoloulou｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "Ek3ld8GCBlk",
-      "title": "《日夜想你的小宇宙》把暗戀過成漫長的星河...｜Upstairs Neighbor｜治癒系 Pop｜霧月 Xiaoloulou｜ (Official Lyric Audio)"
+      "title": "《日夜想你的小宇宙》把暗戀過成漫長的星河...｜Upstairs Neighbor｜治癒系 Pop｜霧月 Xiaoloulou｜ (Official Lyric Audio)",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "QOhMATEegYw",
-      "title": "【終極遺憾】《命裡錯過的人》愛你不合情理，卻合我所有的固執...｜霧月 Xiaoloulou｜一生守在缺口 (Official Lyric Audio)"
+      "title": "【終極遺憾】《命裡錯過的人》愛你不合情理，卻合我所有的固執...｜霧月 Xiaoloulou｜一生守在缺口 (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "O9Z_jXzhuD8",
-      "title": "【社畜共鳴】《無糖的透明》我被黃昏一口一口吞下去...｜霧月 Xiaoloulou｜像沒味道的藥片 (Official Lyric Audio)"
+      "title": "【社畜共鳴】《無糖的透明》我被黃昏一口一口吞下去...｜霧月 Xiaoloulou｜像沒味道的藥片 (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "ALDC4Gjd2JE",
