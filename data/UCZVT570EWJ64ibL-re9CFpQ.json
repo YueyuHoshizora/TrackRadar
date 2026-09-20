@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T18:05:44.439+08:00",
+  "lastUpdated": "2026-09-20T18:10:44.476+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -316,43 +316,63 @@
     },
     {
       "videoId": "Zr4L4S95QgY",
-      "title": "【華語流行 - 最後一場雨】拚了命去愛你但結果是疲累 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【華語流行 - 最後一場雨】拚了命去愛你但結果是疲累 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "gil6ViTtyXQ",
-      "title": "【中國風 - 醉逍遙】山長水遠無人知曉 一劍天涯去逍遙 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 醉逍遙】山長水遠無人知曉 一劍天涯去逍遙 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "Dgkav_34oFA",
-      "title": "【中國風 - 寒冬雪】如果低潮只是必經的浪潮 那就讓心再試著燃燒 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 寒冬雪】如果低潮只是必經的浪潮 那就讓心再試著燃燒 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "OVV3ekFe32c",
-      "title": "【中國風 - 蒼生劫】一聲唱盡千秋興亡卻無一字可留名狀🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 蒼生劫】一聲唱盡千秋興亡卻無一字可留名狀🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "dFWz9skwjTI",
-      "title": "【中國風 - 台上台下】他說戲裡不過虛情一段 卻在落幕紅了眼眶 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 台上台下】他說戲裡不過虛情一段 卻在落幕紅了眼眶 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "fwxA-GsXR9Y",
-      "title": "【中國風 - 半杯荒唐】人生須盡歡 今夜我就是神仙 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 半杯荒唐】人生須盡歡 今夜我就是神仙 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "P8ID-qyY6aM",
-      "title": "【中國風 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 悲戀傳說】- 九黎月🎧這樣的旋律讓人心醉，這樣的你讓人心碎"
+      "title": "【中國風 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 悲戀傳說】- 九黎月🎧這樣的旋律讓人心醉，這樣的你讓人心碎",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "aJazt-VYjjc",
-      "title": "【中國風 - 天衣縫】我含笑配合演完這場緣 只為看你賣力裝可憐 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 天衣縫】我含笑配合演完這場緣 只為看你賣力裝可憐 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "M3lJxFOZ6WY",
-      "title": "【中國風 - 月映雪】月映雪 倒影著誰的孤獨 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 月映雪】月映雪 倒影著誰的孤獨 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "QM4djC5Xh_Y",
-      "title": "【中國風 - 不是我的】那句晚安太溫柔卻不是對我說 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 不是我的】那句晚安太溫柔卻不是對我說 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.5
     },
     {
       "videoId": "mVuLz8LusHg",
