@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T17:00:46.987+08:00",
+  "lastUpdated": "2026-09-20T17:05:46.065+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -3322,43 +3322,63 @@
     },
     {
       "videoId": "VSc2QD3mFEE",
-      "title": "潛月無聲 The Moon Sinks in Silence - Xiaoloulou || 「我未曾呼你之名，卻夜夜夢回故里。」一首寫給不說出口的深情，在潮聲與月光間，緩緩沉浮。"
+      "title": "潛月無聲 The Moon Sinks in Silence - Xiaoloulou || 「我未曾呼你之名，卻夜夜夢回故里。」一首寫給不說出口的深情，在潮聲與月光間，緩緩沉浮。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.49
     },
     {
       "videoId": "Xh_brkHFSL4",
-      "title": "梧桐深 Where the Phoenix Tree Grows Deep - Xiaoloulou || 一闕詩詞，一場孤夢，月下誰人共白頭？"
+      "title": "梧桐深 Where the Phoenix Tree Grows Deep - Xiaoloulou || 一闕詩詞，一場孤夢，月下誰人共白頭？",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "gwxhVpdX8Lg",
-      "title": "月滿如夢 When the Moon Is Full, Like a Dream - Xiaoloulou || 她甘墮仙身，只為再見他一面，守著一場注定錯過的愛。 #八戒 #紫蛛兒 #黑悟空"
+      "title": "月滿如夢 When the Moon Is Full, Like a Dream - Xiaoloulou || 她甘墮仙身，只為再見他一面，守著一場注定錯過的愛。 #八戒 #紫蛛兒 #黑悟空",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "vmF9dqoLvRs",
-      "title": "梅子酒 Plum Wine - Xiaoloulou || 你說天長地久，卻只留下一口餘味，分不清是有還是沒有你，像醉也像醒。"
+      "title": "梅子酒 Plum Wine - Xiaoloulou || 你說天長地久，卻只留下一口餘味，分不清是有還是沒有你，像醉也像醒。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "TEI5O3T8-mo",
-      "title": "道是無晴卻有晴 They Say It’s Cloudy, Yet the Sun Shines - Xiaoloulou || 寫一首暗戀。你心中若有風起，那便是我等的晴。"
+      "title": "道是無晴卻有晴 They Say It’s Cloudy, Yet the Sun Shines - Xiaoloulou || 寫一首暗戀。你心中若有風起，那便是我等的晴。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "o532OOdACkg",
-      "title": "回首向來蕭瑟處 Looking Back at the Desolate Place - Xiaoloulou || 寫一首時間與孤獨的歌，歲月的變遷與釋然"
+      "title": "回首向來蕭瑟處 Looking Back at the Desolate Place - Xiaoloulou || 寫一首時間與孤獨的歌，歲月的變遷與釋然",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "hNaz2SZMx3c",
-      "title": "《聲聲慢·冬別》 Xiaoloulou｜國風詩意傷感古風歌曲｜一首寄託冬日離愁的現代詞歌 Slowness of Farewell – A Winter Parting"
+      "title": "《聲聲慢·冬別》 Xiaoloulou｜國風詩意傷感古風歌曲｜一首寄託冬日離愁的現代詞歌 Slowness of Farewell – A Winter Parting",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "wLvw7R-s_sI",
-      "title": "踏莎行。無奈 - Xiaoloulou ||  思念、春風、楊花、旗袍美人、國風歌曲、古風歌詞"
+      "title": "踏莎行。無奈 - Xiaoloulou ||  思念、春風、楊花、旗袍美人、國風歌曲、古風歌詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "f3lFiccZtQ4",
-      "title": "浣溪沙。誰念西風獨自涼 - Xiaoloulou || 寫一首物是人非、歲月無情。 |  古風歌曲、國風音樂、古典詩詞改編"
+      "title": "浣溪沙。誰念西風獨自涼 - Xiaoloulou || 寫一首物是人非、歲月無情。 |  古風歌曲、國風音樂、古典詩詞改編",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "1G0U0uFN-Sc",
-      "title": "青梅流光 - Xiaoloulou || 古風歌曲、落花有意流水無情、單戀、青梅、竹馬"
+      "title": "青梅流光 - Xiaoloulou || 古風歌曲、落花有意流水無情、單戀、青梅、竹馬",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "ImZBOL09dqs",
