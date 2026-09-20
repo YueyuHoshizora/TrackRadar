@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T12:30:45.495+08:00",
+  "lastUpdated": "2026-09-20T12:35:46.194+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "R1Bf24M6muQ",
-      "title": "說不出口的以後｜一個人的七夕・單戀虐心40分鐘連播｜天亮說晚安・未定義的愛・仍然等妳｜霧月詞・Xiaoloulou"
+      "title": "說不出口的以後｜一個人的七夕・單戀虐心40分鐘連播｜天亮說晚安・未定義的愛・仍然等妳｜霧月詞・Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "K9C1pBi_Nh0",
-      "title": "伸出手，卻只碰見自己《錦瑟無端》｜此情，已無處回首｜夢見一個回不來的人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】"
+      "title": "伸出手，卻只碰見自己《錦瑟無端》｜此情，已無處回首｜夢見一個回不來的人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "x6ElqjnvNOc",
-      "title": "我是玩成了，還是玩砸了《玩成了還是玩砸了》｜半醺著對著煙，念你的名字｜愛而不得・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV"
+      "title": "我是玩成了，還是玩砸了《玩成了還是玩砸了》｜半醺著對著煙，念你的名字｜愛而不得・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "P10ZfNC4tAI",
-      "title": "輸得最慘的，永遠是最真的人｜深夜emo・一小時虐心合輯｜妳退後一次，我整個世界都黑掉了｜溺。心意集・頌心意×霧月"
+      "title": "輸得最慘的，永遠是最真的人｜深夜emo・一小時虐心合輯｜妳退後一次，我整個世界都黑掉了｜溺。心意集・頌心意×霧月",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "mogq4jb9UuY",
-      "title": "我攤開手接月光，掌心卻空空的《皎皎》｜掌中無物，月光仍在｜想念一個回不來的人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】"
+      "title": "我攤開手接月光，掌心卻空空的《皎皎》｜掌中無物，月光仍在｜想念一個回不來的人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "8EDBN9Z9ocU",
-      "title": "你不必撐給我看，不必贏我《今夜換我抱著》｜那些沒被看見的，讓我先看見｜寫給撐太久的人・華語情歌｜霧月詞・Xiaoloulou【Official Lyric Video】"
+      "title": "你不必撐給我看，不必贏我《今夜換我抱著》｜那些沒被看見的，讓我先看見｜寫給撐太久的人・華語情歌｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "siq3nzx4XiQ",
-      "title": "鴛鴦成雙，被下卻只有我《並翼》｜此被本為兩人，今覆妾一身｜一個人的夜・古風｜霧月詞・Xiaoloulou【Official Lyric Video】"
+      "title": "鴛鴦成雙，被下卻只有我《並翼》｜此被本為兩人，今覆妾一身｜一個人的夜・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "WnLj6Ic_ld0",
-      "title": "有些靠近，是為了錯過《瀲灩》｜那光，原來不是為我而亮｜求而不得・古風情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV"
+      "title": "有些靠近，是為了錯過《瀲灩》｜那光，原來不是為我而亮｜求而不得・古風情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Dje5nBrCLLw",
-      "title": "妳一笑，什麼都亂了《一念成妖》｜本是心上人，如何變心中人｜放不下一個人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】"
+      "title": "妳一笑，什麼都亂了《一念成妖》｜本是心上人，如何變心中人｜放不下一個人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "ANYEGeUxvDE",
-      "title": "字還在，他愛的那個我不在了《三歲》｜字未滅。袖，已襤褸｜想念一個回不來的人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】"
+      "title": "字還在，他愛的那個我不在了《三歲》｜字未滅。袖，已襤褸｜想念一個回不來的人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "5RZjqlt4pS0",
