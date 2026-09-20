@@ -1,7 +1,7 @@
 {
   "channelId": "UCdgoj5KsyZVDQt0Z1_ONz-g",
   "channelTitle": "迷路的宇宙人",
-  "lastUpdated": "2026-09-20T12:29:08.016+08:00",
+  "lastUpdated": "2026-09-20T12:29:35.608+08:00",
   "latestVideo": {
     "videoId": "82QgWZVN3dQ",
     "title": "你說愛就像迷宮，我卻學會安靜地錯過｜迷宇 Lost Alien《線索》Official Video",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "82QgWZVN3dQ",
-      "title": "故事還沒結尾，你卻慢慢消失｜迷宇 Lost Alien《線索》Official Video",
+      "title": "有些沉默，始終無處停泊｜迷宇 Lost Alien《線索》Official Video",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "OjzmTchffAY",
-      "title": "【迷宇】動物情話｜為了你，我能成為任何人 (Official Video) #情歌 #華語流行"
+      "title": "【迷宇】動物情話｜為了你，我能成為任何人 (Official Video) #情歌 #華語流行",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "GyCcbGyzbSY",
-      "title": "【迷宇】愛無離V2｜如今袂凍擱相偎，夢中猶擱攬著你｜ (Official Lyric Video) #離別的愛 #迷宇 #台語歌"
+      "title": "【迷宇】愛無離V2｜如今袂凍擱相偎，夢中猶擱攬著你｜ (Official Lyric Video) #離別的愛 #迷宇 #台語歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "dF9UGH6161U",
-      "title": "【迷宇】低樓層的月台｜你不愛我，但也沒走，比結束更累的，是兩個人一起停在原地 (Official Lyric Video)"
+      "title": "【迷宇】低樓層的月台｜你不愛我，但也沒走，比結束更累的，是兩個人一起停在原地 (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "ebpFvWGeYnM",
-      "title": "【迷宇】 彌留餘溫 | 留戀或放手，哪個更值得揮霍 (Official Video) #落下 #二部曲"
+      "title": "【迷宇】 彌留餘溫 | 留戀或放手，哪個更值得揮霍 (Official Video) #落下 #二部曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "zRc-JrFywYc",
-      "title": "【迷宇】 聖誕節問句 | 冬夜裡的未竟之語 (Official Lyric Video) #聖誕告白"
+      "title": "【迷宇】 聖誕節問句 | 冬夜裡的未竟之語 (Official Lyric Video) #聖誕告白",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "qfzevBXuB4A",
-      "title": "【迷宇】 落日焦糖 | 承諾像焦糖般脆裂 (Official Lyric Video)"
+      "title": "【迷宇】 落日焦糖 | 承諾像焦糖般脆裂 (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "Wbge943Rjeo",
-      "title": "【迷宇】哭惹｜陷入四種狀態的無盡循環、睡吧，哭吧，醉吧，醒吧 (Official Music Video)"
+      "title": "【迷宇】哭惹｜陷入四種狀態的無盡循環、睡吧，哭吧，醉吧，醒吧 (Official Music Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.41
     },
     {
       "videoId": "D9BwWpiVgvU",
-      "title": "【迷宇】傻福｜誰笑我笨，我都不會介意 (Official Video)"
+      "title": "【迷宇】傻福｜誰笑我笨，我都不會介意 (Official Video)",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "DmKOCII4aQc",
-      "title": "【迷宇】 慢慢愈合 | 當疼痛變成 我唯一的擁有 (Official Lyric Video)"
+      "title": "【迷宇】 慢慢愈合 | 當疼痛變成 我唯一的擁有 (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "0W2oCAehx8U",
-      "title": "【迷宇】 腦袋卡關的宇宙 | 是否創意枯竭、深夜內耗、思緒又打架呢？"
+      "title": "【迷宇】 腦袋卡關的宇宙 | 是否創意枯竭、深夜內耗、思緒又打架呢？",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "L_m2U0nlpSk",
