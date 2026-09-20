@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T18:55:44.014+08:00",
+  "lastUpdated": "2026-09-20T19:00:48.520+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -856,43 +856,63 @@
     },
     {
       "videoId": "8_gpqhxa_JI",
-      "title": "【中國風 玉環說 | 古風R&B 原創】 九黎月 🎻 相思入骨 卻換不來你一回"
+      "title": "【中國風 玉環說 | 古風R&B 原創】 九黎月 🎻 相思入骨 卻換不來你一回",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "MnXpCCRO5_c",
-      "title": "【R&B Play list 療癒情歌】- 每一首都捨不得切歌｜煙嗓女聲主題音樂｜R&B原創音樂播放清單"
+      "title": "【R&B Play list 療癒情歌】- 每一首都捨不得切歌｜煙嗓女聲主題音樂｜R&B原創音樂播放清單",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "E8PBkFIDxD0",
-      "title": "【中國風 亥時令 | 暗黑古風R&B 原創】九黎月 ｜五子哭墓 哭的是誰的墳安的是誰的魂"
+      "title": "【中國風 亥時令 | 暗黑古風R&B 原創】九黎月 ｜五子哭墓 哭的是誰的墳安的是誰的魂",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "t9Z8mQuel8k",
-      "title": "【中國風 酆都交易 | 暗黑古風R&B 原創】- 九黎月 💟 豐都鬼市 歇市子時"
+      "title": "【中國風 酆都交易 | 暗黑古風R&B 原創】- 九黎月 💟 豐都鬼市 歇市子時",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "Q_VbPrSA4ls",
-      "title": "【中國風 鏡中魑魅 | 暗黑系古風R&B 原創】 九黎月 🌙 鏡中，那張臉 笑得有多諷；瞳孔，倒映出 最真實的痛"
+      "title": "【中國風 鏡中魑魅 | 暗黑系古風R&B 原創】 九黎月 🌙 鏡中，那張臉 笑得有多諷；瞳孔，倒映出 最真實的痛",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "NxNJIqhCtSs",
-      "title": "【R&B  我不委屈 | R&B 原創】- 夏音Natsune ｜我不委屈，只是太想你"
+      "title": "【R&B  我不委屈 | R&B 原創】- 夏音Natsune ｜我不委屈，只是太想你",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "_kWaEKYkJiw",
-      "title": "【中國風 雲端誰等我 | 中國民謠風 R&B】九黎月 ｜空山新雨後，雲端誰等我"
+      "title": "【中國風 雲端誰等我 | 中國民謠風 R&B】九黎月 ｜空山新雨後，雲端誰等我",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "NPxT46Fml4o",
-      "title": "R&B  下一站的幸福是你嗎？R&B 原創｜夏音Natsune ｜我們相遇 不再需要擦肩而過"
+      "title": "R&B  下一站的幸福是你嗎？R&B 原創｜夏音Natsune ｜我們相遇 不再需要擦肩而過",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "h59RgzTkqFI",
-      "title": "【中國風 殘月不歸 | 古風R&B 原創】九黎月 ｜像愛恨一樣　不肯終結"
+      "title": "【中國風 殘月不歸 | 古風R&B 原創】九黎月 ｜像愛恨一樣　不肯終結",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "YOLyThs5N6I",
-      "title": "【中國風 花影戲 | 古風R&B 原創】九黎月 🎶 半份矜持半份怨，一夢回眸又一年。"
+      "title": "【中國風 花影戲 | 古風R&B 原創】九黎月 🎶 半份矜持半份怨，一夢回眸又一年。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "YDqSghwSfP8",
