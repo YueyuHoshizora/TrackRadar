@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T14:20:46.433+08:00",
+  "lastUpdated": "2026-09-20T14:25:45.839+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -1402,43 +1402,63 @@
     },
     {
       "videoId": "d-j4WZx-I9s",
-      "title": "【暈船必聽】《別再給我機會了》明明是妳先敲碎我的平靜，為何最後受傷的是我？｜虐心｜頌心意 X 霧月Xiaoloulou #心意詞"
+      "title": "【暈船必聽】《別再給我機會了》明明是妳先敲碎我的平靜，為何最後受傷的是我？｜虐心｜頌心意 X 霧月Xiaoloulou #心意詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "fJ7EoMd1Quc",
-      "title": "【虐心古風】《思無絕》若予明朝魂歸盡，君心可曾起微塵？｜催淚原創｜霧月Xiaoloulou ｜ #霧月詞"
+      "title": "【虐心古風】《思無絕》若予明朝魂歸盡，君心可曾起微塵？｜催淚原創｜霧月Xiaoloulou ｜ #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Yz524-QtbT8",
-      "title": "【Playlist】 以為酒精能麻痺心痛，結果聽到這句「幾乎是永遠」直接淚崩... 🍺 適合深夜獨處的微醺歌單｜霧月 Xiaoloulou 深夜emo作品集 【Full Mixtape】"
+      "title": "【Playlist】 以為酒精能麻痺心痛，結果聽到這句「幾乎是永遠」直接淚崩... 🍺 適合深夜獨處的微醺歌單｜霧月 Xiaoloulou 深夜emo作品集 【Full Mixtape】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "Pem3UwOS_Kc",
-      "title": "🫂「伏在妳懷裡時，我甚至忘了怎麼呼吸...」｜這首歌太犯規了 💔 ｜《靜候於無聲》｜霧月　Xiaoloulou #霧月詞"
+      "title": "🫂「伏在妳懷裡時，我甚至忘了怎麼呼吸...」｜這首歌太犯規了 💔 ｜《靜候於無聲》｜霧月　Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "EJ6Usl-sAlo",
-      "title": "🫣【曖昧撩撥必聽】《#僅限已讀的試探》｜給所有打完字又刪掉的人｜霧月 Xiaoloulou #霧月詞"
+      "title": "🫣【曖昧撩撥必聽】《#僅限已讀的試探》｜給所有打完字又刪掉的人｜霧月 Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "mFFi7oM8n1A",
-      "title": "聽完這首曲子，我就決定不再等你了... 🌧️ 《野花與消瘦的月》｜霧月Xiaoloulou｜虐心文藝原創 (Official Audio) #霧月詞"
+      "title": "聽完這首曲子，我就決定不再等你了... 🌧️ 《野花與消瘦的月》｜霧月Xiaoloulou｜虐心文藝原創 (Official Audio) #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "HTEYs82M9dU",
-      "title": "🚫 別讓我撐過今晚。 | 絕望/致鬱/ 《缺口的形狀》｜霧月 Xiaoloulou｜虐心華語流行 (Official Audio) #霧月詞"
+      "title": "🚫 別讓我撐過今晚。 | 絕望/致鬱/ 《缺口的形狀》｜霧月 Xiaoloulou｜虐心華語流行 (Official Audio) #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "DeZpG-FwxEs",
-      "title": "💔 我們最大的默契，就是把「深愛」說成「無端」。｜《無端 Remastered》｜霧月  Xiaoloulou｜#霧月詞"
+      "title": "💔 我們最大的默契，就是把「深愛」說成「無端」。｜《無端 Remastered》｜霧月  Xiaoloulou｜#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "CTpwQlar60Y",
-      "title": "適合獨處的冬日鋼琴曲 ❄️｜缺席的十二月 The Absent December [Full Album]｜Study, Sleep, Relax"
+      "title": "適合獨處的冬日鋼琴曲 ❄️｜缺席的十二月 The Absent December [Full Album]｜Study, Sleep, Relax",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "UutIU7U4AQM",
-      "title": "🏮 結髮為夫妻，恩愛兩不疑... 《結髮》)｜古風/仙俠/唯美 BGM ｜《結髮》｜霧月 Xiaoloulou｜ #霧月詞"
+      "title": "🏮 結髮為夫妻，恩愛兩不疑... 《結髮》)｜古風/仙俠/唯美 BGM ｜《結髮》｜霧月 Xiaoloulou｜ #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "xp3gVWLfDXI",
