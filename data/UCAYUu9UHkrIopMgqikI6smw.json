@@ -1,7 +1,7 @@
 {
   "channelId": "UCAYUu9UHkrIopMgqikI6smw",
   "channelTitle": "空山和尚",
-  "lastUpdated": "2026-09-20T12:29:36.916+08:00",
+  "lastUpdated": "2026-09-20T12:35:42.873+08:00",
   "latestVideo": {
     "videoId": "un-ULt6ISkk",
     "title": "人這一生，到底在追什麼？｜《紅塵客》｜空山和尚",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "j8fnXXsQRBE",
-      "title": "《死罪》｜你奪走他的呼吸，世界要你還他｜空山和尚"
+      "title": "《死罪》｜你奪走他的呼吸，世界要你還他｜空山和尚",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.47
     },
     {
       "videoId": "s9YJteox4os",
-      "title": "上善若水｜空山和尚｜最強禪意療癒音樂・靜心冥想・放下焦慮的一首歌"
+      "title": "上善若水｜空山和尚｜最強禪意療癒音樂・靜心冥想・放下焦慮的一首歌",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "SRrZUIhCJCg",
-      "title": "《星君說》｜你以為你在想，其實是念在動｜一念起，業已成形 ｜空山和尚"
+      "title": "《星君說》｜你以為你在想，其實是念在動｜一念起，業已成形 ｜空山和尚",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "gkFFrp90BCk",
-      "title": "《自在無礙》｜看懂的人，已經不再被世界困住｜空山和尚 Zen Blues｜禪意音樂"
+      "title": "《自在無礙》｜看懂的人，已經不再被世界困住｜空山和尚 Zen Blues｜禪意音樂",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.45
     },
     {
       "videoId": "7Di7AguV_G4",
-      "title": "《諸相非相》｜當你看破一切，才真正自由｜空山和尚 Zen Blues｜禪意音樂 × 古風藍調"
+      "title": "《諸相非相》｜當你看破一切，才真正自由｜空山和尚 Zen Blues｜禪意音樂 × 古風藍調",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "iDSJi87Jl7M",
-      "title": "《空山無生》｜生亦何歡 死亦何苦｜禪意音樂 × 古風藍調｜深度冥想・放下執著"
+      "title": "《空山無生》｜生亦何歡 死亦何苦｜禪意音樂 × 古風藍調｜深度冥想・放下執著",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "4Jc2E8SrMgI",
-      "title": "夜深必聽｜當你不再爭，世界反而鬆開｜無名之山"
+      "title": "夜深必聽｜當你不再爭，世界反而鬆開｜無名之山",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "XMJYyXezTE8",
-      "title": "《降伏其心》｜聽懂《金剛經》這一句，你會突然安靜下來｜空山和尚"
+      "title": "《降伏其心》｜聽懂《金剛經》這一句，你會突然安靜下來｜空山和尚",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "iaBtKnlD7rw",
-      "title": "新年不急，歲月不慌｜《空山新年後》平安健康的溫柔祝福"
+      "title": "新年不急，歲月不慌｜《空山新年後》平安健康的溫柔祝福",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "cNQFGwuugoI",
-      "title": "情人節，我在空山｜夜深時，最容易想起的一首歌"
+      "title": "情人節，我在空山｜夜深時，最容易想起的一首歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "rj-o5o0IyEY",
