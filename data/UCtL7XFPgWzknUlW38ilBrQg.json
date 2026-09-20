@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T16:35:46.707+08:00",
+  "lastUpdated": "2026-09-20T16:40:45.053+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -3022,43 +3022,63 @@
     },
     {
       "videoId": "ns9JWg3gGV8",
-      "title": "雲霧情殤 Like the Cloud and Sea, Always Near, Always Apart - 霧月 Xiaoloulou || 潮來潮去，情不自渡。與雲海一般，蒸散輪迴。"
+      "title": "雲霧情殤 Like the Cloud and Sea, Always Near, Always Apart - 霧月 Xiaoloulou || 潮來潮去，情不自渡。與雲海一般，蒸散輪迴。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "fpRdfDMoUAE",
-      "title": "紅塵獨行 A Lantern, Ten Thousand Dusts - Xiaoloulou 霧月 || 浮生夢，空山跡；一盞燈，萬重塵；舊影沉煙水。"
+      "title": "紅塵獨行 A Lantern, Ten Thousand Dusts - Xiaoloulou 霧月 || 浮生夢，空山跡；一盞燈，萬重塵；舊影沉煙水。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "j1Q4nj25fcE",
-      "title": "晴雨之間 Between Sunlight and Rain - Xiaoloulou 霧月 || 不是所有的晴，都無風雨，而我即使不在妳身邊，也願與妳風雨一程。"
+      "title": "晴雨之間 Between Sunlight and Rain - Xiaoloulou 霧月 || 不是所有的晴，都無風雨，而我即使不在妳身邊，也願與妳風雨一程。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "Jo5aJ0OHgXA",
-      "title": "幽夢難回 The Soundless End of a One-Sided Dream - Xiaoloulou 霧月 || 一場不該開始的夢"
+      "title": "幽夢難回 The Soundless End of a One-Sided Dream - Xiaoloulou 霧月 || 一場不該開始的夢",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "j-9srf-Kj3A",
-      "title": "情由幾何 - Xiaoloulou 霧月 || 剪不斷，是離愁"
+      "title": "情由幾何 - Xiaoloulou 霧月 || 剪不斷，是離愁",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "awmFQOLoPZw",
-      "title": "Sweet Lies and Silent Cries - Xiaoloulou 霧月 || Where Silence Hurts Louder Than Lies"
+      "title": "Sweet Lies and Silent Cries - Xiaoloulou 霧月 || Where Silence Hurts Louder Than Lies",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "w47-w1cbSG4",
-      "title": "指間流年 Exiled Within the Flow of Time - Xiaoloulou 霧月 || 愛自心上，流放千載"
+      "title": "指間流年 Exiled Within the Flow of Time - Xiaoloulou 霧月 || 愛自心上，流放千載",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "lDZZHFXccko",
-      "title": "鏡花水月 The Dream that Shattered Softly - Xiaoloulou 霧月 || 一場無聲盛放的夢，靜靜地破碎，無需證明。"
+      "title": "鏡花水月 The Dream that Shattered Softly - Xiaoloulou 霧月 || 一場無聲盛放的夢，靜靜地破碎，無需證明。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "5rU0fTINiBI",
-      "title": "陽光是心的倒影 Where the Heart Reflects the Light - Xiaoloulou 霧月 || 靜靜照著不說話的海"
+      "title": "陽光是心的倒影 Where the Heart Reflects the Light - Xiaoloulou 霧月 || 靜靜照著不說話的海",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "Zb0gw4RtMI4",
-      "title": "琉璃碎 - Xiaoloulou 霧月 || 無聲墜落的心燈，癡念若琉璃，一觸即碎。"
+      "title": "琉璃碎 - Xiaoloulou 霧月 || 無聲墜落的心燈，癡念若琉璃，一觸即碎。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "wReO3MMGInU",
