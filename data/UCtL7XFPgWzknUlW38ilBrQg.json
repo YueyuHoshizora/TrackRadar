@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T15:55:46.029+08:00",
+  "lastUpdated": "2026-09-20T16:00:52.941+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -2542,43 +2542,63 @@
     },
     {
       "videoId": "Ggo0oJF7kYw",
-      "title": "《紅月沉雪》霧月 Xiaoloulou｜紅與白之間的愛與覆沒"
+      "title": "《紅月沉雪》霧月 Xiaoloulou｜紅與白之間的愛與覆沒",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "c0Lgj3ZNOpc",
-      "title": "《釵頭鳳。獨醒》 霧月 Xiaoloulou || 古風詩詞歌曲 | 傳統詞牌與現代詩性交織的孤夜傷感之歌 （重新編曲版）"
+      "title": "《釵頭鳳。獨醒》 霧月 Xiaoloulou || 古風詩詞歌曲 | 傳統詞牌與現代詩性交織的孤夜傷感之歌 （重新編曲版）",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "-LzXqFhlUrk",
-      "title": "《雙全》霧月 Xiaoloulou｜不負如來，不負卿 – 古風詩意情歌（完全重製版）"
+      "title": "《雙全》霧月 Xiaoloulou｜不負如來，不負卿 – 古風詩意情歌（完全重製版）",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "ru_LxYawJcg",
-      "title": "《幽燈引》霧月 Xiaoloulou｜魂赴幽燈，情為冥約 – 古風詩意情歌（東方哥德原創）"
+      "title": "《幽燈引》霧月 Xiaoloulou｜魂赴幽燈，情為冥約 – 古風詩意情歌（東方哥德原創）",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "BylsmR7eqe8",
-      "title": "《影》霧月 Xiaoloulou – 命名即咒，焚影為詩｜古風詩歌（東方哥德原創）"
+      "title": "《影》霧月 Xiaoloulou – 命名即咒，焚影為詩｜古風詩歌（東方哥德原創）",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Tpdp52bCkP8",
-      "title": "《Mere shadow》（Re-arrange）霧月 Xiaoloulou || All my consciousness is deafenin’"
+      "title": "《Mere shadow》（Re-arrange）霧月 Xiaoloulou || All my consciousness is deafenin’",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.26
     },
     {
       "videoId": "cnYu-0OneLc",
-      "title": "《自問》霧月 Xiaoloulou｜癡心未倦，卻無人應答的詩意獨白｜國風現代詞體作品"
+      "title": "《自問》霧月 Xiaoloulou｜癡心未倦，卻無人應答的詩意獨白｜國風現代詞體作品",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "ohXBfaTc8TY",
-      "title": "《Did You Ever Love Me》 – Poetic Breakup Monologue | Xiaoloulou 霧月 Original English Poem"
+      "title": "《Did You Ever Love Me》 – Poetic Breakup Monologue | Xiaoloulou 霧月 Original English Poem",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "VhH8ALE2p-w",
-      "title": "《冥火辭》霧月 Xiaoloulou｜火為咒，名為魂｜詩意自命與靈魂獻祭之書"
+      "title": "《冥火辭》霧月 Xiaoloulou｜火為咒，名為魂｜詩意自命與靈魂獻祭之書",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "1bdzXvfQS_k",
-      "title": "《有沒有一種愛，在熟識她之前，就知道要愛？》霧月 Xiaoloulou｜影子之愛與沉沒之詩"
+      "title": "《有沒有一種愛，在熟識她之前，就知道要愛？》霧月 Xiaoloulou｜影子之愛與沉沒之詩",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "9ecgBt8IaH0",
