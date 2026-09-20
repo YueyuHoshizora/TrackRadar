@@ -1,7 +1,7 @@
 {
   "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
   "channelTitle": "弦斷誰聽",
-  "lastUpdated": "2026-09-20T14:20:44.566+08:00",
+  "lastUpdated": "2026-09-20T14:25:40.932+08:00",
   "latestVideo": {
     "videoId": "ue5nkfnzy3A",
     "title": "《我不是美人魚》聽完直接破防！原來奮不顧身換來的，只是一場虛幻夢境 ｜弦斷誰聽",
@@ -1156,35 +1156,51 @@
     },
     {
       "videoId": "NKJQJwz8LN4",
-      "title": "【治癒女聲】江南煙雨 | 原來回憶，才是最傷人的兵器｜MV Official Audio｜Lyrics Video【古風原創】 #流行歌曲"
+      "title": "【治癒女聲】江南煙雨 | 原來回憶，才是最傷人的兵器｜MV Official Audio｜Lyrics Video【古風原創】 #流行歌曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "BRCnXdjUU1I",
-      "title": "【空山‧魅】紙嫁：焚紙成婚 | 嗩吶一響，是劫是緣？｜你有膽子看到最後嗎？｜Official Audio｜Lyrics Video【古風原創】【空山宇宙】#空山"
+      "title": "【空山‧魅】紙嫁：焚紙成婚 | 嗩吶一響，是劫是緣？｜你有膽子看到最後嗎？｜Official Audio｜Lyrics Video【古風原創】【空山宇宙】#空山",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "vjghriPcMrc",
-      "title": "【空山‧入魔】彼岸花開之時，便是萬劫不復｜高燃古風 Dark Epic MV｜Official Audio｜Lyrics Video【古風原創】"
+      "title": "【空山‧入魔】彼岸花開之時，便是萬劫不復｜高燃古風 Dark Epic MV｜Official Audio｜Lyrics Video【古風原創】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "ijNRJDKdWfQ",
-      "title": "吳麗萍你好像搭丟賽｜Official Lyric Video｜ 我的耳朵徹底壞了 😭 #吳麗萍搭丟賽 #CORTIS #Music #lyricvideo #newsong #原創歌曲 #吳麗萍"
+      "title": "吳麗萍你好像搭丟賽｜Official Lyric Video｜ 我的耳朵徹底壞了 😭 #吳麗萍搭丟賽 #CORTIS #Music #lyricvideo #newsong #原創歌曲 #吳麗萍",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.36
     },
     {
       "videoId": "d7RApzGBKxQ",
-      "title": "【仙二代】空山‧仙二代｜沒錢別修仙｜狂龍真人｜【Official Audio】Lyrics Video 仙二代楷模 #唐三十六 #擇天記 #王也 #一人之下"
+      "title": "【仙二代】空山‧仙二代｜沒錢別修仙｜狂龍真人｜【Official Audio】Lyrics Video 仙二代楷模 #唐三十六 #擇天記 #王也 #一人之下",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "gT1HCdh6Qe0",
-      "title": "【古風】【空山宇宙】【空山‧勞山道士】王生穿牆術，學生不能不了解的歌 | 仙法在手，天地任我遊 Lyrics Video"
+      "title": "【古風】【空山宇宙】【空山‧勞山道士】王生穿牆術，學生不能不了解的歌 | 仙法在手，天地任我遊 Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "nf5LVT2wwkI",
-      "title": "【空山宇宙】【古風原創】Lyrics Video 空山‧燼中白雪｜燃盡九尾只為護妳成帝。一曲唱盡極致的溫柔與悲傷，養寵物的請小心觀看 #空山 #古風歌曲 #古風音樂"
+      "title": "【空山宇宙】【古風原創】Lyrics Video 空山‧燼中白雪｜燃盡九尾只為護妳成帝。一曲唱盡極致的溫柔與悲傷，養寵物的請小心觀看 #空山 #古風歌曲 #古風音樂",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "hg0WIGQFRsw",
-      "title": "【古風燃曲】【空山宇宙】空山‧逆命｜我命由我不由蒼！震撼女聲演繹凡骨登天之路 (Epic Gufeng Rock)"
+      "title": "【古風燃曲】【空山宇宙】空山‧逆命｜我命由我不由蒼！震撼女聲演繹凡骨登天之路 (Epic Gufeng Rock)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.95
     }
   ]
 }
