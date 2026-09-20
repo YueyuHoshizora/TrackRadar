@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T20:05:45.195+08:00",
+  "lastUpdated": "2026-09-20T20:10:45.339+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1636,43 +1636,63 @@
     },
     {
       "videoId": "jF8NVZxpcMg",
-      "title": "LOFI playlist 黑咖啡的夜裡 - 夏音Natsune ☕ 深夜Lofi煙嗓女聲 | 孤獨與安靜的療癒音樂 | Chill Lo-fi / 失眠專用 / 夜晚放鬆 BGM"
+      "title": "LOFI playlist 黑咖啡的夜裡 - 夏音Natsune ☕ 深夜Lofi煙嗓女聲 | 孤獨與安靜的療癒音樂 | Chill Lo-fi / 失眠專用 / 夜晚放鬆 BGM",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "UxIOv7DqWd4",
-      "title": "Kira - メリーゴー・ラブデート (Merry-go-Love Date) | Pop Acoustic City Pop Cover"
+      "title": "Kira - メリーゴー・ラブデート (Merry-go-Love Date) | Pop Acoustic City Pop Cover",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "M2RJdLiO1lo",
-      "title": "[LOFI 不被愛的那個] 夏音Natsune -｜在一場愛情裡有時候會多出一個不被愛的人｜Lofi City Pop Electronic Cover | Chill Remix"
+      "title": "[LOFI 不被愛的那個] 夏音Natsune -｜在一場愛情裡有時候會多出一個不被愛的人｜Lofi City Pop Electronic Cover | Chill Remix",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "K_NYNjOKjNQ",
-      "title": "「LOFI playlist 一小時純音樂」凜 Rin - 霧氣夜色 (Foggy Night) | Lofi City Pop Electronic Cover"
+      "title": "「LOFI playlist 一小時純音樂」凜 Rin - 霧氣夜色 (Foggy Night) | Lofi City Pop Electronic Cover",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "wXyg8kSJq2s",
-      "title": "「LOFI playlist 藍調夜色」 凜 Rin - ｜一小時純音樂 | Lofi Electronic City Pop Cover | Chill Music"
+      "title": "「LOFI playlist 藍調夜色」 凜 Rin - ｜一小時純音樂 | Lofi Electronic City Pop Cover | Chill Music",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "21xpprIULRk",
-      "title": "[LOFI 等下一班] -夏音Natsune - ｜菸嗓｜療癒情歌｜(Lofi Electronic City Pop Cover)"
+      "title": "[LOFI 等下一班] -夏音Natsune - ｜菸嗓｜療癒情歌｜(Lofi Electronic City Pop Cover)",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "NLCCjIGWPAo",
-      "title": "LOFI 假裝沒看見 - 夏音Natsune | 菸嗓小天后 | Lofi City Pop Electronic Cover"
+      "title": "LOFI 假裝沒看見 - 夏音Natsune | 菸嗓小天后 | Lofi City Pop Electronic Cover",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "AuV9lI6LTEQ",
-      "title": "LOFI 和風也可以FOLI | 凜 Rin | 一小時不間斷純音樂 |"
+      "title": "LOFI 和風也可以FOLI | 凜 Rin | 一小時不間斷純音樂 |",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "v3iiuiBccwk",
-      "title": "LOFI playlist Chillwave Shadows (凜 Rin) 一小時純音樂｜Lofi Electronic City Pop Cover"
+      "title": "LOFI playlist Chillwave Shadows (凜 Rin) 一小時純音樂｜Lofi Electronic City Pop Cover",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.5
     },
     {
       "videoId": "8tsQhRDOY9g",
-      "title": "LOFI  背對離開 (夏音Natsune) ｜菸嗓小天后｜Lofi Electronic City Pop Cover | Chill Vibes Remix"
+      "title": "LOFI  背對離開 (夏音Natsune) ｜菸嗓小天后｜Lofi Electronic City Pop Cover | Chill Vibes Remix",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "UWLT4gA5WGA",
