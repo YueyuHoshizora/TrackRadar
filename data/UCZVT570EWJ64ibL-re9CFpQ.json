@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T19:10:43.984+08:00",
+  "lastUpdated": "2026-09-20T19:15:44.920+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1036,43 +1036,63 @@
     },
     {
       "videoId": "89lmRa5G4Mo",
-      "title": "【中國風 - 古剎煙雨】- 九黎月 🎧 慵懶R&B旋律與古風煙雨意境交織｜R&B Music / 深情唯美 / 靜夜獨酌"
+      "title": "【中國風 - 古剎煙雨】- 九黎月 🎧 慵懶R&B旋律與古風煙雨意境交織｜R&B Music / 深情唯美 / 靜夜獨酌",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "xQz3mpqq4lA",
-      "title": "【EDM Playlist 12 - High-energy pop-rock 】-  🎻 Japanese shamisen, house drum groove. You will like it"
+      "title": "【EDM Playlist 12 - High-energy pop-rock 】-  🎻 Japanese shamisen, house drum groove. You will like it",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "-6bLfjChXB4",
-      "title": "【R&B  - 細雨．細語】- 夏音Natsune ☀️ 菸嗓慵懶Lofi氛圍｜Lofi Music / 沉靜治癒 / 雨夜讀書、獨處冥想"
+      "title": "【R&B  - 細雨．細語】- 夏音Natsune ☀️ 菸嗓慵懶Lofi氛圍｜Lofi Music / 沉靜治癒 / 雨夜讀書、獨處冥想",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "OHKw8Q1lPsE",
-      "title": "【中國風 - 十年一劍 】- 九黎月 💞 十年沉澱古風R&B原創力作，菸嗓盡顯深情與風骨｜古風R&B Music / 深情、蒼涼、詩意 / 夜闌人靜、獨酌品茗"
+      "title": "【中國風 - 十年一劍 】- 九黎月 💞 十年沉澱古風R&B原創力作，菸嗓盡顯深情與風骨｜古風R&B Music / 深情、蒼涼、詩意 / 夜闌人靜、獨酌品茗",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "1FtXMGO8BjM",
-      "title": "【DEM Playlist 11 | Foxy Funk Night】｜Lo-Fi Funk/EDM 超潮夜晚音樂"
+      "title": "【DEM Playlist 11 | Foxy Funk Night】｜Lo-Fi Funk/EDM 超潮夜晚音樂",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "2NX_nY_GyVM",
-      "title": "【中國風Trap   - 狐說 Fox’s Tale（mix版）】 九黎月-古風R&B ｜妖狐X菸嗓小天后｜Chinese Ancient Fantasy Song"
+      "title": "【中國風Trap   - 狐說 Fox’s Tale（mix版）】 九黎月-古風R&B ｜妖狐X菸嗓小天后｜Chinese Ancient Fantasy Song",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "5aI5zMOJAUE",
-      "title": "【DEM Playlist 10 | Festival Spirit Fox】- Sonic Pulse 💚 Epic Groove｜EDM Instrumental / Euphoric"
+      "title": "【DEM Playlist 10 | Festival Spirit Fox】- Sonic Pulse 💚 Epic Groove｜EDM Instrumental / Euphoric",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "0V1xW-myCT4",
-      "title": "【中國風Playlist - 雪融花香】- 九黎月 💫 古風R&B絕美原創 菸嗓低語醇厚微醺｜R&B Music / 浪漫深情 / 月下品茗"
+      "title": "【中國風Playlist - 雪融花香】- 九黎月 💫 古風R&B絕美原創 菸嗓低語醇厚微醺｜R&B Music / 浪漫深情 / 月下品茗",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "FQS15G9h4zI",
-      "title": "【LoFi Playlist 12 | Lo-fi Adventure Quest】- sonicpulse 💝 Adventure Chill｜Lofi Music / Dreamy / Study"
+      "title": "【LoFi Playlist 12 | Lo-fi Adventure Quest】- sonicpulse 💝 Adventure Chill｜Lofi Music / Dreamy / Study",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "A4rHlyL8yLI",
-      "title": "【中國風 - 貂蟬說 | 古風R&B 原創｜】- 九黎月 🎭 古風R&B都會魅惑｜R&B Music / 菸嗓低迴深情婉轉 / 月下闌珊醉人夜色"
+      "title": "【中國風 - 貂蟬說 | 古風R&B 原創｜】- 九黎月 🎭 古風R&B都會魅惑｜R&B Music / 菸嗓低迴深情婉轉 / 月下闌珊醉人夜色",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "qK_I25PIA4g",
