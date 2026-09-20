@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T15:00:52.058+08:00",
+  "lastUpdated": "2026-09-20T15:05:46.328+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -1882,43 +1882,63 @@
     },
     {
       "videoId": "cZUqqZyTE08",
-      "title": "《別讓她看見我流淚》霧月 Xiaoloulou ｜雨會記得，我不敢說的愛。"
+      "title": "《別讓她看見我流淚》霧月 Xiaoloulou ｜雨會記得，我不敢說的愛。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "1CaBlHeOd38",
-      "title": "《愛殤》霧月 Xiaoloulou｜花不在，予尚在。 #霧月詞"
+      "title": "《愛殤》霧月 Xiaoloulou｜花不在，予尚在。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "bDTS5PMuQv4",
-      "title": "《仍然等妳》霧月 Xiaoloulou｜靜裡有風，風裡仍是妳。 #霧月詞"
+      "title": "《仍然等妳》霧月 Xiaoloulou｜靜裡有風，風裡仍是妳。 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "df8NrqUlkc4",
-      "title": "《Ghost in the Blues》霧月 Xiaoloulou｜靈於藍裡，聲仍回盪。 #霧月詞"
+      "title": "《Ghost in the Blues》霧月 Xiaoloulou｜靈於藍裡，聲仍回盪。 #霧月詞",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "ZUnz4uqVmE4",
-      "title": "《說不出口的以後》霧月 Xiaoloulou｜愛已到盡頭，話仍停在心口。 #霧月詞"
+      "title": "《說不出口的以後》霧月 Xiaoloulou｜愛已到盡頭，話仍停在心口。 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "8RLd5LlvW7k",
-      "title": "《藍之幽魂》霧月 Xiaoloulou｜靈在藍裡，聲仍未散。 #霧月詞"
+      "title": "《藍之幽魂》霧月 Xiaoloulou｜靈在藍裡，聲仍未散。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "uZX9p-qb4Vc",
-      "title": "《Ready for Love》霧月 Xiaoloulou｜The Fire That Waits Beneath the Quiet #霧月詞"
+      "title": "《Ready for Love》霧月 Xiaoloulou｜The Fire That Waits Beneath the Quiet #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "f_NrKKmyMlE",
-      "title": "《靜燃》霧月 Xiaoloulou｜愛將啟，夜將燃。 #霧月詞"
+      "title": "《靜燃》霧月 Xiaoloulou｜愛將啟，夜將燃。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "Pr7V4mIlrPY",
-      "title": "《Stay in the Quiet》霧月 Xiaoloulou｜Hold me where silence still breathes. #霧月詞"
+      "title": "《Stay in the Quiet》霧月 Xiaoloulou｜Hold me where silence still breathes. #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "jqH4S67lbTQ",
-      "title": "《靜夜不語》霧月 Xiaoloulou｜在寂靜仍呼吸的夜裡，讓我歸於妳懷。 #霧月詞"
+      "title": "《靜夜不語》霧月 Xiaoloulou｜在寂靜仍呼吸的夜裡，讓我歸於妳懷。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "ZwSOc1oshLQ",
