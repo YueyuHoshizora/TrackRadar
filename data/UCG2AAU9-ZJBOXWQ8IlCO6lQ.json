@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T13:30:44.528+08:00",
+  "lastUpdated": "2026-09-20T13:35:43.194+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -562,43 +562,63 @@
     },
     {
       "videoId": "BAZuZHl6XnM",
-      "title": "Lo-fi 城市雨夜：給疲憊靈魂的微光 ｜ Lo-fi シティ・レイン：疲れた心への小さな光 ｜ Lo-fi City Rain: A Little Light for Tired Souls"
+      "title": "Lo-fi 城市雨夜：給疲憊靈魂的微光 ｜ Lo-fi シティ・レイン：疲れた心への小さな光 ｜ Lo-fi City Rain: A Little Light for Tired Souls",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "TV8L7nk12mE",
-      "title": "給疲憊的你。雨の音、君の涙。You are not alone in the darkness (Official AI Music Video)"
+      "title": "給疲憊的你。雨の音、君の涙。You are not alone in the darkness (Official AI Music Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "ZRcOQMyTCLE",
-      "title": "【北捷驚魂】誰在陰影裡埋伏？迷霧下的缺口 (The Silent Gap)｜誰毀了我們的安全感？(2025.12.19 反思)"
+      "title": "【北捷驚魂】誰在陰影裡埋伏？迷霧下的缺口 (The Silent Gap)｜誰毀了我們的安全感？(2025.12.19 反思)",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "KCU6wdHJevg",
-      "title": "【8分鐘極致沉浸】走進全球最奢華的聖誕夢境：街道漫步  City Funk 治癒金曲"
+      "title": "【8分鐘極致沉浸】走進全球最奢華的聖誕夢境：街道漫步  City Funk 治癒金曲",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "b9Wxgs_N3VA",
-      "title": "即便世界崩塌，我也會在這裡陪你。｜9分45秒沈浸式治癒音樂電影 (AI Anime MV)"
+      "title": "即便世界崩塌，我也會在這裡陪你。｜9分45秒沈浸式治癒音樂電影 (AI Anime MV)",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "mUL43WTbn8M",
-      "title": "【震撼】當 AI 只要一秒，你的十年功力還算什麼？《餘贅》(Industrial Hip-Hop)"
+      "title": "【震撼】當 AI 只要一秒，你的十年功力還算什麼？《餘贅》(Industrial Hip-Hop)",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1
     },
     {
       "videoId": "u7Tba8inb48",
-      "title": "【文化戰爭】VTuber vs. 實況圈：虛擬邊界的歇斯底里衝突 (Industrial Trap M/V)"
+      "title": "【文化戰爭】VTuber vs. 實況圈：虛擬邊界的歇斯底里衝突 (Industrial Trap M/V)",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.2
     },
     {
       "videoId": "ky7f0wOfyJQ",
-      "title": "不再是附屬品：Aggressive Trap X R&B靈魂 (活出最好的自己)"
+      "title": "不再是附屬品：Aggressive Trap X R&B靈魂 (活出最好的自己)",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "ncEe33x_9xY",
-      "title": "K-POP 男團誕生！Y2K 復古電音 X 暴力重低音"
+      "title": "K-POP 男團誕生！Y2K 復古電音 X 暴力重低音",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "0LF1IzFgIeI",
-      "title": "🍍🐱 鳳梨！貓咪！無限迴圈！史上最抓耳的極端神曲 (Pineapple Cat Challenge) 🤯"
+      "title": "🍍🐱 鳳梨！貓咪！無限迴圈！史上最抓耳的極端神曲 (Pineapple Cat Challenge) 🤯",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "QoMtG5y_jlw",
