@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T12:40:46.214+08:00",
+  "lastUpdated": "2026-09-20T12:45:46.249+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "jGTPT5nvpqo",
-      "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "我一解釋，你就說我改口《說得不像我》｜說到後來，誰還需要見我｜人言可畏・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -40,19 +40,19 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
     {
       "videoId": "PBn-CJQvG6w",
-      "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+      "title": "我開始忘記你的樣子了《霓虹裡的失城者》｜恐懼的不是妳選擇放手，是鮮活記憶開始生了鏽｜忘不了一個人・中文藍調｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "sED1xy1gc0Y",
-      "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "你回頭一笑，我就入了冬《若只如初見》｜一笑回眸，天地寒｜忘不了一個人・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -262,43 +262,63 @@
     },
     {
       "videoId": "2Ch1pwZbtMA",
-      "title": "【霧月詞。設祭】 都說走的人會越來越遠｜偏偏只有你，越來越近｜寫給想念卻見不到的人｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。設祭】 都說走的人會越來越遠｜偏偏只有你，越來越近｜寫給想念卻見不到的人｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "8jDgLlpLWNU",
-      "title": "【霧月詞・夢天。破曉歸途】 你說裂痕終會撫平｜可我腳下盡是裂縫｜迷惘時聽的歌・答李賀｜霧月 Xiaoloulou【Official Music Video】｜官方MV"
+      "title": "【霧月詞・夢天。破曉歸途】 你說裂痕終會撫平｜可我腳下盡是裂縫｜迷惘時聽的歌・答李賀｜霧月 Xiaoloulou【Official Music Video】｜官方MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "wPG4UbRF55U",
-      "title": "【霧月詞。門沒有鎖】 你怕的從來不是我｜是牆裡那根抽不走的骨｜暗戀情歌・迴避型依戀｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。門沒有鎖】 你怕的從來不是我｜是牆裡那根抽不走的骨｜暗戀情歌・迴避型依戀｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "HYBRlzGJ-90",
-      "title": "【霧月詞。暗戀博物館】 有些喜歡，一輩子都在展出｜卻從來沒被領走｜暗戀情歌一小時合輯・華語playlist｜霧月 Xiaoloulou"
+      "title": "【霧月詞。暗戀博物館】 有些喜歡，一輩子都在展出｜卻從來沒被領走｜暗戀情歌一小時合輯・華語playlist｜霧月 Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "jklcvTu4OJ8",
-      "title": "【霧月詞。葬雨】 沒有墓碑的名字，要葬在哪｜天地這麼大，沒有一寸讓我葬她｜想念過世的人・安魂曲｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。葬雨】 沒有墓碑的名字，要葬在哪｜天地這麼大，沒有一寸讓我葬她｜想念過世的人・安魂曲｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "0LYQTXyF6pM",
-      "title": "【霧月詞。即知】 等我也到了那裡｜不必語，不必相認——一念相通，即知｜天人永隔・古風BE美學｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。即知】 等我也到了那裡｜不必語，不必相認——一念相通，即知｜天人永隔・古風BE美學｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "mg42KDExVS8",
-      "title": "【霧月詞。不識】 什麼都記得，卻想不起他的臉｜情之深者，反先忘其面｜想念一個人聽的歌・古風｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。不識】 什麼都記得，卻想不起他的臉｜情之深者，反先忘其面｜想念一個人聽的歌・古風｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "s6zg-EKPvtY",
-      "title": "【霧月詞。記之】花會謝，人會走｜四時可轉——妾所記者，不轉｜忘不了一個人・古風虐心｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。記之】花會謝，人會走｜四時可轉——妾所記者，不轉｜忘不了一個人・古風虐心｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "2mFuaX-r1f4",
-      "title": "最遠的距離，是再也看不見你《斷橋》｜一個人的七夕・迢迢牽牛星｜霧月詞・Xiaoloulou"
+      "title": "最遠的距離，是再也看不見你《斷橋》｜一個人的七夕・迢迢牽牛星｜霧月詞・Xiaoloulou",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "htHoKp5OBrE",
-      "title": "【霧月詞。燈河】每一盞燈都在回家｜整條河，卻沒有家｜一個人在外地聽的歌・深夜emo｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。燈河】每一盞燈都在回家｜整條河，卻沒有家｜一個人在外地聽的歌・深夜emo｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "b7RYfGKW1Nc",
