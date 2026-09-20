@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T14:25:45.839+08:00",
+  "lastUpdated": "2026-09-20T14:30:49.551+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -1462,43 +1462,63 @@
     },
     {
       "videoId": "xp3gVWLfDXI",
-      "title": "⚠️【致擅長曖昧的爛人】《別再給我機會了》頌心意版｜「妳沒那麼壞，壞的是我還在期待。」💔｜頌心意 X 霧月 Xiaoloulou｜華語虐心流行 #心意詞"
+      "title": "⚠️【致擅長曖昧的爛人】《別再給我機會了》頌心意版｜「妳沒那麼壞，壞的是我還在期待。」💔｜頌心意 X 霧月 Xiaoloulou｜華語虐心流行 #心意詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "SsDAkXgCdJc",
-      "title": "《心碎儀式》現在我瘋了，就像妳喜歡的那樣｜霧月 Xiaoloulou｜暗黑美學原創 (Official Audio)"
+      "title": "《心碎儀式》現在我瘋了，就像妳喜歡的那樣｜霧月 Xiaoloulou｜暗黑美學原創 (Official Audio)",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.5
     },
     {
       "videoId": "3t-bWug0CFs",
-      "title": "《故作姿態的墜落》妳的骯髒雙手，曾扯下我的白絲帶...｜霧月 Xiaoloulou｜暗黑美學原創 (Official Audio) #霧月詞"
+      "title": "《故作姿態的墜落》妳的骯髒雙手，曾扯下我的白絲帶...｜霧月 Xiaoloulou｜暗黑美學原創 (Official Audio) #霧月詞",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "NeCEDvLNZUw",
-      "title": "《沉默寡言的情人》世上最悲傷的事，是成為溫水裡的青蛙...｜霧月 Xiaoloulou｜深度虐心原創 #霧月詞"
+      "title": "《沉默寡言的情人》世上最悲傷的事，是成為溫水裡的青蛙...｜霧月 Xiaoloulou｜深度虐心原創 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "ZtignQd3yTw",
-      "title": "《界外之間》我寧願沉默，也不願面對失去...｜霧月 Xiaoloulou｜友達以上 虐心原創 (Official Audio)"
+      "title": "《界外之間》我寧願沉默，也不願面對失去...｜霧月 Xiaoloulou｜友達以上 虐心原創 (Official Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "hPhpYyjTPFA",
-      "title": "《我們之間，霧散的地方》我們怎麼走散得這麼快？｜霧月  Xiaoloulou｜虐心華語流行 (Official Audio)"
+      "title": "《我們之間，霧散的地方》我們怎麼走散得這麼快？｜霧月  Xiaoloulou｜虐心華語流行 (Official Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "3iFLx0E5Hxk",
-      "title": "《困於雨下》若妳早已轉身，為何把我困在這場雨裡？｜霧月 Xiaoloulou｜華語流行 #霧月詞"
+      "title": "《困於雨下》若妳早已轉身，為何把我困在這場雨裡？｜霧月 Xiaoloulou｜華語流行 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "AxFgAYC347o",
-      "title": "《笑意未曾抵達眼底》我們只能掛著虛偽微笑的面具，靈魂被放逐於連星光都不敢降臨的夜｜霧月 Xiaoloulou｜虐心原創 #霧月詞"
+      "title": "《笑意未曾抵達眼底》我們只能掛著虛偽微笑的面具，靈魂被放逐於連星光都不敢降臨的夜｜霧月 Xiaoloulou｜虐心原創 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "F18IRQGP1Ng",
-      "title": "［古風合輯 Playlist］《思無絕。夢斷長風 》FULL ALBUM｜霧月 Xiaoloulou #霧月詞"
+      "title": "［古風合輯 Playlist］《思無絕。夢斷長風 》FULL ALBUM｜霧月 Xiaoloulou #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "DJBalgdiMsM",
-      "title": "《逢魔七夜》逢魔之時兮，喪月墜江天｜霧月Xiaoloulou (原創古風) #霧月詞 #lyricvideo"
+      "title": "《逢魔七夜》逢魔之時兮，喪月墜江天｜霧月Xiaoloulou (原創古風) #霧月詞 #lyricvideo",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "3II_1ae_L_o",
