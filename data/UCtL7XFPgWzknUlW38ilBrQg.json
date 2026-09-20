@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T13:45:45.427+08:00",
+  "lastUpdated": "2026-09-20T13:50:51.344+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "jGTPT5nvpqo",
-      "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "我一解釋，你就說我改口《說得不像我》｜說到後來，誰還需要見我｜人言可畏・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -46,19 +46,19 @@
     },
     {
       "videoId": "PBn-CJQvG6w",
-      "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+      "title": "你走了，我的房間一樣都沒動《霓虹裡的失城者》｜房間擺設固執著原狀，刻意半掩那扇門的窗｜放不下一個人・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "sED1xy1gc0Y",
-      "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "沒人記得我，我還記得你《若只如初見》｜無人念予情，無人似予心｜深夜孤獨・文言古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "SNV1PsuGJKE",
-      "title": "情深到最後，只剩一把骨頭《風也來，雨也來》｜情深枯成骨，不負人卻寒｜愛而不得・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "一片相思，都吹成了灰《風也來，雨也來》｜吹向雲天外｜深夜孤獨・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -1042,43 +1042,63 @@
     },
     {
       "videoId": "XBQL9JSjWmU",
-      "title": "【2026賀歲神曲】《福氣就來到我這裡》誰說一定要等別人祝福？｜我自己先喊今年我最旺！｜霧月 Xiaoloulou｜(Official Lyric Audio)"
+      "title": "【2026賀歲神曲】《福氣就來到我這裡》誰說一定要等別人祝福？｜我自己先喊今年我最旺！｜霧月 Xiaoloulou｜(Official Lyric Audio)",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "By2X-HaouCc",
-      "title": "《0212祝我生日快樂》願風替妳開路，每一條岔路都屬於妳自己｜To My Loved One ｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "《0212祝我生日快樂》願風替妳開路，每一條岔路都屬於妳自己｜To My Loved One ｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "6s0RksPYuAA",
-      "title": "《圍籬》生鏽得很寧靜，像久病以後的身體...｜The Rusted Fence｜霧月 Xiaoloulou｜(Official Lyric Audio)"
+      "title": "《圍籬》生鏽得很寧靜，像久病以後的身體...｜The Rusted Fence｜霧月 Xiaoloulou｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.44
     },
     {
       "videoId": "H8SlA0p-myk",
-      "title": "【雨天必聽】《濕漉漉的妳》不想再和誰分享這樣的天氣...｜我願意淋濕自己｜霧月 Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【雨天必聽】《濕漉漉的妳》不想再和誰分享這樣的天氣...｜我願意淋濕自己｜霧月 Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "IPxoOLtWRnI",
-      "title": "【遺憾美學】《殘花墜落時》遲來多年的道歉，卻再也補不了什麼... ｜霧月 Xiaoloulou｜(Official Lyric Audio)"
+      "title": "【遺憾美學】《殘花墜落時》遲來多年的道歉，卻再也補不了什麼... ｜霧月 Xiaoloulou｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "yjtg2UygCKc",
-      "title": "【暈船必聽】我們從未是情人，卻以情人的方式分離...｜陪著妳天亮說晚安 ｜霧月 Xiaoloulou｜(Official Lyric Audio)"
+      "title": "【暈船必聽】我們從未是情人，卻以情人的方式分離...｜陪著妳天亮說晚安 ｜霧月 Xiaoloulou｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "88FOYv85Eio",
-      "title": "【催淚】《易碎的夢》放不開的人傷最深...｜最美也最心碎的夢 ｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "【催淚】《易碎的夢》放不開的人傷最深...｜最美也最心碎的夢 ｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "k75nImVH5X4",
-      "title": "【深夜微醺】《可，夜去哪裡了？》問來問去，問成了我...｜繞心一圈又一圈抖｜霧月Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【深夜微醺】《可，夜去哪裡了？》問來問去，問成了我...｜繞心一圈又一圈抖｜霧月Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "E13xKXcINxk",
-      "title": "《殘月的軒》予曾獻出所有心響，任餘溫化為灰燼...｜我願將一切都割去｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "《殘月的軒》予曾獻出所有心響，任餘溫化為灰燼...｜我願將一切都割去｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "DobTjzYH1Lk",
-      "title": "【淚崩】《你曾愛過我嗎》妳是渴，卻偽裝成水...｜我是妳離開時最不痛的人 ｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "【淚崩】《你曾愛過我嗎》妳是渴，卻偽裝成水...｜我是妳離開時最不痛的人 ｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "QyzXArNeDNA",
