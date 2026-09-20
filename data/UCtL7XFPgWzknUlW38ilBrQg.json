@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T13:00:49.521+08:00",
+  "lastUpdated": "2026-09-20T13:05:44.029+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -502,43 +502,63 @@
     },
     {
       "videoId": "Nye1hXyqzAs",
-      "title": "👁️【暗戀必聽】《妳怎麼看不見我》｜「我為妳燃盡，失去所有，只剩自己，在回聲裡回頭。」｜霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio"
+      "title": "👁️【暗戀必聽】《妳怎麼看不見我》｜「我為妳燃盡，失去所有，只剩自己，在回聲裡回頭。」｜霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "hf2J582K_c8",
-      "title": "🕯️【2026最美古風詞】《別後青燈》｜「若再相逢於夢鄉——願君莫提，往昔傷。」｜浣月Ｘ霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio"
+      "title": "🕯️【2026最美古風詞】《別後青燈》｜「若再相逢於夢鄉——願君莫提，往昔傷。」｜浣月Ｘ霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "KYyrzVjIUGI",
-      "title": "🪞「我開始懷疑快樂，是不是一種過分？」｜《#是不是一種過分》拾憶月Ｘ霧月｜2026深夜emo必聽【Official #lyricvideo】"
+      "title": "🪞「我開始懷疑快樂，是不是一種過分？」｜《#是不是一種過分》拾憶月Ｘ霧月｜2026深夜emo必聽【Official #lyricvideo】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "o2B7Oxj09iM",
-      "title": "🌕【2026古風虐心】《#滿月哀唱》｜「等你等到化成一株草——你卻牽著她，從我身旁走回。」｜時晨曦月Ｘ霧月【Official #musicvideo】｜官方MV"
+      "title": "🌕【2026古風虐心】《#滿月哀唱》｜「等你等到化成一株草——你卻牽著她，從我身旁走回。」｜時晨曦月Ｘ霧月【Official #musicvideo】｜官方MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "o-Ij7n9aKdA",
-      "title": "🌑「你的溫柔是批發的——我只是沒被點到名的那個。不是不愛，是不想排隊了。」｜《不爭》｜九黎月  × 霧月 Xiaoloulou｜十二弦月｜動態歌詞｜Official Music Video｜官方MV"
+      "title": "🌑「你的溫柔是批發的——我只是沒被點到名的那個。不是不愛，是不想排隊了。」｜《不爭》｜九黎月  × 霧月 Xiaoloulou｜十二弦月｜動態歌詞｜Official Music Video｜官方MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "GTPl-mIMVjY",
-      "title": "🎙️【2026催淚必聽】《#歲月的回音》｜「我繞了世界一圈，才終於承認——我最大的成就，原來是失去妳。」｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "🎙️【2026催淚必聽】《#歲月的回音》｜「我繞了世界一圈，才終於承認——我最大的成就，原來是失去妳。」｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "aHIy_z9Fz8M",
-      "title": "🏮【2026最美古風詞】《相見非歡》｜「若有冥冥之約——偏偏誤一回首。」｜霧月 Xiaoloulou｜動態歌詞｜Official Music Video｜官方MV"
+      "title": "🏮【2026最美古風詞】《相見非歡》｜「若有冥冥之約——偏偏誤一回首。」｜霧月 Xiaoloulou｜動態歌詞｜Official Music Video｜官方MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "e5SoWzyOiRw",
-      "title": "🌙【2026最美古風詞】《#孤燈碎月樓》｜「倘若前世欠你太深——今生只求夢中相認。」｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "🌙【2026最美古風詞】《#孤燈碎月樓》｜「倘若前世欠你太深——今生只求夢中相認。」｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "V37OeYPwr18",
-      "title": "👠【2026虐心必聽】《藍色雲朵不說話》｜「我穿上那雙太小的水晶鞋——就這樣站著。」｜霧月 Xiaoloulou｜動態歌詞｜Official Music Video｜官方MV"
+      "title": "👠【2026虐心必聽】《藍色雲朵不說話》｜「我穿上那雙太小的水晶鞋——就這樣站著。」｜霧月 Xiaoloulou｜動態歌詞｜Official Music Video｜官方MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "W_7sqjkkKyo",
-      "title": "☂️【雨天必聽】《#忘了把傘還給雨天》｜「我好像忘了把傘還給雨天——還固執地撐著，等你的抱歉。」｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "☂️【雨天必聽】《#忘了把傘還給雨天》｜「我好像忘了把傘還給雨天——還固執地撐著，等你的抱歉。」｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "FblgX0mFC8w",
