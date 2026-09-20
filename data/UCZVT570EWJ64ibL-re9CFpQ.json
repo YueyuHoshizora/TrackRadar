@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T19:55:44.915+08:00",
+  "lastUpdated": "2026-09-20T20:00:53.484+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1516,43 +1516,63 @@
     },
     {
       "videoId": "hxdq53rRZ0s",
-      "title": "【LOFI playlist 昔城煙緣】- 夏音Natsune 🖤 舊城煙雨的縹緲情緣｜Lofi Electronic Pop / 溫柔思念 / 舊城巷弄的微光夜語"
+      "title": "【LOFI playlist 昔城煙緣】- 夏音Natsune 🖤 舊城煙雨的縹緲情緣｜Lofi Electronic Pop / 溫柔思念 / 舊城巷弄的微光夜語",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "5yfwR0RsoWo",
-      "title": "【working out playlist Shadow of the Ronin】- 音樂脈動-Sonic Pulse 🖤 浪人武士的電音狂想曲，燃炸高強度訓練｜史詩電子搖滾 / 激昂熱血 /"
+      "title": "【working out playlist Shadow of the Ronin】- 音樂脈動-Sonic Pulse 🖤 浪人武士的電音狂想曲，燃炸高強度訓練｜史詩電子搖滾 / 激昂熱血 /",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "bXQwAd9sp_s",
-      "title": "【今天也在等你】- Kira 🖤 輕柔旋律編織日常思念，高保真音色觸動心靈深處｜Pop Instrumental / Hifi Acoustic / 溫暖等待BGM"
+      "title": "【今天也在等你】- Kira 🖤 輕柔旋律編織日常思念，高保真音色觸動心靈深處｜Pop Instrumental / Hifi Acoustic / 溫暖等待BGM",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "NmL-s3IGNT8",
-      "title": "【LOFI playlist Hiss & Rain】- 凜-Rin 🖤 雨聲與電子低語交織的靜謐時刻｜Chill Lofi Instrumental / 內省沉思 / 雨夜窗邊BGM"
+      "title": "【LOFI playlist Hiss & Rain】- 凜-Rin 🖤 雨聲與電子低語交織的靜謐時刻｜Chill Lofi Instrumental / 內省沉思 / 雨夜窗邊BGM",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "YZfrSCUduTY",
-      "title": "【working out Playlist Blade of Dawn – Tsugaru Fury】- 音樂脈動-Sonic Pulse 🖤 ｜Electronic Rock / 健身專用"
+      "title": "【working out Playlist Blade of Dawn – Tsugaru Fury】- 音樂脈動-Sonic Pulse 🖤 ｜Electronic Rock / 健身專用",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "JMe6AYfWiFA",
-      "title": "Warning: This Song Is Highly Addictive"
+      "title": "Warning: This Song Is Highly Addictive",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "sekYBBC77VY",
-      "title": "【LOFI playlist 覓暖】- 夏音Natsune 🖤 現代煙嗓演繹聲聲慢的孤寂｜Lofi Chill Female Vocal｜夜思古詞情歌 bgm"
+      "title": "【LOFI playlist 覓暖】- 夏音Natsune 🖤 現代煙嗓演繹聲聲慢的孤寂｜Lofi Chill Female Vocal｜夜思古詞情歌 bgm",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "6xsGB8sKXmE",
-      "title": "【只想被你看見】- Kira 🖤 ｜我不是戀愛腦｜都會夜色專屬告白｜hifi City-Pop / Acoustic / 悸動溫柔 / 霓虹光影"
+      "title": "【只想被你看見】- Kira 🖤 ｜我不是戀愛腦｜都會夜色專屬告白｜hifi City-Pop / Acoustic / 悸動溫柔 / 霓虹光影",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "c0ETEFI7bWI",
-      "title": "【LOFI playlist 跟在你身後的京都夜】- 夏音Natsune 🌙 煙嗓LOFI愛情故事 🎧｜Japanese Lofi / Kyoto Night Walk / Sad Chill"
+      "title": "【LOFI playlist 跟在你身後的京都夜】- 夏音Natsune 🌙 煙嗓LOFI愛情故事 🎧｜Japanese Lofi / Kyoto Night Walk / Sad Chill",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.37
     },
     {
       "videoId": "uQkjt7fBptw",
-      "title": "【街角ネコのスキップ】- Kira 路邊與貓一起跳拍的輕快J-POP｜明亮城市午後感｜Upbeat Dance-pop｜Cat Song｜"
+      "title": "【街角ネコのスキップ】- Kira 路邊與貓一起跳拍的輕快J-POP｜明亮城市午後感｜Upbeat Dance-pop｜Cat Song｜",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "L6fNHJmS71A",
