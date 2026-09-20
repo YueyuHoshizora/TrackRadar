@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T14:45:45.415+08:00",
+  "lastUpdated": "2026-09-20T14:50:47.583+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -1702,43 +1702,63 @@
     },
     {
       "videoId": "naHdzfxEg5I",
-      "title": "《Falling for You》霧月 Xiaoloulou｜Between desire and disguise. #霧月詞"
+      "title": "《Falling for You》霧月 Xiaoloulou｜Between desire and disguise. #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.35
     },
     {
       "videoId": "F7eLIRVe5Ts",
-      "title": "《墜於妳的光》霧月 Xiaoloulou｜欲與幻之間的墜落。  #霧月詞"
+      "title": "《墜於妳的光》霧月 Xiaoloulou｜欲與幻之間的墜落。  #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.33
     },
     {
       "videoId": "OSkbomHvL_g",
-      "title": "《Just a Glance》霧月 Xiaoloulou｜Between the light and what it conceals. #霧月詞"
+      "title": "《Just a Glance》霧月 Xiaoloulou｜Between the light and what it conceals. #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "JeL-ZH4MKG0",
-      "title": "《只一眼，便墜落》霧月 Xiaoloulou｜光與隱之間的凝望。 #霧月詞"
+      "title": "《只一眼，便墜落》霧月 Xiaoloulou｜光與隱之間的凝望。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "bCeE3vsJdNw",
-      "title": "《I’m so lonely》霧月 Xiaoloulou｜Where echoes sleep, love still breathes. #霧月詞"
+      "title": "《I’m so lonely》霧月 Xiaoloulou｜Where echoes sleep, love still breathes. #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "Psx9vlJJ14w",
-      "title": "🖤「最深的孤獨，是喊了也沒有人聽見。」｜《#孤聲之形》｜霧月 Xiaoloulou｜深夜一個人聽【Official #lyricvideo】"
+      "title": "🖤「最深的孤獨，是喊了也沒有人聽見。」｜《#孤聲之形》｜霧月 Xiaoloulou｜深夜一個人聽【Official #lyricvideo】",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "7dUJJpZlGC4",
-      "title": "《Fading in the Breeze》霧月 Xiaoloulou｜Love drifts where echoes remain. #霧月詞"
+      "title": "《Fading in the Breeze》霧月 Xiaoloulou｜Love drifts where echoes remain. #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "rgwdL22bQRY",
-      "title": "《未完》霧月 Xiaoloulou｜別辭未竟，夢猶留。 #霧月詞"
+      "title": "《未完》霧月 Xiaoloulou｜別辭未竟，夢猶留。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "BoE8hmJTeIw",
-      "title": "《隨風漸遠》霧月 Xiaoloulou ｜ 愛散作風，仍留其聲。 #霧月詞"
+      "title": "《隨風漸遠》霧月 Xiaoloulou ｜ 愛散作風，仍留其聲。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "QkcMzFDmn3k",
-      "title": "《天青色》霧月 Xiaoloulou｜雨後之光，未褪之心 #霧月詞"
+      "title": "《天青色》霧月 Xiaoloulou｜雨後之光，未褪之心 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "Q349Cl7om1k",
