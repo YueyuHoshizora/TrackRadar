@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T14:50:47.583+08:00",
+  "lastUpdated": "2026-09-20T14:55:45.021+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -1762,43 +1762,63 @@
     },
     {
       "videoId": "Q349Cl7om1k",
-      "title": "《Rain and You》霧月 Xiaoloulou｜When silence sounds like rain. #霧月詞"
+      "title": "《Rain and You》霧月 Xiaoloulou｜When silence sounds like rain. #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "6CozIg9M0ZE",
-      "title": "《雨與妳》霧月 Xiaoloulou｜雨聲之中，仍有妳的形。 #霧月詞"
+      "title": "《雨與妳》霧月 Xiaoloulou｜雨聲之中，仍有妳的形。 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "lPKEA5i927M",
-      "title": "《虛偽》 頌心意 X 霧月 Xiaoloulou ｜笑著的謊言，比沉默更傷。 #霧月詞 #心意詞"
+      "title": "《虛偽》 頌心意 X 霧月 Xiaoloulou ｜笑著的謊言，比沉默更傷。 #霧月詞 #心意詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "k3YWa3_c2hA",
-      "title": "《Keep Breathing》霧月 Xiaoloulou｜在黑暗裡呼吸，也是一種生。 #霧月詞"
+      "title": "《Keep Breathing》霧月 Xiaoloulou｜在黑暗裡呼吸，也是一種生。 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.36
     },
     {
       "videoId": "MqK-l1hk200",
-      "title": "《在黑暗裡呼吸，也是一種生》霧月 Xiaoloulou｜#霧月詞"
+      "title": "《在黑暗裡呼吸，也是一種生》霧月 Xiaoloulou｜#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "DCLR4-6s2pI",
-      "title": "《Blue Abyss》霧月 Xiaoloulou｜Where silence sinks deeper than sorrow. #霧月詞"
+      "title": "《Blue Abyss》霧月 Xiaoloulou｜Where silence sinks deeper than sorrow. #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.5
     },
     {
       "videoId": "ICJDJniRdhA",
-      "title": "《藍之深淵》霧月 Xiaoloulou｜沉於藍底，唯回聲猶在。 #霧月詞"
+      "title": "《藍之深淵》霧月 Xiaoloulou｜沉於藍底，唯回聲猶在。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "AkPv5j1LwI4",
-      "title": "《Don’t Cry》霧月 Xiaoloulou｜Through the storm, I’ll find my light. #霧月詞"
+      "title": "《Don’t Cry》霧月 Xiaoloulou｜Through the storm, I’ll find my light. #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "tqPRyq7rjSw",
-      "title": "《別哭》霧月 Xiaoloulou｜穿越風雨，我仍會飛。 #霧月詞"
+      "title": "《別哭》霧月 Xiaoloulou｜穿越風雨，我仍會飛。 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "ViG1x_8pQcs",
-      "title": "《You Never Knew》 霧月 Xiaoloulou｜Leaving was the way I reached for you. #霧月詞"
+      "title": "《You Never Knew》 霧月 Xiaoloulou｜Leaving was the way I reached for you. #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "W7md4DPUTvo",
