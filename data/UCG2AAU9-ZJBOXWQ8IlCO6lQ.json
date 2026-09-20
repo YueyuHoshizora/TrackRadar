@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T13:50:43.391+08:00",
+  "lastUpdated": "2026-09-20T13:55:42.878+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -802,43 +802,63 @@
     },
     {
       "videoId": "9YTsgKgoS74",
-      "title": "👑 Monarch: We Are The Kings! Cinematic K-Pop Performance Anthem | 君主：史詩級未來低音"
+      "title": "👑 Monarch: We Are The Kings! Cinematic K-Pop Performance Anthem | 君主：史詩級未來低音",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "O2HW9rE5x74",
-      "title": "🇰🇷 Pixel Boss: Do the Glitch Step! K-Pop/Jersey Club Viral Dance Challenge (ft. Vocals) | 像素老大：故障步伐！"
+      "title": "🇰🇷 Pixel Boss: Do the Glitch Step! K-Pop/Jersey Club Viral Dance Challenge (ft. Vocals) | 像素老大：故障步伐！",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "IhiyBU1pX3E",
-      "title": "🕌 Desert Rave: Exotic Vibe, Catchy Eastern Rhythm & Complex Beats (MidEast EDM) | 沙漠狂歡: 異國風情"
+      "title": "🕌 Desert Rave: Exotic Vibe, Catchy Eastern Rhythm & Complex Beats (MidEast EDM) | 沙漠狂歡: 異國風情",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "GTmzFm2NB08",
-      "title": "🚀 Velocity Surge: Push the Red Line! Ultra-High Energy Eurodance Club Anthem (ft. Female Vocals)"
+      "title": "🚀 Velocity Surge: Push the Red Line! Ultra-High Energy Eurodance Club Anthem (ft. Female Vocals)",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "Zgp4-3e_v5E",
-      "title": "Favela Bounce: Viral Dance, Aggressive Bass & Catchy Whistle Hook (Brazilian Funk/Trap) |  Hook"
+      "title": "Favela Bounce: Viral Dance, Aggressive Bass & Catchy Whistle Hook (Brazilian Funk/Trap) |  Hook",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "_1I20TFk9ZM",
-      "title": "Sona Sona! - Punjabi Trap Anthem (美極了!) 超強旁遮普 Trap 舞曲"
+      "title": "Sona Sona! - Punjabi Trap Anthem (美極了!) 超強旁遮普 Trap 舞曲",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "n-1hCx-B93M",
-      "title": "One World Rhythm (Massive Future House Drop) | 【同一個世界節奏】衝擊破億電子神曲"
+      "title": "One World Rhythm (Massive Future House Drop) | 【同一個世界節奏】衝擊破億電子神曲",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "9QvrSdI7svY",
-      "title": "Unread Message (Hypnotic Pop R&B) | 【未讀訊息】催眠節拍與數位戀愛神曲"
+      "title": "Unread Message (Hypnotic Pop R&B) | 【未讀訊息】催眠節拍與數位戀愛神曲",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "6qTLYqdW6Bw",
-      "title": "Neon City Confession (Commercial R&B Drive Music) | 【都市霓虹告白】深夜心跳節奏神曲"
+      "title": "Neon City Confession (Commercial R&B Drive Music) | 【都市霓虹告白】深夜心跳節奏神曲",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "1DPWo-HYCJ8",
-      "title": "Heartbeat Only For You (Commercial R&B New Song) | 【必聽 Pop R&B】Oh, my heart goes boom, boom, boom"
+      "title": "Heartbeat Only For You (Commercial R&B New Song) | 【必聽 Pop R&B】Oh, my heart goes boom, boom, boom",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "FfFXmg7p7KU",
