@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T13:45:41.260+08:00",
+  "lastUpdated": "2026-09-20T13:50:43.391+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -742,43 +742,63 @@
     },
     {
       "videoId": "sU_LIsMJ9Mg",
-      "title": "📼 CASSETTE HEART - Millennium Funk K-Pop (BPM 115) | 卡帶心 - 千禧年復古律動"
+      "title": "📼 CASSETTE HEART - Millennium Funk K-Pop (BPM 115) | 卡帶心 - 千禧年復古律動",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "8xkk8-9Rq8A",
-      "title": "🔥 DANCE OF MY LIFE! PHOENIX RITUAL - Epic K-Pop Fusion (BPM 125) | 鳳凰儀式 - 奉獻生命之舞"
+      "title": "🔥 DANCE OF MY LIFE! PHOENIX RITUAL - Epic K-Pop Fusion (BPM 125) | 鳳凰儀式 - 奉獻生命之舞",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "qdcYGnJfrqg",
-      "title": "🔥 I AM THE FIRE! REQUIEM FOR GLORY - Epic K-Pop (BPM 100) | 榮耀安魂曲 - 我就是火焰！"
+      "title": "🔥 I AM THE FIRE! REQUIEM FOR GLORY - Epic K-Pop (BPM 100) | 榮耀安魂曲 - 我就是火焰！",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "OtJSAaf8PFM",
-      "title": "👑 REQUIEM FOR GLORY - Cinematic K-Pop Ballad (BPM 100) | 榮耀安魂曲 - 終極藝術奉獻"
+      "title": "👑 REQUIEM FOR GLORY - Cinematic K-Pop Ballad (BPM 100) | 榮耀安魂曲 - 終極藝術奉獻",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "i3eKMpaJFII",
-      "title": "🎶 全新頻率 (NEW VIBE) - 超洗腦 K-POP 潮流舞曲：極致感染力 | Viral UK Garage K-Pop"
+      "title": "🎶 全新頻率 (NEW VIBE) - 超洗腦 K-POP 潮流舞曲：極致感染力 | Viral UK Garage K-Pop",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "vl-5n6Y4RLc",
-      "title": "💤 安靜的小船 (The Quiet Boat) - 極簡氛圍搖籃曲：安撫哭泣嬰兒、幫助入睡 | Minimalist Sleep Aid Lullaby"
+      "title": "💤 安靜的小船 (The Quiet Boat) - 極簡氛圍搖籃曲：安撫哭泣嬰兒、幫助入睡 | Minimalist Sleep Aid Lullaby",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "gVIcA6-RP4o",
-      "title": "🧭 Future Compass - Upbeat Acoustic Pop for Our Little One | 未來的指南針 - 節奏明快的原聲民謠流行樂"
+      "title": "🧭 Future Compass - Upbeat Acoustic Pop for Our Little One | 未來的指南針 - 節奏明快的原聲民謠流行樂",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "UYSk58hZBzQ",
-      "title": "⚙️ PROTOCOL: The PURE K-Pop Maximalist Trap Anthem (138 BPM Command) | 協定：純正 K-Pop 支配指令"
+      "title": "⚙️ PROTOCOL: The PURE K-Pop Maximalist Trap Anthem (138 BPM Command) | 協定：純正 K-Pop 支配指令",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "73mapNYCz-8",
-      "title": "小小宇宙 (My Little Universe) - 送給妹妹和新生外甥女的溫馨搖籃曲 | English Pop Lullaby"
+      "title": "小小宇宙 (My Little Universe) - 送給妹妹和新生外甥女的溫馨搖籃曲 | English Pop Lullaby",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "MVdRd2R1zac",
-      "title": "🌍 Global Birthday Wish: Multi-Language \"Happy Birthday\" Acoustic Ballad (Singing to the World) | 生日"
+      "title": "🌍 Global Birthday Wish: Multi-Language \"Happy Birthday\" Acoustic Ballad (Singing to the World) | 生日",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "9YTsgKgoS74",
