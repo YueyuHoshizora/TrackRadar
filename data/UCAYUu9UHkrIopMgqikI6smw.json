@@ -1,7 +1,7 @@
 {
   "channelId": "UCAYUu9UHkrIopMgqikI6smw",
   "channelTitle": "空山和尚",
-  "lastUpdated": "2026-09-20T12:50:41.885+08:00",
+  "lastUpdated": "2026-09-20T12:55:41.928+08:00",
   "latestVideo": {
     "videoId": "un-ULt6ISkk",
     "title": "人這一生，到底在追什麼？｜《紅塵客》｜空山和尚",
@@ -202,43 +202,63 @@
     },
     {
       "videoId": "VYKHAGi4Svo",
-      "title": "《空山禪》｜一首聽了會靜下來的古風禪意歌曲｜空靈中國風"
+      "title": "《空山禪》｜一首聽了會靜下來的古風禪意歌曲｜空靈中國風",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "HcpUM6We0dE",
-      "title": "【原創古風小說主題曲】《枯骨渡》：一劍歸元，終身不渡。武俠宗師的極致枯骨禪 | 你無法殺死一個，早已被自己殺死的人(致敬經典武俠)"
+      "title": "【原創古風小說主題曲】《枯骨渡》：一劍歸元，終身不渡。武俠宗師的極致枯骨禪 | 你無法殺死一個，早已被自己殺死的人(致敬經典武俠)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "U4hgedRm0mI",
-      "title": "《般若波羅蜜多心經》《空》— 一首讓你靜下心的歌｜聽見「無我」的瞬間｜最療癒的禪意音樂｜當心歸於平靜，一切皆無常"
+      "title": "《般若波羅蜜多心經》《空》— 一首讓你靜下心的歌｜聽見「無我」的瞬間｜最療癒的禪意音樂｜當心歸於平靜，一切皆無常",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "zfMkxeOABFE",
-      "title": "「無敵非以勝眾人，惟令來者知愚真。」｜古風吟唱 × 水墨武俠詩曲《無敵》｜kokorowanoODO"
+      "title": "「無敵非以勝眾人，惟令來者知愚真。」｜古風吟唱 × 水墨武俠詩曲《無敵》｜kokorowanoODO",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "fkWY4yH77cI",
-      "title": "【如果生命只剩一天】【If I only had one day left to live】-2025新歌｜ kokorowanoODO 🧡 扣人心弦的流行旋律，生命感悟｜流行音樂 深情省思，感動人心"
+      "title": "【如果生命只剩一天】【If I only had one day left to live】-2025新歌｜ kokorowanoODO 🧡 扣人心弦的流行旋律，生命感悟｜流行音樂 深情省思，感動人心",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "1keaGDaE17Q",
-      "title": "【養生保健】《身體說話了》EP4《聞得到的保養! 》"
+      "title": "【養生保健】《身體說話了》EP4《聞得到的保養! 》",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "nX-jKlY_Ujo",
-      "title": "【養生保健】《身體說話了》EP3 《別再怕了！癌症，其實可以預防和控制！》"
+      "title": "【養生保健】《身體說話了》EP3 《別再怕了！癌症，其實可以預防和控制！》",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "BsIZlOB-LtA",
-      "title": "【養生保健】《身體說話了》EP2 當脊椎側彎壓迫到內臟，會怎樣讓你的身體出狀況。"
+      "title": "【養生保健】《身體說話了》EP2 當脊椎側彎壓迫到內臟，會怎樣讓你的身體出狀況。",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "wLCKhR6I0WQ",
-      "title": "【養生保健】《身體說話了》EP1 開刀不是結束，是開始？退化其實從姿勢開始 #健康#養生#脊椎#開刀"
+      "title": "【養生保健】《身體說話了》EP1 開刀不是結束，是開始？退化其實從姿勢開始 #健康#養生#脊椎#開刀",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "M-MsJiadGlE",
-      "title": "《押忍！空手道日記》 EP3 道場敬禮的規矩"
+      "title": "《押忍！空手道日記》 EP3 道場敬禮的規矩",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "2lJdYD2p0ms",
