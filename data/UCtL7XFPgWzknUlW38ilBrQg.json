@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T15:15:45.564+08:00",
+  "lastUpdated": "2026-09-20T15:20:44.862+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "jGTPT5nvpqo",
-      "title": "我一解釋，你就說我改口《說得不像我》｜說到後來，誰還需要見我｜人言可畏・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -46,19 +46,19 @@
     },
     {
       "videoId": "PBn-CJQvG6w",
-      "title": "你走了，我的房間一樣都沒動《霓虹裡的失城者》｜房間擺設固執著原狀，刻意半掩那扇門的窗｜放不下一個人・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+      "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "sED1xy1gc0Y",
-      "title": "沒人記得我，我還記得你《若只如初見》｜無人念予情，無人似予心｜深夜孤獨・文言古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "SNV1PsuGJKE",
-      "title": "一片相思，都吹成了灰《風也來，雨也來》｜吹向雲天外｜深夜孤獨・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "情深到最後，只剩一把骨頭《風也來，雨也來》｜情深枯成骨，不負人卻寒｜愛而不得・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -2062,43 +2062,63 @@
     },
     {
       "videoId": "xdEtqXk6zJo",
-      "title": "《幽夜辭》霧月 Xiaoloulou ｜墜於無聲，呼於無光。 #霧月詞"
+      "title": "《幽夜辭》霧月 Xiaoloulou ｜墜於無聲，呼於無光。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "CSv16AVsesM",
-      "title": "《Haunted Night》霧月 Xiaoloulou ｜Where silence devours, and memory remains. #霧月詞"
+      "title": "《Haunted Night》霧月 Xiaoloulou ｜Where silence devours, and memory remains. #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "m0WWKYHMBlM",
-      "title": "《昨日之別》霧月 Xiaoloulou｜時光忘了，我們還記得。 #霧月詞"
+      "title": "《昨日之別》霧月 Xiaoloulou｜時光忘了，我們還記得。 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.45
     },
     {
       "videoId": "Q46xfMwTHBs",
-      "title": "《Goodbye to Yesterday》 霧月 Xiaoloulou｜where time forgets, and we remember #霧月詞"
+      "title": "《Goodbye to Yesterday》 霧月 Xiaoloulou｜where time forgets, and we remember #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "foEFQvRK44Y",
-      "title": "《花墜之處》霧月 Xiaoloulou｜花落之地，便是歸途。"
+      "title": "《花墜之處》霧月 Xiaoloulou｜花落之地，便是歸途。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "_7JEYZBYpQU",
-      "title": "《思念不是為了忘記》霧月 Xiaoloulou｜那片藍裡的靜，替所有思念回應。 #霧月詞"
+      "title": "《思念不是為了忘記》霧月 Xiaoloulou｜那片藍裡的靜，替所有思念回應。 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "83Y5LTKqsaM",
-      "title": "《沒出息》霧月 Xiaoloulou｜被封鎖那天，連體面都掉了。本來應該匆匆忙忙遊刃有餘  #霧月詞"
+      "title": "《沒出息》霧月 Xiaoloulou｜被封鎖那天，連體面都掉了。本來應該匆匆忙忙遊刃有餘  #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "rKDOlzsasns",
-      "title": "《Where Petals Fall》霧月 Xiaoloulou｜Every Tear Becomes the Rain. #霧月詞"
+      "title": "《Where Petals Fall》霧月 Xiaoloulou｜Every Tear Becomes the Rain. #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "BluI4wULujE",
-      "title": "《天墜之下》霧月 Xiaoloulou  ｜星光記得，我們忘了。 #霧月詞"
+      "title": "《天墜之下》霧月 Xiaoloulou  ｜星光記得，我們忘了。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.42
     },
     {
       "videoId": "4FRWypnZT-g",
-      "title": "《Beneath the Falling Sky》｜霧月 Xiaoloulou  ｜Where the stars remember what we forgot #霧月詞"
+      "title": "《Beneath the Falling Sky》｜霧月 Xiaoloulou  ｜Where the stars remember what we forgot #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "-RLqpJgaGqo",
