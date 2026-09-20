@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T13:50:51.344+08:00",
+  "lastUpdated": "2026-09-20T13:55:46.934+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "jGTPT5nvpqo",
-      "title": "我一解釋，你就說我改口《說得不像我》｜說到後來，誰還需要見我｜人言可畏・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -46,19 +46,19 @@
     },
     {
       "videoId": "PBn-CJQvG6w",
-      "title": "你走了，我的房間一樣都沒動《霓虹裡的失城者》｜房間擺設固執著原狀，刻意半掩那扇門的窗｜放不下一個人・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+      "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "sED1xy1gc0Y",
-      "title": "沒人記得我，我還記得你《若只如初見》｜無人念予情，無人似予心｜深夜孤獨・文言古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "SNV1PsuGJKE",
-      "title": "一片相思，都吹成了灰《風也來，雨也來》｜吹向雲天外｜深夜孤獨・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "情深到最後，只剩一把骨頭《風也來，雨也來》｜情深枯成骨，不負人卻寒｜愛而不得・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -1102,43 +1102,63 @@
     },
     {
       "videoId": "QyzXArNeDNA",
-      "title": "《不被陽光照亮的愛》我們正凋零啊，卻比盛開更燦爛｜Love in the Dark｜霧月 Xiaoloulou｜致鬱系 (Official Lyric Video)"
+      "title": "《不被陽光照亮的愛》我們正凋零啊，卻比盛開更燦爛｜Love in the Dark｜霧月 Xiaoloulou｜致鬱系 (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "Xnvtf0zLouY",
-      "title": "《三途》「愛是一頂金色的王冠，最後變成墳墓的重量。」👑｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "《三途》「愛是一頂金色的王冠，最後變成墳墓的重量。」👑｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "GlF5NmqKZ1E",
-      "title": "【暗黑】《玫紅色的我們》我第一次見到她，就是在那裡...｜玫紅色鋪在河床 ｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "【暗黑】《玫紅色的我們》我第一次見到她，就是在那裡...｜玫紅色鋪在河床 ｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "Yt64csY4_BA",
-      "title": "【暗黑童話】《獻給黑夜的向日葵》她在黑暗中摘了玫瑰，獻給心愛的姑娘... ｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "【暗黑童話】《獻給黑夜的向日葵》她在黑暗中摘了玫瑰，獻給心愛的姑娘... ｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "IihmudB9waA",
-      "title": "【同名單曲】《霧月》我是陽光照不到的殘痕...｜We only get close in the shadows｜霧月 Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【同名單曲】《霧月》我是陽光照不到的殘痕...｜We only get close in the shadows｜霧月 Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "KjqS-m0ukdg",
-      "title": "《瑕疵的夜》是不是有人能抱抱我...｜不是因為懂事才值得被愛｜霧月 Xiaoloulou ｜(Official Lyric Video)"
+      "title": "《瑕疵的夜》是不是有人能抱抱我...｜不是因為懂事才值得被愛｜霧月 Xiaoloulou ｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "XaENxUrl4l0",
-      "title": "【虐心美學】《西窗月・琉璃淚》卿笑予太易碎...｜最難收非碎片，是滿掌痕｜霧月 Xiaoloulou｜ (Official Lyric Video) #霧月詞"
+      "title": "【虐心美學】《西窗月・琉璃淚》卿笑予太易碎...｜最難收非碎片，是滿掌痕｜霧月 Xiaoloulou｜ (Official Lyric Video) #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "pNlINgYsS58",
-      "title": "《塵世夢》「從生至死，因果流轉；夢醒時，塵世靜如雪。」｜霧月 Xiaoloulou｜萬物歸源 (Official Lyric Video)"
+      "title": "《塵世夢》「從生至死，因果流轉；夢醒時，塵世靜如雪。」｜霧月 Xiaoloulou｜萬物歸源 (Official Lyric Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "zcwNyakVmds",
-      "title": "【催淚神曲】《易碎的夢》放不開的人傷最深...｜最美也最心碎的夢｜霧月 Xiaoloulou｜(Official Lyric Audio)"
+      "title": "【催淚神曲】《易碎的夢》放不開的人傷最深...｜最美也最心碎的夢｜霧月 Xiaoloulou｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "UtFelHka5Fg",
-      "title": "【古風絕唱】《唯予尚赤》狐骨冷於月，心火不滅...｜霧月 Xiaoloulou｜萬物皆寂，唯赤能記愛 (Official Lyric Video)"
+      "title": "【古風絕唱】《唯予尚赤》狐骨冷於月，心火不滅...｜霧月 Xiaoloulou｜萬物皆寂，唯赤能記愛 (Official Lyric Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "acHB0J6qGqc",
