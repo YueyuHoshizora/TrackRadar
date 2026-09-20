@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T16:45:45.517+08:00",
+  "lastUpdated": "2026-09-20T16:50:45.087+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "jGTPT5nvpqo",
-      "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "我一解釋，你就說我改口《說得不像我》｜說到後來，誰還需要見我｜人言可畏・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -46,19 +46,19 @@
     },
     {
       "videoId": "PBn-CJQvG6w",
-      "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+      "title": "你走了，我的房間一樣都沒動《霓虹裡的失城者》｜房間擺設固執著原狀，刻意半掩那扇門的窗｜放不下一個人・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "sED1xy1gc0Y",
-      "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "沒人記得我，我還記得你《若只如初見》｜無人念予情，無人似予心｜深夜孤獨・文言古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "SNV1PsuGJKE",
-      "title": "情深到最後，只剩一把骨頭《風也來，雨也來》｜情深枯成骨，不負人卻寒｜愛而不得・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "一片相思，都吹成了灰《風也來，雨也來》｜吹向雲天外｜深夜孤獨・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -3142,43 +3142,63 @@
     },
     {
       "videoId": "Vz9M2YkNp6Y",
-      "title": "Silence, Then the Falling 無聲落下 - Xiaoloulou || 那些跌落時沒有聲音的愛 Love That Fell Too Quietly"
+      "title": "Silence, Then the Falling 無聲落下 - Xiaoloulou || 那些跌落時沒有聲音的愛 Love That Fell Too Quietly",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "RIfDKl0K-rI",
-      "title": "明日記 A Journal for Tomorrow - Xiaoloulou || 寫給沒有人等的明天"
+      "title": "明日記 A Journal for Tomorrow - Xiaoloulou || 寫給沒有人等的明天",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "6jacYq5VIFs",
-      "title": "斷篇 A Love Without Ending - Xiaoloulou || 「此生無對句，只餘斷章」，愛如詩，不成對仗，只剩殘句獨白。"
+      "title": "斷篇 A Love Without Ending - Xiaoloulou || 「此生無對句，只餘斷章」，愛如詩，不成對仗，只剩殘句獨白。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "XbXAA_1_Mjk",
-      "title": "風也來，雨也來 Where Wind and Rain Remember - Xiaoloulou || 橋上那夜，風也來，雨也來，倦心無歸處"
+      "title": "風也來，雨也來 Where Wind and Rain Remember - Xiaoloulou || 橋上那夜，風也來，雨也來，倦心無歸處",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "CaLspYitF-M",
-      "title": "孤月吟 Ballad for a Lonely Moon - Xiaoloulou || 寫給無人聽見的夜晚"
+      "title": "孤月吟 Ballad for a Lonely Moon - Xiaoloulou || 寫給無人聽見的夜晚",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "emdlDVthSZM",
-      "title": "盞酒 A Cup for the Departed - Xiaoloulou || 為你，飲下這座城的風雪"
+      "title": "盞酒 A Cup for the Departed - Xiaoloulou || 為你，飲下這座城的風雪",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "amG78GdhrEs",
-      "title": "Love You in the Dark - Xiaoloulou || Until the Lights Fall and You Forget Where I Begin"
+      "title": "Love You in the Dark - Xiaoloulou || Until the Lights Fall and You Forget Where I Begin",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "XqLKz9leuQg",
-      "title": "蒼月冷，不負月 Pale Moon, Silent Vow - Xiaoloulou || 風雪中，她靜靜坐了一會。無言，是她最後的溫柔"
+      "title": "蒼月冷，不負月 Pale Moon, Silent Vow - Xiaoloulou || 風雪中，她靜靜坐了一會。無言，是她最後的溫柔",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "-L2KxiPVvWA",
-      "title": "獻給黑夜的向日葵 A Sunflower for the Dark - Xiaoloulou || 她把光，獻給了黑夜"
+      "title": "獻給黑夜的向日葵 A Sunflower for the Dark - Xiaoloulou || 她把光，獻給了黑夜",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "8i3BTJZR-AY",
-      "title": "晚班地鐵 - Xiaoloulou || 一圈又一圈，載著沒人看見的倦意"
+      "title": "晚班地鐵 - Xiaoloulou || 一圈又一圈，載著沒人看見的倦意",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "FWadZ_3oFzE",
