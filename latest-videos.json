@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T01:56:02.568+08:00",
+  "updatedAt": "2026-09-21T02:01:10.171+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -395,15 +395,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "t2yq_M3j0TI",
-        "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=t2yq_M3j0TI",
-        "thumbnail": "https://i.ytimg.com/vi_webp/t2yq_M3j0TI/maxresdefault.webp?v=6aad5191",
-        "durationSeconds": 228,
-        "publishedAt": "2026-09-19T12:00:06.000+08:00",
-        "fetchedAt": "2026-09-20T12:29:34.737+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "jGTPT5nvpqo",
+        "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+        "url": "https://www.youtube.com/watch?v=jGTPT5nvpqo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/jGTPT5nvpqo/maxresdefault.webp?v=6aa80d29",
+        "durationSeconds": 264,
+        "publishedAt": "2026-09-16T12:00:06.000+08:00",
+        "fetchedAt": "2026-09-21T02:01:04.005+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.99
       }
     },
     {
