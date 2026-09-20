@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T13:25:42.520+08:00",
+  "lastUpdated": "2026-09-20T13:30:44.528+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -502,43 +502,63 @@
     },
     {
       "videoId": "REGzv9o2I-w",
-      "title": "【古風音樂】《墨染長安》| 這首歌聽碎了多少人的心？聽一遍就忘不掉！"
+      "title": "【古風音樂】《墨染長安》| 這首歌聽碎了多少人的心？聽一遍就忘不掉！",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "eJwcgrUc3fo",
-      "title": "【古風音樂】《塵心寂》| 一念放下，萬般皆自在。聽完這首歌，全世界都安靜了...沈浸式古風電影原聲 (Gufeng OST)"
+      "title": "【古風音樂】《塵心寂》| 一念放下，萬般皆自在。聽完這首歌，全世界都安靜了...沈浸式古風電影原聲 (Gufeng OST)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "XiZMXX341v8",
-      "title": "【古風音樂】《平安經・洗心》2025最強祈福曲：聽到就是緣分，送給在乎的人一生平安"
+      "title": "【古風音樂】《平安經・洗心》2025最強祈福曲：聽到就是緣分，送給在乎的人一生平安",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "HTsUPPmW3As",
-      "title": "【古風音樂】《雪滿長安慶聖誕》 ❄️ ！當千年古都遇見平安夜 (Suno AI Music Video)"
+      "title": "【古風音樂】《雪滿長安慶聖誕》 ❄️ ！當千年古都遇見平安夜 (Suno AI Music Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "IrF7TgIVzFs",
-      "title": "【古風音樂】《槐樹晚風》｜半輩子忙碌換來一身輕鬆，這首歌送給老友，聽哭了！"
+      "title": "【古風音樂】《槐樹晚風》｜半輩子忙碌換來一身輕鬆，這首歌送給老友，聽哭了！",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "3-gtppt4Xbk",
-      "title": "【古風歌曲】《萬古屠龍》｜我以命魂燃盡蒼穹：震撼靈魂的史詩級原創戰歌 (Original AI Music)"
+      "title": "【古風歌曲】《萬古屠龍》｜我以命魂燃盡蒼穹：震撼靈魂的史詩級原創戰歌 (Original AI Music)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "U-gfnw1erLw",
-      "title": "【古風歌曲】《浮生劫》禪意｜我以殘軀，換這一段凋零的雪：震撼靈魂的宿命之歌 (Epic Zen Music)"
+      "title": "【古風歌曲】《浮生劫》禪意｜我以殘軀，換這一段凋零的雪：震撼靈魂的宿命之歌 (Epic Zen Music)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "tr5rV-u2iFA",
-      "title": "【古風歌曲】《歸寂》禪意｜聽完後我的呼吸慢了下來：來自深山的古箏與笛聲，洗滌靈魂的聲音。"
+      "title": "【古風歌曲】《歸寂》禪意｜聽完後我的呼吸慢了下來：來自深山的古箏與笛聲，洗滌靈魂的聲音。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "Aljl25ACVYA",
-      "title": "【古風歌曲】《絕塵》：放下執念的那一刻，我已不在江湖。"
+      "title": "【古風歌曲】《絕塵》：放下執念的那一刻，我已不在江湖。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "UOhx5cq9RrE",
-      "title": "【古風歌曲】《紅塵盞》一開口就淪陷了... 我以紅塵換一盞你不歸的燈 (Original AI Music)"
+      "title": "【古風歌曲】《紅塵盞》一開口就淪陷了... 我以紅塵換一盞你不歸的燈 (Original AI Music)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "BAZuZHl6XnM",
