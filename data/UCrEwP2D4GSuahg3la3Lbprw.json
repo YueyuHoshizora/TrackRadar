@@ -1,7 +1,7 @@
 {
   "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
   "channelTitle": "弦斷誰聽",
-  "lastUpdated": "2026-09-20T12:40:42.039+08:00",
+  "lastUpdated": "2026-09-20T12:50:42.962+08:00",
   "latestVideo": {
     "videoId": "ue5nkfnzy3A",
     "title": "《我不是美人魚》聽完直接破防！原來奮不顧身換來的，只是一場虛幻夢境 ｜弦斷誰聽",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "ue5nkfnzy3A",
-      "title": "《我不是美人魚》努力游向有你的方向，卻游不進你的心……唱哭千萬單戀人 ｜弦斷誰聽",
+      "title": "《我不是美人魚》聽完直接破防！原來奮不顧身換來的，只是一場虛幻夢境 ｜弦斷誰聽",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "TlJ0jqnbn68",
-      "title": "《回到十八歲那天》重來一次的告白，一次不夠我重來七次，改寫遺憾純愛爆款 ｜ 弦斷誰聽 ｜ 同名小說主題曲 ｜ 2026感動人心的青春校園MV",
+      "title": "《回到十八歲那天》這一次換我先說愛妳, 就不會有遺憾！ ｜弦斷誰聽 ｜ 同名小說M V｜ 2026最感心的青春校園MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -316,43 +316,63 @@
     },
     {
       "videoId": "tu8iZwGc8PY",
-      "title": "《你在心底慢慢發亮》我學不會把愛遺忘，只剩回憶在胸口發燙｜【YT十二弦月】｜弦斷誰聽"
+      "title": "《你在心底慢慢發亮》我學不會把愛遺忘，只剩回憶在胸口發燙｜【YT十二弦月】｜弦斷誰聽",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "f9aeZ4RI0_E",
-      "title": "《那年夏天,你說會愛我》從無話不說，到最後的無話可說｜【YT十二弦月】｜弦斷誰聽"
+      "title": "《那年夏天,你說會愛我》從無話不說，到最後的無話可說｜【YT十二弦月】｜弦斷誰聽",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "bO_QtftCirM",
-      "title": "《霜渡離弦》原來離別不是遺忘，只是換一種珍藏！聽哭千萬人的宿命｜【YT十二弦月】｜弦斷誰聽"
+      "title": "《霜渡離弦》原來離別不是遺忘，只是換一種珍藏！聽哭千萬人的宿命｜【YT十二弦月】｜弦斷誰聽",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "cX01zBAAqfU",
-      "title": "《靜悄悄》你走得那麼靜悄悄，連告別都輕得飄了！聽哭千萬人的遺憾｜【YT十二弦月】｜弦斷誰聽"
+      "title": "《靜悄悄》你走得那麼靜悄悄，連告別都輕得飄了！聽哭千萬人的遺憾｜【YT十二弦月】｜弦斷誰聽",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "X45S8yABm0o",
-      "title": "《緣淺情深未能圓》你是風煙也是執念，是我一生都走不出的春天｜【YT十二弦月】｜弦斷誰聽"
+      "title": "《緣淺情深未能圓》你是風煙也是執念，是我一生都走不出的春天｜【YT十二弦月】｜弦斷誰聽",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "_0CyfzOv_vk",
-      "title": "《思念落眉間》明明故作雲淡，偏在靠近那刻亂了心房！有你所在便是故鄉｜絕美浪漫情歌｜曾把深情鎖心上，直到你拆穿我的沉默｜【YT十二弦月】｜弦斷誰聽"
+      "title": "《思念落眉間》明明故作雲淡，偏在靠近那刻亂了心房！有你所在便是故鄉｜絕美浪漫情歌｜曾把深情鎖心上，直到你拆穿我的沉默｜【YT十二弦月】｜弦斷誰聽",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "Epic4HeyZ5I",
-      "title": "《只願此生共朝夕》萬千繁華皆可棄，唯你值得我珍惜！聽哭千萬人的深情誓言｜若人間終有奇蹟，願命運不再分離【YT十二弦月】｜弦斷誰聽"
+      "title": "《只願此生共朝夕》萬千繁華皆可棄，唯你值得我珍惜！聽哭千萬人的深情誓言｜若人間終有奇蹟，願命運不再分離【YT十二弦月】｜弦斷誰聽",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "cnXNenXxAtk",
-      "title": "《忘川彼岸等落花》等到輪迴覆滿霜華，哪怕魂散成飛沙｜虐心輪迴神曲｜【YT十二弦月】｜弦斷誰聽"
+      "title": "《忘川彼岸等落花》等到輪迴覆滿霜華，哪怕魂散成飛沙｜虐心輪迴神曲｜【YT十二弦月】｜弦斷誰聽",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "pjHdUBWvjc4",
-      "title": "《風過無聲城》催淚遺憾神曲｜哪怕結局太殘忍，至少曾為你沉淪｜【YT十二弦月】｜弦斷誰聽"
+      "title": "《風過無聲城》催淚遺憾神曲｜哪怕結局太殘忍，至少曾為你沉淪｜【YT十二弦月】｜弦斷誰聽",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "aYPycbIOwbs",
-      "title": "《陪你到曲終》【虐心等待】我將名字寫千遍，若能再重逢願陪你走到曲終｜【YT十二弦月】"
+      "title": "《陪你到曲終》【虐心等待】我將名字寫千遍，若能再重逢願陪你走到曲終｜【YT十二弦月】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "HR-F6NFVfaU",
