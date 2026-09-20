@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T13:35:47.457+08:00",
+  "lastUpdated": "2026-09-20T13:40:48.160+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "jGTPT5nvpqo",
-      "title": "我一解釋，你就說我改口《說得不像我》｜說到後來，誰還需要見我｜人言可畏・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -46,19 +46,19 @@
     },
     {
       "videoId": "PBn-CJQvG6w",
-      "title": "你走了，我的房間一樣都沒動《霓虹裡的失城者》｜房間擺設固執著原狀，刻意半掩那扇門的窗｜放不下一個人・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+      "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "sED1xy1gc0Y",
-      "title": "沒人記得我，我還記得你《若只如初見》｜無人念予情，無人似予心｜深夜孤獨・文言古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "SNV1PsuGJKE",
-      "title": "一片相思，都吹成了灰《風也來，雨也來》｜吹向雲天外｜深夜孤獨・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "情深到最後，只剩一把骨頭《風也來，雨也來》｜情深枯成骨，不負人卻寒｜愛而不得・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -922,43 +922,63 @@
     },
     {
       "videoId": "RA0s6PqhRNw",
-      "title": "【宿命古風】《未至之夢》命由天，不由人... ｜與君相逢不見｜霧月 Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【宿命古風】《未至之夢》命由天，不由人... ｜與君相逢不見｜霧月 Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "FRMiZe2ZDaA",
-      "title": "【千年虐戀】《幻夢枯月》一夢傾城，再夢成空...｜鏡裂之際的東方幻夢｜霧月 Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【千年虐戀】《幻夢枯月》一夢傾城，再夢成空...｜鏡裂之際的東方幻夢｜霧月 Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "0lup-O7VlrA",
-      "title": "【微笑憂鬱】《笑意未曾抵達眼底》越甜的片刻，越易在掌心劃傷自己... ｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "【微笑憂鬱】《笑意未曾抵達眼底》越甜的片刻，越易在掌心劃傷自己... ｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "jl7HgIsIEx4",
-      "title": "【撕心抒情】《虛偽》妳沒在我身上痛過，別叫我放下，好不好...｜頌心意 X 霧月 ｜(Official Lyric Video)"
+      "title": "【撕心抒情】《虛偽》妳沒在我身上痛過，別叫我放下，好不好...｜頌心意 X 霧月 ｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "MB2ReoT77Lw",
-      "title": "【古風】《不見之夢》緣深終不見，執手即永別...｜霧月 Xiaoloulou｜2026古風BE美學 (Official Lyric Video)"
+      "title": "【古風】《不見之夢》緣深終不見，執手即永別...｜霧月 Xiaoloulou｜2026古風BE美學 (Official Lyric Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "CKIZQiXdWT4",
-      "title": "《花怨》一人之顧，萬里紅妝新整｜ 絕美古風｜霧月 Xiaoloulou｜ (Official Lyric Audio)"
+      "title": "《花怨》一人之顧，萬里紅妝新整｜ 絕美古風｜霧月 Xiaoloulou｜ (Official Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "tatx_l4SuDE",
-      "title": "【治癒】《別哭 Don't Cry》我會抵達，不在今晨... 給每一個疲憊的靈魂｜霧月 Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【治癒】《別哭 Don't Cry》我會抵達，不在今晨... 給每一個疲憊的靈魂｜霧月 Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "ku0mkqN0Yaw",
-      "title": "【清醒自白】《困於雨下》妳用沉默把我推回原位...｜只留下雨聲，不再留下我｜霧月 Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【清醒自白】《困於雨下》妳用沉默把我推回原位...｜只留下雨聲，不再留下我｜霧月 Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "4JyaeERv4MA",
-      "title": "【虐心自白】《妳從未懂》我離開，其實是為了被妳擁抱一次... | 霧月 Xiaoloulou | (Official Lyric Video)"
+      "title": "【虐心自白】《妳從未懂》我離開，其實是為了被妳擁抱一次... | 霧月 Xiaoloulou | (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "bmuABhFY_mw",
-      "title": "【催淚單戀】《妳是我最愚蠢的一次溫柔》明知道到不了，還偏要划向妳的宇宙... ｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "【催淚單戀】《妳是我最愚蠢的一次溫柔》明知道到不了，還偏要划向妳的宇宙... ｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "IMmjqf1sHtk",
