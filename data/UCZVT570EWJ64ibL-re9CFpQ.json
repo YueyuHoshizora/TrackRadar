@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T18:20:44.655+08:00",
+  "lastUpdated": "2026-09-20T18:30:43.775+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -496,43 +496,63 @@
     },
     {
       "videoId": "AAoAKsOMcH0",
-      "title": "【中國風 - 換季】我換了外套 卻換不回你的牽掛 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 換季】我換了外套 卻換不回你的牽掛 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "RUGqJSZGiYQ",
-      "title": "【中國風 lofi beat,- 眼淚活該】活該我的眼淚 竟是我們分開的罪 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 lofi beat,- 眼淚活該】活該我的眼淚 竟是我們分開的罪 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "WcpXRIDx2KU",
-      "title": "【中國風trap - 三更天】白日跪過多少神 夜裡就欠多少魂🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風trap - 三更天】白日跪過多少神 夜裡就欠多少魂🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "OgxLpFDTMOM",
-      "title": "【潮流中國風 - 解藥】不再問琴弦為了誰斷了幾根 不再求枯木為了誰再度逢春 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【潮流中國風 - 解藥】不再問琴弦為了誰斷了幾根 不再求枯木為了誰再度逢春 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "32_hJqhJTUY",
-      "title": "【華語流行 - 月蝕】我們都在期待黑暗的恩賜 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【華語流行 - 月蝕】我們都在期待黑暗的恩賜 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "m8X-iVijPcY",
-      "title": "【中國風 - 因果狩獵】慈悲只是偽裝的假面 我們在煉獄裡渴求蛻變 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 因果狩獵】慈悲只是偽裝的假面 我們在煉獄裡渴求蛻變 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "u94b5d3FeBU",
-      "title": "【Dark Electro pop - 瘋狂的九黎】你聽心跳開始失控 你看世界開始失重🎧 九黎月｜潮流電子原創【Official Lyric Video】"
+      "title": "【Dark Electro pop - 瘋狂的九黎】你聽心跳開始失控 你看世界開始失重🎧 九黎月｜潮流電子原創【Official Lyric Video】",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "EVUJD3MPqds",
-      "title": "【中國風 - 廣陵狐】戰場奏完廣陵散，散盡魂魄無人嘆 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 廣陵狐】戰場奏完廣陵散，散盡魂魄無人嘆 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "5VtVGpOuroQ",
-      "title": "【中國風 - 離人醉梨花】離人醉 醉在梨花 滿地白如雪下 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 離人醉梨花】離人醉 醉在梨花 滿地白如雪下 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "d71mEOOwJmc",
-      "title": "【中國武俠風 - 九黎迷途】九黎迷途 途引舊夢滄桑 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國武俠風 - 九黎迷途】九黎迷途 途引舊夢滄桑 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "Pv40B3xlzlc",
