@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T19:40:44.223+08:00",
+  "lastUpdated": "2026-09-20T19:45:44.772+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1336,43 +1336,63 @@
     },
     {
       "videoId": "rrx4bvn8Kfc",
-      "title": "【LOFI playlist 深夜回憶】- 夏音Natsune 🎶 我的第二張合輯來啦～～有沒有你的故事在裡面呢？一起來聽聽我的音樂吧！｜Lofi Music / 慵懶平靜 / 讀書工作或夜晚獨處"
+      "title": "【LOFI playlist 深夜回憶】- 夏音Natsune 🎶 我的第二張合輯來啦～～有沒有你的故事在裡面呢？一起來聽聽我的音樂吧！｜Lofi Music / 慵懶平靜 / 讀書工作或夜晚獨處",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.44
     },
     {
       "videoId": "jrSZoT9SDB0",
-      "title": "2025年9月30日"
+      "title": "2025年9月30日",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "SHgYtYs8Eg4",
-      "title": "【R&B playlist 誰會懂】一聽就愛上 - 夏音Natsune 🎨 迷人菸嗓 Lofi R&B 旋律，深情觸動心弦，一聽入魂的都市療癒｜Lofi R&B Version / 孤寂感性、深夜低語"
+      "title": "【R&B playlist 誰會懂】一聽就愛上 - 夏音Natsune 🎨 迷人菸嗓 Lofi R&B 旋律，深情觸動心弦，一聽入魂的都市療癒｜Lofi R&B Version / 孤寂感性、深夜低語",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "ZzrhbieOXUc",
-      "title": "2025流行音樂 #放鬆音樂 #2025流行"
+      "title": "2025流行音樂 #放鬆音樂 #2025流行",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "Cz1D1qhrh1Y",
-      "title": "【LOFI playlist 落幕之前】- 夏音Natsune 🌙 磁性菸嗓與溫暖Lo-Fi的復古流行旋律，深夜沉澱思緒｜lofi Music / 成熟感性 / 深夜咖啡館"
+      "title": "【LOFI playlist 落幕之前】- 夏音Natsune 🌙 磁性菸嗓與溫暖Lo-Fi的復古流行旋律，深夜沉澱思緒｜lofi Music / 成熟感性 / 深夜咖啡館",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.27
     },
     {
       "videoId": "LoOuR1s3LSY",
-      "title": "【LOFI playlist 月光下的安靜】- 夏音Natsune ✨ 慵懶靜謐的夜晚，微沙菸嗓輕輕低語，治癒你的心靈｜Lofi Music / 放鬆冥想 / 雨夜獨處"
+      "title": "【LOFI playlist 月光下的安靜】- 夏音Natsune ✨ 慵懶靜謐的夜晚，微沙菸嗓輕輕低語，治癒你的心靈｜Lofi Music / 放鬆冥想 / 雨夜獨處",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.34
     },
     {
       "videoId": "AD6CWHKpoko",
-      "title": "2025年9月28日"
+      "title": "2025年9月28日",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "LR-xom2tMMU",
-      "title": "2025年9月27日"
+      "title": "2025年9月27日",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "UDNmBpNN4h4",
-      "title": "【LOFI playlist 失約的夜】- 夏音Natsune 🌈 磁性菸嗓的復古溫暖原聲｜lofi Acoustic / 深夜的思念與低語 / 雨夜窗邊 / 獨酌時光 / 學習放鬆"
+      "title": "【LOFI playlist 失約的夜】- 夏音Natsune 🌈 磁性菸嗓的復古溫暖原聲｜lofi Acoustic / 深夜的思念與低語 / 雨夜窗邊 / 獨酌時光 / 學習放鬆",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "b7-oXPwwldo",
-      "title": "2025年9月26日"
+      "title": "2025年9月26日",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "JGv2jE1yFjE",
