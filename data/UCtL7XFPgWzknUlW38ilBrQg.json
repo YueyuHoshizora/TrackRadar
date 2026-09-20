@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T13:25:46.100+08:00",
+  "lastUpdated": "2026-09-20T13:30:47.948+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -22,7 +22,7 @@
     },
     {
       "videoId": "jGTPT5nvpqo",
-      "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "我走出門，屋裡的我還在說《說得不像我》｜你們卻看著彼此，說起我｜被孤立的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -46,13 +46,13 @@
     },
     {
       "videoId": "PBn-CJQvG6w",
-      "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+      "title": "我開始忘記你的樣子了《霓虹裡的失城者》｜恐懼的不是妳選擇放手，是鮮活記憶開始生了鏽｜忘不了一個人・中文藍調｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "sED1xy1gc0Y",
-      "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "你回頭一笑，我就入了冬《若只如初見》｜一笑回眸，天地寒｜忘不了一個人・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -802,43 +802,63 @@
     },
     {
       "videoId": "CVoF5pH95rY",
-      "title": "【溫柔降伏】《骨縫裡的靜》妳一眼我就鬆，妳一碰世界就滑落... ｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "【溫柔降伏】《骨縫裡的靜》妳一眼我就鬆，妳一碰世界就滑落... ｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "EKevnOdQMho",
-      "title": "《邊角捲起來的便利貼 Post-it Notes》我就是那個錯誤的程式碼｜霧月 Xiaoloulou｜(Official Lyric Audio)  歌詞純享版"
+      "title": "《邊角捲起來的便利貼 Post-it Notes》我就是那個錯誤的程式碼｜霧月 Xiaoloulou｜(Official Lyric Audio)  歌詞純享版",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.22
     },
     {
       "videoId": "3nk58Z5TQ9g",
-      "title": "《故作姿態的墜落》｜該撕心裂肺地控訴這場破碎，還是故作姿態地完成這場自尊殘骸的優雅謝幕？｜霧月 Xiaoloulou｜YT十二弦月"
+      "title": "《故作姿態的墜落》｜該撕心裂肺地控訴這場破碎，還是故作姿態地完成這場自尊殘骸的優雅謝幕？｜霧月 Xiaoloulou｜YT十二弦月",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "TJ7yCPAgdcI",
-      "title": "【致命微醺】《帶酒氣的預言》我在妳懷裡自願認罪，今夜限定的共犯... ｜霧月 Xiaoloulou｜(Official Lyric Audio) 歌詞純享版"
+      "title": "【致命微醺】《帶酒氣的預言》我在妳懷裡自願認罪，今夜限定的共犯... ｜霧月 Xiaoloulou｜(Official Lyric Audio) 歌詞純享版",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "FFy1OzQU9Ic",
-      "title": "【極致曖昧】《輕輕地愛我》把我往深處牽，牽到邊緣...｜霧月 Xiaoloulou ｜(Official Lyric Video)"
+      "title": "【極致曖昧】《輕輕地愛我》把我往深處牽，牽到邊緣...｜霧月 Xiaoloulou ｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "TSLUCZK7sJA",
-      "title": "【微醺曖昧】《還剩半口溫熱》在你眼睛裡失重，這是一場聽不見的暴動...｜霧月 Xiaoloulou ｜(Official Lyric Audio) 文字純享版"
+      "title": "【微醺曖昧】《還剩半口溫熱》在你眼睛裡失重，這是一場聽不見的暴動...｜霧月 Xiaoloulou ｜(Official Lyric Audio) 文字純享版",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "oZFczSLopU4",
-      "title": "【深夜催淚】《深夜思行》放手這件事，從來都學不會... ｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "【深夜催淚】《深夜思行》放手這件事，從來都學不會... ｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "1vpD6sRpWyE",
-      "title": "【深夜內耗】《玻璃杯邊緣上的月亮》打開對話框，打字、全選、刪除... ｜霧月 Xiaoloulou｜(Official Lyric Audio)  文字純享版"
+      "title": "【深夜內耗】《玻璃杯邊緣上的月亮》打開對話框，打字、全選、刪除... ｜霧月 Xiaoloulou｜(Official Lyric Audio)  文字純享版",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "RVumS8nUy74",
-      "title": "【深夜微醺】《威士忌的眼淚》我碰過的每一份愛，最後都學會如何消失...｜霧月 Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【深夜微醺】《威士忌的眼淚》我碰過的每一份愛，最後都學會如何消失...｜霧月 Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "mlN9SJqizqg",
-      "title": "🌫️【2026最美古風詞】《#雲生七相》｜給所有伸手才發現抱不住的人｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "🌫️【2026最美古風詞】《#雲生七相》｜給所有伸手才發現抱不住的人｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "0xFwJ0x2WJs",
