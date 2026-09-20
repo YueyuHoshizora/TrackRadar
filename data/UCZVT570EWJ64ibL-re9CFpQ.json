@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T18:10:44.476+08:00",
+  "lastUpdated": "2026-09-20T18:15:45.698+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -376,43 +376,63 @@
     },
     {
       "videoId": "mVuLz8LusHg",
-      "title": "【中國風 - 不合時宜】哪有那麼多故事 都能等來歸期🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 不合時宜】哪有那麼多故事 都能等來歸期🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "XsPVLbn2Rh0",
-      "title": "【中國風 - 山外山】人上還有人望不穿 山外還有山外山 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 山外山】人上還有人望不穿 山外還有山外山 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.49
     },
     {
       "videoId": "4O-1JnjvsTo",
-      "title": "【中國風 - 折子戲】你總是很忙碌 有太多的追逐 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 折子戲】你總是很忙碌 有太多的追逐 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "dfAdG15DskM",
-      "title": "【華語流行 - 真話】我演的太入戲 才輸得這麼徹底🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【華語流行 - 真話】我演的太入戲 才輸得這麼徹底🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "0OQPdffWL1c",
-      "title": "【中國風 - 伴奏版花影戲】 🎧 九黎月｜潮流R&B原創【純音樂版】"
+      "title": "【中國風 - 伴奏版花影戲】 🎧 九黎月｜潮流R&B原創【純音樂版】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "LPk6yM2gjU0",
-      "title": "【中國風 - 吃人禽獸】算盤打得精　算不出良心 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 吃人禽獸】算盤打得精　算不出良心 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "gCjhCDv9sQ4",
-      "title": "【中國風 - 灑脫】幾縷炊煙留不住我影子的冷漠 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 灑脫】幾縷炊煙留不住我影子的冷漠 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "apcufs7cNww",
-      "title": "【中國風 - 裝神弄鬼】你看魑魅求神佛，裝神弄鬼🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 裝神弄鬼】你看魑魅求神佛，裝神弄鬼🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.49
     },
     {
       "videoId": "4XLq8dxEi9g",
-      "title": "【中國風 - 三拜】一拜天地拜斷了前世的魂 二拜高堂謝盡了生養的恩 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 三拜】一拜天地拜斷了前世的魂 二拜高堂謝盡了生養的恩 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "vGNzHGRLmEk",
-      "title": "【中國風 - 你的謊】疼了多久 久到麻痺才停🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 你的謊】疼了多久 久到麻痺才停🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "76LQXX1ZOP0",
