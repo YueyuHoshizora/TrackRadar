@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T20:10:45.339+08:00",
+  "lastUpdated": "2026-09-20T20:15:45.339+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1696,43 +1696,63 @@
     },
     {
       "videoId": "UWLT4gA5WGA",
-      "title": "LOFI playlist  Neon Solitude - (凜 Rin) | 一小時純音樂 | The Tape Key Sessions - Lofi Electronic"
+      "title": "LOFI playlist  Neon Solitude - (凜 Rin) | 一小時純音樂 | The Tape Key Sessions - Lofi Electronic",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "ilu2wOiGN18",
-      "title": "LOFI 舉杯買醉 (夏音Natsune) - | 菸嗓小天后 | Pop Lofi Electronic Cover | Relaxing Remix"
+      "title": "LOFI 舉杯買醉 (夏音Natsune) - | 菸嗓小天后 | Pop Lofi Electronic Cover | Relaxing Remix",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "WRFkvl3wBnQ",
-      "title": "LOFI playlist  Whispers in the Rain (凜 Rin) 一小時純音樂不間斷 | Lofi R&B Electronic Cover | Relaxing"
+      "title": "LOFI playlist  Whispers in the Rain (凜 Rin) 一小時純音樂不間斷 | Lofi R&B Electronic Cover | Relaxing",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "MBwOvVAcbGI",
-      "title": "LOFI  未完成的句子 (夏音 Natsune) | 菸嗓歌后（自稱）| 聽了就愛上 | Lofi也可以這樣玩 | Electronic Cover |"
+      "title": "LOFI  未完成的句子 (夏音 Natsune) | 菸嗓歌后（自稱）| 聽了就愛上 | Lofi也可以這樣玩 | Electronic Cover |",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "IV5I3Y9Qqts",
-      "title": "LOFI playlist Midnight Neon Walk 純音樂一小時不間斷  DJ 凜 Rin (Lofi R&B Electronic Cover) |"
+      "title": "LOFI playlist Midnight Neon Walk 純音樂一小時不間斷  DJ 凜 Rin (Lofi R&B Electronic Cover) |",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "oxMUiV37wcE",
-      "title": "LOFI  夏音Natsune - 零點三十分 | Lofi R&B Electronic Cover (Chill Remix) ｜煙嗓小天后（自稱的啦）"
+      "title": "LOFI  夏音Natsune - 零點三十分 | Lofi R&B Electronic Cover (Chill Remix) ｜煙嗓小天后（自稱的啦）",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "4m_wxhgMbIs",
-      "title": "【LOFI playlist 𝙈𝙞𝙙𝙣𝙞𝙜𝙝𝙩 𝙒𝙝𝙞𝙨𝙥𝙚𝙧𝙨 list】深夜一個人聽到出神 🌙 旋律像在低語你的心事 💫｜療癒放空神單 ▶️ Chill / Lo-fi / POP"
+      "title": "【LOFI playlist 𝙈𝙞𝙙𝙣𝙞𝙜𝙝𝙩 𝙒𝙝𝙞𝙨𝙥𝙚𝙧𝙨 list】深夜一個人聽到出神 🌙 旋律像在低語你的心事 💫｜療癒放空神單 ▶️ Chill / Lo-fi / POP",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.34
     },
     {
       "videoId": "Y-9yomJGE38",
-      "title": "LOFI  你能不能好好幸福 (夏音Natsune) | Pop Lofi Electronic Cover | 有種愛叫看著你幸福"
+      "title": "LOFI  你能不能好好幸福 (夏音Natsune) | Pop Lofi Electronic Cover | 有種愛叫看著你幸福",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "gpD1N3vvP-E",
-      "title": "LOFI 夏音Natsune - 被迫單身 (Pop Lofi Electronic Cover) | Relaxing Music Remix | 身不由己啊~我也是很無奈"
+      "title": "LOFI 夏音Natsune - 被迫單身 (Pop Lofi Electronic Cover) | Relaxing Music Remix | 身不由己啊~我也是很無奈",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "yh8nFMCMYp8",
-      "title": "LOFI  夏音Natsune - 已經忘了 (Lofi R&B Electronic Cover) | 深夜情歌 | 菸嗓磁性 | LOFI抒情"
+      "title": "LOFI  夏音Natsune - 已經忘了 (Lofi R&B Electronic Cover) | 深夜情歌 | 菸嗓磁性 | LOFI抒情",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "qHqIlyPZQc0",
