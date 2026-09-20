@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T19:45:44.772+08:00",
+  "lastUpdated": "2026-09-20T19:50:43.149+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1396,43 +1396,63 @@
     },
     {
       "videoId": "JGv2jE1yFjE",
-      "title": "【街角貓咪派對】- Kira 💓 可愛Kawaii日系輕快旋律，原聲吉他溫暖呈現，Hi-Fi級高保真音質帶你進入純淨療癒空間｜J-Pop Acoustic Music / 溫暖輕快純粹療癒"
+      "title": "【街角貓咪派對】- Kira 💓 可愛Kawaii日系輕快旋律，原聲吉他溫暖呈現，Hi-Fi級高保真音質帶你進入純淨療癒空間｜J-Pop Acoustic Music / 溫暖輕快純粹療癒",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "vN4NyFHsQDA",
-      "title": "2025年9月26日"
+      "title": "2025年9月26日",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "88wJ4844OKY",
-      "title": "【working out playlist 和魂鐵擊】- 音樂脈動-Sonic Pulse 🌙 電子脈動遇上傳統和風精髓，科技感與東方美學的聽覺盛宴｜Electronic Instrumental"
+      "title": "【working out playlist 和魂鐵擊】- 音樂脈動-Sonic Pulse 🌙 電子脈動遇上傳統和風精髓，科技感與東方美學的聽覺盛宴｜Electronic Instrumental",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "cf77aIWLeDc",
-      "title": "煙嗓小天后又來啦～這次是傷人的選擇～～希望大家喜歡 #煙嗓 #流行音樂  #失戀語錄"
+      "title": "煙嗓小天后又來啦～這次是傷人的選擇～～希望大家喜歡 #煙嗓 #流行音樂  #失戀語錄",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "1Ie_u__JZjI",
-      "title": "【咖啡店的輕舞】- Kira 🌙 都市午後的輕甜原聲，散發著日系Kawaii慵懶與80年代浪漫氣息｜City Pop Acoustic / 輕甜慵懶 / 咖啡館、都市午後"
+      "title": "【咖啡店的輕舞】- Kira 🌙 都市午後的輕甜原聲，散發著日系Kawaii慵懶與80年代浪漫氣息｜City Pop Acoustic / 輕甜慵懶 / 咖啡館、都市午後",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "XqKa6FLKj20",
-      "title": "煙嗓小天后的歌曲又來啦～2025最新華語流行樂#原創音樂 #流行音樂 #失戀語錄"
+      "title": "煙嗓小天后的歌曲又來啦～2025最新華語流行樂#原創音樂 #流行音樂 #失戀語錄",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "E-miKuSLy7M",
-      "title": "【LOFI playlist 禪風夜暮】- 凜Rin 🎶 讓心靈沉澱，感受深夜寧靜與禪意，溫暖復古的純音樂適合冥想放鬆｜Lo-Fi Instrumental Music / 讀書專注｜深夜冥想"
+      "title": "【LOFI playlist 禪風夜暮】- 凜Rin 🎶 讓心靈沉澱，感受深夜寧靜與禪意，溫暖復古的純音樂適合冥想放鬆｜Lo-Fi Instrumental Music / 讀書專注｜深夜冥想",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "2L-JZcdVcTY",
-      "title": "煙嗓小天后的歌又來啦～～～2025最新華語流行樂 #原創音樂 #流行音樂 #失戀語錄"
+      "title": "煙嗓小天后的歌又來啦～～～2025最新華語流行樂 #原創音樂 #流行音樂 #失戀語錄",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "69J4WBmeqX4",
-      "title": "【working out playlist 和風戰鬥曲】- 音樂脈動-Sonic Pulse 🎪 熱血磅礴、東方武士與現代電音律動的史詩級純音樂｜Instrumental Music  電玩遊戲BGM"
+      "title": "【working out playlist 和風戰鬥曲】- 音樂脈動-Sonic Pulse 🎪 熱血磅礴、東方武士與現代電音律動的史詩級純音樂｜Instrumental Music  電玩遊戲BGM",
+      "genre": "遊戲音樂 Game Music",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "oCfz3EL2unc",
-      "title": "有沒有那樣 一首歌，是你的故事？ #lofi 新歌"
+      "title": "有沒有那樣 一首歌，是你的故事？ #lofi 新歌",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "FCQVVnThbAk",
