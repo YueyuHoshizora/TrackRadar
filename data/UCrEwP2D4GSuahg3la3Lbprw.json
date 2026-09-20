@@ -1,7 +1,7 @@
 {
   "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
   "channelTitle": "弦斷誰聽",
-  "lastUpdated": "2026-09-20T14:10:42.524+08:00",
+  "lastUpdated": "2026-09-20T14:15:42.939+08:00",
   "latestVideo": {
     "videoId": "ue5nkfnzy3A",
     "title": "《我不是美人魚》聽完直接破防！原來奮不顧身換來的，只是一場虛幻夢境 ｜弦斷誰聽",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "ue5nkfnzy3A",
-      "title": "《我不是美人魚》努力游向有你的方向，卻游不進你的心……唱哭千萬單戀人 ｜弦斷誰聽",
+      "title": "《我不是美人魚》聽完直接破防！原來奮不顧身換來的，只是一場虛幻夢境 ｜弦斷誰聽",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
     {
       "videoId": "GAAHyI04NcA",
-      "title": "《如果那天我沒有放你走》撕心裂肺催淚必聽！你等我說一句別走，我卻讓這句話遲到了好多年 ｜弦斷誰聽 ｜ 那年夏天 沒說出口的喜歡  ｜ 高清 MV 版本",
+      "title": "《如果那天我沒有放你走》以為成全比挽留溫柔，一句\"一路順風\" 了終身遺憾 ｜ 弦斷誰聽 ｜ 那年夏天的 沒說出口的喜歡  ｜ 高清 MV 版本 2026",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "uREHUl99gP4",
-      "title": "《幾歲了還不會開靜音》硬控全場！要打去大遠百打，看電影不開靜音真人開雙打爆笑神曲 ｜弦斷誰聽",
+      "title": "《幾歲了還不會開靜音》一張票看兩場超爽der，全台圍觀，馬上改票去大遠百看｜弦斷誰聽",
       "genre": "嘻哈/饒舌 Hip-Hop/Rap",
       "genreConfidence": 0.3
     },
@@ -1036,43 +1036,63 @@
     },
     {
       "videoId": "8t3ft6jnym0",
-      "title": "《空山·雨》｜雨過長街，未說出口的故事終於被夜色聽見，我終於聽見自己的心"
+      "title": "《空山·雨》｜雨過長街，未說出口的故事終於被夜色聽見，我終於聽見自己的心",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "RIFQXKujulg",
-      "title": "《喵喵太神秘》⚡ 可愛到犯規的 EDM 神曲｜超洗腦 126 BPM 電子流行【Official Audio】"
+      "title": "《喵喵太神秘》⚡ 可愛到犯規的 EDM 神曲｜超洗腦 126 BPM 電子流行【Official Audio】",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "Dgn53qPe3uk",
-      "title": "《愛情射龍門》｜甜到 All in 的 R&B 戀愛神曲【Official Audio】【弦斷誰聽】"
+      "title": "《愛情射龍門》｜甜到 All in 的 R&B 戀愛神曲【Official Audio】【弦斷誰聽】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "znR-Tiy3Nvs",
-      "title": "周星馳名言做成情歌？女聲R&B版《無厘頭的浪漫》- 給我擦皮鞋*我要驗牌 | 如果非要加一個期限"
+      "title": "周星馳名言做成情歌？女聲R&B版《無厘頭的浪漫》- 給我擦皮鞋*我要驗牌 | 如果非要加一個期限",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "phNtTvPSS20",
-      "title": "《心動的微風》第一次牽手的那一天｜甜到心跳失控的初戀情歌【完整版 Official Audio】"
+      "title": "《心動的微風》第一次牽手的那一天｜甜到心跳失控的初戀情歌【完整版 Official Audio】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "o5CcuP1TwME",
-      "title": "空山‧人間夢  幽魂戀｜古風虐戀情歌完整版（前世今生 × 三生石）Official Full Version"
+      "title": "空山‧人間夢  幽魂戀｜古風虐戀情歌完整版（前世今生 × 三生石）Official Full Version",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "OfXldxXIIXI",
-      "title": "三十歲的日常｜只是彎個腰就崩潰？30歲家務真實寫照【Official MV】"
+      "title": "三十歲的日常｜只是彎個腰就崩潰？30歲家務真實寫照【Official MV】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "Rxfbqjlxsx4",
-      "title": "離開的溫柔｜你連抱歉都沒有…這是最後一次為你流淚【Official MV】失戀必聽"
+      "title": "離開的溫柔｜你連抱歉都沒有…這是最後一次為你流淚【Official MV】失戀必聽",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "GMZ0QrmFSuY",
-      "title": "《成何體統》當全場質疑她時，她用實力改寫規則｜古風×流行熱血單曲 MV | 華語流行"
+      "title": "《成何體統》當全場質疑她時，她用實力改寫規則｜古風×流行熱血單曲 MV | 華語流行",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "Xv9na0pEndE",
-      "title": "《完整的我》｜情緒流行必聽歌單｜失戀後找回自己的那首歌｜升Key高能副歌"
+      "title": "《完整的我》｜情緒流行必聽歌單｜失戀後找回自己的那首歌｜升Key高能副歌",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "12HpxWc6cF8",
