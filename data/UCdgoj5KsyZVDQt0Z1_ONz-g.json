@@ -1,7 +1,7 @@
 {
   "channelId": "UCdgoj5KsyZVDQt0Z1_ONz-g",
   "channelTitle": "迷路的宇宙人",
-  "lastUpdated": "2026-09-20T12:29:35.608+08:00",
+  "lastUpdated": "2026-09-20T12:30:42.106+08:00",
   "latestVideo": {
     "videoId": "82QgWZVN3dQ",
     "title": "你說愛就像迷宮，我卻學會安靜地錯過｜迷宇 Lost Alien《線索》Official Video",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "82QgWZVN3dQ",
-      "title": "有些沉默，始終無處停泊｜迷宇 Lost Alien《線索》Official Video",
+      "title": "故事還沒結尾，你卻慢慢消失｜迷宇 Lost Alien《線索》Official Video",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "L_m2U0nlpSk",
-      "title": "【迷宇】我說話你聽嗎？｜心裡的話，有誰會在意呢？｜來自孤獨的負能量"
+      "title": "【迷宇】我說話你聽嗎？｜心裡的話，有誰會在意呢？｜來自孤獨的負能量",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "-eAhWJZgFU0",
-      "title": "【迷宇】愛無離｜延續浪流連的遺憾，親像浪花沉落底，無處思念｜同人創作 (Official Lyric Video)"
+      "title": "【迷宇】愛無離｜延續浪流連的遺憾，親像浪花沉落底，無處思念｜同人創作 (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "QVdRuuRwZ6M",
-      "title": "「Lost Alien」直播"
+      "title": "「Lost Alien」直播",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "iHpkri1FIFM",
-      "title": "【迷宇】 泡沫宇宙 |  愛是在宇宙膨脹中稀釋的物理定律 (Official Lyric Video)"
+      "title": "【迷宇】 泡沫宇宙 |  愛是在宇宙膨脹中稀釋的物理定律 (Official Lyric Video)",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "kkzjFCeDfSI",
-      "title": "【迷宇】沒出息｜本來應該從從容容游刃有餘～"
+      "title": "【迷宇】沒出息｜本來應該從從容容游刃有餘～",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "X0Eidi3gEf4",
-      "title": "【迷宇】微粒子｜你說的話像飄在風裡、我抓不住你卻消散如煙"
+      "title": "【迷宇】微粒子｜你說的話像飄在風裡、我抓不住你卻消散如煙",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "p38e5eXvxNk",
-      "title": "【迷宇】愛是錯覺嗎｜答案像流沙、已成一場夢"
+      "title": "【迷宇】愛是錯覺嗎｜答案像流沙、已成一場夢",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "xfFESdW0uZc",
-      "title": "【迷宇】為你祈願｜感謝所有伸出的援手，亮起的燈火"
+      "title": "【迷宇】為你祈願｜感謝所有伸出的援手，亮起的燈火",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "1I6z1gOyY1I",
-      "title": "【迷宇】無重力的日常｜每個人都帶著自己的夢，急著要去哪裡?"
+      "title": "【迷宇】無重力的日常｜每個人都帶著自己的夢，急著要去哪裡?",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.33
     },
     {
       "videoId": "SaMCKFmuW80",
-      "title": "【迷宇】夢裡醒來的謊言｜我說過的永遠，卻成為最傷害我的諾言"
+      "title": "【迷宇】夢裡醒來的謊言｜我說過的永遠，卻成為最傷害我的諾言",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "1_9j1TOI_Ds",
