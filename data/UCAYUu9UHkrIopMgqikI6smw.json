@@ -1,7 +1,7 @@
 {
   "channelId": "UCAYUu9UHkrIopMgqikI6smw",
   "channelTitle": "空山和尚",
-  "lastUpdated": "2026-09-20T12:35:42.873+08:00",
+  "lastUpdated": "2026-09-20T12:50:41.885+08:00",
   "latestVideo": {
     "videoId": "un-ULt6ISkk",
     "title": "人這一生，到底在追什麼？｜《紅塵客》｜空山和尚",
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "rj-o5o0IyEY",
-      "title": "「這首歌不說教，卻治癒了無數不睡的人｜《琉璃燈》空山和尚」"
+      "title": "「這首歌不說教，卻治癒了無數不睡的人｜《琉璃燈》空山和尚」",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "jZ0Jhg8rjHM",
-      "title": "【冥想音樂】空山和尚｜二胡引導・靜心脈輪平衡｜放下焦慮，回到當下"
+      "title": "【冥想音樂】空山和尚｜二胡引導・靜心脈輪平衡｜放下焦慮，回到當下",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "ThAIJzBFFKs",
-      "title": "《一念成魔》【空山和尚】情執太深終成心魔｜2026神曲預定｜古風 × 禪意× 空山系原創"
+      "title": "《一念成魔》【空山和尚】情執太深終成心魔｜2026神曲預定｜古風 × 禪意× 空山系原創",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "qO-tZRa0gN0",
-      "title": "《佛前有罪》【空山和尚】禪意古風抒情｜當和尚遇見了此生最愛的人｜古風 × 禪意× 空山系原創"
+      "title": "《佛前有罪》【空山和尚】禪意古風抒情｜當和尚遇見了此生最愛的人｜古風 × 禪意× 空山系原創",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "5PiVomJJaus",
-      "title": "《空山佛》【空山和尚】｜佛不渡我，我自回岸｜ 人間禪歌｜古風 × 靜心 × 空山系原創"
+      "title": "《空山佛》【空山和尚】｜佛不渡我，我自回岸｜ 人間禪歌｜古風 × 靜心 × 空山系原創",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "bzgExJHhWBs",
-      "title": "《可夜不在》【空山和尚】｜一首讓自己成空的禪意夜曲｜古風 × 靜心 × 空山系原創"
+      "title": "《可夜不在》【空山和尚】｜一首讓自己成空的禪意夜曲｜古風 × 靜心 × 空山系原創",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "DSwfhq9mhDI",
-      "title": "《空山·空》【空山和尚】｜少一點執著，多一分剛好｜禪意古風原創｜聽完這首歌，心真的會靜下來"
+      "title": "《空山·空》【空山和尚】｜少一點執著，多一分剛好｜禪意古風原創｜聽完這首歌，心真的會靜下來",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "UZeup6UP6MU",
-      "title": "《一坐成禪》【空山和尚】｜古風歌曲｜聽完這首歌，心真的會靜下來"
+      "title": "《一坐成禪》【空山和尚】｜古風歌曲｜聽完這首歌，心真的會靜下來",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "XSLI2yhltac",
-      "title": "《一念塵緣》｜禪意古風原創歌曲｜看破紅塵的那一刻，你終於自由了｜心和之聲"
+      "title": "《一念塵緣》｜禪意古風原創歌曲｜看破紅塵的那一刻，你終於自由了｜心和之聲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "mtpEyl4eM6Q",
-      "title": "《空山憶》｜一開口就心碎的古風歌｜你走後，我把一生留在空山和回憶裡"
+      "title": "《空山憶》｜一開口就心碎的古風歌｜你走後，我把一生留在空山和回憶裡",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "VYKHAGi4Svo",
