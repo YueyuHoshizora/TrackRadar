@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T16:05:46.722+08:00",
+  "lastUpdated": "2026-09-20T16:10:46.900+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -2662,43 +2662,63 @@
     },
     {
       "videoId": "DG0WCUyzB_o",
-      "title": "淺花花 （重新編曲版） A Pale Bloom - 霧月|| 我當了一夜的她，天亮後也留不住他。"
+      "title": "淺花花 （重新編曲版） A Pale Bloom - 霧月|| 我當了一夜的她，天亮後也留不住他。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "yIkBP2fU8VA",
-      "title": "《不可饒恕之歌》蠅后之下、木上之聲、義之審下"
+      "title": "《不可饒恕之歌》蠅后之下、木上之聲、義之審下",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.3
     },
     {
       "videoId": "JRSyBI_xbQc",
-      "title": "《 Songs of the Unforgiven 》The Queen Beneath、The Wood Beneath the Voice、Beneath the Righteous"
+      "title": "《 Songs of the Unforgiven 》The Queen Beneath、The Wood Beneath the Voice、Beneath the Righteous",
+      "genre": "金屬 Metal",
+      "genreConfidence": 0.41
     },
     {
       "videoId": "tnbhQ4wDGbg",
-      "title": "《碎夢遐思》 Shattered Reverie 霧月 Xiaoloulou || 時針溶於燭淚，夢在灰燼裡無聲呼吸。"
+      "title": "《碎夢遐思》 Shattered Reverie 霧月 Xiaoloulou || 時針溶於燭淚，夢在灰燼裡無聲呼吸。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "KqjyjfvzIGo",
-      "title": "《陽關錯》Where the Parting Wind Once Passed 霧月 Xiaoloulou || 錯在陽關，不過一夢"
+      "title": "《陽關錯》Where the Parting Wind Once Passed 霧月 Xiaoloulou || 錯在陽關，不過一夢",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "MsSeq8SO6Gk",
-      "title": "玫紅色的我們 Rose Red 霧月 Xiaoloulou || 她留下的顏色，最後留在了我身上。"
+      "title": "玫紅色的我們 Rose Red 霧月 Xiaoloulou || 她留下的顏色，最後留在了我身上。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "oxd_kCsxKpY",
-      "title": "Rose Red 玫紅色的我們 霧月 Xiaoloulou || The color she left behind stayed in me."
+      "title": "Rose Red 玫紅色的我們 霧月 Xiaoloulou || The color she left behind stayed in me.",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "D3z_mTgZiAg",
-      "title": "潮聲忘了她的名字 Where the Tide Forgot Her Name 霧月 Xiaoloulou || Loved a girl the sea would never let go"
+      "title": "潮聲忘了她的名字 Where the Tide Forgot Her Name 霧月 Xiaoloulou || Loved a girl the sea would never let go",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.44
     },
     {
       "videoId": "aKF4jzHrwMo",
-      "title": "Where the Tide Forgot Her Name 潮聲忘了她的名字 霧月 Xiaoloulou || Loved a girl the sea would never let go"
+      "title": "Where the Tide Forgot Her Name 潮聲忘了她的名字 霧月 Xiaoloulou || Loved a girl the sea would never let go",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "Xq52QMuYxhw",
-      "title": "🌊《#寂夜聽潮》答古詩十九首・明月何皎皎｜給所有怕一開口夢就醒的人｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "🌊《#寂夜聽潮》答古詩十九首・明月何皎皎｜給所有怕一開口夢就醒的人｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "xn7rW44YvRg",
