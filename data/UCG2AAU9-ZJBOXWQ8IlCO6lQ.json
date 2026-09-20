@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T13:05:41.242+08:00",
+  "lastUpdated": "2026-09-20T13:15:43.290+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -322,43 +322,63 @@
     },
     {
       "videoId": "0Q5LBzLGMyA",
-      "title": "【KPOP Playlist】Best HipHop 饒舌 힙합 Songs 2026｜ BY 黎安(Leann)"
+      "title": "【KPOP Playlist】Best HipHop 饒舌 힙합 Songs 2026｜ BY 黎安(Leann)",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1
     },
     {
       "videoId": "i-ZoBK0LCd8",
-      "title": "【KPOP】GOLDEN PUPPET (金色木偶) - 致敬 2026 金唱片獎 | 原創 K-Pop Trap 歌曲 [粉絲自製]"
+      "title": "【KPOP】GOLDEN PUPPET (金色木偶) - 致敬 2026 金唱片獎 | 原創 K-Pop Trap 歌曲 [粉絲自製]",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "lwDn2gfuTyI",
-      "title": "【KPOP】GOLDEN SHINE (金色的約定) - 致敬 2026 金唱片獎 | 原創 K-Pop Trap 歌曲 [粉絲自製]"
+      "title": "【KPOP】GOLDEN SHINE (金色的約定) - 致敬 2026 金唱片獎 | 原創 K-Pop Trap 歌曲 [粉絲自製]",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "JWejyYl2E2s",
-      "title": "【古風音樂】Play list - ｜古風音樂電台：適合工作、讀書與靜心的 10 首神曲，每一秒都是靈魂的救贖｜古風音樂電台"
+      "title": "【古風音樂】Play list - ｜古風音樂電台：適合工作、讀書與靜心的 10 首神曲，每一秒都是靈魂的救贖｜古風音樂電台",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "2kut4t-VEtE",
-      "title": "【古風音樂】《茶香歲月》｜這紅塵所有的牽掛，最後都是妳。"
+      "title": "【古風音樂】《茶香歲月》｜這紅塵所有的牽掛，最後都是妳。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "_OJJnvM7sd8",
-      "title": "【古風音樂 】 Play list -如果不開心，就來聽聽《浮生劫》吧：這10首歌，總有一首能讓你放下。"
+      "title": "【古風音樂 】 Play list -如果不開心，就來聽聽《浮生劫》吧：這10首歌，總有一首能讓你放下。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "VyAmKY39Glc",
-      "title": "【古風音樂 】《心向光明》｜432Hz 超空靈療癒古風：願你成為那道光，點燃靈魂的露 (Ethereal Healing Music)"
+      "title": "【古風音樂 】《心向光明》｜432Hz 超空靈療癒古風：願你成為那道光，點燃靈魂的露 (Ethereal Healing Music)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "16wuEp-uWUE",
-      "title": "【古風音樂 】《一念雲開》｜願此曲洗去你一身疲憊：聽懂了是覺悟，聽碎了是人生。｜2026 原創古風神曲 (Healing Music)"
+      "title": "【古風音樂 】《一念雲開》｜願此曲洗去你一身疲憊：聽懂了是覺悟，聽碎了是人生。｜2026 原創古風神曲 (Healing Music)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "wPZNhUt_xQk",
-      "title": "【古風音樂 】《天啟・神樂之光》｜當日本神社的禁忌神樂舞響起，萬盞螢火點燃破曉之光"
+      "title": "【古風音樂 】《天啟・神樂之光》｜當日本神社的禁忌神樂舞響起，萬盞螢火點燃破曉之光",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "LWWMBUeofng",
-      "title": "【古風音樂 】《雲深處．見青山》｜2026年最治癒的現代古風神曲｜Acoustic Pop feat. Guzheng"
+      "title": "【古風音樂 】《雲深處．見青山》｜2026年最治癒的現代古風神曲｜Acoustic Pop feat. Guzheng",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "oSv5Wu-4yvU",
