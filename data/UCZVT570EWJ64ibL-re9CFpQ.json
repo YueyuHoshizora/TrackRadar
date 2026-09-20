@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T19:35:44.681+08:00",
+  "lastUpdated": "2026-09-20T19:40:44.223+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1276,43 +1276,63 @@
     },
     {
       "videoId": "y1vQIT2ZTaw",
-      "title": "EDM Playlist - Epic Oriental Battle Themes | Sonic Pulse 💝 Electronic Waves & Historical"
+      "title": "EDM Playlist - Epic Oriental Battle Themes | Sonic Pulse 💝 Electronic Waves & Historical",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "4PDQsn_glew",
-      "title": "【R&B Playlist 缺席】- 夏音Natsune 🖤 午休來聽歌｜菸嗓小天后｜R&B Music / 都會感傷微醺 / 深夜獨處回憶"
+      "title": "【R&B Playlist 缺席】- 夏音Natsune 🖤 午休來聽歌｜菸嗓小天后｜R&B Music / 都會感傷微醺 / 深夜獨處回憶",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "7WHTjp7_sqk",
-      "title": "【R&B playlist 大學新生教戰】2025流行音樂 - 夏音Natsune，大學開學一陣子啦～你們有沒有好好享受大學生活呢！？｜菸嗓小天后"
+      "title": "【R&B playlist 大學新生教戰】2025流行音樂 - 夏音Natsune，大學開學一陣子啦～你們有沒有好好享受大學生活呢！？｜菸嗓小天后",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "-gbfE9cD5E0",
-      "title": "《EDM Playlist東方電光盛典》- 💥 衝擊感十足的EDM節拍，東方詩意｜EDM Instrumental / Energetic, Festival, Dancefloor /"
+      "title": "《EDM Playlist東方電光盛典》- 💥 衝擊感十足的EDM節拍，東方詩意｜EDM Instrumental / Energetic, Festival, Dancefloor /",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "EdRGsl0y0Gc",
-      "title": "【R&B playlist 下一位】一聽就愛上的R&B - 夏音Natsune 💕菸嗓小天后｜ 菸嗓慵懶R&B，Lofi微醺夜的都會戀歌｜節奏藍調 Music / 慵懶深情 / 深夜獨酌"
+      "title": "【R&B playlist 下一位】一聽就愛上的R&B - 夏音Natsune 💕菸嗓小天后｜ 菸嗓慵懶R&B，Lofi微醺夜的都會戀歌｜節奏藍調 Music / 慵懶深情 / 深夜獨酌",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "kEjfeWv6e0k",
-      "title": "【夏日煙火告白】- Kira 💘 煙火下的純粹告白心聲｜J-pop Acoustic / 青春悸動 / 浪漫夏日祭典"
+      "title": "【夏日煙火告白】- Kira 💘 煙火下的純粹告白心聲｜J-pop Acoustic / 青春悸動 / 浪漫夏日祭典",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "yEy40IJUfUk",
-      "title": "【R&B playlist 沒有你的城市】2025流行音樂 - 夏音Natsune 🖤 菸嗓R&B低語 Lofi Version / 都會失落與溫暖思念 / 雨夜獨處的深夜陪伴"
+      "title": "【R&B playlist 沒有你的城市】2025流行音樂 - 夏音Natsune 🖤 菸嗓R&B低語 Lofi Version / 都會失落與溫暖思念 / 雨夜獨處的深夜陪伴",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "5Ekp7N7KNf8",
-      "title": "【LOFI playlist 雨天的擁抱】- 夏音Natsune 🎭 捨不得關掉的音樂，慵懶治癒的雨天氛圍，溫柔吉他輕撫心弦，菸嗓訴說故事｜Chill Guitar / 溫暖放鬆 / 雨窗獨處"
+      "title": "【LOFI playlist 雨天的擁抱】- 夏音Natsune 🎭 捨不得關掉的音樂，慵懶治癒的雨天氛圍，溫柔吉他輕撫心弦，菸嗓訴說故事｜Chill Guitar / 溫暖放鬆 / 雨窗獨處",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "u_TZ3B8EGLg",
-      "title": "【LOFI playlist 一盞孤酌】2025中國風音樂 - 夏音Natsune 🔥 深情菸嗓Lofi古韻｜中國風 Lofi Version / 獨酌夜思 / 靜心助眠"
+      "title": "【LOFI playlist 一盞孤酌】2025中國風音樂 - 夏音Natsune 🔥 深情菸嗓Lofi古韻｜中國風 Lofi Version / 獨酌夜思 / 靜心助眠",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "U58LHUh2ZmU",
-      "title": "2025年10月1日"
+      "title": "2025年10月1日",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "rrx4bvn8Kfc",
