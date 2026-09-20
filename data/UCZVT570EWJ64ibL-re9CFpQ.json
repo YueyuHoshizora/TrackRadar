@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T18:30:43.775+08:00",
+  "lastUpdated": "2026-09-20T18:35:45.290+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -556,43 +556,63 @@
     },
     {
       "videoId": "Pv40B3xlzlc",
-      "title": "【中國風 - 青蛇】除非西湖水乾 雷峰塔倒 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 青蛇】除非西湖水乾 雷峰塔倒 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "rxCCOkdnK4s",
-      "title": "【新年EDM - 新年躺著贏】運勢大開我躺著贏 🎧 九黎月｜過年當然是要來點EDM啦【Official Lyric Video】"
+      "title": "【新年EDM - 新年躺著贏】運勢大開我躺著贏 🎧 九黎月｜過年當然是要來點EDM啦【Official Lyric Video】",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "vl1NVPdmdb8",
-      "title": "【中國風R&B - 你臉上的一抹霜】那些沒說出口的傷，傷在風裡流浪，在夢裡回蕩 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風R&B - 你臉上的一抹霜】那些沒說出口的傷，傷在風裡流浪，在夢裡回蕩 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "kJRWu2D6sAg",
-      "title": "【中國風 - 青行燈】低聲數著一盞一盞 笑聲藏在呼吸之間 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 青行燈】低聲數著一盞一盞 笑聲藏在呼吸之間 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "Yp05s-PV86E",
-      "title": "【中國風 - 也許那天】聚散離合不算虧欠 只是緣淺 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 也許那天】聚散離合不算虧欠 只是緣淺 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "1qxImrfYhqs",
-      "title": "【中國風 - 或許沒有或許】如果心跳能被關掉 我是不是就不會動搖 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 或許沒有或許】如果心跳能被關掉 我是不是就不會動搖 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "aONHZAXL4NM",
-      "title": "【中國風 - 狐尾紅妝】狐尾掃過 夢一場 紅妝驚豔了時光 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 狐尾紅妝】狐尾掃過 夢一場 紅妝驚豔了時光 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "M0GPoiPjfFo",
-      "title": "【中國風 - 約束】我將心跳約束像一紙無法撕毀的符書 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 約束】我將心跳約束像一紙無法撕毀的符書 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "88nzIqEk524",
-      "title": "【中國風 - 空山月】風動幡動心未動 世間萬象皆是空 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 空山月】風動幡動心未動 世間萬象皆是空 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "ERdm-Hyaivw",
-      "title": "【中國風 - 燈火闌珊】嘆這一生 漫長的 等候換不回你 剎那的 回眸 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 燈火闌珊】嘆這一生 漫長的 等候換不回你 剎那的 回眸 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "FACngcl92F4",
