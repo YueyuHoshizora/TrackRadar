@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T20:00:53.484+08:00",
+  "lastUpdated": "2026-09-20T20:05:45.195+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1576,43 +1576,63 @@
     },
     {
       "videoId": "L6fNHJmS71A",
-      "title": "【LOFI playlist 煙雨一城】- 夏音 Natsune 🖤 煙雨江湖的孤城守望｜Chill Lofi / Emotional Female Vocal / 夜雨思念BGＭ"
+      "title": "【LOFI playlist 煙雨一城】- 夏音 Natsune 🖤 煙雨江湖的孤城守望｜Chill Lofi / Emotional Female Vocal / 夜雨思念BGＭ",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "BL6T1qfoqdo",
-      "title": "【光の羅針盤 Compass of Light】- Kira 航海王啟發J-POP｜友情與夢想的偉大航路｜疾速熱血日文單曲｜2025高能量舞曲"
+      "title": "【光の羅針盤 Compass of Light】- Kira 航海王啟發J-POP｜友情與夢想的偉大航路｜疾速熱血日文單曲｜2025高能量舞曲",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "Mp2P0U1uR-8",
-      "title": "【LOFI playlist 分開以後的日曆】夏音Natsune《菸嗓小天后》💔 分手的那天不是放下的那天｜失戀療癒陪伴｜Chill Lofi / 深夜失眠歌單"
+      "title": "【LOFI playlist 分開以後的日曆】夏音Natsune《菸嗓小天后》💔 分手的那天不是放下的那天｜失戀療癒陪伴｜Chill Lofi / 深夜失眠歌單",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.37
     },
     {
       "videoId": "GxqWzzl50YE",
-      "title": "【焔紋ノ誓い】- Kira 鬼滅系和風燃曲｜138–142 BPM J-POP｜女性主唱 空氣感清亮｜太鼓×電吉他×尺八 震撼副歌"
+      "title": "【焔紋ノ誓い】- Kira 鬼滅系和風燃曲｜138–142 BPM J-POP｜女性主唱 空氣感清亮｜太鼓×電吉他×尺八 震撼副歌",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "4dfVyYOsrTA",
-      "title": "【LOFI playlist 麵包屑的愛】- 夏音Natsune 🔥零碎的愛情只是敷衍？一首深夜LOFI煙嗓🌙｜Chill / Emotional / Sad Lo-fi Playlist"
+      "title": "【LOFI playlist 麵包屑的愛】- 夏音Natsune 🔥零碎的愛情只是敷衍？一首深夜LOFI煙嗓🌙｜Chill / Emotional / Sad Lo-fi Playlist",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.28
     },
     {
       "videoId": "2hK8aRlf3gE",
-      "title": "【終焉之戀】- Kira 世界末日下的愛情期待｜女性主唱J-POP日文歌｜夢幻舞曲情歌 Playlist｜2025 Official MV"
+      "title": "【終焉之戀】- Kira 世界末日下的愛情期待｜女性主唱J-POP日文歌｜夢幻舞曲情歌 Playlist｜2025 Official MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "UYgQoS7w6xc",
-      "title": "【LOFI playlist 紙頁之間的秘密】- 夏音Natsune ｜發現一本書裡夾著的情書 ｜LOFI女煙嗓｜溫柔氣聲｜遺忘與回憶交錯的深夜情歌"
+      "title": "【LOFI playlist 紙頁之間的秘密】- 夏音Natsune ｜發現一本書裡夾著的情書 ｜LOFI女煙嗓｜溫柔氣聲｜遺忘與回憶交錯的深夜情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "9BHQmRHFjt4",
-      "title": "【LOFI playlist 孤城夜語】- 夏音Natsune 一聽就停不下來｜2025最新流行樂｜失戀煙嗓合輯 ｜深夜情歌 ｜總有一首你的故事"
+      "title": "【LOFI playlist 孤城夜語】- 夏音Natsune 一聽就停不下來｜2025最新流行樂｜失戀煙嗓合輯 ｜深夜情歌 ｜總有一首你的故事",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "SsYUlXU3zyg",
-      "title": "【J-POPオリジナル】キラキラBus Stopの奇遇 - Kira｜明るく元気な恋愛ソング・バスで再會を願う女の子目線・女性ボーカル・オリジナル楽曲"
+      "title": "【J-POPオリジナル】キラキラBus Stopの奇遇 - Kira｜明るく元気な恋愛ソング・バスで再會を願う女の子目線・女性ボーカル・オリジナル楽曲",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "9HSg4ZB9Z1I",
-      "title": "LOFI playlist 一小時純音樂 (Rin 凜) 一聽就愛上的LOFI瘋音樂 | Lofi Electronic Cover | Relaxing Study Music"
+      "title": "LOFI playlist 一小時純音樂 (Rin 凜) 一聽就愛上的LOFI瘋音樂 | Lofi Electronic Cover | Relaxing Study Music",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "jF8NVZxpcMg",
