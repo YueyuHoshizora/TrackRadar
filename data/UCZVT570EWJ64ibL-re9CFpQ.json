@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T20:15:45.339+08:00",
+  "lastUpdated": "2026-09-20T20:20:44.969+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1756,43 +1756,63 @@
     },
     {
       "videoId": "qHqIlyPZQc0",
-      "title": "LOFI  傷人的選擇 (Shang Ren De Xuan Ze) - 夏音Natsune｜動態歌詞版|深夜菸嗓｜Lofi抒情｜華語原創音樂"
+      "title": "LOFI  傷人的選擇 (Shang Ren De Xuan Ze) - 夏音Natsune｜動態歌詞版|深夜菸嗓｜Lofi抒情｜華語原創音樂",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "xADMVRXe7HQ",
-      "title": "【LOFI 怕看見你幸福】深夜菸嗓｜Lofi抒情｜分手後最怕看到你有新戀情｜心碎情歌｜華語原創音樂"
+      "title": "【LOFI 怕看見你幸福】深夜菸嗓｜Lofi抒情｜分手後最怕看到你有新戀情｜心碎情歌｜華語原創音樂",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "GJX1lO1W1Ww",
-      "title": "LOFI  等到天亮｜深夜菸嗓情歌｜女生唱給不該愛的人｜Ambient Electronic Pop"
+      "title": "LOFI  等到天亮｜深夜菸嗓情歌｜女生唱給不該愛的人｜Ambient Electronic Pop",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "tFvALmojidA",
-      "title": "[LOFI  一個人的獨角戲] - 在愛裡，我演著自己，你呢? 還能陪我演下去嗎?"
+      "title": "[LOFI  一個人的獨角戲] - 在愛裡，我演著自己，你呢? 還能陪我演下去嗎?",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.36
     },
     {
       "videoId": "haLLGaZ7C8I",
-      "title": "[LOFI  Midnight Pulse] - 在靜謐的夜裡，旋律與呼吸共舞，帶你走進內心深處。"
+      "title": "[LOFI  Midnight Pulse] - 在靜謐的夜裡，旋律與呼吸共舞，帶你走進內心深處。",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.5
     },
     {
       "videoId": "3LSX5QPPuL0",
-      "title": "[LOFI 模糊] - 你是不是也有過為了誰模糊了雙眼，你的心情會在這裡得到解釋，讓自己為了那個愛錯的過去得到一個安慰"
+      "title": "[LOFI 模糊] - 你是不是也有過為了誰模糊了雙眼，你的心情會在這裡得到解釋，讓自己為了那個愛錯的過去得到一個安慰",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.31
     },
     {
       "videoId": "7yMaF9dGrOk",
-      "title": "[LOFI At 3:35] - 寫給每一個在深夜醒著的人。那些還亮著燈的窗，那些還沒說出口的話。"
+      "title": "[LOFI At 3:35] - 寫給每一個在深夜醒著的人。那些還亮著燈的窗，那些還沒說出口的話。",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "DSdaJBQajAo",
-      "title": "Chasing-the-Spark"
+      "title": "Chasing-the-Spark",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "lg6yIUs7qM4",
-      "title": "更好的飛行"
+      "title": "更好的飛行",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "5QZtLCdLBBw",
-      "title": "愛されたい"
+      "title": "愛されたい",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.65
     }
   ]
 }
