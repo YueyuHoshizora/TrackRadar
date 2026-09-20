@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T13:05:44.029+08:00",
+  "lastUpdated": "2026-09-20T13:10:46.818+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -562,43 +562,63 @@
     },
     {
       "videoId": "FblgX0mFC8w",
-      "title": "🌳【韓語療癒抒情】《세계수의 눈물 / 世界樹之淚》｜「우리가 원했던 이 결말이——결코 해피엔딩은 아니었나 봐.」｜詞：舞月｜動態歌詞｜Official Lyrics Audio"
+      "title": "🌳【韓語療癒抒情】《세계수의 눈물 / 世界樹之淚》｜「우리가 원했던 이 결말이——결코 해피엔딩은 아니었나 봐.」｜詞：舞月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "ZHJt-8kPX4k",
-      "title": "⚰️【暗黑古風必聽】《#紙偶葬歌》｜「埋了它，就在這泥裡——讓不誠實的你，永遠在地底！」｜肆月妖妃Ｘ霧月【Official #musicvideo】｜官方MV"
+      "title": "⚰️【暗黑古風必聽】《#紙偶葬歌》｜「埋了它，就在這泥裡——讓不誠實的你，永遠在地底！」｜肆月妖妃Ｘ霧月【Official #musicvideo】｜官方MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "cjMVgXm3UQM",
-      "title": "🌸【2026深夜emo必聽】《#三斷棠》｜「第三斷，我把我，也拿掉了。沒有我，比較完整。」｜三斷棠Ｘ霧月【Official #musicvideo】｜官方MV"
+      "title": "🌸【2026深夜emo必聽】《#三斷棠》｜「第三斷，我把我，也拿掉了。沒有我，比較完整。」｜三斷棠Ｘ霧月【Official #musicvideo】｜官方MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "75L3wSNYnY0",
-      "title": "🌙【暗黑美學必聽】《故作姿態的墜落》｜「我摧毀得輕柔，輕柔地摧毀，像是為妳高雅謝幕。」｜霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio"
+      "title": "🌙【暗黑美學必聽】《故作姿態的墜落》｜「我摧毀得輕柔，輕柔地摧毀，像是為妳高雅謝幕。」｜霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "4rX8rUDSfYU",
-      "title": "Where Petals Fall | Xiaoloulou | 十二弦月 | 動態歌詞 | Official Lyrics Audio"
+      "title": "Where Petals Fall | Xiaoloulou | 十二弦月 | 動態歌詞 | Official Lyrics Audio",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "_ZOO8c5mWIY",
-      "title": "🌙 Je suis Brumayre｜Brumayre｜ 霧月 Xiaoloulou｜十二弦月｜動態歌詞｜Official Music Video｜官方MV"
+      "title": "🌙 Je suis Brumayre｜Brumayre｜ 霧月 Xiaoloulou｜十二弦月｜動態歌詞｜Official Music Video｜官方MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "PB56oa5MNt4",
-      "title": "🌑【深夜一個人聽】《缺口的形狀》｜「若我悄然從妳世界裡消失，也許妳會發現，缺口的形狀就是我的名字。」｜霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio"
+      "title": "🌑【深夜一個人聽】《缺口的形狀》｜「若我悄然從妳世界裡消失，也許妳會發現，缺口的形狀就是我的名字。」｜霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "iGfLhwaWKO8",
-      "title": "【霧月詞。花月令】 你正在見證的這一刻｜已經是回憶｜春江花月夜・答張若虛｜霧月 Xiaoloulou【Official Music Video】｜官方MV"
+      "title": "【霧月詞。花月令】 你正在見證的這一刻｜已經是回憶｜春江花月夜・答張若虛｜霧月 Xiaoloulou【Official Music Video】｜官方MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "kYJj5LFeJf8",
-      "title": "Beneath the Falling Sky | Xiaoloulou | 十二弦月 | 動態歌詞 | Official Lyrics Audio"
+      "title": "Beneath the Falling Sky | Xiaoloulou | 十二弦月 | 動態歌詞 | Official Lyrics Audio",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "GOHPO5IhIsM",
-      "title": "👗【2026虐心必聽】《#著妳的裙》｜「我穿著妳的裙——如果我是妳，會不會也有人愛我？」｜霧月 Xiaoloulou【Official #musicvideo】｜官方MV"
+      "title": "👗【2026虐心必聽】《#著妳的裙》｜「我穿著妳的裙——如果我是妳，會不會也有人愛我？」｜霧月 Xiaoloulou【Official #musicvideo】｜官方MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "yzDfjCRPrqU",
