@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T13:15:46.797+08:00",
+  "lastUpdated": "2026-09-20T13:20:46.031+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -682,43 +682,63 @@
     },
     {
       "videoId": "JnxeDOAbHb4",
-      "title": "《小寒：二候山茶。紅妍》｜該感嘆落花如血的薄命淒涼，還是敬佩這風霜欺不倒的孤傲紅妍？｜霧月 Xiaoloulou｜十二弦月｜動態歌詞｜Official Lyrics Video"
+      "title": "《小寒：二候山茶。紅妍》｜該感嘆落花如血的薄命淒涼，還是敬佩這風霜欺不倒的孤傲紅妍？｜霧月 Xiaoloulou｜十二弦月｜動態歌詞｜Official Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "YjJFubY1CwA",
-      "title": "《小寒：一候梅花。疏影》｜該在今生獨守妳為別人流下的淚痕，還是將這份無邊相思寄託於來生同歸的夢裡？｜霧月 Xiaoloulou｜十二弦月｜動態歌詞｜Official Lyrics Video"
+      "title": "《小寒：一候梅花。疏影》｜該在今生獨守妳為別人流下的淚痕，還是將這份無邊相思寄託於來生同歸的夢裡？｜霧月 Xiaoloulou｜十二弦月｜動態歌詞｜Official Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "qCahv8MqfeA",
-      "title": "《還剩半口溫熱》｜該退後一步撲滅危險，還是甘願懸空等著被妳點燃？｜霧月 Xiaoloulou｜YT十二弦月｜動態歌詞｜Official Lyrics Video"
+      "title": "《還剩半口溫熱》｜該退後一步撲滅危險，還是甘願懸空等著被妳點燃？｜霧月 Xiaoloulou｜YT十二弦月｜動態歌詞｜Official Lyrics Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "_fMbTeobHiM",
-      "title": "《玻璃杯邊緣的月亮》｜該把卡在喉嚨的祈禱全選刪除，還是任由自己在這個沒有收件夾的深夜無聲崩塌？｜霧月 Xiaoloulou｜YT十二弦月｜動態歌詞｜Official Lyrics Video"
+      "title": "《玻璃杯邊緣的月亮》｜該把卡在喉嚨的祈禱全選刪除，還是任由自己在這個沒有收件夾的深夜無聲崩塌？｜霧月 Xiaoloulou｜YT十二弦月｜動態歌詞｜Official Lyrics Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "Qn5gPr3tCPs",
-      "title": "《沉淪》｜該試圖把妳從空洞裡拉出，還是放棄掙扎陪妳一起無聲落下？｜霧月 Xiaoloulou｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《沉淪》｜該試圖把妳從空洞裡拉出，還是放棄掙扎陪妳一起無聲落下？｜霧月 Xiaoloulou｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "2i5pFDF-crE",
-      "title": "《圍籬》｜該讓你慢慢拆除這生鏽的防備，還是退後半步繼續守著空無一人的自己？｜霧月 Xiaoloulou｜YT十二弦月｜動態歌詞｜Official Lyrics Video"
+      "title": "《圍籬》｜該讓你慢慢拆除這生鏽的防備，還是退後半步繼續守著空無一人的自己？｜霧月 Xiaoloulou｜YT十二弦月｜動態歌詞｜Official Lyrics Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "Qll6WajQbII",
-      "title": "【物哀美學】《殘花墜落時》| 不求保存，只求落下的姿態還算好看 | 霧月Xiaoloulou |  (Official Lyric Video)"
+      "title": "【物哀美學】《殘花墜落時》| 不求保存，只求落下的姿態還算好看 | 霧月Xiaoloulou |  (Official Lyric Video)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "Fb3DVdAQkDM",
-      "title": "【心碎輓歌】《花墜之處》我一朵一朵放下，為那已解散的愛...｜霧月 Xiaoloulou｜ (Official Lyric Video)"
+      "title": "【心碎輓歌】《花墜之處》我一朵一朵放下，為那已解散的愛...｜霧月 Xiaoloulou｜ (Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "7ynL2GDFl0U",
-      "title": "【古風虐心】《不老夢》來生若再逢，請勿問初衷...｜霧月 Xiaoloulou ｜(Official Audio)"
+      "title": "【古風虐心】《不老夢》來生若再逢，請勿問初衷...｜霧月 Xiaoloulou ｜(Official Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "I1EhYNxEB-c",
-      "title": "【瀕臨破碎】《我們的邊緣》在破碎前，能否再停一下？ ｜霧月 Xiaoloulou｜(Official Lyric Video)"
+      "title": "【瀕臨破碎】《我們的邊緣》在破碎前，能否再停一下？ ｜霧月 Xiaoloulou｜(Official Lyric Video)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.45
     },
     {
       "videoId": "V3QucLk4IJ4",
