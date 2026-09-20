@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T12:25:36.558+08:00",
+  "updatedAt": "2026-09-20T12:28:30.329+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -330,6 +330,16 @@
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 0.96
       }
+    },
+    {
+      "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
+      "channelTitle": "弦斷誰聽",
+      "latestVideo": null
+    },
+    {
+      "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
+      "channelTitle": "黎安Leann",
+      "latestVideo": null
     }
   ]
 }
