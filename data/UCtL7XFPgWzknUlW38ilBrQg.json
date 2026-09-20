@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T12:29:39.734+08:00",
+  "lastUpdated": "2026-09-20T12:30:45.495+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "jGTPT5nvpqo",
-      "title": "我一解釋，你就說我改口《說得不像我》｜說到後來，誰還需要見我｜人言可畏・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -52,13 +52,13 @@
     },
     {
       "videoId": "sED1xy1gc0Y",
-      "title": "你回頭一笑，我就入了冬《若只如初見》｜一笑回眸，天地寒｜忘不了一個人・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "SNV1PsuGJKE",
-      "title": "一片相思，都吹成了灰《風也來，雨也來》｜吹向雲天外｜深夜孤獨・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "情深到最後，只剩一把骨頭《風也來，雨也來》｜情深枯成骨，不負人卻寒｜愛而不得・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "-hoknutmOUY",
-      "title": "這段愛無法言說｜見不得光的愛・33分鐘連播｜想和我一起，被黑暗吞沒嗎｜月缺・霧月詞・Xiaoloulou"
+      "title": "這段愛無法言說｜見不得光的愛・33分鐘連播｜想和我一起，被黑暗吞沒嗎｜月缺・霧月詞・Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "hQSyMFeoZQw",
-      "title": "說好不再見面的，可春天一來，我又想你了。《又是一春》"
+      "title": "說好不再見面的，可春天一來，我又想你了。《又是一春》",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "1dIaPpPmYLk",
-      "title": "姐，對不起。我只是想光明正大地，做一次妳的誰。《說不出口的晚安》霧月Xiaoloulou"
+      "title": "姐，對不起。我只是想光明正大地，做一次妳的誰。《說不出口的晚安》霧月Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "Zo1EXeGs54Q",
-      "title": "我要的不是天長地久《漫過來》｜是兩個人，一盞燈，一面安靜的牆｜想要真實的愛・華語情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV"
+      "title": "我要的不是天長地久《漫過來》｜是兩個人，一盞燈，一面安靜的牆｜想要真實的愛・華語情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "FAUvwoOeXxQ",
-      "title": "斷了念，斷了情，只斷不掉妳《劍殤九》｜斷不盡此一人｜武俠虐心・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV"
+      "title": "斷了念，斷了情，只斷不掉妳《劍殤九》｜斷不盡此一人｜武俠虐心・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "mwra0tjVnvI",
-      "title": "有些話，燒給你聽｜中元・想念天上的人 十一首連播。合輯｜逆天・盞酒・思念不是為了忘記｜霧月詞・Xiaoloulou"
+      "title": "有些話，燒給你聽｜中元・想念天上的人 十一首連播。合輯｜逆天・盞酒・思念不是為了忘記｜霧月詞・Xiaoloulou",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "R64gAyTryzI",
-      "title": "天都亮了，我還在等妳說晚安《說不出口的晚安》｜對不起，我不想再做妳的甲乙丙丁｜暗戀・華語情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV"
+      "title": "天都亮了，我還在等妳說晚安《說不出口的晚安》｜對不起，我不想再做妳的甲乙丙丁｜暗戀・華語情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "JtyTX5dGycg",
-      "title": "下輩子，再也不必相識《思無絕》2026｜卿卻從未聽我心痕｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV"
+      "title": "下輩子，再也不必相識《思無絕》2026｜卿卻從未聽我心痕｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "qataMvnHNVs",
-      "title": "不想再做妳的甲乙丙丁《說不出口的晚安》｜連個名字，都排不上｜暗戀・華語情歌｜霧月詞・Xiaoloulou【Official Lyric Video】"
+      "title": "不想再做妳的甲乙丙丁《說不出口的晚安》｜連個名字，都排不上｜暗戀・華語情歌｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "PO6mTk0bT6U",
-      "title": "妳準備好，讓愛奪走一切了嗎《靜燃》｜只一觸，理智便墜落｜危險的愛・華語情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV"
+      "title": "妳準備好，讓愛奪走一切了嗎《靜燃》｜只一觸，理智便墜落｜危險的愛・華語情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "R1Bf24M6muQ",
