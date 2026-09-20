@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T12:35:41.615+08:00",
+  "lastUpdated": "2026-09-20T12:45:41.219+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "5ZF2oC5uutk",
-      "title": "【古風音樂】《忘記你模樣》｜這份遺落森林的深情，誰能讀懂背後的慢思量？每一秒都令人沉醉。"
+      "title": "【古風音樂】《忘記你模樣》｜這份遺落森林的深情，誰能讀懂背後的慢思量？每一秒都令人沉醉。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "v4z8IXhs9EU",
-      "title": "【古風音樂】《乾坤》｜太洗腦了！這氣勢「湧湧湧」！最強國風戰歌，闖出屬於你的神話"
+      "title": "【古風音樂】《乾坤》｜太洗腦了！這氣勢「湧湧湧」！最強國風戰歌，闖出屬於你的神話",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "rhcvQoRhpgg",
-      "title": "【古風音樂】《燃魂令》｜這首《燃魂令》燃爆了！全曲逆轉山河，聽完靈魂都在戰慄"
+      "title": "【古風音樂】《燃魂令》｜這首《燃魂令》燃爆了！全曲逆轉山河，聽完靈魂都在戰慄",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "62RK_MDeM8w",
-      "title": "【古風音樂】《霧散時見妳》｜這首 R&B 轉音太抓耳！誰在城外等妳回音？「雨落下一滴一滴，落在心底...」"
+      "title": "【古風音樂】《霧散時見妳》｜這首 R&B 轉音太抓耳！誰在城外等妳回音？「雨落下一滴一滴，落在心底...」",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "k2Tdc2Vzt9U",
-      "title": "【古風音樂】《火馬踏春》｜ 祝您馬到成功！2026 賀歲必聽：感受萬馬奔騰的史詩視覺與旋律"
+      "title": "【古風音樂】《火馬踏春》｜ 祝您馬到成功！2026 賀歲必聽：感受萬馬奔騰的史詩視覺與旋律",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Eaddhs4AmHM",
-      "title": "【古風音樂 Playlist】聽一遍就愛上的旋律：精選十首深刻入骨的古風故事《你離開之後》《愛我嗎》🔴LIVE｜古風音樂電台  BY 黎安(Leann)｜"
+      "title": "【古風音樂 Playlist】聽一遍就愛上的旋律：精選十首深刻入骨的古風故事《你離開之後》《愛我嗎》🔴LIVE｜古風音樂電台  BY 黎安(Leann)｜",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "kES1Vkh_Yvw",
-      "title": "【古風音樂 Playlist】聽一遍就愛上的旋律：精選十首深刻入骨的古風故事《你離開之後》《愛我嗎》🔴LIVE｜古風音樂電台  BY 黎安(Leann)｜"
+      "title": "【古風音樂 Playlist】聽一遍就愛上的旋律：精選十首深刻入骨的古風故事《你離開之後》《愛我嗎》🔴LIVE｜古風音樂電台  BY 黎安(Leann)｜",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "DfhxotxyNjU",
-      "title": "【古風音樂 Playlist】2026年度精選：10首必聽的古風金曲合集《月色慢》《我依然等你》"
+      "title": "【古風音樂 Playlist】2026年度精選：10首必聽的古風金曲合集《月色慢》《我依然等你》",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "3I-Ts1nQGkU",
-      "title": "【古風音樂】《煙雨遲》｜這場雨下得太遲，留我在夢裡迷失..."
+      "title": "【古風音樂】《煙雨遲》｜這場雨下得太遲，留我在夢裡迷失...",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Liw-wZPhFFU",
-      "title": "【古風音樂】《天命》｜《天要我低頭，我偏要抬頭！》孫悟空 vs 二郎神｜現代國風 C-Pop 燃曲"
+      "title": "【古風音樂】《天命》｜《天要我低頭，我偏要抬頭！》孫悟空 vs 二郎神｜現代國風 C-Pop 燃曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "_muf-EkipHo",
