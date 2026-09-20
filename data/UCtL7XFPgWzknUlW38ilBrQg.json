@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T13:10:46.818+08:00",
+  "lastUpdated": "2026-09-20T13:15:46.797+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -622,43 +622,63 @@
     },
     {
       "videoId": "yzDfjCRPrqU",
-      "title": "The Daughter of the Chasing Sun | 霧月 Xiaoloulou | 十二弦月 | 動態歌詞 | Official Lyrics Audio"
+      "title": "The Daughter of the Chasing Sun | 霧月 Xiaoloulou | 十二弦月 | 動態歌詞 | Official Lyrics Audio",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "IDCKAgkWhCw",
-      "title": "🌸【替身文學必聽】《#夜深開的花》｜「你吻我時從沒睜開眼睛——我沒敢問，你心裡的是誰。」｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "🌸【替身文學必聽】《#夜深開的花》｜「你吻我時從沒睜開眼睛——我沒敢問，你心裡的是誰。」｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "9af0rEUaahI",
-      "title": "🌸【替身文學必聽】《#淺花花》｜「他怎麼可能會愛我——我又不是她。」｜霧月 Xiaoloulou【Official #musicvideo】｜官方MV"
+      "title": "🌸【替身文學必聽】《#淺花花》｜「他怎麼可能會愛我——我又不是她。」｜霧月 Xiaoloulou【Official #musicvideo】｜官方MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "fm2PKVCS2S0",
-      "title": "🌌「是命運嗎？還是我只是妳光裡的一道影子？」｜《是命運嗎？》｜霧月 Xiaoloulou｜十二弦月｜動態歌詞｜Official Music Lyrics Video｜官方 MV"
+      "title": "🌌「是命運嗎？還是我只是妳光裡的一道影子？」｜《是命運嗎？》｜霧月 Xiaoloulou｜十二弦月｜動態歌詞｜Official Music Lyrics Video｜官方 MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "odH0SHqC784",
-      "title": "🖤【2026深夜emo必聽】《#靜水深流》｜「他們說要勇敢活下去，卻從不問：要用哪顆心？」｜霧月 Xiaoloulou【Official #musicvideo】｜官方MV"
+      "title": "🖤【2026深夜emo必聽】《#靜水深流》｜「他們說要勇敢活下去，卻從不問：要用哪顆心？」｜霧月 Xiaoloulou【Official #musicvideo】｜官方MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "Jl1OXGq6NQ8",
-      "title": "【霧月詞。沉淪】 她那麼美麗，她那麼不快樂｜她讓我感覺我還活著——那是我最糟糕的時刻｜危險的愛・深夜emo｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。沉淪】 她那麼美麗，她那麼不快樂｜她讓我感覺我還活著——那是我最糟糕的時刻｜危險的愛・深夜emo｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "gvPQPENvj1g",
-      "title": "💙【寫給撐不住的你】《螢幕暗下去之前》｜「在崩潰裡面練習呼吸，在顫抖裡面把自己抱緊。」｜霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio"
+      "title": "💙【寫給撐不住的你】《螢幕暗下去之前》｜「在崩潰裡面練習呼吸，在顫抖裡面把自己抱緊。」｜霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "ionegDqXQRY",
-      "title": "🥃【深夜微醺必聽】《#帶酒氣的預言》｜「今夜限定的共犯——不問昨天，不敢談明天。」｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "🥃【深夜微醺必聽】《#帶酒氣的預言》｜「今夜限定的共犯——不問昨天，不敢談明天。」｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "aILm9p2Bu-k",
-      "title": "🌫️【曖昧必聽】《我喜歡的是，陪著妳天亮說晚安》｜「我們從未是情人，卻以情人的方式分離。」｜霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio"
+      "title": "🌫️【曖昧必聽】《我喜歡的是，陪著妳天亮說晚安》｜「我們從未是情人，卻以情人的方式分離。」｜霧月 Xiaoloulou｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "SEUpyASshJA",
-      "title": "❄️【2026最美古風詞】《#小寒三候水仙玉骨》｜「有一種人，只能隔著水看——一靠近，就碎了。」｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "❄️【2026最美古風詞】《#小寒三候水仙玉骨》｜「有一種人，只能隔著水看——一靠近，就碎了。」｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "JnxeDOAbHb4",
