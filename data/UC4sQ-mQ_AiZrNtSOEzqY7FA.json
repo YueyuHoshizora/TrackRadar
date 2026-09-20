@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-20T08:55:28.271+08:00",
+  "lastUpdated": "2026-09-20T09:05:29.308+08:00",
   "latestVideo": {
     "videoId": "TP2X8ip_55Y",
     "title": "這次不急著愛滿，只想把每一天過好｜這次慢慢愛｜Yu Stellar｜星語",
@@ -16,19 +16,19 @@
   "allVideoIds": [
     {
       "videoId": "TP2X8ip_55Y",
-      "title": "這次不急著愛滿，只想把每一天過好｜這次慢慢愛｜Yu Stellar｜星語",
+      "title": "錯過那麼多年，我們決定用日常慢慢靠近｜這次慢慢愛｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "聽見你的好消息，我第一次只剩一句真好｜遠方也明亮｜Yu Stellar｜星語",
+      "title": "遠方也明亮｜寫給真正放下比較與遺憾的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
     {
       "videoId": "VlPInz7dIDs",
-      "title": "我們要的不是復合，是用現在重新相愛｜不是回到從前｜Yu Stellar｜星語",
+      "title": "重逢之後，最重要的不是回到從前｜不是回到從前｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -46,13 +46,13 @@
     },
     {
       "videoId": "OtVXQi8Nm0Q",
-      "title": "星期三的湯，慢慢把我煮回日常｜星期三的湯｜Yu Stellar｜星語",
+      "title": "一個人吃飯的晚上，我終於學會照顧自己｜星期三的湯｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "kwEQLyh-Dfs",
-      "title": "多年後的那場雨，讓我們再次站在彼此面前｜同一場雨｜Yu Stellar｜星語",
+      "title": "如果重逢發生在雨天，你還會認出我嗎？｜同一場雨｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -88,13 +88,13 @@
     },
     {
       "videoId": "nXMpNlR50t8",
-      "title": "沒有你的房間，我終於學會把日子過好｜沒有你的新生活｜Yu Stellar｜星語",
+      "title": "分開後第一次整理房間，也整理了自己｜沒有你的新生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
     {
       "videoId": "_zr28L0K774",
-      "title": "兩座時區｜遠距離愛情走向沉默的華語情歌｜Yu Stellar｜星語",
+      "title": "我們隔著兩座時區，把晚安說成了再見｜兩座時區｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -106,13 +106,13 @@
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "月台以西｜寫給不得不告別的成熟情歌｜Yu Stellar｜星語",
+      "title": "不是不愛，才在末班車前說再見｜月台以西｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "tr7okYyGTI0",
-      "title": "我們在遠方告別｜寫給錯過卻仍相信愛的人｜Yu Stellar｜星語",
+      "title": "明明還相愛，卻只能在遠方告別｜我們在遠方告別｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -172,7 +172,7 @@
     },
     {
       "videoId": "gm1q3vQ3Szc",
-      "title": "紀念日的一個微笑，讓她知道愛快結束了｜〈誰先變得沉默〉",
+      "title": "〈誰先變得沉默〉遠距離分手情歌｜已讀以後的華語抒情",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
@@ -190,7 +190,7 @@
     },
     {
       "videoId": "3hySsQx0X7c",
-      "title": "《歸途》原來你不是迷路，只是走了很遠的路｜Yu Stellar｜星語",
+      "title": "《歸途》走到世界盡頭，才明白回家從來不是回到原點｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.59
     },
