@@ -1,8 +1,18 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T17:37:25.385+08:00",
-  "latestVideo": null,
+  "lastUpdated": "2026-09-20T17:40:45.314+08:00",
+  "latestVideo": {
+    "videoId": "N3967C1NA2s",
+    "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+    "url": "https://www.youtube.com/watch?v=N3967C1NA2s",
+    "thumbnail": "https://i.ytimg.com/vi_webp/N3967C1NA2s/maxresdefault.webp",
+    "durationSeconds": 171,
+    "publishedAt": "2026-09-15T17:00:33.000+08:00",
+    "fetchedAt": "2026-09-20T17:40:39.394+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 0.66
+  },
   "allVideoIds": [
     {
       "videoId": "N3967C1NA2s",
@@ -66,43 +76,63 @@
     },
     {
       "videoId": "KhJx9XMlQ_k",
-      "title": "【中國風 playlist｜百鬼夜行】一聽就停不下來的中國風，陪你度過你的每一夜 🎧 九黎月"
+      "title": "【中國風 playlist｜百鬼夜行】一聽就停不下來的中國風，陪你度過你的每一夜 🎧 九黎月",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "7U-3Hna0_vI",
-      "title": "【中國風 - 劍膽琴心】一琴一劍半生情 劍藏膽琴藏心 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 劍膽琴心】一琴一劍半生情 劍藏膽琴藏心 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "q33WM7hHEQg",
-      "title": "【中國風 - 江湖渡】一槳點碎滿江未醒的霧🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 江湖渡】一槳點碎滿江未醒的霧🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "XIkB9SsH8WE",
-      "title": "【中國風 - 覆水難收】一勺霧 一勺月 一勺舊溫柔🎧 九黎月｜賽博嗩吶Trap原創【Official Lyric Video】"
+      "title": "【中國風 - 覆水難收】一勺霧 一勺月 一勺舊溫柔🎧 九黎月｜賽博嗩吶Trap原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "N8WuscryT_Y",
-      "title": "【中國風 - 狐狸花嫁 （黑暗強化版）】第二支ＭＶ來啦～～～🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 狐狸花嫁 （黑暗強化版）】第二支ＭＶ來啦～～～🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "yQT7QRKTMdw",
-      "title": "【中國風 - 狐狸花嫁 （暗黑風強化版）】轎中人 掀珠簾  露出一雙狐狸眼🎧 YT十二弦月－九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 狐狸花嫁 （暗黑風強化版）】轎中人 掀珠簾  露出一雙狐狸眼🎧 YT十二弦月－九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "BqpyHm45J0E",
-      "title": "【中國風 - 東風借我】千言萬語 不如你一句願意🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 東風借我】千言萬語 不如你一句願意🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "lNckowpCcek",
-      "title": "【中國風 - 生門一開】生門開為你開別問我仙或怪 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 生門一開】生門開為你開別問我仙或怪 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "ffwy7cA75Do",
-      "title": "【中國風 - 邀月一醉】舉杯邀明月 今夜與風共一醉 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 邀月一醉】舉杯邀明月 今夜與風共一醉 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "v20ixExeA7c",
-      "title": "【中國風 - 百鬼夜行】百鬼夜行誰敢攔，燈火連成一條川🎧 YT十二弦月－九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 百鬼夜行】百鬼夜行誰敢攔，燈火連成一條川🎧 YT十二弦月－九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "U8yjOe29of4",
