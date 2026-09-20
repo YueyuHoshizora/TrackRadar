@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T06:20:52.200+08:00",
+  "updatedAt": "2026-09-21T06:26:03.084+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-09-21T06:10:31.249+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.37
+        "videoId": "CsvkFZ57bu8",
+        "title": "《找不回來的你》The One I Couldn't Bring Back｜明日邊界2147 Universe｜璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=CsvkFZ57bu8",
+        "thumbnail": "https://i.ytimg.com/vi_webp/CsvkFZ57bu8/maxresdefault.webp",
+        "durationSeconds": 252,
+        "publishedAt": "2026-09-06T18:00:32.000+08:00",
+        "fetchedAt": "2026-09-21T06:25:47.942+08:00",
+        "genre": "純音樂/器樂 Instrumental",
+        "genreConfidence": 0.27
       }
     },
     {
@@ -395,15 +395,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "t2yq_M3j0TI",
-        "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=t2yq_M3j0TI",
-        "thumbnail": "https://i.ytimg.com/vi_webp/t2yq_M3j0TI/maxresdefault.webp?v=6aad5191",
-        "durationSeconds": 228,
-        "publishedAt": "2026-09-19T12:00:06.000+08:00",
-        "fetchedAt": "2026-09-21T06:20:41.803+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "jGTPT5nvpqo",
+        "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+        "url": "https://www.youtube.com/watch?v=jGTPT5nvpqo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/jGTPT5nvpqo/maxresdefault.webp?v=6aa80d29",
+        "durationSeconds": 264,
+        "publishedAt": "2026-09-16T12:00:06.000+08:00",
+        "fetchedAt": "2026-09-21T06:25:51.562+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.99
       }
     },
     {
