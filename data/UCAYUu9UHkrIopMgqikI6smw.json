@@ -1,7 +1,7 @@
 {
   "channelId": "UCAYUu9UHkrIopMgqikI6smw",
   "channelTitle": "空山和尚",
-  "lastUpdated": "2026-09-20T12:55:41.928+08:00",
+  "lastUpdated": "2026-09-20T13:05:40.119+08:00",
   "latestVideo": {
     "videoId": "un-ULt6ISkk",
     "title": "人這一生，到底在追什麼？｜《紅塵客》｜空山和尚",
@@ -262,35 +262,51 @@
     },
     {
       "videoId": "2lJdYD2p0ms",
-      "title": "《押忍！空手道日記》日文 EP3 道場での礼のルール"
+      "title": "《押忍！空手道日記》日文 EP3 道場での礼のルール",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "F1X5S1fv18o",
-      "title": "《押忍！空手道日記》EP2 無敵≠打敗所有人"
+      "title": "《押忍！空手道日記》EP2 無敵≠打敗所有人",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "m0wy0G_a0yg",
-      "title": "《押忍！空手道日記》日文EP2 「無敵」"
+      "title": "《押忍！空手道日記》日文EP2 「無敵」",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "HIwgwhKV4eU",
-      "title": "《押忍！空手道日記》日文EP0 自己紹介と番組を始めた理由"
+      "title": "《押忍！空手道日記》日文EP0 自己紹介と番組を始めた理由",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "Hipj59loLQY",
-      "title": "《押忍！空手道日記》日文EP1 白と黒 〜道着に込められた心〜"
+      "title": "《押忍！空手道日記》日文EP1 白と黒 〜道着に込められた心〜",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "AXwFxG30aG0",
-      "title": "《押忍！空手道日記》EP1 白與黑代表不同的心境"
+      "title": "《押忍！空手道日記》EP1 白與黑代表不同的心境",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "0KSvdPJ5LQ0",
-      "title": "《押忍！空手道日記》EP0 我是誰，為什麼做這個節目"
+      "title": "《押忍！空手道日記》EP0 我是誰，為什麼做這個節目",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "1U3-GJvwWEE",
-      "title": "【WHITE NOICE】噓噓聲 Shhh 8 hour loop💤sleep,white noise,soothe baby"
+      "title": "【WHITE NOICE】噓噓聲 Shhh 8 hour loop💤sleep,white noise,soothe baby",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.87
     }
   ]
 }
