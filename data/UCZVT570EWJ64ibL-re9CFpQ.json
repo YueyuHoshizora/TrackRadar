@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T19:15:44.920+08:00",
+  "lastUpdated": "2026-09-20T19:20:44.303+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1096,43 +1096,63 @@
     },
     {
       "videoId": "qK_I25PIA4g",
-      "title": "【Halloween Playlist 萬聖節播放清單】-   Halloween Mood｜Electronic Instrumental / Eerie / Party & Game"
+      "title": "【Halloween Playlist 萬聖節播放清單】-   Halloween Mood｜Electronic Instrumental / Eerie / Party & Game",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "gnRTrIayY8k",
-      "title": "【EDM Playlist 9 | Festival Breeze】- sonicpulse 🖤 Festival Beat｜EDM / Uplifting / Summer Vibe"
+      "title": "【EDM Playlist 9 | Festival Breeze】- sonicpulse 🖤 Festival Beat｜EDM / Uplifting / Summer Vibe",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "YwwkGW7HWwI",
-      "title": "【中國風- 小喬說 | 古風R&B 原創】- 九黎月 🎪 古風R&B暗黑系絕美！迷離東方韻律｜R&B / 幽邃迷情、宿命古韻 / 夜雨古巷、孤寂月光"
+      "title": "【中國風- 小喬說 | 古風R&B 原創】- 九黎月 🎪 古風R&B暗黑系絕美！迷離東方韻律｜R&B / 幽邃迷情、宿命古韻 / 夜雨古巷、孤寂月光",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "Mj175eoCXVA",
-      "title": "【LOFI Playlist 11 | Luminous Daydream】- sonicpulse 💞 Chill beats｜Lofi Instrumental/Calm/Cozy focus"
+      "title": "【LOFI Playlist 11 | Luminous Daydream】- sonicpulse 💞 Chill beats｜Lofi Instrumental/Calm/Cozy focus",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "NnHQAiLAeqg",
-      "title": "【Lofi Playlist 10 | Quiet Window Light】- sonicpulse 🎵 Relaxing Lofi ｜ Lofi Piano / Calm Study /"
+      "title": "【Lofi Playlist 10 | Quiet Window Light】- sonicpulse 🎵 Relaxing Lofi ｜ Lofi Piano / Calm Study /",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "Afqo1ZNTHG8",
-      "title": "【EDM Playlist 8 | Vibe Chopper】- sonicpulse 💛 High-Energy Beat｜EDM Instrumental / Exhilarating /"
+      "title": "【EDM Playlist 8 | Vibe Chopper】- sonicpulse 💛 High-Energy Beat｜EDM Instrumental / Exhilarating /",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "THQzDcRrOCw",
-      "title": "【中國風 - 虞姬說】 古風R&B 原創｜女聲Boom Bap嘻哈古風新詮釋"
+      "title": "【中國風 - 虞姬說】 古風R&B 原創｜女聲Boom Bap嘻哈古風新詮釋",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "EuCJE-YLD5c",
-      "title": "【DEM Playlist 7 | Voxel Party】- 💞 Pulsating Beats｜EDM Instrumental / Uplifting Energy"
+      "title": "【DEM Playlist 7 | Voxel Party】- 💞 Pulsating Beats｜EDM Instrumental / Uplifting Energy",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "kbK3Of7GWEg",
-      "title": "【LOFI Playlist 9 | Echoes of the Hutong】-  🎧 Hutong Beats｜Lofi Instrumental / Zen / City Vibes"
+      "title": "【LOFI Playlist 9 | Echoes of the Hutong】-  🎧 Hutong Beats｜Lofi Instrumental / Zen / City Vibes",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "RbrEBkd-Dt4",
-      "title": "狐說 #古風 #流行音樂"
+      "title": "狐說 #古風 #流行音樂",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "uiw0ExqRayI",
