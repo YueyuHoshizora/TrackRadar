@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T14:55:45.021+08:00",
+  "lastUpdated": "2026-09-20T15:00:52.058+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -1822,43 +1822,63 @@
     },
     {
       "videoId": "W7md4DPUTvo",
-      "title": "《唯予尚赤》霧月 Xiaoloulou｜焰未滅，心猶赤。 #霧月詞"
+      "title": "《唯予尚赤》霧月 Xiaoloulou｜焰未滅，心猶赤。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "4xn5492iEUY",
-      "title": "《妳從未懂》我離開，是為了被妳擁抱一次...｜虐心催淚原創 (Official Audio) ｜霧月 Xiaoloulou #霧月詞"
+      "title": "《妳從未懂》我離開，是為了被妳擁抱一次...｜虐心催淚原創 (Official Audio) ｜霧月 Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "E4pjwz5r03U",
-      "title": "《Fading from Us》霧月 Xiaoloulou ｜We drift where silence remembers us.  #霧月詞"
+      "title": "《Fading from Us》霧月 Xiaoloulou ｜We drift where silence remembers us.  #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "NBh8ONXp7uo",
-      "title": "《葬花魂》霧月 Xiaoloulou｜花為冥語，魂自回聲 #霧月詞"
+      "title": "《葬花魂》霧月 Xiaoloulou｜花為冥語，魂自回聲 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "X4nPiASbR2k",
-      "title": "《漸逝於我們》霧月 Xiaoloulou｜愛在靜裡消散，如霧沉於風。 #霧月詞"
+      "title": "《漸逝於我們》霧月 Xiaoloulou｜愛在靜裡消散，如霧沉於風。 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "H-wuSogOoyw",
-      "title": "《Miles Between Us》霧月 Xiaoloulou ｜Between our breaths, the silence remembers. #霧月詞"
+      "title": "《Miles Between Us》霧月 Xiaoloulou ｜Between our breaths, the silence remembers. #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "LTM17OLpSSM",
-      "title": "《距離之間》霧月 Xiaoloulou｜在我們的呼吸之間，靜默仍記得。 #霧月詞"
+      "title": "《距離之間》霧月 Xiaoloulou｜在我們的呼吸之間，靜默仍記得。 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "spnYSoZ-cUI",
-      "title": "《Let Me Fall》霧月 Xiaoloulou｜And let the silence break me gently. #霧月詞"
+      "title": "《Let Me Fall》霧月 Xiaoloulou｜And let the silence break me gently. #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "KXGc8VlJD9s",
-      "title": "《讓我墜落》霧月 Xiaoloulou｜唯墜入，方得靜。#霧月詞"
+      "title": "《讓我墜落》霧月 Xiaoloulou｜唯墜入，方得靜。#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "_s-oQW_MZq0",
-      "title": "《Breathe Without You》霧月 Xiaoloulou｜Every breath still remembers you. #霧月詞"
+      "title": "《Breathe Without You》霧月 Xiaoloulou｜Every breath still remembers you. #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "cZUqqZyTE08",
