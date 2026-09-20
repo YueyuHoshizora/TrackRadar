@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T12:30:43.284+08:00",
+  "lastUpdated": "2026-09-20T12:35:41.615+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "KMgRIUGDHvA",
-      "title": "【古風音樂】《小心翼翼》｜退一步是煎熬，進一步是火燒。守在妳身旁就好。"
+      "title": "【古風音樂】《小心翼翼》｜退一步是煎熬，進一步是火燒。守在妳身旁就好。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "e7N9uWdOGKE",
-      "title": "【古風音樂】《想你》｜我想你、想你、想到無路可退！這段洗腦旋律，聽一遍就戒不掉。"
+      "title": "【古風音樂】《想你》｜我想你、想你、想到無路可退！這段洗腦旋律，聽一遍就戒不掉。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "vkm6DoGqzgk",
-      "title": "【古風音樂】《可不可以》｜ 陪我看一場落花，聽我心裡的掙扎 (Gufeng R&B)"
+      "title": "【古風音樂】《可不可以》｜ 陪我看一場落花，聽我心裡的掙扎 (Gufeng R&B)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "eExD1ZSnMeA",
-      "title": "【古風音樂 Playlist】2026 賀歲首選：收錄《過年啦》《過年好運到》等 10 首新春必聽金曲"
+      "title": "【古風音樂 Playlist】2026 賀歲首選：收錄《過年啦》《過年好運到》等 10 首新春必聽金曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "elP99k4mSfo",
-      "title": "【古風音樂】《怕冷的年獸》｜「我不是怪獸，我只是沒人愛過...」 2026 全網聽哭的孤獨神曲"
+      "title": "【古風音樂】《怕冷的年獸》｜「我不是怪獸，我只是沒人愛過...」 2026 全網聽哭的孤獨神曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "eWCgc40lCJc",
-      "title": "【古風音樂】《過年好運到》｜ 2026 春節必聽神曲：最絲滑的中式 R&B 賀歲作品"
+      "title": "【古風音樂】《過年好運到》｜ 2026 春節必聽神曲：最絲滑的中式 R&B 賀歲作品",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "VSUtYlZkC7U",
-      "title": "【古風音樂】《賀歲》｜ 萬馬奔騰 J-Pop 動漫風！極速三味線 x 2026 巔峰應援曲"
+      "title": "【古風音樂】《賀歲》｜ 萬馬奔騰 J-Pop 動漫風！極速三味線 x 2026 巔峰應援曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "jN396NSup_4",
-      "title": "【古風音樂】《神位》｜在無底深淵中覺醒，我只管奪回神位！[Original MV]"
+      "title": "【古風音樂】《神位》｜在無底深淵中覺醒，我只管奪回神位！[Original MV]",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "yrbuKBVO5Jg",
-      "title": "【古風音樂】《過年啦》｜2026 賀歲必聽！神清氣爽迎新春，萬事如意紅火年年"
+      "title": "【古風音樂】《過年啦》｜2026 賀歲必聽！神清氣爽迎新春，萬事如意紅火年年",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "O1CcDPEcb7Y",
-      "title": "【古風音樂】《破曉》｜燃到靈魂顫抖！當三味線遇上狂暴 R&B 重低音，這才是真正的命運覺醒！ (Original Anime OP Style)"
+      "title": "【古風音樂】《破曉》｜燃到靈魂顫抖！當三味線遇上狂暴 R&B 重低音，這才是真正的命運覺醒！ (Original Anime OP Style)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "5ZF2oC5uutk",
