@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T19:20:44.303+08:00",
+  "lastUpdated": "2026-09-20T19:30:45.327+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1156,43 +1156,63 @@
     },
     {
       "videoId": "uiw0ExqRayI",
-      "title": "【中國風  - 狐說 Fox’s Tale 】 古風R&B ｜妖狐X菸嗓小天后｜Chinese Ancient Fantasy Song"
+      "title": "【中國風  - 狐說 Fox’s Tale 】 古風R&B ｜妖狐X菸嗓小天后｜Chinese Ancient Fantasy Song",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "KWox3Z9stJQ",
-      "title": "【LOFI Playlist 8 | Tokyo Afterglow】-  💘 Japanese Lofi Mix｜Lofi Music / Mellow / City Glow"
+      "title": "【LOFI Playlist 8 | Tokyo Afterglow】-  💘 Japanese Lofi Mix｜Lofi Music / Mellow / City Glow",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.42
     },
     {
       "videoId": "EJnPd_k_O9E",
-      "title": "【R&B  - 沒有勇氣 】- 夏音Natsune | 這首超好聽 | 菸嗓小天后 | Acoustic R&B) | 2025華語精選"
+      "title": "【R&B  - 沒有勇氣 】- 夏音Natsune | 這首超好聽 | 菸嗓小天后 | Acoustic R&B) | 2025華語精選",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "t6kBhAV79lA",
-      "title": "【LOFI Playlist 7 | Cozy Afternoon Strings】-  💖 和風 Lofi｜Lofi / Chill / Reading"
+      "title": "【LOFI Playlist 7 | Cozy Afternoon Strings】-  💖 和風 Lofi｜Lofi / Chill / Reading",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "wq7MrqdG850",
-      "title": "【中國風｜柳岸暮色】：江南夜雨療癒輕柔音樂｜古風Chill Beats for Study & Relax"
+      "title": "【中國風｜柳岸暮色】：江南夜雨療癒輕柔音樂｜古風Chill Beats for Study & Relax",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "s1T4zwny428",
-      "title": "【EDM Playlist 6 | Shamisen Thunder】- Shamisen EDM｜EDM Music / Energetic / Gaming BGM"
+      "title": "【EDM Playlist 6 | Shamisen Thunder】- Shamisen EDM｜EDM Music / Energetic / Gaming BGM",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "o8XLaonta7c",
-      "title": "【和風LOFI Playlist - Tokyo Night Nostalgia】-  🎲 Wafuu Lofi Mood｜Lofi Instrumental / Dreamy"
+      "title": "【和風LOFI Playlist - Tokyo Night Nostalgia】-  🎲 Wafuu Lofi Mood｜Lofi Instrumental / Dreamy",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "azNOnbPhgZs",
-      "title": "【R&B  | 愛過恨過】- 夏音Natsune ｜菸嗓小天后｜最後的擁抱，愛過就夠"
+      "title": "【R&B  | 愛過恨過】- 夏音Natsune ｜菸嗓小天后｜最後的擁抱，愛過就夠",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "UVUsPkXnLp0",
-      "title": "2025年10月13日"
+      "title": "2025年10月13日",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "tK_XNbXe43w",
-      "title": "【R&B | 我討厭苦力帕】- sonicpulse 🌟 Smoky Pixel Lofi｜Lofi Music / Mellow / Late Night City"
+      "title": "【R&B | 我討厭苦力帕】- sonicpulse 🌟 Smoky Pixel Lofi｜Lofi Music / Mellow / Late Night City",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "P8-ZKCMSpj4",
