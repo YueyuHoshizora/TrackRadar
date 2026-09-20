@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T19:05:44.229+08:00",
+  "lastUpdated": "2026-09-20T19:10:43.984+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -976,43 +976,63 @@
     },
     {
       "videoId": "To7KtpZN87A",
-      "title": "【中國風 - 師師說】九黎月 💞 暗黑古韻R&B、迷情東方｜節奏藍調 Music / 幽暗深邃慾望交織 / 午夜都市獨酌煙雨樓"
+      "title": "【中國風 - 師師說】九黎月 💞 暗黑古韻R&B、迷情東方｜節奏藍調 Music / 幽暗深邃慾望交織 / 午夜都市獨酌煙雨樓",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.47
     },
     {
       "videoId": "rLao97VsGGE",
-      "title": "【R&B  - 如果沒遇見】夏音Natsune 💎 微醺菸嗓R&B｜節奏藍調 Version / 深情迷離 / 午夜獨酌"
+      "title": "【R&B  - 如果沒遇見】夏音Natsune 💎 微醺菸嗓R&B｜節奏藍調 Version / 深情迷離 / 午夜獨酌",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "goWm3vO9yRk",
-      "title": "【中國風 Play list 紅顏傳說】- 一聽就不能停下來｜古代美女主題音樂｜古風R&B原創音樂播放清單"
+      "title": "【中國風 Play list 紅顏傳說】- 一聽就不能停下來｜古代美女主題音樂｜古風R&B原創音樂播放清單",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "kmjYVagHTkI",
-      "title": "【EDM Playlist 14】Shamisen Breakbeats 173BPM ⚡ 作業用 DnB | 일본 샤미센 Space FX"
+      "title": "【EDM Playlist 14】Shamisen Breakbeats 173BPM ⚡ 作業用 DnB | 일본 샤미센 Space FX",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "EY4ySof08co",
-      "title": "【R&B  - 愛的方程式 | 煙嗓小天后】夏音Natsune 🖤 慵懶深情煙嗓，R&B Lofi律動｜Lofi Music / 沉醉心動 / 深夜獨酌"
+      "title": "【R&B  - 愛的方程式 | 煙嗓小天后】夏音Natsune 🖤 慵懶深情煙嗓，R&B Lofi律動｜Lofi Music / 沉醉心動 / 深夜獨酌",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "TTE4g1Z5r28",
-      "title": "【EDM Playlist 13】Chill Japanese Lofi mix with Piano  | 和風 Lofi Study Music, Homework BGM, 공부용 음악 |"
+      "title": "【EDM Playlist 13】Chill Japanese Lofi mix with Piano  | 和風 Lofi Study Music, Homework BGM, 공부용 음악 |",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "R2AetR-3DsI",
-      "title": "【中國風 - 甄宓說| 古風R&B 原創】九黎月 🎵 東方R&B雅韻｜東方藍調 Acoustic / 溫柔纏綿 / 月下沉思"
+      "title": "【中國風 - 甄宓說| 古風R&B 原創】九黎月 🎵 東方R&B雅韻｜東方藍調 Acoustic / 溫柔纏綿 / 月下沉思",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "iWPBWQ7CaOM",
-      "title": "【R&B - 獅子座的流星雨 | R&B 原創】- 夏音Natsune 🎯 星空下Lofi Chill R&B，吉他輕語｜Lofi Acoustic / 讀書工作、深夜獨處"
+      "title": "【R&B - 獅子座的流星雨 | R&B 原創】- 夏音Natsune 🎯 星空下Lofi Chill R&B，吉他輕語｜Lofi Acoustic / 讀書工作、深夜獨處",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "XjnVafPoqg8",
-      "title": "【中國風 - 西施說 | 古風R&B 原創】- 九黎月 🎪 古風R&B暗黑詮釋｜流行 / 淒美宿命 / 古殿幽情"
+      "title": "【中國風 - 西施說 | 古風R&B 原創】- 九黎月 🎪 古風R&B暗黑詮釋｜流行 / 淒美宿命 / 古殿幽情",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "MTUdPYmnCKQ",
-      "title": "【R&B -練習忘記】- 夏音Natsune 🎶 磁性菸嗓X都會R&B流行！練習忘記心碎，治癒感滿點｜R&B Music / 深情療癒 / 午夜獨白"
+      "title": "【R&B -練習忘記】- 夏音Natsune 🎶 磁性菸嗓X都會R&B流行！練習忘記心碎，治癒感滿點｜R&B Music / 深情療癒 / 午夜獨白",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "89lmRa5G4Mo",
