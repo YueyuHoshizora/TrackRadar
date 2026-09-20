@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T14:30:49.551+08:00",
+  "lastUpdated": "2026-09-20T14:35:47.146+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -1522,43 +1522,63 @@
     },
     {
       "videoId": "3II_1ae_L_o",
-      "title": "[Original Album Playlist] Things I Couldn’t Say - 霧月 Xiaoloulou  | Heartbreak & Silence"
+      "title": "[Original Album Playlist] Things I Couldn’t Say - 霧月 Xiaoloulou  | Heartbreak & Silence",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "84QyJzrjosI",
-      "title": "《蝴蝶之翼》在那溫柔的片刻，我終於被看見...｜治癒系原創 (Official Audio) ｜霧月 Xiaoloulou #霧月詞"
+      "title": "《蝴蝶之翼》在那溫柔的片刻，我終於被看見...｜治癒系原創 (Official Audio) ｜霧月 Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "V3cK0GxjAS4",
-      "title": "《幾乎是永遠》幾乎是永遠，卻終究不是...｜虐心催淚原創 (Official Audio) ｜霧月 Xiaoloulou #霧月詞"
+      "title": "《幾乎是永遠》幾乎是永遠，卻終究不是...｜虐心催淚原創 (Official Audio) ｜霧月 Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "-SgInBXzEo0",
-      "title": "《再一次，勇敢去愛》即使疼、即便碎，我仍願再試一次...｜暖心治癒原創 (Official Audio) ｜霧月 Xiaoloulou #霧月詞"
+      "title": "《再一次，勇敢去愛》即使疼、即便碎，我仍願再試一次...｜暖心治癒原創 (Official Audio) ｜霧月 Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "8yjI6L9Xvd4",
-      "title": "《呼吸著的痛》妳的遠離，是我親手釘...｜虐心懺悔原創 (Official Audio)｜霧月 Xiaoloulou ｜#霧月詞 #lyricvideo"
+      "title": "《呼吸著的痛》妳的遠離，是我親手釘...｜虐心懺悔原創 (Official Audio)｜霧月 Xiaoloulou ｜#霧月詞 #lyricvideo",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "b8mOucNkNs8",
-      "title": "《在有妳的那段時光》我把青春給了妳...｜致前任 溫暖原創 (Official Audio)｜霧月 Xiaoloulou #霧月詞 #lyricvideo"
+      "title": "《在有妳的那段時光》我把青春給了妳...｜致前任 溫暖原創 (Official Audio)｜霧月 Xiaoloulou #霧月詞 #lyricvideo",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "yqkLrp0VZYU",
-      "title": "《依然在追尋著妳》我追的不再是妳，而是曾經...｜虐心催淚原創｜霧月 Xiaoloulou #霧月詞  #lyricvideo"
+      "title": "《依然在追尋著妳》我追的不再是妳，而是曾經...｜虐心催淚原創｜霧月 Xiaoloulou #霧月詞  #lyricvideo",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "l2156sfoO6A",
-      "title": "《纏於妳》我受不了，妳那種轉身...｜極致拉扯、暈船｜霧月 Xiaoloulou"
+      "title": "《纏於妳》我受不了，妳那種轉身...｜極致拉扯、暈船｜霧月 Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "GYdMzY0FKa4",
-      "title": "《遲於相見，早於心碎》妳說太晚了，我說妳只是不敢...｜2025 相見恨晚｜虐心華語流行｜霧月 Xiaoloulou #霧月詞"
+      "title": "《遲於相見，早於心碎》妳說太晚了，我說妳只是不敢...｜2025 相見恨晚｜虐心華語流行｜霧月 Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "4Hk5THf6knk",
-      "title": "《解縷》只有妳能解這縷疼...｜虐心傷感原創｜霧月Xiaoloulou"
+      "title": "《解縷》只有妳能解這縷疼...｜虐心傷感原創｜霧月Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "NcJssLscysg",
