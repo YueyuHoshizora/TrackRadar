@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T13:55:42.878+08:00",
+  "lastUpdated": "2026-09-20T14:00:48.456+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -862,23 +862,33 @@
     },
     {
       "videoId": "FfFXmg7p7KU",
-      "title": "360° VR Immersive Chase on the Moon"
+      "title": "360° VR Immersive Chase on the Moon",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "OBkbDP-LFVM",
-      "title": "Drone Captures Shocking Moment: Giant Cruise Ship Sunk by Massive Sea Monster!"
+      "title": "Drone Captures Shocking Moment: Giant Cruise Ship Sunk by Massive Sea Monster!",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "SG4dZiB3X9I",
-      "title": "TERRIFYING Sea Monster Attacks Submarine in Deep Ocean! What is This?! #shorts"
+      "title": "TERRIFYING Sea Monster Attacks Submarine in Deep Ocean! What is This?! #shorts",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "QsnJx_PE8JU",
-      "title": "The Most Breathtaking Deep-Sea World Ever Seen  Bioluminescent Alien Ocean"
+      "title": "The Most Breathtaking Deep-Sea World Ever Seen  Bioluminescent Alien Ocean",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "9seHE4iEOH0",
-      "title": "The Sharing Brush"
+      "title": "The Sharing Brush",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.7
     }
   ]
 }
