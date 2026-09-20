@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T13:00:44.724+08:00",
+  "lastUpdated": "2026-09-20T13:05:41.242+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -262,43 +262,63 @@
     },
     {
       "videoId": "gWrzy-EVt4E",
-      "title": "【古風音樂】《半盞清歡》｜若世間喧囂，願以此曲換你餘生悠然 ｜ Gu-feng Lofi Hip Hop"
+      "title": "【古風音樂】《半盞清歡》｜若世間喧囂，願以此曲換你餘生悠然 ｜ Gu-feng Lofi Hip Hop",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "9iPqtNu_dfs",
-      "title": "【古風音樂】《我叫悟空》｜I AM WUKONG - 2026 國風巔峰神曲 (Modern Guofeng/C-Pop)ORIGINAL MV"
+      "title": "【古風音樂】《我叫悟空》｜I AM WUKONG - 2026 國風巔峰神曲 (Modern Guofeng/C-Pop)ORIGINAL MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "6bgRoZibPzk",
-      "title": "【古風音樂】《半生靜》｜聽碎了多少人的浮生夢？這才是真正能讓人靜下來的古風。"
+      "title": "【古風音樂】《半生靜》｜聽碎了多少人的浮生夢？這才是真正能讓人靜下來的古風。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "yymdoWPuSlk",
-      "title": "【古風音樂】《百鬼封印》｜ORIGINAL MV 100 Demons Seal ｜ Epic Ancient Style J-Rock ｜"
+      "title": "【古風音樂】《百鬼封印》｜ORIGINAL MV 100 Demons Seal ｜ Epic Ancient Style J-Rock ｜",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "fh0uFe0QJEo",
-      "title": "這首歌真的太燃了！《宿命の楔》｜異世界必聽歌單｜High Energy J-POP"
+      "title": "這首歌真的太燃了！《宿命の楔》｜異世界必聽歌單｜High Energy J-POP",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "GmwwAZaAWeo",
-      "title": "【KPOP】《BAD HABIT》壞習慣 버릇｜2026 最強洗腦旋律！聽一遍就徹底淪陷"
+      "title": "【KPOP】《BAD HABIT》壞習慣 버릇｜2026 最強洗腦旋律！聽一遍就徹底淪陷",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "EHd1J0Ev2oE",
-      "title": "【古風音樂】《輸得徹底》｜我等呀等，卻等不到一個妳。"
+      "title": "【古風音樂】《輸得徹底》｜我等呀等，卻等不到一個妳。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "QYk63gPDy70",
-      "title": "【古風音樂】《不回頭的妳》｜聽哭！有一種心痛，是明知沒結果，卻還在原地等。"
+      "title": "【古風音樂】《不回頭的妳》｜聽哭！有一種心痛，是明知沒結果，卻還在原地等。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "BWbqRGLhnS0",
-      "title": "【KPOP Playlist】Best HipHop 饒舌 힙합 Songs 2026｜適合工作、運動與健身的 11首神曲，每一秒都是靈魂的救贖｜KPOP音樂電台  BY 黎安(Leann)｜"
+      "title": "【KPOP Playlist】Best HipHop 饒舌 힙합 Songs 2026｜適合工作、運動與健身的 11首神曲，每一秒都是靈魂的救贖｜KPOP音樂電台  BY 黎安(Leann)｜",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1
     },
     {
       "videoId": "ef6y-dbeVm0",
-      "title": "【古風音樂】《換了人間》｜如果古代人穿越到 2026 年，聽完第一句就淚崩了..."
+      "title": "【古風音樂】《換了人間》｜如果古代人穿越到 2026 年，聽完第一句就淚崩了...",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "0Q5LBzLGMyA",
