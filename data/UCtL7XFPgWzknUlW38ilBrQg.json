@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T14:35:47.146+08:00",
+  "lastUpdated": "2026-09-20T14:40:45.397+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -1582,43 +1582,63 @@
     },
     {
       "videoId": "NcJssLscysg",
-      "title": "《無常。輪迴》生死一瞬，皆為風過｜唯美古風原創｜霧月 Xiaoloulou"
+      "title": "《無常。輪迴》生死一瞬，皆為風過｜唯美古風原創｜霧月 Xiaoloulou",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "N2V7xiR-t4U",
-      "title": "《餘寒仍在》霧月 Xiaoloulou ｜寒意之後，愛仍未退場 #霧月詞"
+      "title": "《餘寒仍在》霧月 Xiaoloulou ｜寒意之後，愛仍未退場 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "2LKyJQBEcCM",
-      "title": "《無常。蝶夢》願百世輪迴，只為逼近卿一瞬｜唯美古風原創｜霧月 Xiaoloulou"
+      "title": "《無常。蝶夢》願百世輪迴，只為逼近卿一瞬｜唯美古風原創｜霧月 Xiaoloulou",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Fp8ThTG2JOI",
-      "title": "《不再緊握》霧月 Xiaoloulou｜一首關於「鬆手」的安靜之歌 #霧月詞"
+      "title": "《不再緊握》霧月 Xiaoloulou｜一首關於「鬆手」的安靜之歌 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "s9qPDF-tsRk",
-      "title": "《切骨之詞》頌心意 X 霧月 Xiaoloulou ｜痛至深處，連沉默都在破裂。 #霧月詞 #心意詞"
+      "title": "《切骨之詞》頌心意 X 霧月 Xiaoloulou ｜痛至深處，連沉默都在破裂。 #霧月詞 #心意詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "akhPXHxrxXY",
-      "title": "《太過溫柔的愛》連告別都悄然無聲...｜深夜治癒原創｜霧月 Xiaoloulou #霧月詞"
+      "title": "《太過溫柔的愛》連告別都悄然無聲...｜深夜治癒原創｜霧月 Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "rS7U0PK1A6Y",
-      "title": "《無常。蝶影》｜如潮來去，影與魂皆無常。 #霧月詞"
+      "title": "《無常。蝶影》｜如潮來去，影與魂皆無常。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "kMoHnc-O9-0",
-      "title": "《未定義的愛》霧月 Xiaoloulou ｜在無名之間，愛學會呼吸。  #霧月詞"
+      "title": "《未定義的愛》霧月 Xiaoloulou ｜在無名之間，愛學會呼吸。  #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "3Wp0qYtzS1Q",
-      "title": "《頁無歸岸》霧月 Xiaoloulou ｜紙上蝶，無岸之夢。  #霧月詞"
+      "title": "《頁無歸岸》霧月 Xiaoloulou ｜紙上蝶，無岸之夢。  #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "ke_xFyo6VqI",
-      "title": "《雨下，我們散落》霧月 Xiaoloulou｜在愛與痛之間，雨為我們落下。  #霧月詞"
+      "title": "《雨下，我們散落》霧月 Xiaoloulou｜在愛與痛之間，雨為我們落下。  #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "Zl6WN-e5szs",
