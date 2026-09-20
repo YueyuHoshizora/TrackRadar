@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T15:30:47.174+08:00",
+  "lastUpdated": "2026-09-20T15:35:46.439+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -40,25 +40,25 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
     {
       "videoId": "PBn-CJQvG6w",
-      "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+      "title": "你走了，我的房間一樣都沒動《霓虹裡的失城者》｜房間擺設固執著原狀，刻意半掩那扇門的窗｜放不下一個人・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "sED1xy1gc0Y",
-      "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "沒人記得我，我還記得你《若只如初見》｜無人念予情，無人似予心｜深夜孤獨・文言古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "SNV1PsuGJKE",
-      "title": "情深到最後，只剩一把骨頭《風也來，雨也來》｜情深枯成骨，不負人卻寒｜愛而不得・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "燈亮著，卻不是為我亮的《風也來，雨也來》｜淚落有誰揩｜思念一個人・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -2242,43 +2242,63 @@
     },
     {
       "videoId": "Gvq6Pyituz0",
-      "title": "《雨中低語》霧月 Xiaoloulou ｜名字隨雨水流散 ｜#霧月詞"
+      "title": "《雨中低語》霧月 Xiaoloulou ｜名字隨雨水流散 ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "CEHugzRQrks",
-      "title": "《明月夢》霧月 Xiaoloulou ｜夢如月影，愛與錯俱隨水流 ｜#霧月詞"
+      "title": "《明月夢》霧月 Xiaoloulou ｜夢如月影，愛與錯俱隨水流 ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "Ybf48J47i4U",
-      "title": "《未值得》霧月 Xiaoloulou｜舊愛如煙，夢火成塵 ｜#霧月詞"
+      "title": "《未值得》霧月 Xiaoloulou｜舊愛如煙，夢火成塵 ｜#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.44
     },
     {
       "videoId": "pLoHNDcBr5o",
-      "title": "《夢裡花》霧月 Xiaoloulou｜花開一瞬，長夜如潮 ｜#霧月詞"
+      "title": "《夢裡花》霧月 Xiaoloulou｜花開一瞬，長夜如潮 ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "CZlDCIJOu8o",
-      "title": "《戲夢》霧月 Xiaoloulou｜人生如戲，夢如人生，粉墨皆成空影 ｜#霧月詞"
+      "title": "《戲夢》霧月 Xiaoloulou｜人生如戲，夢如人生，粉墨皆成空影 ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "8ahC6P8KodU",
-      "title": "《花怨》霧月 Xiaoloulou｜「花謝無聲，怨亦成灰」，宮廷詩性歌詞，愛與怨的決絕 ｜#霧月詞"
+      "title": "《花怨》霧月 Xiaoloulou｜「花謝無聲，怨亦成灰」，宮廷詩性歌詞，愛與怨的決絕 ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "TkDDXKSM85o",
-      "title": "《逆天》霧月 Xiaoloulou｜「願以魂火為舟，撐渡卿歸我」，孤魂、紅線與命運的逆行之歌 ｜#霧月詞"
+      "title": "《逆天》霧月 Xiaoloulou｜「願以魂火為舟，撐渡卿歸我」，孤魂、紅線與命運的逆行之歌 ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "SoYNIiWC2t8",
-      "title": "《相見非歡》霧月 Xiaoloulou｜緣淺情長，回眸已成心傷。愛恨如浪，一日復一日長。 ｜#霧月詞"
+      "title": "《相見非歡》霧月 Xiaoloulou｜緣淺情長，回眸已成心傷。愛恨如浪，一日復一日長。 ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "CIP9Fmgg62Q",
-      "title": "《殘月的軒》霧月｜一室空籟，與影對坐 || 現代流行演繹孤寂冷月，愛逝後的深情獨白，觸動心弦的深夜思念曲，「妳的歡然，是否因此而全然？」 ｜#霧月詞"
+      "title": "《殘月的軒》霧月｜一室空籟，與影對坐 || 現代流行演繹孤寂冷月，愛逝後的深情獨白，觸動心弦的深夜思念曲，「妳的歡然，是否因此而全然？」 ｜#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "PKqHQZakYvs",
-      "title": "《Black River》霧月 Xiaoloulou｜Dark gothic poem about river and memory ｜#霧月詞"
+      "title": "《Black River》霧月 Xiaoloulou｜Dark gothic poem about river and memory ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.41
     },
     {
       "videoId": "co1z8BSUNHc",
