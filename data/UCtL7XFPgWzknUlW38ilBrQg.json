@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T12:45:46.249+08:00",
+  "lastUpdated": "2026-09-20T12:50:46.229+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -22,7 +22,7 @@
     },
     {
       "videoId": "jGTPT5nvpqo",
-      "title": "我一解釋，你就說我改口《說得不像我》｜說到後來，誰還需要見我｜人言可畏・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -40,19 +40,19 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
     {
       "videoId": "PBn-CJQvG6w",
-      "title": "我開始忘記你的樣子了《霓虹裡的失城者》｜恐懼的不是妳選擇放手，是鮮活記憶開始生了鏽｜忘不了一個人・中文藍調｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+      "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "sED1xy1gc0Y",
-      "title": "你回頭一笑，我就入了冬《若只如初見》｜一笑回眸，天地寒｜忘不了一個人・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -322,43 +322,63 @@
     },
     {
       "videoId": "b7RYfGKW1Nc",
-      "title": "【霧月詞。未寫之書】 寫了怕更想你，不寫你不知道｜袖上之淚，替妾書了卿不能讀之書｜未寄出的信・古風｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。未寫之書】 寫了怕更想你，不寫你不知道｜袖上之淚，替妾書了卿不能讀之書｜未寄出的信・古風｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "z5t2QVMYVfk",
-      "title": "【霧月詞。等字】 你守你的清高，我守我的等｜卿之高節仍在，妾之青春已逝｜等一個人的歌・古風｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。等字】 你守你的清高，我守我的等｜卿之高節仍在，妾之青春已逝｜等一個人的歌・古風｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "64pU1nxcXlU",
-      "title": "【霧月詞。對月】 月亮，能不能分一點光給他｜卿一仰首，忽憶——此窗下，曾有一妾｜想念遠方的人・古風｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。對月】 月亮，能不能分一點光給他｜卿一仰首，忽憶——此窗下，曾有一妾｜想念遠方的人・古風｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "IGiDb1WQT9s",
-      "title": "【霧月詞。未寄花】 想送你花，卻不知道往哪送｜藕絲於水下——雖斷，猶連｜放不下一個人・古風｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。未寄花】 想送你花，卻不知道往哪送｜藕絲於水下——雖斷，猶連｜放不下一個人・古風｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "I8oSB7c866I",
-      "title": "【霧月詞。無一耳】 歌不苦，苦的是沒有人聽｜曲飛出高樓——萬里之內，無一耳｜沒人懂你的時候聽的歌・古風｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。無一耳】 歌不苦，苦的是沒有人聽｜曲飛出高樓——萬里之內，無一耳｜沒人懂你的時候聽的歌・古風｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "bs5uH0VJedU",
-      "title": "【霧月詞。我不要了】 一邊想念瘋長，一邊親手埋葬｜每重複一次，就在心底擦掉一抹月光｜戒掉一個人・失戀情歌｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。我不要了】 一邊想念瘋長，一邊親手埋葬｜每重複一次，就在心底擦掉一抹月光｜戒掉一個人・失戀情歌｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "9mcvcheEg4U",
-      "title": "【霧月詞。良夜難再】 那一夜，希望不只我記得｜那夜燭光，藏在此曲——等卿來認｜回不去的時光・古風｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。良夜難再】 那一夜，希望不只我記得｜那夜燭光，藏在此曲——等卿來認｜回不去的時光・古風｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Rvb71K_ttEA",
-      "title": "【霧月詞。柏不答】 歲月不流，只流妾鬢邊｜曾有一妾，於此煉憂為詩，戚戚而老｜歲月不饒人・古風｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。柏不答】 歲月不流，只流妾鬢邊｜曾有一妾，於此煉憂為詩，戚戚而老｜歲月不饒人・古風｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "CzgJurTS3OE",
-      "title": "【霧月詞。又是一春】 再也沒有人對我說晚安｜願此生不再相見，願來世不再相識｜睡前聽的歌・古風虐心｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。又是一春】 再也沒有人對我說晚安｜願此生不再相見，願來世不再相識｜睡前聽的歌・古風虐心｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "CBhNT5vkVsA",
-      "title": "【霧月詞。衣帶寬】「如果你不回來——至少記得，我叫什麼名字。」｜若卿不歸——願卿記妾姓字｜遠距離戀愛・古風｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。衣帶寬】「如果你不回來——至少記得，我叫什麼名字。」｜若卿不歸——願卿記妾姓字｜遠距離戀愛・古風｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "EvVTy5MmqQ8",
