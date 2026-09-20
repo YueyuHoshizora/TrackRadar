@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T14:15:45.820+08:00",
+  "lastUpdated": "2026-09-20T14:20:46.433+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -1342,43 +1342,63 @@
     },
     {
       "videoId": "UEvN_mGKUW0",
-      "title": "【深夜淚崩】《在這漫長的夜晚，你是我唯一的期待》即使結局不變，這份愛我不後悔｜療癒抒情｜霧月Xiaoloulou #霧月詞 #lyricvideo"
+      "title": "【深夜淚崩】《在這漫長的夜晚，你是我唯一的期待》即使結局不變，這份愛我不後悔｜療癒抒情｜霧月Xiaoloulou #霧月詞 #lyricvideo",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "p33x9xeywMg",
-      "title": "【遺憾神曲】《無盡夜裡，我追尋》如果時光能倒流，回到最初那一刻｜失戀必聽｜霧月Xiaoloulou #霧月詞"
+      "title": "【遺憾神曲】《無盡夜裡，我追尋》如果時光能倒流，回到最初那一刻｜失戀必聽｜霧月Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "L7WnTBihNzA",
-      "title": "【遺憾美學】《未完》來不及別辭，愛碎如琉璃...｜催淚古風｜霧月Xiaoloulou #霧月詞"
+      "title": "【遺憾美學】《未完》來不及別辭，愛碎如琉璃...｜催淚古風｜霧月Xiaoloulou #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Mel-YPdFyFs",
-      "title": "【深夜微醺】《琥珀色的理由》我一向不喝波本，可今晚它燙得剛好...｜酒吧氛圍｜霧月Xiaoloulou #霧月詞"
+      "title": "【深夜微醺】《琥珀色的理由》我一向不喝波本，可今晚它燙得剛好...｜酒吧氛圍｜霧月Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.44
     },
     {
       "videoId": "hDoicJY_aLo",
-      "title": "是湮滅？是重生？我眼中殘破不堪的世界 《夢天。夢影浮光》💔 (東方史詩迷宮)｜霧月 Xiaoloulou｜#霧月詞 【經典回顧】"
+      "title": "是湮滅？是重生？我眼中殘破不堪的世界 《夢天。夢影浮光》💔 (東方史詩迷宮)｜霧月 Xiaoloulou｜#霧月詞 【經典回顧】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "asYfWTLGiZk",
-      "title": "【唯美氛圍】《逐日之女》她幾乎抵達，又已遠行｜氛圍流行｜霧月Xiaoloulou #霧月詞"
+      "title": "【唯美氛圍】《逐日之女》她幾乎抵達，又已遠行｜氛圍流行｜霧月Xiaoloulou #霧月詞",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "je7kCv4pqvE",
-      "title": "🌅 破碎之後方見黎明？｜《夢天。破曉歸途》誰能指引方向？｜霧月 Xiaoloulou #霧月詞  【致敬詩鬼李賀】"
+      "title": "🌅 破碎之後方見黎明？｜《夢天。破曉歸途》誰能指引方向？｜霧月 Xiaoloulou #霧月詞  【致敬詩鬼李賀】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "FSdSvKh3ixU",
-      "title": "【病態美學】《心碎儀式》現在我瘋了，就像妳喜歡的那樣...｜暗黑流行｜霧月Xiaoloulou #霧月詞"
+      "title": "【病態美學】《心碎儀式》現在我瘋了，就像妳喜歡的那樣...｜暗黑流行｜霧月Xiaoloulou #霧月詞",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "gkuUBEJuDrQ",
-      "title": "🏮 《結髮》結髮、戒指、契約... 這是我們第幾世的承諾？ (輪迴情歌) ｜古風流行｜霧月Xiaoloulou #霧月詞"
+      "title": "🏮 《結髮》結髮、戒指、契約... 這是我們第幾世的承諾？ (輪迴情歌) ｜古風流行｜霧月Xiaoloulou #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "u91bFKGsYD4",
-      "title": "【深夜讀詩】《有沒有一種愛，在熟識她之前，就知道要愛？》讓我墜落，像水終究會向地心傾斜｜氛圍音樂｜霧月Xiaoloulou #霧月詞"
+      "title": "【深夜讀詩】《有沒有一種愛，在熟識她之前，就知道要愛？》讓我墜落，像水終究會向地心傾斜｜氛圍音樂｜霧月Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "d-j4WZx-I9s",
