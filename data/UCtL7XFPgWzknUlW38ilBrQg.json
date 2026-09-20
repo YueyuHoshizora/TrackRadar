@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T14:10:46.255+08:00",
+  "lastUpdated": "2026-09-20T14:15:45.820+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -1282,43 +1282,63 @@
     },
     {
       "videoId": "oeNFbgTUutE",
-      "title": "《不說》適合深夜獨酌、藏著秘密的音樂｜Unsaid｜氛圍系 Dark Pop ｜ (Official Lyric Audio) #霧月詞"
+      "title": "《不說》適合深夜獨酌、藏著秘密的音樂｜Unsaid｜氛圍系 Dark Pop ｜ (Official Lyric Audio) #霧月詞",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "QPjP8o1cFs4",
-      "title": "【致命誘惑】《纏我入夜》甜意裡的刀緩緩翻面...｜近到呼吸相撞 (Official Lyric Audio) #霧月詞"
+      "title": "【致命誘惑】《纏我入夜》甜意裡的刀緩緩翻面...｜近到呼吸相撞 (Official Lyric Audio) #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "LuONDHg_c-I",
-      "title": "《空山。語》蘭亭墨未乾，三生若夢一場...｜Echoes of Zen｜純淨國風 (Official Lyric Audio)  ｜霧月"
+      "title": "《空山。語》蘭亭墨未乾，三生若夢一場...｜Echoes of Zen｜純淨國風 (Official Lyric Audio)  ｜霧月",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "RgatFq8j4nk",
-      "title": "【史詩古風】《空山。語不白》衣白馬白骨亦白，卻惟有語不白...｜將軍淚 霧月 Xiaoloulou (Official Lyric Audio)"
+      "title": "【史詩古風】《空山。語不白》衣白馬白骨亦白，卻惟有語不白...｜將軍淚 霧月 Xiaoloulou (Official Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Q58SeP1QJPY",
-      "title": "【致命溫柔】《輕輕地愛我》越陷越深，像從不會過量的毒...｜沉浸式呼吸感 (Official Audio) Lyricvideo  #霧月詞"
+      "title": "【致命溫柔】《輕輕地愛我》越陷越深，像從不會過量的毒...｜沉浸式呼吸感 (Official Audio) Lyricvideo  #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "BZ5-Ws6_pzA",
-      "title": "🩹《骨縫裡的靜》我已過了能回頭的距離...｜這不是謎，是帶香的瘀青。 #霧月詞"
+      "title": "🩹《骨縫裡的靜》我已過了能回頭的距離...｜這不是謎，是帶香的瘀青。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "ec93_TqF7Oc",
-      "title": "【拒絕明天】《都放手吧》失控也好，只要我終於能放手｜迷幻｜霧月Xiaoloulou #霧月詞"
+      "title": "【拒絕明天】《都放手吧》失控也好，只要我終於能放手｜迷幻｜霧月Xiaoloulou #霧月詞",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "mR2sv7hGY6w",
-      "title": "【東方美學】《知予難言予》白鹿問何？卿知否？｜氛圍音樂｜霧月Xiaoloulou #霧月詞"
+      "title": "【東方美學】《知予難言予》白鹿問何？卿知否？｜氛圍音樂｜霧月Xiaoloulou #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "HRbwYlYxAOA",
-      "title": "【深夜微醺】《威士忌的眼淚》我喝下黑暗，直到它看起來像光｜霧月Xiaoloulou #霧月詞"
+      "title": "【深夜微醺】《威士忌的眼淚》我喝下黑暗，直到它看起來像光｜霧月Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "qcaL0Tq_I5c",
-      "title": "🌙 妳是我漫漫長夜裡，唯一的願望。｜《漫漫長夜的願望》｜霧月Xiaoloulou #霧月詞"
+      "title": "🌙 妳是我漫漫長夜裡，唯一的願望。｜《漫漫長夜的願望》｜霧月Xiaoloulou #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "UEvN_mGKUW0",
