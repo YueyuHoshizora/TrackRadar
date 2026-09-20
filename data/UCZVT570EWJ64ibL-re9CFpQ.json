@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T18:50:44.946+08:00",
+  "lastUpdated": "2026-09-20T18:55:44.014+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -796,43 +796,63 @@
     },
     {
       "videoId": "ScknOrzCL9c",
-      "title": "【中國風 Playlist - 痛覺成癮 | 古風R&B 原創】 九黎月 | 這曖昧是帶刺的解藥 讓神經習慣了這種煎熬[Official Lyric Video]"
+      "title": "【中國風 Playlist - 痛覺成癮 | 古風R&B 原創】 九黎月 | 這曖昧是帶刺的解藥 讓神經習慣了這種煎熬[Official Lyric Video]",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "hzNvatCGnT8",
-      "title": "【中國風 Playlist - 鬼市典當 | 古風R&B 原創】 九黎月 | 這輪迴的出口 沒人能夠回頭"
+      "title": "【中國風 Playlist - 鬼市典當 | 古風R&B 原創】 九黎月 | 這輪迴的出口 沒人能夠回頭",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "-LWZJMVr67Y",
-      "title": "【中國風  - 落楓 | 古風EDM原創 ｜嗩吶嫁娶 】 九黎月｜是誰的胭脂 染紅了這肅殺"
+      "title": "【中國風  - 落楓 | 古風EDM原創 ｜嗩吶嫁娶 】 九黎月｜是誰的胭脂 染紅了這肅殺",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "lG6-8_EUY3Q",
-      "title": "【中國風 - 泥菩薩 | 古風R&B原創】 九黎月｜ 它總是坐在案頭 假裝慈悲的溫柔"
+      "title": "【中國風 - 泥菩薩 | 古風R&B原創】 九黎月｜ 它總是坐在案頭 假裝慈悲的溫柔",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "b6V0UhbAi4Q",
-      "title": "【中國風 - 崖上花 | 古風trap 原創】 九黎月｜ 你拜倒的裙下 是懸崖上的花"
+      "title": "【中國風 - 崖上花 | 古風trap 原創】 九黎月｜ 你拜倒的裙下 是懸崖上的花",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "gCTXCuGQMj0",
-      "title": "【中國風  - 月晴缺 | 古風R&B 原創】 九黎月 ｜聽誰唱古舊，不為誰停留"
+      "title": "【中國風  - 月晴缺 | 古風R&B 原創】 九黎月 ｜聽誰唱古舊，不為誰停留",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "dHJeSa5TOCI",
-      "title": "【R&B 安全距離】- 太近囉～～請保持安全距離～～～｜煙嗓女聲主題音樂｜R&B原創音樂播放清單"
+      "title": "【R&B 安全距離】- 太近囉～～請保持安全距離～～～｜煙嗓女聲主題音樂｜R&B原創音樂播放清單",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "cBNg2CDaTd4",
-      "title": "【中國風 零點當鋪 | 古風R&B 原創】 九黎月｜零點當鋪 不收金只收你 天真的曾經"
+      "title": "【中國風 零點當鋪 | 古風R&B 原創】 九黎月｜零點當鋪 不收金只收你 天真的曾經",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "oJzINEwX_AA",
-      "title": "【中國風 月瑛說 | 古風R&B 原創】 九黎月｜蒼生萬戶皆所望，八卦機巧畫堂匡。"
+      "title": "【中國風 月瑛說 | 古風R&B 原創】 九黎月｜蒼生萬戶皆所望，八卦機巧畫堂匡。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "fn3k8-jOj2w",
-      "title": "【中國風 忘川擺渡 | 古風R&B 原創】 九黎月 🎻 我是忘川 冰冷的擺渡載著你 踏上最後歸途"
+      "title": "【中國風 忘川擺渡 | 古風R&B 原創】 九黎月 🎻 我是忘川 冰冷的擺渡載著你 踏上最後歸途",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "8_gpqhxa_JI",
