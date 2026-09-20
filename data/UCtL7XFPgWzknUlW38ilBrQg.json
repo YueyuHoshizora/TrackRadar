@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T16:30:44.717+08:00",
+  "lastUpdated": "2026-09-20T16:35:46.707+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -2962,43 +2962,63 @@
     },
     {
       "videoId": "c9rUaC8juV8",
-      "title": "🥀《#子不歸》答古詩十九首・青青河畔草｜給所有等一個不會回來的人｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "🥀《#子不歸》答古詩十九首・青青河畔草｜給所有等一個不會回來的人｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "qcw6WaOULOo",
-      "title": "🏮《#意中人》答古詩十九首・行行重行行｜給所有只在夢裡還能見到他的人｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "🏮《#意中人》答古詩十九首・行行重行行｜給所有只在夢裡還能見到他的人｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "mlhZZv1HPSU",
-      "title": "白雪與影子之間 Between Snow and Shadow 霧月 Xiaoloulou || 落在妳影子上的雪，是一首寫不出名字的深愛詩。"
+      "title": "白雪與影子之間 Between Snow and Shadow 霧月 Xiaoloulou || 落在妳影子上的雪，是一首寫不出名字的深愛詩。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.49
     },
     {
       "videoId": "2BaxxgqM1yY",
-      "title": "Это судьба 霧月 Xiaoloulou || Если не оставить на бумаге , они сожгут меня дотла 若不寫下，那些話就會把我燒盡"
+      "title": "Это судьба 霧月 Xiaoloulou || Если не оставить на бумаге , они сожгут меня дотла 若不寫下，那些話就會把我燒盡",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.44
     },
     {
       "videoId": "rpmAeWtoz-g",
-      "title": "豔箋 The Gilded Letter, Never Read 霧月 Xiaoloulou || 一紙未寄的艷，半生不語的念"
+      "title": "豔箋 The Gilded Letter, Never Read 霧月 Xiaoloulou || 一紙未寄的艷，半生不語的念",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "ngvIji_Ysws",
-      "title": "星漢倦歌 A Song Beneath the Weary Stars 霧月 Xiaoloulou || 夢盡星沉，餘光如昔"
+      "title": "星漢倦歌 A Song Beneath the Weary Stars 霧月 Xiaoloulou || 夢盡星沉，餘光如昔",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "3QI5GRchRU8",
-      "title": "風懂帆、海懂船 A Journey with No Destination - 霧月 Xiaoloulou || 一段無需抵達的航行"
+      "title": "風懂帆、海懂船 A Journey with No Destination - 霧月 Xiaoloulou || 一段無需抵達的航行",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "x2FqzNF2hTQ",
-      "title": "紙燈籠的夢 Rêve de Lanterne 霧月 Xiaoloulou || 渾然不知的世界，與我們"
+      "title": "紙燈籠的夢 Rêve de Lanterne 霧月 Xiaoloulou || 渾然不知的世界，與我們",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "urVLTDu4CG8",
-      "title": "The Quiet You Never Read - 霧月 Xiaoloulou || When Silence Shines Like a Lie"
+      "title": "The Quiet You Never Read - 霧月 Xiaoloulou || When Silence Shines Like a Lie",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "sktP1SESUU4",
-      "title": "燈下夢痕 Traces Beneath the Lamplight - 霧月 Xiaoloulou || 一曲笙歌傷寒宵"
+      "title": "燈下夢痕 Traces Beneath the Lamplight - 霧月 Xiaoloulou || 一曲笙歌傷寒宵",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "ns9JWg3gGV8",
