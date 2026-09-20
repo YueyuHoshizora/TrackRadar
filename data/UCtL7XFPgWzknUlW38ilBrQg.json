@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T15:20:44.862+08:00",
+  "lastUpdated": "2026-09-20T15:25:45.762+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -2122,43 +2122,63 @@
     },
     {
       "videoId": "-RLqpJgaGqo",
-      "title": "《紅塵酒月》《Rượu Trăng Trong Hồng Trần》霧月 Xiaoloulou｜一夜又一夜，誰於夢裡喚我名。 #霧月詞"
+      "title": "《紅塵酒月》《Rượu Trăng Trong Hồng Trần》霧月 Xiaoloulou｜一夜又一夜，誰於夢裡喚我名。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "1RN8d_5bzJY",
-      "title": "《Faded Promises》霧月 Xiaoloulou  ｜Where Time Unbound the Vows."
+      "title": "《Faded Promises》霧月 Xiaoloulou  ｜Where Time Unbound the Vows.",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "BGz4PzN9r7c",
-      "title": "《六分之一》Mugamelife X 霧月｜月球的引力，悲傷也變輕了嗎。"
+      "title": "《六分之一》Mugamelife X 霧月｜月球的引力，悲傷也變輕了嗎。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "M11DgbdM90I",
-      "title": "《未至之夢》《Giấc Mộng Chưa Đến》霧月 Xiaoloulou ｜雪將開，而心未起。 #霧月詞"
+      "title": "《未至之夢》《Giấc Mộng Chưa Đến》霧月 Xiaoloulou ｜雪將開，而心未起。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "e9J9wXrrlXU",
-      "title": "《魂墟十二章》霧月 Xiaoloulou｜十二章，焚身以證魂。｜  #霧月詞  #fullalbum #playlist"
+      "title": "《魂墟十二章》霧月 Xiaoloulou｜十二章，焚身以證魂。｜  #霧月詞  #fullalbum #playlist",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "4E6FrOu1qr4",
-      "title": "「Xiaoloulou」直播"
+      "title": "「Xiaoloulou」直播",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "yWm06wahp1I",
-      "title": "《不見之夢》Giấc Mộng Không Thấy 霧月 Xiaoloulou｜夢仍溫，而人不見。 ｜#霧月詞"
+      "title": "《不見之夢》Giấc Mộng Không Thấy 霧月 Xiaoloulou｜夢仍溫，而人不見。 ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "k68-dWWxfGA",
-      "title": "《Don’t Let Her See My Tears》霧月 Xiaoloulou｜Where tears learn to hide beneath the city light. ｜#霧月詞"
+      "title": "《Don’t Let Her See My Tears》霧月 Xiaoloulou｜Where tears learn to hide beneath the city light. ｜#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "ETiTsF52NhA",
-      "title": "《不老夢》《Giấc Mộng Bất Tận》霧月 Xiaoloulou｜夢不老，情無終。 ｜#霧月詞"
+      "title": "《不老夢》《Giấc Mộng Bất Tận》霧月 Xiaoloulou｜夢不老，情無終。 ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "FyZ-zYqKxWA",
-      "title": "《Don't Cry 》Remastered 霧月 Xiaoloulou｜Through the Storm, Toward the Light ｜#霧月詞"
+      "title": "《Don't Cry 》Remastered 霧月 Xiaoloulou｜Through the Storm, Toward the Light ｜#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.3
     },
     {
       "videoId": "31AxfvNfnWI",
