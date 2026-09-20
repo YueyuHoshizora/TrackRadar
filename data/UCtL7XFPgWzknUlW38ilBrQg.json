@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T15:25:45.762+08:00",
+  "lastUpdated": "2026-09-20T15:30:47.174+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -2182,43 +2182,63 @@
     },
     {
       "videoId": "31AxfvNfnWI",
-      "title": "《我喜歡的是，陪著妳天亮說晚安》霧月 Xiaoloulou｜時差之愛，靜默交會的光與影 ｜#霧月詞"
+      "title": "《我喜歡的是，陪著妳天亮說晚安》霧月 Xiaoloulou｜時差之愛，靜默交會的光與影 ｜#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "JKGJAK5e1yw",
-      "title": "《Cold Affair》Remaster 霧月 Xiaoloulou｜Love that freezes before it breaks ｜#霧月詞"
+      "title": "《Cold Affair》Remaster 霧月 Xiaoloulou｜Love that freezes before it breaks ｜#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "0zb35WSbMa8",
-      "title": "《她決定，這次只寵愛自己》霧月 Xiaoloulou ｜愛終將歸於自己 ｜#霧月詞"
+      "title": "《她決定，這次只寵愛自己》霧月 Xiaoloulou ｜愛終將歸於自己 ｜#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "gPAaCXcblL0",
-      "title": "《Falling apart》Remake 霧月 Xiaoloulou｜  Shattered love, broken echoes, and rising from ashes ｜#霧月詞"
+      "title": "《Falling apart》Remake 霧月 Xiaoloulou｜  Shattered love, broken echoes, and rising from ashes ｜#霧月詞",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "_QJ0AsqkKAc",
-      "title": "《妳不知，我一直這樣愛著妳》霧月 Xiaoloulou｜靜默深夜裡的秘密星光 ｜#霧月詞"
+      "title": "《妳不知，我一直這樣愛著妳》霧月 Xiaoloulou｜靜默深夜裡的秘密星光 ｜#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "epLrbVApSyk",
-      "title": "《戀戀之後》霧月 Xiaoloulou ｜不捨學會飛行 ｜#霧月詞"
+      "title": "《戀戀之後》霧月 Xiaoloulou ｜不捨學會飛行 ｜#霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "aUI2RGSStuk",
-      "title": "《樹洞》霧月｜空心之木，吞沒殘響"
+      "title": "《樹洞》霧月｜空心之木，吞沒殘響",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.25
     },
     {
       "videoId": "FBRa5iqoXgs",
-      "title": "《淚海未寄》霧月｜夢字沉沒，唯風翻篇 ｜#霧月詞"
+      "title": "《淚海未寄》霧月｜夢字沉沒，唯風翻篇 ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "fWYzdyZFUvM",
-      "title": "🔥【暗黑沉溺系】《#欲海》｜給所有明知會燒起來還是靠近的人｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "🔥【暗黑沉溺系】《#欲海》｜給所有明知會燒起來還是靠近的人｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "_Y4nr06gY9k",
-      "title": "《Whisper in the Rain》霧月 Xiaoloulou｜Cold as onyx, never warm ｜#霧月詞"
+      "title": "《Whisper in the Rain》霧月 Xiaoloulou｜Cold as onyx, never warm ｜#霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "Gvq6Pyituz0",
