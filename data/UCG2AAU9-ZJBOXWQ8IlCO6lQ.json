@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T12:45:41.219+08:00",
+  "lastUpdated": "2026-09-20T13:00:44.724+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -202,43 +202,63 @@
     },
     {
       "videoId": "_muf-EkipHo",
-      "title": "【古風音樂】《我依然等你》｜這是一首關於守候，卻再也等不到人的歌"
+      "title": "【古風音樂】《我依然等你》｜這是一首關於守候，卻再也等不到人的歌",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "8hyavjJshVw",
-      "title": "【古風音樂】《碎心令》｜這句「這一生換一句沒關係」聽碎了多少人的心？"
+      "title": "【古風音樂】《碎心令》｜這句「這一生換一句沒關係」聽碎了多少人的心？",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "21IfpXmBF9o",
-      "title": "【古風音樂】《你離開之後》｜極致女高音 x 戰鼓古箏 | 衝向盡頭的覺醒"
+      "title": "【古風音樂】《你離開之後》｜極致女高音 x 戰鼓古箏 | 衝向盡頭的覺醒",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "gzHR1xHsg78",
-      "title": "【古風音樂】《月色慢》｜只要聽一遍，這段旋律就會在你腦海中揮之不去。"
+      "title": "【古風音樂】《月色慢》｜只要聽一遍，這段旋律就會在你腦海中揮之不去。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "hBoskHoW0Wk",
-      "title": "【古風音樂】《悠悠》｜山也是悠悠，水也是悠悠。循環一整天都不膩，舒服到想睡覺。"
+      "title": "【古風音樂】《悠悠》｜山也是悠悠，水也是悠悠。循環一整天都不膩，舒服到想睡覺。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "t2iyMG2z7rg",
-      "title": "【KPOP】《I AM》這就是我｜終於，我學會了擁抱那個孤獨的自己（Official Music Video）"
+      "title": "【KPOP】《I AM》這就是我｜終於，我學會了擁抱那個孤獨的自己（Official Music Video）",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "7dDILB5HFBY",
-      "title": "【古風音樂】《你忘了嗎》：這人間一場情劫，誰能全身而退？聽完這首，我徹底淚目了。"
+      "title": "【古風音樂】《你忘了嗎》：這人間一場情劫，誰能全身而退？聽完這首，我徹底淚目了。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "pcKRojJI028",
-      "title": "【古風音樂】《愛我嗎》｜2026 虐心首選｜這首歌真的不能在深夜聽，後勁太強..."
+      "title": "【古風音樂】《愛我嗎》｜2026 虐心首選｜這首歌真的不能在深夜聽，後勁太強...",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "_-EMSu2CZHU",
-      "title": "這才叫高級感！2026 必聽原創古風：百鬼封印、悟空、換了人間 | 6小時聽覺饗宴｜古風音樂電台  BY 黎安(Leann)｜"
+      "title": "這才叫高級感！2026 必聽原創古風：百鬼封印、悟空、換了人間 | 6小時聽覺饗宴｜古風音樂電台  BY 黎安(Leann)｜",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "7uSb-R0mIWY",
-      "title": "【古風音樂】這十首原創古風太高級｜一曲《悟空》豪氣干雲，《雲深處·見青山》讓千萬人聽後心靜如水... | 精選原創音樂專輯"
+      "title": "【古風音樂】這十首原創古風太高級｜一曲《悟空》豪氣干雲，《雲深處·見青山》讓千萬人聽後心靜如水... | 精選原創音樂專輯",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "gWrzy-EVt4E",
