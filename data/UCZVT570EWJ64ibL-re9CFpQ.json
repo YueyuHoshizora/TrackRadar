@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T19:00:48.520+08:00",
+  "lastUpdated": "2026-09-20T19:05:44.229+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -916,43 +916,63 @@
     },
     {
       "videoId": "YDqSghwSfP8",
-      "title": "【中國風 戲中人 | 中國風R&B】九黎月 🎹 我曾笑看人別離，如今輪到我成戲。"
+      "title": "【中國風 戲中人 | 中國風R&B】九黎月 🎹 我曾笑看人別離，如今輪到我成戲。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "Gec0MCJG9dA",
-      "title": "【中國風 竹台畫相思 | 中國風R&B】九黎月 💓 深淺之間是誰的掙扎　半生情話"
+      "title": "【中國風 竹台畫相思 | 中國風R&B】九黎月 💓 深淺之間是誰的掙扎　半生情話",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "WJiH7NwLPvs",
-      "title": "【中國風 遙船聽風| 中國風R&B 原創】九黎月 💞 念你的溫柔　像風過指尖的溫度"
+      "title": "【中國風 遙船聽風| 中國風R&B 原創】九黎月 💞 念你的溫柔　像風過指尖的溫度",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "7AMDeaxXFio",
-      "title": "【中國風 魁儡台 | 中國風R&B】九黎月 💓 東方暗黑 R&B｜誰在我身後低語不斷～說愛太短說命太亂～"
+      "title": "【中國風 魁儡台 | 中國風R&B】九黎月 💓 東方暗黑 R&B｜誰在我身後低語不斷～說愛太短說命太亂～",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "oCbTCjAoTSs",
-      "title": "中國風音樂直播台 （四小時後無廣告，快跳去後面聽）"
+      "title": "中國風音樂直播台 （四小時後無廣告，快跳去後面聽）",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "vyPik6MZRlA",
-      "title": "第一場直播~~~"
+      "title": "第一場直播~~~",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "8eixAfZtNwc",
-      "title": "「音樂脈動-Sonic Pulse」直播"
+      "title": "「音樂脈動-Sonic Pulse」直播",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.47
     },
     {
       "videoId": "flIWtE81wtY",
-      "title": "【R&B  - 還是會想你】夏音Natsune 🤍 2025華語精選｜節奏藍調 Cover / Amazing / 音樂欣賞"
+      "title": "【R&B  - 還是會想你】夏音Natsune 🤍 2025華語精選｜節奏藍調 Cover / Amazing / 音樂欣賞",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "XFmbVht8zN4",
-      "title": "【中國風  - 煙雨歸客】九黎月 💯 R&B韻味融合煙雨古風，深情演繹東方都會浪漫｜東方R&B Music / 悠遠深情、浪漫迷離 /"
+      "title": "【中國風  - 煙雨歸客】九黎月 💯 R&B韻味融合煙雨古風，深情演繹東方都會浪漫｜東方R&B Music / 悠遠深情、浪漫迷離 /",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "koK9ASLG-4k",
-      "title": "【R&B Playlist - 若是時間慢一點】夏音Natsune 🎧 這首真的要收藏｜煙嗓小天后｜節奏藍調 Music"
+      "title": "【R&B Playlist - 若是時間慢一點】夏音Natsune 🎧 這首真的要收藏｜煙嗓小天后｜節奏藍調 Music",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "To7KtpZN87A",
