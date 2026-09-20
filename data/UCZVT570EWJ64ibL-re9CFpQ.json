@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T18:35:45.290+08:00",
+  "lastUpdated": "2026-09-20T18:40:44.062+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -616,43 +616,63 @@
     },
     {
       "videoId": "FACngcl92F4",
-      "title": "【中國風 - 狐仙下山】酒滿不勸話先甜 真心從來最不值錢 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 狐仙下山】酒滿不勸話先甜 真心從來最不值錢 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.49
     },
     {
       "videoId": "cRjNHUlQK-4",
-      "title": "【中國風 - 過客棧】只求卸下這妝 有人能懂眼裡的霜 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 過客棧】只求卸下這妝 有人能懂眼裡的霜 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "zR3pGTMXlQ0",
-      "title": "【中國風 - 墨落殤】筆落無聲 名在案 今夜寫我 不寫凡 🎧 九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 墨落殤】筆落無聲 名在案 今夜寫我 不寫凡 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "tEfy6IujVjM",
-      "title": "【中國風 - 夢如霜】若是餘生註定無緣 何必貪戀那一瞬間 🎧 九黎月｜潮流R&B原創"
+      "title": "【中國風 - 夢如霜】若是餘生註定無緣 何必貪戀那一瞬間 🎧 九黎月｜潮流R&B原創",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "jvs5lGvo_Rg",
-      "title": "【中國風 - 紅塵舊夢】🎧 九黎月｜潮流古風原創｜說好了輪迴後念念不忘 為何獨留我一身淒涼【Official Lyric Video】"
+      "title": "【中國風 - 紅塵舊夢】🎧 九黎月｜潮流古風原創｜說好了輪迴後念念不忘 為何獨留我一身淒涼【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "TCTh2pD6Vgo",
-      "title": "【中國風 - 狐不下山 】🎧 九黎月|古風R&B |靠得太近 小心被劃傷【Official Lyric Video】"
+      "title": "【中國風 - 狐不下山 】🎧 九黎月|古風R&B |靠得太近 小心被劃傷【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "Ztcm-UK2PWM",
-      "title": "【中國風 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 狐仙傳說】- 九黎月🎧一聽就愛上的華語音樂，就這樣一次又一次的重播"
+      "title": "【中國風 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 狐仙傳說】- 九黎月🎧一聽就愛上的華語音樂，就這樣一次又一次的重播",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "6A8nnfpyxXk",
-      "title": "【中國風 - 無人之坡】🎧 九黎月｜潮流古風R&B｜花開在無人抵達的坡顏色學會了等候【Official Lyric Video】"
+      "title": "【中國風 - 無人之坡】🎧 九黎月｜潮流古風R&B｜花開在無人抵達的坡顏色學會了等候【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "HEOcj7aw0xE",
-      "title": "【中國風 - 狐不度人】🎧 九黎月｜潮流古風Trap原創｜狐不度人 路早已選擇 迷失不是詛咒 是貪念太多【Official Lyric Video】"
+      "title": "【中國風 - 狐不度人】🎧 九黎月｜潮流古風Trap原創｜狐不度人 路早已選擇 迷失不是詛咒 是貪念太多【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "e5NFQyGZuS0",
-      "title": "【中國風 - 冬夜有燈】🎧 九黎月｜潮流古風原創｜雪落成結　結住一段沒結果的緣【Official Lyric Video】"
+      "title": "【中國風 - 冬夜有燈】🎧 九黎月｜潮流古風原創｜雪落成結　結住一段沒結果的緣【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "mhOrTFRp0B4",
