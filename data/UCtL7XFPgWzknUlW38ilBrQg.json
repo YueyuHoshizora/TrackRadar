@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T12:35:46.194+08:00",
+  "lastUpdated": "2026-09-20T12:40:46.214+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -202,43 +202,63 @@
     },
     {
       "videoId": "5RZjqlt4pS0",
-      "title": "下雨了，就想起你了《下雨的深夜，想起一個人》｜雨天歌單一小時合輯・失眠聽的歌｜霧月詞・Xiaoloulou"
+      "title": "下雨了，就想起你了《下雨的深夜，想起一個人》｜雨天歌單一小時合輯・失眠聽的歌｜霧月詞・Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "X1aWFq4zJts",
-      "title": "在妳安靜的愛裡，我慢慢枯萎《沉默寡言的情人》｜當一顆心被不聲不響地熄滅｜冷暴力式的愛・華語情歌｜霧月詞・Xiaoloulou【Official Lyric Video】"
+      "title": "在妳安靜的愛裡，我慢慢枯萎《沉默寡言的情人》｜當一顆心被不聲不響地熄滅｜冷暴力式的愛・華語情歌｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "G3PqfRuvmOQ",
-      "title": "夢見你回來，又走了《雙扉》｜庭中無車轍，窗外無人聲｜夢見一個回不來的人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】"
+      "title": "夢見你回來，又走了《雙扉》｜庭中無車轍，窗外無人聲｜夢見一個回不來的人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "6h98FUsRyic",
-      "title": "我說的話，妳從未懂《未定義的愛》｜每一字都沉，如石落夢｜說不清的愛・華語情歌｜霧月詞・Xiaoloulou【Official Lyric Video】"
+      "title": "我說的話，妳從未懂《未定義的愛》｜每一字都沉，如石落夢｜說不清的愛・華語情歌｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "sE0EcsclcPE",
-      "title": "我搖著尾巴說，只是朋友《Rosie Bone》｜這就是愛，該有的死法｜當替身的愛・英文情歌｜霧月詞・Xiaoloulou【Official Lyric Video】英文原創"
+      "title": "我搖著尾巴說，只是朋友《Rosie Bone》｜這就是愛，該有的死法｜當替身的愛・英文情歌｜霧月詞・Xiaoloulou【Official Lyric Video】英文原創",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "gAHY48bK66U",
-      "title": "這一刻，我還溫著《一寸》｜尚有此身，猶溫｜寫給總覺得來不及的人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】"
+      "title": "這一刻，我還溫著《一寸》｜尚有此身，猶溫｜寫給總覺得來不及的人・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "pcfVJR_Cwq0",
-      "title": "【霧月詞。青梅流光】 又偷偷描了她幾遍｜落花有意隨流水｜暗戀情歌・單相思古風｜霧月 Xiaoloulou【Official Music Video】｜官方MV"
+      "title": "【霧月詞。青梅流光】 又偷偷描了她幾遍｜落花有意隨流水｜暗戀情歌・單相思古風｜霧月 Xiaoloulou【Official Music Video】｜官方MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "e7Tr8O25sOo",
-      "title": "【霧月詞。哭一場就好】 有些眼淚，忍著忍著就過期了｜今晚不忍了｜虐心催淚一小時合輯・失戀歌單｜Xiaoloulou"
+      "title": "【霧月詞。哭一場就好】 有些眼淚，忍著忍著就過期了｜今晚不忍了｜虐心催淚一小時合輯・失戀歌單｜Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "63ufjCBLzmQ",
-      "title": "【霧月詞。心字鎖】 話到指尖，又收了回去｜題半字，語成空｜給說不出口的喜歡・古風｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。心字鎖】 話到指尖，又收了回去｜題半字，語成空｜給說不出口的喜歡・古風｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "mR3h0o6J3Gc",
-      "title": "【霧月詞。Before I Do】 傷我最深的，不是你不愛｜是你愛，而你怕｜愛而不得・迴避型。英文情歌｜霧月 Xiaoloulou【Official Lyric Video】"
+      "title": "【霧月詞。Before I Do】 傷我最深的，不是你不愛｜是你愛，而你怕｜愛而不得・迴避型。英文情歌｜霧月 Xiaoloulou【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "2Ch1pwZbtMA",
