@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T15:05:46.328+08:00",
+  "lastUpdated": "2026-09-20T15:10:47.118+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "yzTJgo4UP_Y",
-      "title": "她那麼美麗，她那麼不快樂｜白月光・沉淪 60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
+      "title": "見到妳的那一眼，我的世界崩壞｜沉淪・15首60分鐘連播｜是命運嗎・瀲灩・囚時｜霧月詞・Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.53
     },
@@ -1942,43 +1942,63 @@
     },
     {
       "videoId": "ZwSOc1oshLQ",
-      "title": "《唯夜長》霧月 Xiaoloulou｜花寂，月明，夜長於夢。 #霧月詞"
+      "title": "《唯夜長》霧月 Xiaoloulou｜花寂，月明，夜長於夢。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "DjLxo6d38Dc",
-      "title": "《The Love Song》霧月 Xiaoloulou｜Sing me your love song, one last refrain. #霧月詞"
+      "title": "《The Love Song》霧月 Xiaoloulou｜Sing me your love song, one last refrain. #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "e2AUPVfgIB4",
-      "title": "《再唱一首愛的歌》霧月 Xiaoloulou｜願旋律成記憶，讓妳長留心間  #霧月詞"
+      "title": "《再唱一首愛的歌》霧月 Xiaoloulou｜願旋律成記憶，讓妳長留心間  #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "5shxTferX3E",
-      "title": "《暮夢。將至》霧月 Xiaoloulou｜唯暮色知我，唯夢不見卿。 #霧月詞"
+      "title": "《暮夢。將至》霧月 Xiaoloulou｜唯暮色知我，唯夢不見卿。 #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "M5sWlAGZoBs",
-      "title": "《Kiss Me Slow》霧月 Xiaoloulou｜When Time Stops Beneath Our Lips #霧月詞"
+      "title": "《Kiss Me Slow》霧月 Xiaoloulou｜When Time Stops Beneath Our Lips #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "L-BATqbE8vE",
-      "title": "《慢慢的吻我》霧月 Xiaoloulou｜夜仍有呼吸 #霧月詞"
+      "title": "《慢慢的吻我》霧月 Xiaoloulou｜夜仍有呼吸 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "Cf88Ze0NJvQ",
-      "title": "《消逝的誓言》霧月 Xiaoloulou｜時間溫柔地放手 #霧月詞"
+      "title": "《消逝的誓言》霧月 Xiaoloulou｜時間溫柔地放手 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "k53nLtFeOCw",
-      "title": "《塵世夢》霧月 Xiaoloulou｜一場花事終"
+      "title": "《塵世夢》霧月 Xiaoloulou｜一場花事終",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "z3QdwnCYb3Q",
-      "title": "《Deep in the Blues》霧月 Xiaoloulou ｜Where the Soul Drowns Softly #霧月詞"
+      "title": "《Deep in the Blues》霧月 Xiaoloulou ｜Where the Soul Drowns Softly #霧月詞",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.36
     },
     {
       "videoId": "I2TsqaWwGpA",
-      "title": "《藍之深處》霧月 Xiaoloulou｜沉於妳的回聲 #霧月詞"
+      "title": "《藍之深處》霧月 Xiaoloulou｜沉於妳的回聲 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "AWcMWEul_mg",
