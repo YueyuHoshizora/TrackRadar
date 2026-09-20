@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T16:00:52.941+08:00",
+  "lastUpdated": "2026-09-20T16:05:46.722+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -2602,43 +2602,63 @@
     },
     {
       "videoId": "9ecgBt8IaH0",
-      "title": "《Blind Love 》《有沒有一種愛，在熟識她之前，就知道要愛？》 霧月 Xiaoloulou || 英、中版本， English Version & Chinese Version"
+      "title": "《Blind Love 》《有沒有一種愛，在熟識她之前，就知道要愛？》 霧月 Xiaoloulou || 英、中版本， English Version & Chinese Version",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "NHpkl1Mez68",
-      "title": "🕯️【暗黑自剖系】《#七重鬼》｜給所有最怕的其實是自己的人｜霧月 Xiaoloulou【Official #lyricvideo】"
+      "title": "🕯️【暗黑自剖系】《#七重鬼》｜給所有最怕的其實是自己的人｜霧月 Xiaoloulou【Official #lyricvideo】",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.33
     },
     {
       "videoId": "018Nagps120",
-      "title": "《Misty Moon》《霧月》 霧月 Xiaoloulou || 英、中版本， English Version & Chinese Version"
+      "title": "《Misty Moon》《霧月》 霧月 Xiaoloulou || 英、中版本， English Version & Chinese Version",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "0BwxLe4ereA",
-      "title": "海沒有帶走我，只是忘了我 霧月 Xiaoloulou || 我太安靜了，無人記得我曾在。"
+      "title": "海沒有帶走我，只是忘了我 霧月 Xiaoloulou || 我太安靜了，無人記得我曾在。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "loJsKwH7Ngc",
-      "title": "The Sea Didn’t Take Me, It Forgot Me  霧月 Xiaoloulou || and I was too quiet to be remembered."
+      "title": "The Sea Didn’t Take Me, It Forgot Me  霧月 Xiaoloulou || and I was too quiet to be remembered.",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "vDdvDrvKLTk",
-      "title": "《著妳的裙》（重新編曲版） Wearing You in the Dark - Xiaololou || 在她留下的裙裡，我學會了怎麼愛她。"
+      "title": "《著妳的裙》（重新編曲版） Wearing You in the Dark - Xiaololou || 在她留下的裙裡，我學會了怎麼愛她。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "LRLZUwbbQwI",
-      "title": "《Heart Call》（Ｒe-arrange） Xiaoloulou || 有些話，是心在寫，不是手"
+      "title": "《Heart Call》（Ｒe-arrange） Xiaoloulou || 有些話，是心在寫，不是手",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "cVymkd9ozLQ",
-      "title": "《Where Goodnight Fails to Land》Xiaoloulou 霧月 || To the message I didn’t get. 寫給那句得不到的晚安"
+      "title": "《Where Goodnight Fails to Land》Xiaoloulou 霧月 || To the message I didn’t get. 寫給那句得不到的晚安",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "aeh3EJ-Yvnk",
-      "title": "《夜深開的花》（重新編曲版）霧月 The Flower That Blooms at Midnight || 如果那是愛，它沒有回音"
+      "title": "《夜深開的花》（重新編曲版）霧月 The Flower That Blooms at Midnight || 如果那是愛，它沒有回音",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "zb1fNpU5x8s",
-      "title": "《靜水深流》  霧月 Xiaoloulou || Where Silence Speaks Louder Than Names"
+      "title": "《靜水深流》  霧月 Xiaoloulou || Where Silence Speaks Louder Than Names",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.5
     },
     {
       "videoId": "DG0WCUyzB_o",
