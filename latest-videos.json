@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-20T17:37:27.361+08:00",
+  "updatedAt": "2026-09-20T17:40:48.082+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "TP2X8ip_55Y",
-        "title": "這次不急著愛滿，只想把每一天過好｜這次慢慢愛｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=TP2X8ip_55Y",
-        "thumbnail": "https://i.ytimg.com/vi/TP2X8ip_55Y/maxresdefault.jpg",
-        "durationSeconds": 191,
-        "publishedAt": "2026-09-20T05:30:21.000+08:00",
-        "fetchedAt": "2026-09-20T05:30:28.504+08:00",
+        "videoId": "CIv2Zqdz7o8",
+        "title": "同城預報只說有雨，沒說我們會相遇｜同城預報｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=CIv2Zqdz7o8",
+        "thumbnail": "https://i.ytimg.com/vi/CIv2Zqdz7o8/maxresdefault.jpg",
+        "durationSeconds": 276,
+        "publishedAt": "2026-09-20T17:30:24.000+08:00",
+        "fetchedAt": "2026-09-20T17:40:28.147+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.91
+        "genreConfidence": 0.8
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "mWV39VxURKI",
-        "title": "The Last Protocol | 明日邊界2147 • Tomorrow Frontier 2147 | Sci-Fi Love Story",
-        "url": "https://www.youtube.com/watch?v=mWV39VxURKI",
-        "thumbnail": "https://i.ytimg.com/vi/mWV39VxURKI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdAdE0qXAPn7ZDhDhlKihSwplTyQ",
-        "durationSeconds": 300,
-        "publishedAt": "2026-07-22T19:35:41.000+08:00",
-        "fetchedAt": "2026-09-20T17:30:33.066+08:00",
-        "genre": "電子 Electronic",
-        "genreConfidence": 0.39
+        "videoId": "qGc_gkTS0KY",
+        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
+        "durationSeconds": 253,
+        "publishedAt": "2026-09-15T18:32:58.000+08:00",
+        "fetchedAt": "2026-09-20T17:40:30.724+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.36
       }
     },
     {
@@ -409,7 +409,17 @@
     {
       "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
       "channelTitle": "九黎月",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "N3967C1NA2s",
+        "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=N3967C1NA2s",
+        "thumbnail": "https://i.ytimg.com/vi_webp/N3967C1NA2s/maxresdefault.webp",
+        "durationSeconds": 171,
+        "publishedAt": "2026-09-15T17:00:33.000+08:00",
+        "fetchedAt": "2026-09-20T17:40:39.394+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.66
+      }
     }
   ]
 }
