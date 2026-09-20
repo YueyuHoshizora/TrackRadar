@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T12:28:30.329+08:00",
+  "updatedAt": "2026-09-20T12:29:10.793+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -334,11 +334,41 @@
     {
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "ue5nkfnzy3A",
+        "title": "《我不是美人魚》聽完直接破防！原來奮不顧身換來的，只是一場虛幻夢境 ｜弦斷誰聽",
+        "url": "https://www.youtube.com/watch?v=ue5nkfnzy3A",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ue5nkfnzy3A/maxresdefault.webp",
+        "durationSeconds": 239,
+        "publishedAt": "2026-09-18T18:30:19.000+08:00",
+        "fetchedAt": "2026-09-20T12:29:04.533+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.81
+      }
     },
     {
       "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
       "channelTitle": "黎安Leann",
+      "latestVideo": null
+    },
+    {
+      "channelId": "UCdgoj5KsyZVDQt0Z1_ONz-g",
+      "channelTitle": "迷路的宇宙人",
+      "latestVideo": {
+        "videoId": "82QgWZVN3dQ",
+        "title": "你說愛就像迷宮，我卻學會安靜地錯過｜迷宇 Lost Alien《線索》Official Video",
+        "url": "https://www.youtube.com/watch?v=82QgWZVN3dQ",
+        "thumbnail": "https://i.ytimg.com/vi/82QgWZVN3dQ/maxresdefault.jpg",
+        "durationSeconds": 209,
+        "publishedAt": "2026-09-09T16:01:23.000+08:00",
+        "fetchedAt": "2026-09-20T12:29:04.845+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.72
+      }
+    },
+    {
+      "channelId": "UCAYUu9UHkrIopMgqikI6smw",
+      "channelTitle": "空山和尚",
       "latestVideo": null
     }
   ]
