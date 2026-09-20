@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T15:45:45.300+08:00",
+  "lastUpdated": "2026-09-20T15:50:45.254+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -2422,43 +2422,63 @@
     },
     {
       "videoId": "F-6x-cOekoQ",
-      "title": "《蝶戀花．驚蟄夢醒》霧月 Xiaoloulou｜雷雨驚夢，舊情成空 || 春雷驚夢, 華語古典意境歌曲, 蝶戀花, 詩歌版, 原創歌詞, 當代改寫"
+      "title": "《蝶戀花．驚蟄夢醒》霧月 Xiaoloulou｜雷雨驚夢，舊情成空 || 春雷驚夢, 華語古典意境歌曲, 蝶戀花, 詩歌版, 原創歌詞, 當代改寫",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "aoTBAk5bVcE",
-      "title": "《雨霖鈴。夜雨未歇》霧月 Xiaoloulou｜冷雨聲聲，夢斷秋心 || 雨霖鈴, 夜雨未歇, 柳永, 秋夜離愁古典歌曲, 夜雨離別詩歌,"
+      "title": "《雨霖鈴。夜雨未歇》霧月 Xiaoloulou｜冷雨聲聲，夢斷秋心 || 雨霖鈴, 夜雨未歇, 柳永, 秋夜離愁古典歌曲, 夜雨離別詩歌,",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "DE0c6_vnCtg",
-      "title": "《浣溪沙．誰念西風獨自涼》霧月 Xiaoloulou｜荒庭斷霞，孤影守殘陽 || 浣溪沙, 誰念西風獨自涼, 秋風離愁古風歌曲, 荒庭殘陽, 秋日孤寂, 現代古風詞作,"
+      "title": "《浣溪沙．誰念西風獨自涼》霧月 Xiaoloulou｜荒庭斷霞，孤影守殘陽 || 浣溪沙, 誰念西風獨自涼, 秋風離愁古風歌曲, 荒庭殘陽, 秋日孤寂, 現代古風詞作,",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "7CwQrtTZQzc",
-      "title": "《黑夜中的淚水》霧月 Xiaoloulou｜愛的沉默，淚的回答 || 愛情失落歌曲,淚水無聲回答, 黑夜孤獨歌曲, 淚水與回聲, 黑夜中哭泣的歌, 愛情詩歌, 失落之愛, 黑夜孤影,"
+      "title": "《黑夜中的淚水》霧月 Xiaoloulou｜愛的沉默，淚的回答 || 愛情失落歌曲,淚水無聲回答, 黑夜孤獨歌曲, 淚水與回聲, 黑夜中哭泣的歌, 愛情詩歌, 失落之愛, 黑夜孤影,",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "4jMcJ71kinM",
-      "title": "《大寒：二候蘭花。幽信》霧月 Xiaoloulou｜無回音的芳信，孤影自縛 || 古典詩詞歌曲, 蘭花寄情冬夜詩意歌曲, 幽香自縛無回音的情歌, 蘭花孤影"
+      "title": "《大寒：二候蘭花。幽信》霧月 Xiaoloulou｜無回音的芳信，孤影自縛 || 古典詩詞歌曲, 蘭花寄情冬夜詩意歌曲, 幽香自縛無回音的情歌, 蘭花孤影",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "72ZyuBcYkOU",
-      "title": "《無灰之風》霧月 Xiaoloulou｜灰燼不散的宿命詩"
+      "title": "《無灰之風》霧月 Xiaoloulou｜灰燼不散的宿命詩",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "orE-ye8l50Q",
-      "title": "No Ashes in the Wind – 霧月 Xiaoloulou｜Ashes Do Not Scatter, Fate Does Not Fade"
+      "title": "No Ashes in the Wind – 霧月 Xiaoloulou｜Ashes Do Not Scatter, Fate Does Not Fade",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "kjoDZKyy3uA",
-      "title": "《大寒：一候瑞香。幽生》霧月 Xiaoloulou｜冷夢將散，幽香自生 || 花信風, 瑞香, 古典音樂, 古風歌曲, 孤芳自映, 古風清冷系歌曲, 瑞香意象,"
+      "title": "《大寒：一候瑞香。幽生》霧月 Xiaoloulou｜冷夢將散，幽香自生 || 花信風, 瑞香, 古典音樂, 古風歌曲, 孤芳自映, 古風清冷系歌曲, 瑞香意象,",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "T712zvVtWpc",
-      "title": "《柔戮之南》霧月 Xiaoloulou｜酷烈與柔善的邊界 || 哥德古風歌曲, 哥德詩意歌詞, 黑暗唯美古風, 中國風哥德,  詩性哥德古風"
+      "title": "《柔戮之南》霧月 Xiaoloulou｜酷烈與柔善的邊界 || 哥德古風歌曲, 哥德詩意歌詞, 黑暗唯美古風, 中國風哥德,  詩性哥德古風",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "9hxIi5CmmKg",
-      "title": "《小寒：三候水仙。玉骨》霧月 Xiaoloulou｜孤芳清影，夢裡不可近  || 花信風, 水仙, 古典音樂, 古風歌曲, 孤芳自賞, 古風清冷系歌曲, 水仙花意象,"
+      "title": "《小寒：三候水仙。玉骨》霧月 Xiaoloulou｜孤芳清影，夢裡不可近  || 花信風, 水仙, 古典音樂, 古風歌曲, 孤芳自賞, 古風清冷系歌曲, 水仙花意象,",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "-7dYY_kgOGI",
