@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T19:30:45.327+08:00",
+  "lastUpdated": "2026-09-20T19:35:44.681+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1216,43 +1216,63 @@
     },
     {
       "videoId": "P8-ZKCMSpj4",
-      "title": "【中國風 - 薄日西山】- 夏音Natsune 💎 磁性菸嗓｜古風雅韻 Lofi | 電子弛放｜Lofi Music / 詩意療癒、靜謐慵懶 / 中國風"
+      "title": "【中國風 - 薄日西山】- 夏音Natsune 💎 磁性菸嗓｜古風雅韻 Lofi | 電子弛放｜Lofi Music / 詩意療癒、靜謐慵懶 / 中國風",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "IeFNeHfYmps",
-      "title": "【R&B Playlist - 回聲裡的溫柔 | 2025流行音樂｜午休來聽歌】- 夏音Natsune 💓 ｜EDM Piano / Amazing / 音樂欣賞"
+      "title": "【R&B Playlist - 回聲裡的溫柔 | 2025流行音樂｜午休來聽歌】- 夏音Natsune 💓 ｜EDM Piano / Amazing / 音樂欣賞",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "_UHrbWph4aA",
-      "title": "#chill #lofi #原創音樂 #music"
+      "title": "#chill #lofi #原創音樂 #music",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "JLfpmE-K26w",
-      "title": "【EDM Playlist - Wafu Liquid Bass】- Sonic Pulse 💛 Electrifying Bass｜EDM Instrumental / Uplifting"
+      "title": "【EDM Playlist - Wafu Liquid Bass】- Sonic Pulse 💛 Electrifying Bass｜EDM Instrumental / Uplifting",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "7qkoM9lTbgY",
-      "title": "2025年10月10日"
+      "title": "2025年10月10日",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "Tfi3n8T6O2E",
-      "title": "【R&B Playlist - 你在我身邊最好 | 午休來聽歌 ｜菸嗓小天后】- 夏音Natsune 💓 獨特慵懶菸嗓完美詮釋都會R&B深情與律動｜R&B Music / 溫柔沉醉"
+      "title": "【R&B Playlist - 你在我身邊最好 | 午休來聽歌 ｜菸嗓小天后】- 夏音Natsune 💓 獨特慵懶菸嗓完美詮釋都會R&B深情與律動｜R&B Music / 溫柔沉醉",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "2Z_-3pOnfNM",
-      "title": "中國風歌曲，劍走偏鋒"
+      "title": "中國風歌曲，劍走偏鋒",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "JedHfcB9BW4",
-      "title": "聽歌點相關影片～"
+      "title": "聽歌點相關影片～",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "zxsvcnuzSkQ",
-      "title": "【中國風 劍走偏鋒】古風說唱｜一聽就愛上 - sonicpulse 🖤 古風說唱與R&B的驚艷融合，獨特律動讓你一聽入魂｜節奏藍調 Music / 迷醉上癮 / 都市遊俠夜行"
+      "title": "【中國風 劍走偏鋒】古風說唱｜一聽就愛上 - sonicpulse 🖤 古風說唱與R&B的驚艷融合，獨特律動讓你一聽入魂｜節奏藍調 Music / 迷醉上癮 / 都市遊俠夜行",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "PTc-d6bl8T4",
-      "title": "2025年10月8日"
+      "title": "2025年10月8日",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "y1vQIT2ZTaw",
