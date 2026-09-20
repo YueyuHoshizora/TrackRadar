@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-20T15:50:45.254+08:00",
+  "lastUpdated": "2026-09-20T15:55:46.029+08:00",
   "latestVideo": {
     "videoId": "t2yq_M3j0TI",
     "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -2482,43 +2482,63 @@
     },
     {
       "videoId": "-7dYY_kgOGI",
-      "title": "《小寒：二候山茶。紅妍》霧月 Xiaoloulou｜紅顏如花，薄命如雪 || 花信風, 水仙, 古典音樂, 古風歌曲, 紅顏自古多薄命, 古風清冷系歌曲, 茶花意象,"
+      "title": "《小寒：二候山茶。紅妍》霧月 Xiaoloulou｜紅顏如花，薄命如雪 || 花信風, 水仙, 古典音樂, 古風歌曲, 紅顏自古多薄命, 古風清冷系歌曲, 茶花意象,",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "7GjILLrzcqA",
-      "title": "《小寒：一候梅花。疏影》霧月 Xiaoloulou｜梅影疏寒，歲月無言的相思 || 花信風, 古典音樂, 古風歌曲, 無聲相思, 古風清冷系歌曲, 梅花意象, 紅梅點雪, 疏影橫斜, 暗香浮動,"
+      "title": "《小寒：一候梅花。疏影》霧月 Xiaoloulou｜梅影疏寒，歲月無言的相思 || 花信風, 古典音樂, 古風歌曲, 無聲相思, 古風清冷系歌曲, 梅花意象, 紅梅點雪, 疏影橫斜, 暗香浮動,",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "5oYNDqg7eMI",
-      "title": "《愛情殺手》霧月 Xiaoloulou｜冰封之愛，面具之下的冷酷遊戲"
+      "title": "《愛情殺手》霧月 Xiaoloulou｜冰封之愛，面具之下的冷酷遊戲",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.32
     },
     {
       "videoId": "924DDAS_DC0",
-      "title": "《離岸》霧月 Xiaoloulou｜一場以鹽為印的告別與遠行"
+      "title": "《離岸》霧月 Xiaoloulou｜一場以鹽為印的告別與遠行",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.28
     },
     {
       "videoId": "KQkhwH4Rj9w",
-      "title": "《Depart》霧月 Xiaoloulou – A Salt for the Sea and the Road Ahead。離別曲 。鹽與海的祝福"
+      "title": "《Depart》霧月 Xiaoloulou – A Salt for the Sea and the Road Ahead。離別曲 。鹽與海的祝福",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "iJK-yVWuRo0",
-      "title": "《雲生七相》霧月 Xiaoloulou｜相遇與離散的七次無聲輪迴"
+      "title": "《雲生七相》霧月 Xiaoloulou｜相遇與離散的七次無聲輪迴",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "gE-NmoJUV5o",
-      "title": "《情之一字》霧月 Xiaoloulou｜三生三世的問與一生一世的答"
+      "title": "《情之一字》霧月 Xiaoloulou｜三生三世的問與一生一世的答",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "8Oi4WqztffQ",
-      "title": "《青梅流光》- Remake 霧月 Xiaoloulou ｜一株青梅，開落幾度，入畫無期。"
+      "title": "《青梅流光》- Remake 霧月 Xiaoloulou ｜一株青梅，開落幾度，入畫無期。",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "kdidETQvaG8",
-      "title": "《聲聲慢。冬別》— Remastered 霧月 Xiaoloulou |  滿地白雪，掩不住你「孤城雪夜，離人難續的慢詞重現」"
+      "title": "《聲聲慢。冬別》— Remastered 霧月 Xiaoloulou |  滿地白雪，掩不住你「孤城雪夜，離人難續的慢詞重現」",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "iflKcZKpE0A",
-      "title": "《溫柔的雨》霧月 Xiaoloulou ｜將憂傷卸下的擁抱"
+      "title": "《溫柔的雨》霧月 Xiaoloulou ｜將憂傷卸下的擁抱",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "Ggo0oJF7kYw",
