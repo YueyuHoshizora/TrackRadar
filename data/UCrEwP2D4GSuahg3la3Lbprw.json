@@ -1,7 +1,7 @@
 {
   "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
   "channelTitle": "弦斷誰聽",
-  "lastUpdated": "2026-09-20T14:15:42.939+08:00",
+  "lastUpdated": "2026-09-20T14:20:44.566+08:00",
   "latestVideo": {
     "videoId": "ue5nkfnzy3A",
     "title": "《我不是美人魚》聽完直接破防！原來奮不顧身換來的，只是一場虛幻夢境 ｜弦斷誰聽",
@@ -16,25 +16,25 @@
   "allVideoIds": [
     {
       "videoId": "ue5nkfnzy3A",
-      "title": "《我不是美人魚》聽完直接破防！原來奮不顧身換來的，只是一場虛幻夢境 ｜弦斷誰聽",
+      "title": "《我不是美人魚》努力游向有你的方向，卻游不進你的心……唱哭千萬單戀人 ｜弦斷誰聽",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
     {
       "videoId": "GAAHyI04NcA",
-      "title": "《如果那天我沒有放你走》以為成全比挽留溫柔，一句\"一路順風\" 了終身遺憾 ｜ 弦斷誰聽 ｜ 那年夏天的 沒說出口的喜歡  ｜ 高清 MV 版本 2026",
+      "title": "《如果那天我沒有放你走》那年夏天沒說出口的喜歡 ｜ 2026原創華語歌曲，深夜單曲循環失戀歌單，走心療癒遺憾爆款單曲 ｜弦斷誰聽  ｜ 高清 MV 版本",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "TlJ0jqnbn68",
-      "title": "《回到十八歲那天》這一次換我先說愛妳, 就不會有遺憾！ ｜弦斷誰聽 ｜ 同名小說M V｜ 2026最感心的青春校園MV",
+      "title": "《回到十八歲那天》重來一次的告白，一次不夠我重來七次，改寫遺憾純愛爆款 ｜ 弦斷誰聽 ｜ 同名小說主題曲 ｜ 2026感動人心的青春校園MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
     {
       "videoId": "D3oiH6bRShA",
-      "title": "《忘盡前塵只識君》我什麼都忘了，卻忘不了你容顏 | 萬般往事皆成殘影，唯有此念未曾蒙塵 ｜弦斷誰聽 ｜ 三世客棧 EP02 陰陽‧下篇",
+      "title": "《忘盡前塵只識君》原創華語古風爆款歌曲，深夜單曲循環走心虐心歌單，催淚必聽 ｜弦斷誰聽 ｜ 三世客棧 EP02 陰陽‧下篇",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "uREHUl99gP4",
-      "title": "《幾歲了還不會開靜音》一張票看兩場超爽der，全台圍觀，馬上改票去大遠百看｜弦斷誰聽",
+      "title": "《幾歲了還不會開靜音》硬控全場！要打去大遠百打，看電影不開靜音真人開雙打爆笑神曲 ｜弦斷誰聽",
       "genre": "嘻哈/饒舌 Hip-Hop/Rap",
       "genreConfidence": 0.3
     },
@@ -1096,43 +1096,63 @@
     },
     {
       "videoId": "12HpxWc6cF8",
-      "title": "喜歡《成何體統》這種穿越劇？你一定要聽《錯落長安》Official MV"
+      "title": "喜歡《成何體統》這種穿越劇？你一定要聽《錯落長安》Official MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "6btGZrLlkyg",
-      "title": "《退潮之前》聽完會沉下去｜2026最虐失戀情歌  Official Lyric Video｜華語原創失戀情歌"
+      "title": "《退潮之前》聽完會沉下去｜2026最虐失戀情歌  Official Lyric Video｜華語原創失戀情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "9RXEamiUNLg",
-      "title": "陪你一起吃年夜飯｜溫柔過年生活Vlog｜《想吃就吃》Official Lyric Audio｜2026最新單曲"
+      "title": "陪你一起吃年夜飯｜溫柔過年生活Vlog｜《想吃就吃》Official Lyric Audio｜2026最新單曲",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.37
     },
     {
       "videoId": "BBU57ENtxwk",
-      "title": "2026 《新年福氣來》招財納福迎新春🔥｜2026 招財新歌｜馬到成功・恭喜發財｜超洗腦新年歌｜恭喜發財 2026新年 【原創歌曲】（招財開運）"
+      "title": "2026 《新年福氣來》招財納福迎新春🔥｜2026 招財新歌｜馬到成功・恭喜發財｜超洗腦新年歌｜恭喜發財 2026新年 【原創歌曲】（招財開運）",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "doH_Ry9O_9w",
-      "title": "《風散之前》：若這相逢只是試煉，為何我始終不肯放手？仙俠虐心 MV | 妳的笑容，是我唯一不想捨棄的塵念。【原創古風】"
+      "title": "《風散之前》：若這相逢只是試煉，為何我始終不肯放手？仙俠虐心 MV | 妳的笑容，是我唯一不想捨棄的塵念。【原創古風】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Y8PHvdshuw4",
-      "title": "這麼可愛一定是受了不少氣？💔 關於那些讓人一秒冷掉的瞬間 - 白目男友 (Clueless Boyfriend)  原創歌曲電音 EDM 最新單曲【白目男友】"
+      "title": "這麼可愛一定是受了不少氣？💔 關於那些讓人一秒冷掉的瞬間 - 白目男友 (Clueless Boyfriend)  原創歌曲電音 EDM 最新單曲【白目男友】",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "y-4Z_sTF47c",
-      "title": "【警告：千萬別愛上神】我撕毀了命簿，只為做你一人的供養...《虔誠》Official MV | 她竟把愛活成了祭祀？#必聽  #古風｜Official Audio｜Lyrics Video【古風原創】"
+      "title": "【警告：千萬別愛上神】我撕毀了命簿，只為做你一人的供養...《虔誠》Official MV | 她竟把愛活成了祭祀？#必聽  #古風｜Official Audio｜Lyrics Video【古風原創】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "qJ9QbAj9yAw",
-      "title": "【空山‧紙嫁續章】陪葬：活人送行，紙人陪葬 | Official Music Video 【古風原創】【空山宇宙】#DarkAmbient"
+      "title": "【空山‧紙嫁續章】陪葬：活人送行，紙人陪葬 | Official Music Video 【古風原創】【空山宇宙】#DarkAmbient",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "xJuCIqImHnA",
-      "title": "養貓的代價💸？明明沙發都爛了，為什麼還是想親你？🥺 (獻給所有貓奴的情歌)我的百萬裝潢就這樣沒了...😭 獻給全天下崩潰的貓奴們｜#貓奴日常, #養貓心得 #橘貓 #catlife"
+      "title": "養貓的代價💸？明明沙發都爛了，為什麼還是想親你？🥺 (獻給所有貓奴的情歌)我的百萬裝潢就這樣沒了...😭 獻給全天下崩潰的貓奴們｜#貓奴日常, #養貓心得 #橘貓 #catlife",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "3LN9O9t7P_0",
-      "title": "【EMO治癒】藍色時刻 | 那些沒說出口的，都藏在風裡 | 那年，我和你的故事｜Official Audio｜Lyrics Video |【Lo-fi / 懷舊】【癒瘉女聲】"
+      "title": "【EMO治癒】藍色時刻 | 那些沒說出口的，都藏在風裡 | 那年，我和你的故事｜Official Audio｜Lyrics Video |【Lo-fi / 懷舊】【癒瘉女聲】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "NKJQJwz8LN4",
