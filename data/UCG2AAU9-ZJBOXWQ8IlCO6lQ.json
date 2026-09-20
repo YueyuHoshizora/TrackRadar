@@ -1,7 +1,7 @@
 {
   "channelId": "UCG2AAU9-ZJBOXWQ8IlCO6lQ",
   "channelTitle": "黎安Leann",
-  "lastUpdated": "2026-09-20T13:35:43.194+08:00",
+  "lastUpdated": "2026-09-20T13:40:42.157+08:00",
   "latestVideo": {
     "videoId": "zTDsW8VQKek",
     "title": "【古風音樂】《尋尋覓覓》｜那是誰的嘆息，穿透了千年孤寂？「我撕開了呼吸，忘記我自己！」",
@@ -622,43 +622,63 @@
     },
     {
       "videoId": "QoMtG5y_jlw",
-      "title": "史上最洗腦神曲：聽完就會找襪子！螃蟹煎餅無限迴圈  #極端電音"
+      "title": "史上最洗腦神曲：聽完就會找襪子！螃蟹煎餅無限迴圈  #極端電音",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "lgAwFvjFBLg",
-      "title": "4H Cyberpunk Lofi 🌃 Deep Sleep Music for Stress Relief | 雨中賽博龐克 🎧 불면증 치료 | 睡眠導入に効く音楽 | एआई शांत"
+      "title": "4H Cyberpunk Lofi 🌃 Deep Sleep Music for Stress Relief | 雨中賽博龐克 🎧 불면증 치료 | 睡眠導入に効く音楽 | एआई शांत",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "vcwTbFfuo_c",
-      "title": "🎧【作業用BGM】Lo-fi J-Pop「リラックス/放鬆」- 勉強・集中・癒し (Sweet Female Vocal)"
+      "title": "🎧【作業用BGM】Lo-fi J-Pop「リラックス/放鬆」- 勉強・集中・癒し (Sweet Female Vocal)",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "c_lYLY_nzgc",
-      "title": "🌸 甜美日系 Lo-fi J-Pop | 讀書音樂合輯 | Chill Study BGM |  Sweet Japanese  |  🌸 スウィート和風Lo-fi J-Pop | 勉強用BGM |"
+      "title": "🌸 甜美日系 Lo-fi J-Pop | 讀書音樂合輯 | Chill Study BGM |  Sweet Japanese  |  🌸 スウィート和風Lo-fi J-Pop | 勉強用BGM |",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.42
     },
     {
       "videoId": "FcaL9QpGXFk",
-      "title": "把薪水還給我！🔥 22歲台灣青年怒吼：我們不是時代的螺絲釘！"
+      "title": "把薪水還給我！🔥 22歲台灣青年怒吼：我們不是時代的螺絲釘！",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.37
     },
     {
       "videoId": "gyrjtZFNL3s",
-      "title": "Ritmo Forte 🔥 Brazilian Funk / Trap | 強勁節奏  🎧"
+      "title": "Ritmo Forte 🔥 Brazilian Funk / Trap | 強勁節奏  🎧",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "OgeEwU0sAds",
-      "title": "你也是這樣嗎？早上被床單緊緊抱住，不想面對現實..."
+      "title": "你也是這樣嗎？早上被床單緊緊抱住，不想面對現實...",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "DFDGMLhcMyw",
-      "title": "《微光》這是獻給香港的希望之歌 我不太擅長廣東話 希望能夠讓你們早日走出傷痛"
+      "title": "《微光》這是獻給香港的希望之歌 我不太擅長廣東話 希望能夠讓你們早日走出傷痛",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "pVtMfXOxF7s",
-      "title": "失控節奏 (OVERLOAD) | 諷刺電子流行舞曲 MV | 警告燈亮，快把我關掉！"
+      "title": "失控節奏 (OVERLOAD) | 諷刺電子流行舞曲 MV | 警告燈亮，快把我關掉！",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "8hy2cl2M71g",
-      "title": "《狩獵本能 (WILD INSTINCT)》| Official MV | K-POP Hard Trap"
+      "title": "《狩獵本能 (WILD INSTINCT)》| Official MV | K-POP Hard Trap",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "IVuFC-uoiZw",
