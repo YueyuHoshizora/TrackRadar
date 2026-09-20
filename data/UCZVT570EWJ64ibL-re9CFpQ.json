@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-20T19:50:43.149+08:00",
+  "lastUpdated": "2026-09-20T19:55:44.915+08:00",
   "latestVideo": {
     "videoId": "N3967C1NA2s",
     "title": "【中國風 - 無歸無回】無歸無歸　雨落成水🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -1456,43 +1456,63 @@
     },
     {
       "videoId": "FCQVVnThbAk",
-      "title": "【LOFI playlist 雨後呢喃】- 夏音Natsune 💝 雨後的溫暖呢喃，原聲吉他，懷舊氛圍彌漫｜lofi Acoustic / 寧靜療癒 / 讀書作業 / 雨天午後 / 放鬆時刻"
+      "title": "【LOFI playlist 雨後呢喃】- 夏音Natsune 💝 雨後的溫暖呢喃，原聲吉他，懷舊氛圍彌漫｜lofi Acoustic / 寧靜療癒 / 讀書作業 / 雨天午後 / 放鬆時刻",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.9
     },
     {
       "videoId": "nbtCkZ4S0Q8",
-      "title": "【LOFI playlist  雨色夜色】- 凜Rin 🎯 溫暖沉靜的Lo-Fi電子純音樂，營造復古懷舊氛圍｜lofi Instrumental / 寧靜 | 放鬆 | 夢幻 / 讀書"
+      "title": "【LOFI playlist  雨色夜色】- 凜Rin 🎯 溫暖沉靜的Lo-Fi電子純音樂，營造復古懷舊氛圍｜lofi Instrumental / 寧靜 | 放鬆 | 夢幻 / 讀書",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "bX_5j-jij_g",
-      "title": "【星夜狂想曲】- Kira 🎶 純粹原聲演繹，溫柔詮釋星夜的浪漫與奇想｜Acoustic Version / 寧靜、療癒、夢幻 / 星空下、睡前冥想、咖啡館時光"
+      "title": "【星夜狂想曲】- Kira 🎶 純粹原聲演繹，溫柔詮釋星夜的浪漫與奇想｜Acoustic Version / 寧靜、療癒、夢幻 / 星空下、睡前冥想、咖啡館時光",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "-FNqEEqnthM",
-      "title": "【LOFI playlist 漫步晨曦前】- 夏音Natsune 🧡 菸嗓小天后｜lofi Acoustic / Amazing / 音樂欣賞"
+      "title": "【LOFI playlist 漫步晨曦前】- 夏音Natsune 🧡 菸嗓小天后｜lofi Acoustic / Amazing / 音樂欣賞",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "HKp54BA8SdQ",
-      "title": "【LOFI playlist  長時間純音樂3】- 凜 Rin 🎨 沉浸在復古溫暖的Lo-Fi純器樂中，感受東方古風雅韻與古典禪意｜lofi Instrumental / 心靈療癒、放鬆專注 /"
+      "title": "【LOFI playlist  長時間純音樂3】- 凜 Rin 🎨 沉浸在復古溫暖的Lo-Fi純器樂中，感受東方古風雅韻與古典禪意｜lofi Instrumental / 心靈療癒、放鬆專注 /",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "QRonwql1qIs",
-      "title": "【夏の残像】- Kira 💙 捕捉夏日餘暉的美麗聲響，將日系流行與原聲風格溫暖融合，帶來靜謐而動人的聽覺享受｜jpop Acoustic / 溫暖治癒、靜謐動人 / 適合夏日午後、放鬆沉思、溫馨時刻"
+      "title": "【夏の残像】- Kira 💙 捕捉夏日餘暉的美麗聲響，將日系流行與原聲風格溫暖融合，帶來靜謐而動人的聽覺享受｜jpop Acoustic / 溫暖治癒、靜謐動人 / 適合夏日午後、放鬆沉思、溫馨時刻",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "TLm4thGCNXc",
-      "title": "【LOFI playlist 夜行未央】- 夏音Natsune 🎨 磁性菸嗓的深夜低語，融入復古Lo-Fi與迷幻電子，營造獨特夜行氛圍｜Smoky Lo-Fi Electronic Music /"
+      "title": "【LOFI playlist 夜行未央】- 夏音Natsune 🎨 磁性菸嗓的深夜低語，融入復古Lo-Fi與迷幻電子，營造獨特夜行氛圍｜Smoky Lo-Fi Electronic Music /",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "0Bp4vXLozKU",
-      "title": "【LOFI playlist 長時間純音樂系列2】- 凜Rin 🎤 東方Lofi電子Chill | 沉浸式古風科技氛圍樂 / lofi Instrumental / 靜心冥想 / 溫暖療癒 /"
+      "title": "【LOFI playlist 長時間純音樂系列2】- 凜Rin 🎤 東方Lofi電子Chill | 沉浸式古風科技氛圍樂 / lofi Instrumental / 靜心冥想 / 溫暖療癒 /",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "z6XFi6Ov1Ac",
-      "title": "【working out playlist 史詩三味線戰鬥音樂- 音樂脈動-Sonic Pulse 🎶 史詩純器樂交響｜Instrumental Music / Boss戰、電影配樂、專注工作BGM"
+      "title": "【working out playlist 史詩三味線戰鬥音樂- 音樂脈動-Sonic Pulse 🎶 史詩純器樂交響｜Instrumental Music / Boss戰、電影配樂、專注工作BGM",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "3PorOXTUvPQ",
-      "title": "【LOFI playlist 悟空迷心】- 夏音Natsune 🖤 迷心入塵緣，悟空與白骨精宿命愛戀的古風悲歌｜中國風 Lofi Pop / Electronic / 宿命悲情、掙扎與遺憾 /"
+      "title": "【LOFI playlist 悟空迷心】- 夏音Natsune 🖤 迷心入塵緣，悟空與白骨精宿命愛戀的古風悲歌｜中國風 Lofi Pop / Electronic / 宿命悲情、掙扎與遺憾 /",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "hxdq53rRZ0s",
