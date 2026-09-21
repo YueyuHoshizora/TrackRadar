@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T17:16:36.974+08:00",
+  "updatedAt": "2026-09-21T17:21:39.744+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "_qo3tNhFo7I",
-        "title": "《明日邊界2147》平凡的一天｜AN ORDINARY DAY — 新加坡2147 世界氛圍音樂｜Singapore 2147 World Ambience",
-        "url": "https://www.youtube.com/watch?v=_qo3tNhFo7I",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_qo3tNhFo7I/maxresdefault.webp",
-        "durationSeconds": 264,
-        "publishedAt": "2026-08-22T01:00:13.000+08:00",
-        "fetchedAt": "2026-09-21T17:16:00.916+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.83
+        "videoId": "qGc_gkTS0KY",
+        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
+        "durationSeconds": 253,
+        "publishedAt": "2026-09-15T18:32:58.000+08:00",
+        "fetchedAt": "2026-09-21T17:20:43.490+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.34
       }
     },
     {
@@ -410,15 +410,15 @@
       "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
       "channelTitle": "九黎月",
       "latestVideo": {
-        "videoId": "mRGBTFuVfU8",
-        "title": "【中國風 - 愛已成灰】或許是緣分不對 或許是我學不會🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=mRGBTFuVfU8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/mRGBTFuVfU8/maxresdefault.webp",
-        "durationSeconds": 227,
-        "publishedAt": "2026-08-28T17:00:03.000+08:00",
-        "fetchedAt": "2026-09-21T17:06:24.588+08:00",
+        "videoId": "mf7LkSX2slo",
+        "title": "【中國風 - 女媧】捏眉目捏四肢 捏出七情六慾的牽掛 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=mf7LkSX2slo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/mf7LkSX2slo/maxresdefault.webp",
+        "durationSeconds": 160,
+        "publishedAt": "2026-09-10T17:00:36.000+08:00",
+        "fetchedAt": "2026-09-21T17:21:19.052+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.53
+        "genreConfidence": 0.57
       }
     }
   ]
