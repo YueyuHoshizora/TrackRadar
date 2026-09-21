@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T17:55:56.157+08:00",
+  "updatedAt": "2026-09-21T18:01:16.999+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -33,7 +33,7 @@
     },
     {
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
-      "channelTitle": "COYA可夜",
+      "channelTitle": "COYA",
       "latestVideo": {
         "videoId": "k0zf1ZphcfY",
         "title": "「從鬼門開，到鬼門關。」🕯️｜《神鬼誌》｜可夜｜新國風MV合輯｜40分鐘完整收錄｜Official MV｜神鬼誌系列｜",
@@ -80,30 +80,30 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "V0Oeq0kcOfE",
-        "title": "《九尾狐》｜山海經中的九尾妖狐，被人類追殺後卻回頭救了全村【超燃國風電音・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=V0Oeq0kcOfE",
-        "thumbnail": "https://i.ytimg.com/vi_webp/V0Oeq0kcOfE/maxresdefault.webp",
-        "durationSeconds": 262,
-        "publishedAt": "2026-09-09T18:00:10.000+08:00",
-        "fetchedAt": "2026-09-21T17:45:58.966+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.83
+        "videoId": "gkdhSc_lPDo",
+        "title": "《妲己 × 姜王后》｜從她進宮那一天起，我就不再是你的唯一【虐心情歌・封神・Official MV】",
+        "url": "https://www.youtube.com/watch?v=gkdhSc_lPDo",
+        "thumbnail": "https://i.ytimg.com/vi/gkdhSc_lPDo/maxresdefault.jpg",
+        "durationSeconds": 282,
+        "publishedAt": "2026-09-12T22:41:11.000+08:00",
+        "fetchedAt": "2026-09-21T18:01:13.324+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.5
       }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "XnLNBPgERI4",
-        "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
-        "url": "https://www.youtube.com/watch?v=XnLNBPgERI4",
-        "thumbnail": "https://i.ytimg.com/vi_webp/XnLNBPgERI4/maxresdefault.webp",
-        "durationSeconds": 206,
-        "publishedAt": "2026-08-20T06:19:21.000+08:00",
-        "fetchedAt": "2026-09-21T17:50:57.455+08:00",
+        "videoId": "E8PK1SITqeg",
+        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+        "durationSeconds": 255,
+        "publishedAt": "2026-09-12T04:57:52.000+08:00",
+        "fetchedAt": "2026-09-21T18:00:52.454+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.99
+        "genreConfidence": 1
       }
     },
     {
