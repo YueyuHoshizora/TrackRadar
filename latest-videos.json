@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T18:31:38.168+08:00",
+  "updatedAt": "2026-09-21T18:36:03.806+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,30 +80,30 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "M-z4TJ7mCpQ",
-        "title": "《月老》｜她替所有人牽紅線，結果自己先被牽走了【國風歌曲・月老紅線・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=M-z4TJ7mCpQ",
-        "thumbnail": "https://i.ytimg.com/vi/M-z4TJ7mCpQ/maxresdefault.jpg",
-        "durationSeconds": 243,
-        "publishedAt": "2026-09-19T16:54:34.000+08:00",
-        "fetchedAt": "2026-09-21T18:20:37.501+08:00",
+        "videoId": "Top7T6uaMkc",
+        "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
+        "url": "https://www.youtube.com/watch?v=Top7T6uaMkc",
+        "thumbnail": "https://i.ytimg.com/vi/Top7T6uaMkc/maxresdefault.jpg",
+        "durationSeconds": 254,
+        "publishedAt": "2026-09-16T20:11:33.000+08:00",
+        "fetchedAt": "2026-09-21T18:35:34.478+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 0.48
       }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "XnLNBPgERI4",
-        "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
-        "url": "https://www.youtube.com/watch?v=XnLNBPgERI4",
-        "thumbnail": "https://i.ytimg.com/vi_webp/XnLNBPgERI4/maxresdefault.webp",
-        "durationSeconds": 206,
-        "publishedAt": "2026-08-20T06:19:21.000+08:00",
-        "fetchedAt": "2026-09-21T18:31:24.536+08:00",
+        "videoId": "E8PK1SITqeg",
+        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+        "durationSeconds": 255,
+        "publishedAt": "2026-09-12T04:57:52.000+08:00",
+        "fetchedAt": "2026-09-21T18:35:44.146+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.99
+        "genreConfidence": 1
       }
     },
     {
@@ -260,15 +260,15 @@
       "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
       "channelTitle": "DJ - Lumina",
       "latestVideo": {
-        "videoId": "P44B7pD61Ko",
-        "title": "Between the Streetlights",
-        "url": "https://www.youtube.com/watch?v=P44B7pD61Ko",
-        "thumbnail": "https://i.ytimg.com/vi/P44B7pD61Ko/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCYgRCh_MA8=&rs=AOn4CLDsvi4PWUOW0eaShIJ65yO3lEnRaA",
-        "durationSeconds": 360,
-        "publishedAt": "2026-09-12T08:55:51.000+08:00",
-        "fetchedAt": "2026-09-19T11:17:46.079+08:00",
+        "videoId": "QwFvbI45_EE",
+        "title": "2 1、Unbreakable Rep",
+        "url": "https://www.youtube.com/watch?v=QwFvbI45_EE",
+        "thumbnail": "https://i.ytimg.com/vi/QwFvbI45_EE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACuAiKAgwIABABGH8gJCgTMA8=&rs=AOn4CLCFilrwziNcDvS-hw2hmE8XXDSk_w",
+        "durationSeconds": 179,
+        "publishedAt": "2026-09-21T18:31:08.000+08:00",
+        "fetchedAt": "2026-09-21T18:35:52.555+08:00",
         "genre": "電子 Electronic",
-        "genreConfidence": 0.99
+        "genreConfidence": 0.91
       }
     },
     {
@@ -335,15 +335,15 @@
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
       "latestVideo": {
-        "videoId": "TlJ0jqnbn68",
-        "title": "《回到十八歲那天》重來一次的告白，一次不夠我重來七次，改寫遺憾純愛爆款 ｜ 弦斷誰聽 ｜ 同名小說主題曲 ｜ 2026感動人心的青春校園MV",
-        "url": "https://www.youtube.com/watch?v=TlJ0jqnbn68",
-        "thumbnail": "https://i.ytimg.com/vi_webp/TlJ0jqnbn68/maxresdefault.webp",
-        "durationSeconds": 342,
-        "publishedAt": "2026-09-12T18:30:20.000+08:00",
-        "fetchedAt": "2026-09-21T18:31:28.941+08:00",
+        "videoId": "OKsXq4WU1K0",
+        "title": "《薛丁格的愛情》不敢追問的愛最致命！不說結束也不說開始，破防虐心華語新歌 ｜弦斷誰聽",
+        "url": "https://www.youtube.com/watch?v=OKsXq4WU1K0",
+        "thumbnail": "https://i.ytimg.com/vi_webp/OKsXq4WU1K0/maxresdefault.webp",
+        "durationSeconds": 217,
+        "publishedAt": "2026-09-21T18:30:02.000+08:00",
+        "fetchedAt": "2026-09-21T18:35:47.588+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.94
+        "genreConfidence": 0.98
       }
     },
     {
