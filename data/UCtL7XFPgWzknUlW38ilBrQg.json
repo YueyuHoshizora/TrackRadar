@@ -1,25 +1,19 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-21T12:10:43.548+08:00",
+  "lastUpdated": "2026-09-21T12:15:43.273+08:00",
   "latestVideo": {
-    "videoId": "Z1y3IyTZvjI",
-    "title": "《玫紅色的我們》Rose Red｜《未曾抵達的我們》前傳｜原創愛情微電影｜霧月 Xiaoloulou｜GL｜百合雙女主",
-    "url": "https://www.youtube.com/watch?v=Z1y3IyTZvjI",
-    "thumbnail": "https://i.ytimg.com/vi_webp/Z1y3IyTZvjI/maxresdefault.webp?v=6aafe916",
-    "durationSeconds": 505,
-    "publishedAt": "2026-09-21T12:00:08.000+08:00",
-    "fetchedAt": "2026-09-21T12:10:39.331+08:00",
-    "genre": "其他/無法判斷 Other",
-    "genreConfidence": 0.67
+    "videoId": "t2yq_M3j0TI",
+    "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+    "url": "https://www.youtube.com/watch?v=t2yq_M3j0TI",
+    "thumbnail": "https://i.ytimg.com/vi_webp/t2yq_M3j0TI/maxresdefault.webp?v=6aad5191",
+    "durationSeconds": 228,
+    "publishedAt": "2026-09-19T12:00:06.000+08:00",
+    "fetchedAt": "2026-09-21T12:15:39.079+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 1
   },
   "allVideoIds": [
-    {
-      "videoId": "Z1y3IyTZvjI",
-      "title": "《玫紅色的我們》Rose Red｜《未曾抵達的我們》前傳｜原創愛情微電影｜霧月 Xiaoloulou｜GL｜百合雙女主",
-      "genre": "其他/無法判斷 Other",
-      "genreConfidence": 0.55
-    },
     {
       "videoId": "Xcu1lISisgI",
       "title": "晚安。悲傷的大提琴，陪你把夜熬完｜讀書・睡眠・失眠・一個人的深夜 BGM｜Sad Cello & Piano｜霧月 Xiaoloulou",
@@ -28,7 +22,7 @@
     },
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "隔著一面鏡，等了千年《隔鏡相望》｜千年輪迴，卿名無人喚｜前世今生・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
