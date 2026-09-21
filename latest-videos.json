@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T19:01:17.644+08:00",
+  "updatedAt": "2026-09-21T19:06:05.506+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,28 +80,28 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "V0Oeq0kcOfE",
-        "title": "《九尾狐》｜山海經中的九尾妖狐，被人類追殺後卻回頭救了全村【超燃國風電音・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=V0Oeq0kcOfE",
-        "thumbnail": "https://i.ytimg.com/vi_webp/V0Oeq0kcOfE/maxresdefault.webp",
-        "durationSeconds": 262,
-        "publishedAt": "2026-09-09T18:00:10.000+08:00",
-        "fetchedAt": "2026-09-21T19:01:15.586+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.81
+        "videoId": "gkdhSc_lPDo",
+        "title": "《妲己 × 姜王后》｜從她進宮那一天起，我就不再是你的唯一【虐心情歌・封神・Official MV】",
+        "url": "https://www.youtube.com/watch?v=gkdhSc_lPDo",
+        "thumbnail": "https://i.ytimg.com/vi/gkdhSc_lPDo/maxresdefault.jpg",
+        "durationSeconds": 282,
+        "publishedAt": "2026-09-12T22:41:11.000+08:00",
+        "fetchedAt": "2026-09-21T19:06:03.732+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.51
       }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "w9OStc48niU",
-        "title": "2026催淚情歌《別走了》「把我的心帶走，你叫我怎麼活呢」Official MV",
-        "url": "https://www.youtube.com/watch?v=w9OStc48niU",
-        "thumbnail": "https://i.ytimg.com/vi_webp/w9OStc48niU/maxresdefault.webp",
-        "durationSeconds": 262,
-        "publishedAt": "2026-08-24T04:26:35.000+08:00",
-        "fetchedAt": "2026-09-21T19:00:53.516+08:00",
+        "videoId": "E8PK1SITqeg",
+        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+        "durationSeconds": 255,
+        "publishedAt": "2026-09-12T04:57:52.000+08:00",
+        "fetchedAt": "2026-09-21T19:05:42.159+08:00",
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 1
       }
