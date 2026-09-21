@@ -1,7 +1,7 @@
 {
   "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
   "channelTitle": "Breathe And Be",
-  "lastUpdated": "2026-09-19T14:25:32.152+08:00",
+  "lastUpdated": "2026-09-21T08:00:46.344+08:00",
   "latestVideo": {
     "videoId": "_rUbmQcvdxQ",
     "title": "我選了愛我的人，卻不是那個我愛的人｜還是會想你，但不會再等你｜華語情歌【動態歌詞】",
@@ -14,6 +14,12 @@
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "yjMA-uG_DLw",
+      "title": "【中文 Pop playlist】隨手點開🎧結果一首比一首更對味⋆｡°✩ 🖤｜Mandarin POP × R&B｜工作・開車・通勤・放空 BGM｜《失重漫遊》",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.8
+    },
     {
       "videoId": "_rUbmQcvdxQ",
       "title": "我選了愛我的人，卻不是那個我愛的人｜還是會想你，但不會再等你｜華語情歌【動態歌詞】",
