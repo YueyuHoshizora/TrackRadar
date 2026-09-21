@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T00:35:50.904+08:00",
+  "updatedAt": "2026-09-22T00:41:03.674+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -395,15 +395,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "_2jV7hVxrz8",
-        "title": "《玫紅色的我們》Rose Red｜《未曾抵達的我們》前傳｜原創愛情微電影｜霧月 Xiaoloulou｜GL｜百合雙女主",
-        "url": "https://www.youtube.com/watch?v=_2jV7hVxrz8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_2jV7hVxrz8/maxresdefault.webp?v=6ab0d1e4",
-        "durationSeconds": 516,
-        "publishedAt": "2026-09-21T15:00:10.000+08:00",
-        "fetchedAt": "2026-09-22T00:20:48.349+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.65
+        "videoId": "jGTPT5nvpqo",
+        "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+        "url": "https://www.youtube.com/watch?v=jGTPT5nvpqo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/jGTPT5nvpqo/maxresdefault.webp?v=6aa80d29",
+        "durationSeconds": 264,
+        "publishedAt": "2026-09-16T12:00:06.000+08:00",
+        "fetchedAt": "2026-09-22T00:40:56.955+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.99
       }
     },
     {
