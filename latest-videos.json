@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-22T05:25:41.524+08:00",
+  "updatedAt": "2026-09-22T05:30:40.470+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "icHNbNwsNNs",
-        "title": "城市把路留下，卻沒有要誰停在原地｜城市把路留下｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=icHNbNwsNNs",
-        "thumbnail": "https://i.ytimg.com/vi/icHNbNwsNNs/maxresdefault.jpg",
-        "durationSeconds": 268,
-        "publishedAt": "2026-09-21T17:30:28.000+08:00",
-        "fetchedAt": "2026-09-21T17:35:28.232+08:00",
+        "videoId": "Vnmwxf1mCIY",
+        "title": "故事沒有結局，只是輪到明天繼續寫｜未完待續｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=Vnmwxf1mCIY",
+        "thumbnail": "https://i.ytimg.com/vi/Vnmwxf1mCIY/maxresdefault.jpg",
+        "durationSeconds": 188,
+        "publishedAt": "2026-09-22T05:30:12.000+08:00",
+        "fetchedAt": "2026-09-22T05:30:28.168+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.57
+        "genreConfidence": 0.68
       }
     },
     {
