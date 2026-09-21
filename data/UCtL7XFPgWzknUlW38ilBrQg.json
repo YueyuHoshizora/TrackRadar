@@ -1,17 +1,17 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-21T23:30:44.884+08:00",
+  "lastUpdated": "2026-09-21T23:40:52.043+08:00",
   "latestVideo": {
-    "videoId": "O8HorIg12xA",
-    "title": "《未曾抵達的我們》｜原創愛情音樂微電影｜百合 GL｜霧月 Xiaoloulou",
-    "url": "https://www.youtube.com/watch?v=O8HorIg12xA",
-    "thumbnail": "https://i.ytimg.com/vi_webp/O8HorIg12xA/maxresdefault.webp?v=6aaab2bf",
-    "durationSeconds": 645,
-    "publishedAt": "2026-09-14T12:00:06.000+08:00",
-    "fetchedAt": "2026-09-21T22:25:52.131+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.69
+    "videoId": "_2jV7hVxrz8",
+    "title": "《玫紅色的我們》Rose Red｜《未曾抵達的我們》前傳｜原創愛情微電影｜霧月 Xiaoloulou｜GL｜百合雙女主",
+    "url": "https://www.youtube.com/watch?v=_2jV7hVxrz8",
+    "thumbnail": "https://i.ytimg.com/vi_webp/_2jV7hVxrz8/maxresdefault.webp?v=6ab0d1e4",
+    "durationSeconds": 516,
+    "publishedAt": "2026-09-21T15:00:10.000+08:00",
+    "fetchedAt": "2026-09-21T23:40:49.040+08:00",
+    "genre": "其他/無法判斷 Other",
+    "genreConfidence": 0.57
   },
   "allVideoIds": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "jGTPT5nvpqo",
-      "title": "我走出門，屋裡的我還在說《說得不像我》｜你們卻看著彼此，說起我｜被孤立的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "PBn-CJQvG6w",
-      "title": "你走了，我的房間一樣都沒動《霓虹裡的失城者》｜房間擺設固執著原狀，刻意半掩那扇門的窗｜放不下一個人・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+      "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "SNV1PsuGJKE",
-      "title": "燈亮著，卻不是為我亮的《風也來，雨也來》｜淚落有誰揩｜思念一個人・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "情深到最後，只剩一把骨頭《風也來，雨也來》｜情深枯成骨，不負人卻寒｜愛而不得・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
