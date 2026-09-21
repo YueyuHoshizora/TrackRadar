@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T00:10:52.067+08:00",
+  "updatedAt": "2026-09-22T00:16:05.895+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,28 +80,28 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "M-z4TJ7mCpQ",
-        "title": "《月老》｜她替所有人牽紅線，結果自己先被牽走了【國風歌曲・月老紅線・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=M-z4TJ7mCpQ",
-        "thumbnail": "https://i.ytimg.com/vi/M-z4TJ7mCpQ/maxresdefault.jpg",
-        "durationSeconds": 243,
-        "publishedAt": "2026-09-19T16:54:34.000+08:00",
-        "fetchedAt": "2026-09-21T21:45:37.435+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "gkdhSc_lPDo",
+        "title": "《妲己 × 姜王后》｜從她進宮那一天起，我就不再是你的唯一【虐心情歌・封神・Official MV】",
+        "url": "https://www.youtube.com/watch?v=gkdhSc_lPDo",
+        "thumbnail": "https://i.ytimg.com/vi/gkdhSc_lPDo/maxresdefault.jpg",
+        "durationSeconds": 282,
+        "publishedAt": "2026-09-12T22:41:11.000+08:00",
+        "fetchedAt": "2026-09-22T00:15:47.841+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.53
       }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "w9OStc48niU",
-        "title": "2026催淚情歌《別走了》「把我的心帶走，你叫我怎麼活呢」Official MV",
-        "url": "https://www.youtube.com/watch?v=w9OStc48niU",
-        "thumbnail": "https://i.ytimg.com/vi_webp/w9OStc48niU/maxresdefault.webp",
-        "durationSeconds": 262,
-        "publishedAt": "2026-08-24T04:26:35.000+08:00",
-        "fetchedAt": "2026-09-22T00:10:43.900+08:00",
+        "videoId": "E8PK1SITqeg",
+        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+        "durationSeconds": 255,
+        "publishedAt": "2026-09-12T04:57:52.000+08:00",
+        "fetchedAt": "2026-09-22T00:15:38.844+08:00",
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 1
       }
@@ -395,15 +395,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "_2jV7hVxrz8",
-        "title": "《玫紅色的我們》Rose Red｜《未曾抵達的我們》前傳｜原創愛情微電影｜霧月 Xiaoloulou｜GL｜百合雙女主",
-        "url": "https://www.youtube.com/watch?v=_2jV7hVxrz8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_2jV7hVxrz8/maxresdefault.webp?v=6ab0d1e4",
-        "durationSeconds": 516,
-        "publishedAt": "2026-09-21T15:00:10.000+08:00",
-        "fetchedAt": "2026-09-21T23:40:49.040+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.57
+        "videoId": "t2yq_M3j0TI",
+        "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=t2yq_M3j0TI",
+        "thumbnail": "https://i.ytimg.com/vi_webp/t2yq_M3j0TI/maxresdefault.webp?v=6aad5191",
+        "durationSeconds": 228,
+        "publishedAt": "2026-09-19T12:00:06.000+08:00",
+        "fetchedAt": "2026-09-22T00:15:59.152+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
