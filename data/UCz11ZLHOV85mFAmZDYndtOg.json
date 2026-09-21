@@ -1,19 +1,31 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-21T18:36:01.670+08:00",
+  "lastUpdated": "2026-09-21T18:40:41.926+08:00",
   "latestVideo": {
-    "videoId": "QwFvbI45_EE",
-    "title": "2 1、Unbreakable Rep",
-    "url": "https://www.youtube.com/watch?v=QwFvbI45_EE",
-    "thumbnail": "https://i.ytimg.com/vi/QwFvbI45_EE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACuAiKAgwIABABGH8gJCgTMA8=&rs=AOn4CLCFilrwziNcDvS-hw2hmE8XXDSk_w",
-    "durationSeconds": 179,
-    "publishedAt": "2026-09-21T18:31:08.000+08:00",
-    "fetchedAt": "2026-09-21T18:35:52.555+08:00",
+    "videoId": "Ry1DMm5OUwo",
+    "title": "4 0、BEAST MODE",
+    "url": "https://www.youtube.com/watch?v=Ry1DMm5OUwo",
+    "thumbnail": "https://i.ytimg.com/vi/Ry1DMm5OUwo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACuAiKAgwIABABGH8gKigTMA8=&rs=AOn4CLCD_VGo0VqhoanrsMOu9JzH-H8MHQ",
+    "durationSeconds": 176,
+    "publishedAt": "2026-09-21T18:31:22.000+08:00",
+    "fetchedAt": "2026-09-21T18:40:40.200+08:00",
     "genre": "電子 Electronic",
-    "genreConfidence": 0.91
+    "genreConfidence": 0.98
   },
   "allVideoIds": [
+    {
+      "videoId": "Ry1DMm5OUwo",
+      "title": "4 0、BEAST MODE",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.98
+    },
+    {
+      "videoId": "QwFvbI45_EE",
+      "title": "2 1、Unbreakable Rep",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.9
+    },
     {
       "videoId": "P44B7pD61Ko",
       "title": "Between the Streetlights",
