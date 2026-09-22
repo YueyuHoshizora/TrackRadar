@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T12:15:48.074+08:00",
+  "updatedAt": "2026-09-22T12:20:46.084+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -155,15 +155,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "fFY_wFOeeiE",
-        "title": "🎤 台語大帝國《情飲袂退》(90s台語演歌)｜男女對唱｜明知影咱已經分開，心內彼個位猶原留予你｜筠芙得利【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=fFY_wFOeeiE",
-        "thumbnail": "https://i.ytimg.com/vi_webp/fFY_wFOeeiE/maxresdefault.webp",
-        "durationSeconds": 227,
-        "publishedAt": "2026-09-19T11:21:17.000+08:00",
-        "fetchedAt": "2026-09-19T13:05:37.414+08:00",
+        "videoId": "hnxK9kwd3Xk",
+        "title": "🍺 台語大帝國《空杯醉袂過》(90s台語懷舊演歌)｜男女對唱｜四首台語酒歌，竟然能接成一首？｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=hnxK9kwd3Xk",
+        "thumbnail": "https://i.ytimg.com/vi_webp/hnxK9kwd3Xk/maxresdefault.webp",
+        "durationSeconds": 240,
+        "publishedAt": "2026-09-22T10:01:37.000+08:00",
+        "fetchedAt": "2026-09-22T12:20:33.163+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.98
+        "genreConfidence": 0.45
       }
     },
     {
