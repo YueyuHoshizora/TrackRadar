@@ -1,0 +1,372 @@
+{
+  "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
+  "channelTitle": "璃煙",
+  "lastUpdated": "2026-09-22T17:15:25.979+08:00",
+  "latestVideo": {
+    "videoId": "LoxbrVMv3Ng",
+    "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
+    "url": "https://www.youtube.com/watch?v=LoxbrVMv3Ng",
+    "thumbnail": "https://i.ytimg.com/vi/LoxbrVMv3Ng/maxresdefault.jpg",
+    "durationSeconds": 131,
+    "publishedAt": "2026-09-18T11:23:31.000+08:00",
+    "fetchedAt": "2026-09-22T17:15:22.801+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 1
+  },
+  "allVideoIds": [
+    {
+      "videoId": "LoxbrVMv3Ng",
+      "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
+    },
+    {
+      "videoId": "yDpsrvz_D8k",
+      "title": "《藏紅妝》番外七夕篇：人間共朝夕丨【PixAI 第一屆動畫創作大賽】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.53
+    },
+    {
+      "videoId": "LTxtdHUF3B0",
+      "title": "《藏紅妝》11–15集合集｜明知不該靠近，卻抱緊了她｜古裝百合短劇",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.85
+    },
+    {
+      "videoId": "jno6srECLsA",
+      "title": "《藏紅妝》6–10集合集｜她奉命接近貴妃，卻一步步陷進宮廷殺局｜古裝百合短劇",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.71
+    },
+    {
+      "videoId": "eHwRPdBz3ts",
+      "title": "《藏紅妝》1–5集合集｜明知彼此都在偽裝，卻還是動了心｜古裝百合短劇",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.81
+    },
+    {
+      "videoId": "kOSR4ATY53c",
+      "title": "🏆壓制韓國勇奪總冠軍！首屆龍虎全球賽戰歌《向世界宣戰》MV🔥【三國志戰略版】",
+      "genre": "遊戲音樂 Game Music",
+      "genreConfidence": 0.88
+    },
+    {
+      "videoId": "cPUt2Dey2SM",
+      "title": "【冥蓮安魂渡】十方孤魂莫戀人間｜敦煌天女 × 絲路融合 × 磅礴梵音",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
+    },
+    {
+      "videoId": "fFfi64tRv6s",
+      "title": "雨夜之後，妳還在",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.67
+    },
+    {
+      "videoId": "otdup5p2voE",
+      "title": "雨停了，而妳還在《雨夜》R&B原創情歌",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
+    },
+    {
+      "videoId": "n-cOTMxF8YY",
+      "title": "我問妳若這一切都是夢呢《一拜斷夢》妳笑著說那便不要醒｜ R&B 原創古風曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.77
+    },
+    {
+      "videoId": "ENbpVeXNtNQ",
+      "title": "七夕番外，徵羽被套路告白了🤣🍬 #directoronoii #oiioiiai #aianimation #藏紅妝",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.71
+    },
+    {
+      "videoId": "Kb2KrZt1hao",
+      "title": "一夢一瞬，許你一生《一拜斷夢》原創古風歌曲"
+    },
+    {
+      "videoId": "i4u7ELj66Hg",
+      "title": "不是突然離開，是你早已越過底線《巨蟹退到殼裡》原創音樂｜十二星光圖鑑 × 凌之夢"
+    },
+    {
+      "videoId": "DVxQls_kHiw",
+      "title": "古風原創歌曲《子非魚，何以量我》你又不是我，為何勸我放下？"
+    },
+    {
+      "videoId": "JABXJnZ0Rtg",
+      "title": "東方古風熱血原創曲《風華町》今夜不醉，永遠不歸丨音樂可視化版本"
+    },
+    {
+      "videoId": "Z3FKN9Z4-94",
+      "title": "留下來喝酒！今夜不醉，永遠不歸《風華町》東方搖滾原創曲"
+    },
+    {
+      "videoId": "--7vsw_JMxU",
+      "title": "不求此曲撼諸天，只願梵音滿人間《金曜弦音》敦煌天女 × 絲路融合 × 療癒音樂"
+    },
+    {
+      "videoId": "rPdrREvNfs4",
+      "title": "她奉命設下美人計，最後卻愛上呂布｜《鳳儀亭》三國古風原創曲"
+    },
+    {
+      "videoId": "5gwY4RDnS9k",
+      "title": "你還記得，誰的名字？《墨染狂瀾》🎧璃煙｜古風搖滾×中文原創【九狐殿抽籤第25籤・狐仙解籤】Official Lyric Video"
+    },
+    {
+      "videoId": "ra1cWYdEkPc",
+      "title": "原來，你不會來找我了！《剎那芳華》J-Rock × 和風搖滾 × 原創音樂"
+    },
+    {
+      "videoId": "28jBZOh8oMo",
+      "title": "【木曜孔雀】聖羽一箭破妖鷹｜敦煌天女 × 絲路融合 × 磅礴梵音"
+    },
+    {
+      "videoId": "BY13rqqVlMk",
+      "title": "【臥龍天命】天命兮難違，歸去兮無期｜諸葛亮一生的本心叩問｜Gufeng Music"
+    },
+    {
+      "videoId": "8XWMpvsZKQ0",
+      "title": "你看見了！我原來的顏色《枯葉蝶的勇氣》深夜療癒情歌"
+    },
+    {
+      "videoId": "hYu5FOikG-4",
+      "title": "【三國志戰略版｜英雄命世】原創史詩戰歌🎧誰與我共擔天下 Epic Battle Music"
+    },
+    {
+      "videoId": "VgB9Ljjt32A",
+      "title": "一場戲，唱盡相逢與別離《梨園雙生契》戲曲元素原創歌曲"
+    },
+    {
+      "videoId": "FhE3w8XKnU0",
+      "title": "宿命給的餘生，換我為妳重來《餘生續命》璃煙 × 頌心意｜古風原創曲・藏紅妝最終章"
+    },
+    {
+      "videoId": "ebNn4-IFG5o",
+      "title": "手握斷刃，一世只為護妳《徵羽斷刃》｜璃煙 × 頌心意｜古風原創曲・藏紅妝第五章"
+    },
+    {
+      "videoId": "jUBV-D4RiOk",
+      "title": "你我皆是局中的藏紅妝《為你折燈》璃煙 × 頌心意｜古風原創曲・藏紅妝第三章"
+    },
+    {
+      "videoId": "TjhlPHNu3UM",
+      "title": "明知彼此都在偽裝，卻還是動了心《徵羽入宮》璃煙 × 頌心意｜藏紅妝第一章"
+    },
+    {
+      "videoId": "nOy975bLZ4A",
+      "title": "【白居易 × 元稹】請借我一夜清夢，只為再見他一面｜君若再夢・夢微之｜古風原創曲・高音質 Lyric Video"
+    },
+    {
+      "videoId": "3jFuPgVa97E",
+      "title": "【白居易 × 元稹】君埋泉下，我寄人間雪滿頭｜再夢君生・夢微之｜古風原創曲・高音質 Lyric Video"
+    },
+    {
+      "videoId": "Lt9KDM_laYY",
+      "title": "【抒情古風】孤燈守月，等歸人｜時晨曦｜十月芙蓉・高音質 Lyric Video"
+    },
+    {
+      "videoId": "0EssV_0JKKA",
+      "title": "【土曜冥蓮】🎧一念魔，一念佛｜敦煌天女 × 絲路融合 × 磅礴梵音｜ 高音質 Lyric Video"
+    },
+    {
+      "videoId": "jG_JWPBQ6x4",
+      "title": "【飛天祝壽・媽祖生】閩南歌｜天女祝壽歌｜筠芙得利 合作曲｜敦煌天女 × 絲路梵音｜媽祖聖誕歌曲｜Lyrics Video"
+    },
+    {
+      "videoId": "8c4f6BVfH9o",
+      "title": "【水曜琉璃】🎧 藥師垂眸撫平十方化淨城｜敦煌天女 × 絲路融合 × 磅礴梵音｜高音質 Lyrics Video"
+    },
+    {
+      "videoId": "FSmSiyI3pj0",
+      "title": "【飛天破闕】 🎧 霓裳隨風天女翔｜敦煌天女 × 絲路融合 × 磅礴梵音｜ 高音質 Lyrics Video"
+    },
+    {
+      "videoId": "LjG-eIi0bNM",
+      "title": "【月曜清涼】🎧月光菩薩🌙化作長夜護心蓮 ｜敦煌天女 × 絲路融合 × 磅礴梵音"
+    },
+    {
+      "videoId": "bs7d5MdI930",
+      "title": "【千日醒】 🎧 提燈清明祭故人｜古風武俠 × 清明時分 × 少年白馬醉春風｜ 高音質 Lyrics Video"
+    },
+    {
+      "videoId": "qNa5DL_YNP0",
+      "title": "【水色湛藍是海】 🎧 照不進你的藍 ｜空靈女聲 × 敘事抒情｜ 高音質 Lyrics Video"
+    },
+    {
+      "videoId": "vqQR5fk2trE",
+      "title": "【日曜熾盛】🎧日光菩薩☀️萬古長明永不滅 ｜敦煌天女 × 絲路融合 × 磅礴梵音"
+    },
+    {
+      "videoId": "U-ejY_P6UUI",
+      "title": "【你到底進來沒】🎧 曖昧期必聽告白歌｜華語流行 × 電子舞曲 ｜ 高音質 Lyrics Video"
+    },
+    {
+      "videoId": "-63bwstMH_Y",
+      "title": "《福滿上元》🎧闔家團圓必聽首選 丨白狐狸 × 元宵節快樂｜ 高音質 Lyrics Video"
+    },
+    {
+      "videoId": "3w-Oj1fuQGE",
+      "title": "【破海而生】🎧岸上的人，總是離海面比較近｜高音質 Lyrics Video"
+    },
+    {
+      "videoId": "Nmr3OFeaiyc",
+      "title": "【江湖醉夢】🎧人生不過一場夢 × 俠客豪情 × 史詩古風｜ 高音質 Lyrics Video"
+    },
+    {
+      "videoId": "S1NrWXkdYJg",
+      "title": "【定軍山之戰】🎧三國志戰略版史詩戰歌｜高音質 Lyrics Video"
+    },
+    {
+      "videoId": "rJgoQDwHm24",
+      "title": "【千江水千江月】🎧萬物皆空｜禪風雅韻 × 療癒樂曲 ｜高音質 Lyrics Video"
+    },
+    {
+      "videoId": "b1Ug8vKEFNY",
+      "title": "【星燦天女】琉璃淨土之月華｜敦煌天女 × 絲路融合 × 磅礴梵音"
+    },
+    {
+      "videoId": "iTC8ZdfCGpg",
+      "title": "《晚安大小姐》還不睡嗎？想讓我...陪妳睡嗎？｜九黎陽【超磁性低音砲 / SQ高音質】Lyrics Video"
+    },
+    {
+      "videoId": "YDmx9-U-1i4",
+      "title": "《長庚契》此情靜謐深長 ❄️ 長庚為證・不負天荒｜九黎陽【超磁性低音砲 / SQ高音質】Lyrics Video"
+    },
+    {
+      "videoId": "ldDa8Rhk_1E",
+      "title": "【九天玄女：玄鳥降世】🎧[SQ高音質]黑羽蔽天定禍亂，金甲神威斬魔魁｜史詩中式交響 × 寶誥戰歌 × 絲路融合"
+    },
+    {
+      "videoId": "ROCVWd-UuI8",
+      "title": "【空山雷】大黑天神（Mahakala）降臨空山雷雷音聲聲破世沉，一聲雷震魂｜藏傳重低音 × 黑暗史詩 × 破除魔障 [SQ高音質]"
+    },
+    {
+      "videoId": "l8XDLdekf4w",
+      "title": "【孤月歸處】若此世間無我故鄉，我自化作永恆月光丨 空靈女聲 × 古風詩意 × 仙俠虐戀｜高音質Lyrics Video"
+    },
+    {
+      "videoId": "oQEkJakapa8",
+      "title": "【古風甜曲】🦊《時晨曦》角色曲  一首讓你忍不住想跟著搖尾巴的歌！[SQ]"
+    },
+    {
+      "videoId": "hmIq_nvTs-w",
+      "title": "古風音樂1小時精選【璃煙】SQ高音質合輯｜Chinese Traditional Music Playlist (附歌詞)"
+    },
+    {
+      "videoId": "6c3luULcDF0",
+      "title": "【可是沒有你的夜】🎧 既然是我不對 為何心還這麼碎｜溫暖女聲與大提琴的深夜低喃 SQ高音質"
+    },
+    {
+      "videoId": "CxvrgDVgPP4",
+      "title": "【熱血古風】《當鋒》🎧《三國志·戰略版》五週年主題曲｜不一樣的滄桑男聲！這才是戰場的聲音 SQ高音質"
+    },
+    {
+      "videoId": "m3rhjyM5skE",
+      "title": "【古風】《歸去無念》踏雪無痕，歸去如煙。問君此生為誰忙？🍃 4K水墨禪境系列｜治癒系溫柔男聲 [SQ高音質] Lyrics Video"
+    },
+    {
+      "videoId": "HF_QDg4xNWc",
+      "title": "【三國志·戰略版】龍爭虎鬥應援曲《赤壁鏖兵 V2 0》 海選首戰 2026 01 04  J爆剛剛好 VS 龍虎軍團4"
+    },
+    {
+      "videoId": "JkdB7fISrR0",
+      "title": "【古風】《空山念》欲借飛雪寄相思，落滿離人肩上衣❄️ 4K空山宇宙系列｜超磁性低音砲 [SQ高音質] Lyrics Video"
+    },
+    {
+      "videoId": "Q-gwceylr04",
+      "title": "【空山夢】情不知所起，一往而深    🦋 4K空山宇宙系列「莊周夢蝶」極致美學｜致敬空山辭｜牡丹亭 ｜ Lyrics Video"
+    },
+    {
+      "videoId": "mDLf230VwjE",
+      "title": "【空山青蓮天女】洗去敦煌萬丈沙，自見靈山在心底｜敦煌天女 × 絲路融合 × 磅礴梵音"
+    },
+    {
+      "videoId": "Zqf4yYm5NEc",
+      "title": "【深宮怨】誓不休：史詩古風 Trap 戰歌｜替身宮女的極致復仇 (Cinematic Bass Boosted) | Lyrics Video"
+    },
+    {
+      "videoId": "M8-TI5z_fVs",
+      "title": "【業火紅蓮天女】八寒地獄開紅蓮，慈悲化作金剛怒｜敦煌天女 × 絲路融合 × 磅礴梵音"
+    },
+    {
+      "videoId": "WQ24Cg6kV48",
+      "title": "【敦煌天女】月華白蓮觀自在｜敦煌天女 × 絲路融合 × 磅礴梵音"
+    },
+    {
+      "videoId": "rTSHrwtF2NI",
+      "title": "【酒狂不歸人】誰是天下第一？醉笑沙場殺神魂⚔️東方重金屬 × 極致熱血 × 閻王讓路"
+    },
+    {
+      "videoId": "ugpm6S6bhC4",
+      "title": "【雪燼等月】惟願這一生 與你相守 不再分離｜狐妖師徒修仙 × OST 抒情搖滾 × 古風虐戀"
+    },
+    {
+      "videoId": "76VPN0k_viU",
+      "title": "【吉祥天女】天女散花聚寶臺，一曲祈願所求皆得圓滿｜敦煌天女 × 絲路融合 × 磅礴梵音"
+    },
+    {
+      "videoId": "BQwmBJ0e8EI",
+      "title": "【中國風純音樂】流水十四韻 Ancient Chinese Music | 助眠冥想放鬆 BGM | Zen Meditation, Sleep, Relaxing Music (No Lyrics)"
+    },
+    {
+      "videoId": "CWd7xE1bM8A",
+      "title": "【吉原おねえさん剎那芳華】一舞傾城淚染巾，花魁的致命誘惑｜J-Rock × 尺八三味線 × 絕美和風"
+    },
+    {
+      "videoId": "8Yh7IOaecV8",
+      "title": "【深宮怨系列】那年的雪，埋葬了她的權謀夢《深宮雪》宰相女機關算盡，終究道盡年華虛擲 (Gufeng / 悲傷古風)"
+    },
+    {
+      "videoId": "zmP64q5LO0k",
+      "title": "【諸葛亮】天命兮難違，歸去兮無期？📜 聽懂了臥龍的忘卻此身，唯念蒼生【臥龍吟‧本心】｜古風音樂 × 雅樂沉思 × 命運叩問"
+    },
+    {
+      "videoId": "JyHnbmaYLSo",
+      "title": "【天女伏魔】霓裳飛舞斬魔龍，天女悲憫眾生化金剛｜敦煌天女 × 絲路融合 × 磅礴梵音"
+    },
+    {
+      "videoId": "7MZiZREnbPQ",
+      "title": "【風華樓】霓裳羽衣舞翩翩 洛陽舊夢隨風轉丨古典舞樂  × 夢幻絕美 × 盛世風華丨SUNO AI"
+    },
+    {
+      "videoId": "kWDYbaN6uC8",
+      "title": "【忘川】忘川彼岸「獨酌空餘恨」，提燈等一個不歸人... 🏮 昔日少年江湖夢，如今只剩舊傷伴此身"
+    },
+    {
+      "videoId": "QHsmgT51W-s",
+      "title": "【哀唱草】等你等到化成一株草，無望愛戀在北方森林迴盪｜悲傷鋼琴弦樂 × 憂鬱民謠 × 禁忌之戀"
+    },
+    {
+      "videoId": "xnMGbodsBfs",
+      "title": "【鄄城風雲】戰鼓描繪三國亂世沙場｜史詩級中國風戰歌 × 電影感配樂 × 熱血悲壯、宿命暖意"
+    },
+    {
+      "videoId": "GPXtsEzxiK0",
+      "title": "【鄄城血戰】  中國風史詩交響樂 二胡  竹笛  戰鼓中國風 Music  史詩磅礴、金戈鐵馬  三國亂世"
+    },
+    {
+      "videoId": "j8kD7iwIaIU",
+      "title": "【半盞茶】憶李蓮花｜古琴與簫聲交織的沉思 ｜唱出退隱江湖的釋然 ｜溫柔男聲古風歌曲"
+    },
+    {
+      "videoId": "q7o42f5TL2Y",
+      "title": "【深宮怨系列】恨命由天 不由己，深宮鬼妃絕唱，青衣幽訴白骨悲歌｜古風悲歌× 淒美哀怨 × 宮廷悲劇"
+    },
+    {
+      "videoId": "_3Rf5VGJu4Q",
+      "title": "【三國志戰略版】 ✨兗州之戰 ( 史詩中國風硬搖滾 )｜「這天下，是我曹操的霸業！」｜熱血激昂 磅礴國風 BGM｜SUNO AI｜（註： 這不是攻略！！！)"
+    },
+    {
+      "videoId": "5U6hDz41TdA",
+      "title": "【孤月歸處】你身即是歸處　你心即為光｜古風流行 × 仙俠情歌 × 淒美動人"
+    },
+    {
+      "videoId": "uqbcm0hHXtM",
+      "title": "【紅顏劫】- 古風女聲 💫 清冷女聲吟誦，古箏琵琶簫笛與弦樂交織，蒼涼入骨，宿命悲歌｜傳統古風悲歌 / 悲涼宿命、紅顏薄命 / 東方嫁衣 /SUNO AI"
+    },
+    {
+      "videoId": "tO7Z0yInlAw",
+      "title": "三國志戰略版潼關之戰超詳細講解"
+    }
+  ]
+}
