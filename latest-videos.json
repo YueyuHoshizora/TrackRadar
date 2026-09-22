@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T12:05:46.848+08:00",
+  "updatedAt": "2026-09-22T12:10:47.682+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -35,13 +35,13 @@
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
       "channelTitle": "COYA可夜",
       "latestVideo": {
-        "videoId": "k0zf1ZphcfY",
-        "title": "「從鬼門開，到鬼門關。」🕯️｜《神鬼誌》｜可夜｜新國風MV合輯｜40分鐘完整收錄｜Official MV｜神鬼誌系列｜",
-        "url": "https://www.youtube.com/watch?v=k0zf1ZphcfY",
-        "thumbnail": "https://i.ytimg.com/vi/k0zf1ZphcfY/maxresdefault.jpg",
-        "durationSeconds": 2381,
-        "publishedAt": "2026-09-18T10:15:28.000+08:00",
-        "fetchedAt": "2026-09-19T09:38:05.675+08:00",
+        "videoId": "g5S0fPOzAGA",
+        "title": "「人有悲歡離合，月有陰晴圓缺。」🌕｜《千里共嬋娟》｜可夜｜新國風｜Official MV｜千里之外，也望著同一輪月亮｜",
+        "url": "https://www.youtube.com/watch?v=g5S0fPOzAGA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/g5S0fPOzAGA/maxresdefault.webp",
+        "durationSeconds": 265,
+        "publishedAt": "2026-09-22T10:30:30.000+08:00",
+        "fetchedAt": "2026-09-22T12:10:28.249+08:00",
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 1
       }
@@ -230,15 +230,15 @@
       "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
       "channelTitle": "予安YUAN",
       "latestVideo": {
-        "videoId": "7aouI_5Zjro",
-        "title": "《借我一點你的時光》｜如果你累了，就聽這首歌。 聽一遍就會愛上的深夜情歌｜予安 Yuan Official MV Music  Video",
-        "url": "https://www.youtube.com/watch?v=7aouI_5Zjro",
-        "thumbnail": "https://i.ytimg.com/vi/7aouI_5Zjro/maxresdefault.jpg",
-        "durationSeconds": 214,
-        "publishedAt": "2026-09-18T11:00:00.000+08:00",
-        "fetchedAt": "2026-09-19T11:18:07.224+08:00",
+        "videoId": "UgnXZ467dc4",
+        "title": "《錯過的星光》｜我們錯過的，不只是愛情｜予安 Yuan Official  Music  Video",
+        "url": "https://www.youtube.com/watch?v=UgnXZ467dc4",
+        "thumbnail": "https://i.ytimg.com/vi/UgnXZ467dc4/maxresdefault.jpg",
+        "durationSeconds": 220,
+        "publishedAt": "2026-09-22T11:00:08.000+08:00",
+        "fetchedAt": "2026-09-22T12:10:33.310+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.92
       }
     },
     {
@@ -380,15 +380,15 @@
       "channelId": "UCAYUu9UHkrIopMgqikI6smw",
       "channelTitle": "空山和尚",
       "latestVideo": {
-        "videoId": "un-ULt6ISkk",
-        "title": "人這一生，到底在追什麼？｜《紅塵客》｜空山和尚",
-        "url": "https://www.youtube.com/watch?v=un-ULt6ISkk",
-        "thumbnail": "https://i.ytimg.com/vi/un-ULt6ISkk/maxresdefault.jpg",
-        "durationSeconds": 298,
-        "publishedAt": "2026-08-16T12:00:40.000+08:00",
-        "fetchedAt": "2026-09-20T12:29:34.198+08:00",
+        "videoId": "_XHPZ968Al4",
+        "title": "《空山和尚》｜人人都能是空山和尚｜走自己的路，修自己的心",
+        "url": "https://www.youtube.com/watch?v=_XHPZ968Al4",
+        "thumbnail": "https://i.ytimg.com/vi/_XHPZ968Al4/maxresdefault.jpg",
+        "durationSeconds": 334,
+        "publishedAt": "2026-09-22T12:00:31.000+08:00",
+        "fetchedAt": "2026-09-22T12:10:39.106+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.78
+        "genreConfidence": 0.68
       }
     },
     {
