@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T16:10:48.458+08:00",
+  "updatedAt": "2026-09-22T16:11:32.512+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -420,6 +420,11 @@
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 0.52
       }
+    },
+    {
+      "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
+      "channelTitle": "RE:IGN(十二弦月 | 舞月)",
+      "latestVideo": null
     }
   ]
 }
