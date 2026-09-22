@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-09-22T18:10:50.553+08:00",
+  "lastUpdated": "2026-09-22T18:15:47.429+08:00",
   "latestVideo": {
     "videoId": "rzPOmBk9Ybk",
     "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "rzPOmBk9Ybk",
-      "title": "我不追了，卻還在痛《零度以下的灰燼》｜在零度以下，安然入眠｜放不下的人・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "分開才發現，痛進骨節《零度以下的灰燼》｜這是脫不掉的風濕，痛進骨節｜失戀後聽・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "F2aE8X7phTI",
-      "title": "如果我不像她，你愛的是誰？《沙啞的真跡》｜與其做她完美的贋品｜被當成替身・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "我不想再用她的聲音愛你《沙啞的真跡》｜我寧可做我沙啞的真跡｜替身文學・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -742,43 +742,63 @@
     },
     {
       "videoId": "J83v9U8_7pI",
-      "title": "【心理驚悚】《被偷走的夜》搖來搖去，都是孤單的自己，在酒裡發瘋...｜沐霧月｜Official Lyric Audio"
+      "title": "【心理驚悚】《被偷走的夜》搖來搖去，都是孤單的自己，在酒裡發瘋...｜沐霧月｜Official Lyric Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "a5PafmDwaGc",
-      "title": "《掌心的碎光》「握得越緊越痛，越痛越不放。」｜沐霧月｜ Official Lyric Audio"
+      "title": "《掌心的碎光》「握得越緊越痛，越痛越不放。」｜沐霧月｜ Official Lyric Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "nhE1emShNzc",
-      "title": "🖌️《半醒的蓑衣》 橫豎撇捺之間，全都是妳的名字在發狂。｜致所有心魔未了的人｜沐霧月｜ (Official Lyric Audio) #霧月詞"
+      "title": "🖌️《半醒的蓑衣》 橫豎撇捺之間，全都是妳的名字在發狂。｜致所有心魔未了的人｜沐霧月｜ (Official Lyric Audio) #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "GCHXUvN8lWw",
-      "title": "《空山。鐘裡的墨》適合深夜獨處、思考人生的音樂｜Ink in the Bell｜暗黑禪意風  (Official Lyric Audio) #霧月詞"
+      "title": "《空山。鐘裡的墨》適合深夜獨處、思考人生的音樂｜Ink in the Bell｜暗黑禪意風  (Official Lyric Audio) #霧月詞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "A1BVHx8YIj8",
-      "title": "《雪下的炭》靈魂已燒成黑炭，如何偽裝成雪的潔？｜War Trauma｜寫實敘事曲  (Official Lyric Audio) #霧月詞"
+      "title": "《雪下的炭》靈魂已燒成黑炭，如何偽裝成雪的潔？｜War Trauma｜寫實敘事曲  (Official Lyric Audio) #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "txK1C4sd7yw",
-      "title": "💔 寧願妳恨我薄倖。｜《鏡中霜》不見，是我最後的溫柔。｜ (Official Lyric Audio) #沐霧月"
+      "title": "💔 寧願妳恨我薄倖。｜《鏡中霜》不見，是我最後的溫柔。｜ (Official Lyric Audio) #沐霧月",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "9kiaNazdfO0",
-      "title": "【虐心獨白】《半冷的衣襟》終於... 涼透了。以為抱得夠緊，就能鎖住餘溫的謊｜催淚抒情｜沐霧月 #霧月詞"
+      "title": "【虐心獨白】《半冷的衣襟》終於... 涼透了。以為抱得夠緊，就能鎖住餘溫的謊｜催淚抒情｜沐霧月 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "jFc6I3PvR4c",
-      "title": "🕯️ 痛覺證明活著。《沉沒的角度》｜我鬆開岸邊的手，沉入這場溫柔的毒。 (Dark Cinematic) ｜沐霧月 #霧月詞"
+      "title": "🕯️ 痛覺證明活著。《沉沒的角度》｜我鬆開岸邊的手，沉入這場溫柔的毒。 (Dark Cinematic) ｜沐霧月 #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "lRyBdVkX64o",
-      "title": "【致鬱美學】《琥珀色的潛水》原來溺水，比呼吸更像活著的滋味｜迷幻流行｜｜沐霧月 #霧月詞 #lyricvideo"
+      "title": "【致鬱美學】《琥珀色的潛水》原來溺水，比呼吸更像活著的滋味｜迷幻流行｜｜沐霧月 #霧月詞 #lyricvideo",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "L11hGZikJiQ",
-      "title": "往東。追著那道... 吞噬妳的光。🧭《被光吞噬的人》 (致那些不停留的靈魂) ｜敘事搖滾｜沐霧月 #霧月詞"
+      "title": "往東。追著那道... 吞噬妳的光。🧭《被光吞噬的人》 (致那些不停留的靈魂) ｜敘事搖滾｜沐霧月 #霧月詞",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "XTKO-ueIiNg",
