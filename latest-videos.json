@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T17:10:45.475+08:00",
+  "updatedAt": "2026-09-22T17:15:29.406+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -435,6 +435,41 @@
         "genre": "R&B/Soul",
         "genreConfidence": 0.99
       }
+    },
+    {
+      "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
+      "channelTitle": "璃煙",
+      "latestVideo": {
+        "videoId": "LoxbrVMv3Ng",
+        "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
+        "url": "https://www.youtube.com/watch?v=LoxbrVMv3Ng",
+        "thumbnail": "https://i.ytimg.com/vi/LoxbrVMv3Ng/maxresdefault.jpg",
+        "durationSeconds": 131,
+        "publishedAt": "2026-09-18T11:23:31.000+08:00",
+        "fetchedAt": "2026-09-22T17:15:22.801+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
+      }
+    },
+    {
+      "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
+      "channelTitle": "沐霧月",
+      "latestVideo": {
+        "videoId": "rzPOmBk9Ybk",
+        "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=rzPOmBk9Ybk",
+        "thumbnail": "https://i.ytimg.com/vi_webp/rzPOmBk9Ybk/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-09-18T12:00:02.000+08:00",
+        "fetchedAt": "2026-09-22T17:15:23.852+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
+      }
+    },
+    {
+      "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
+      "channelTitle": "Moyamina",
+      "latestVideo": null
     }
   ]
 }
