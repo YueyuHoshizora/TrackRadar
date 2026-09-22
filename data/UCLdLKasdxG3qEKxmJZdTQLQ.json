@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-09-22T17:15:45.873+08:00",
+  "lastUpdated": "2026-09-22T17:20:44.872+08:00",
   "latestVideo": {
     "videoId": "LoxbrVMv3Ng",
     "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "BY13rqqVlMk",
-      "title": "【臥龍天命】天命兮難違，歸去兮無期｜諸葛亮一生的本心叩問｜Gufeng Music"
+      "title": "【臥龍天命】天命兮難違，歸去兮無期｜諸葛亮一生的本心叩問｜Gufeng Music",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "8XWMpvsZKQ0",
-      "title": "你看見了！我原來的顏色《枯葉蝶的勇氣》深夜療癒情歌"
+      "title": "你看見了！我原來的顏色《枯葉蝶的勇氣》深夜療癒情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "hYu5FOikG-4",
-      "title": "【三國志戰略版｜英雄命世】原創史詩戰歌🎧誰與我共擔天下 Epic Battle Music"
+      "title": "【三國志戰略版｜英雄命世】原創史詩戰歌🎧誰與我共擔天下 Epic Battle Music",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "VgB9Ljjt32A",
-      "title": "一場戲，唱盡相逢與別離《梨園雙生契》戲曲元素原創歌曲"
+      "title": "一場戲，唱盡相逢與別離《梨園雙生契》戲曲元素原創歌曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "FhE3w8XKnU0",
-      "title": "宿命給的餘生，換我為妳重來《餘生續命》璃煙 × 頌心意｜古風原創曲・藏紅妝最終章"
+      "title": "宿命給的餘生，換我為妳重來《餘生續命》璃煙 × 頌心意｜古風原創曲・藏紅妝最終章",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "ebNn4-IFG5o",
-      "title": "手握斷刃，一世只為護妳《徵羽斷刃》｜璃煙 × 頌心意｜古風原創曲・藏紅妝第五章"
+      "title": "手握斷刃，一世只為護妳《徵羽斷刃》｜璃煙 × 頌心意｜古風原創曲・藏紅妝第五章",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "jUBV-D4RiOk",
-      "title": "你我皆是局中的藏紅妝《為你折燈》璃煙 × 頌心意｜古風原創曲・藏紅妝第三章"
+      "title": "你我皆是局中的藏紅妝《為你折燈》璃煙 × 頌心意｜古風原創曲・藏紅妝第三章",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "TjhlPHNu3UM",
-      "title": "明知彼此都在偽裝，卻還是動了心《徵羽入宮》璃煙 × 頌心意｜藏紅妝第一章"
+      "title": "明知彼此都在偽裝，卻還是動了心《徵羽入宮》璃煙 × 頌心意｜藏紅妝第一章",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "nOy975bLZ4A",
-      "title": "【白居易 × 元稹】請借我一夜清夢，只為再見他一面｜君若再夢・夢微之｜古風原創曲・高音質 Lyric Video"
+      "title": "【白居易 × 元稹】請借我一夜清夢，只為再見他一面｜君若再夢・夢微之｜古風原創曲・高音質 Lyric Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "3jFuPgVa97E",
-      "title": "【白居易 × 元稹】君埋泉下，我寄人間雪滿頭｜再夢君生・夢微之｜古風原創曲・高音質 Lyric Video"
+      "title": "【白居易 × 元稹】君埋泉下，我寄人間雪滿頭｜再夢君生・夢微之｜古風原創曲・高音質 Lyric Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Lt9KDM_laYY",
