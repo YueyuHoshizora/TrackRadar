@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-09-22T17:50:48.029+08:00",
+  "lastUpdated": "2026-09-22T17:55:49.539+08:00",
   "latestVideo": {
     "videoId": "rzPOmBk9Ybk",
     "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "rzPOmBk9Ybk",
-      "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "分開才發現，痛進骨節《零度以下的灰燼》｜這是脫不掉的風濕，痛進骨節｜失戀後聽・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "F2aE8X7phTI",
-      "title": "如果我不像她，你愛的是誰？《沙啞的真跡》｜與其做她完美的贋品｜被當成替身・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "我不想再用她的聲音愛你《沙啞的真跡》｜我寧可做我沙啞的真跡｜替身文學・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -502,43 +502,63 @@
     },
     {
       "videoId": "9aN5zMjZhjI",
-      "title": "《天亮前的死刑》在這場名為愛情的槍決裡，我不需要對白... ｜沐霧月 ｜ (Official Lyric Audio) 歌詞純享版"
+      "title": "《天亮前的死刑》在這場名為愛情的槍決裡，我不需要對白... ｜沐霧月 ｜ (Official Lyric Audio) 歌詞純享版",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "6aBnqWL6ZxA",
-      "title": "【窒息心動】《無聲的失重》你把食指豎在唇邊，比了噓的安靜... ｜沐霧月｜(Official Lyric Audio) 歌詞純享版"
+      "title": "【窒息心動】《無聲的失重》你把食指豎在唇邊，比了噓的安靜... ｜沐霧月｜(Official Lyric Audio) 歌詞純享版",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "xlZzySO1yKg",
-      "title": "【病態沉溺】《沉沒的角度》這不是意外，是我對妳的投降... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【病態沉溺】《沉沒的角度》這不是意外，是我對妳的投降... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "5mxX3OicZe8",
-      "title": "《半冷的衣襟》我假裝那是妳的腳步聲，終於涼透了｜沐霧月｜ (Official Lyric Audio)"
+      "title": "《半冷的衣襟》我假裝那是妳的腳步聲，終於涼透了｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "9XP7mYr9VDA",
-      "title": "【微醺溺斃】《琥珀色的潛水》原來溺水，比呼吸更像活著的滋味...｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【微醺溺斃】《琥珀色的潛水》原來溺水，比呼吸更像活著的滋味...｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "NuMPYLzEm8k",
-      "title": "【末日公路】《被光吞噬的人》油箱還是滿的，這次我知道方向...｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【末日公路】《被光吞噬的人》油箱還是滿的，這次我知道方向...｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.24
     },
     {
       "videoId": "6sq-YnD0nTg",
-      "title": "【終極解脫】《渡口的最後一人》原來誓言太輕，連響動都太微弱... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【終極解脫】《渡口的最後一人》原來誓言太輕，連響動都太微弱... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "GjLnbNe7eLo",
-      "title": "【窒息獨白】《無菌室的毒藥》妳拉住我，只為了看我再一次狠狠墜落...｜沐霧月｜(Official Lyric Audio)"
+      "title": "【窒息獨白】《無菌室的毒藥》妳拉住我，只為了看我再一次狠狠墜落...｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "iDIndRYh5l8",
-      "title": "【叛逆】《凡人的火焰》妳要我放下？我連拿起的資格都沒得到...｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【叛逆】《凡人的火焰》妳要我放下？我連拿起的資格都沒得到...｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.31
     },
     {
       "videoId": "4rP3ihxyjqU",
-      "title": "【極致暗戀】《無無端》再多一秒就要斷，再多一秒就要亂... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【極致暗戀】《無無端》再多一秒就要斷，再多一秒就要亂... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "Ndc6s0dhz_Y",
