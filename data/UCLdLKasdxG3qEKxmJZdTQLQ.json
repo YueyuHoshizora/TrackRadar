@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-09-22T17:35:45.956+08:00",
+  "lastUpdated": "2026-09-22T17:40:45.762+08:00",
   "latestVideo": {
     "videoId": "LoxbrVMv3Ng",
     "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
@@ -382,43 +382,63 @@
     },
     {
       "videoId": "Zqf4yYm5NEc",
-      "title": "【深宮怨】誓不休：史詩古風 Trap 戰歌｜替身宮女的極致復仇 (Cinematic Bass Boosted) | Lyrics Video"
+      "title": "【深宮怨】誓不休：史詩古風 Trap 戰歌｜替身宮女的極致復仇 (Cinematic Bass Boosted) | Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "M8-TI5z_fVs",
-      "title": "【業火紅蓮天女】八寒地獄開紅蓮，慈悲化作金剛怒｜敦煌天女 × 絲路融合 × 磅礴梵音"
+      "title": "【業火紅蓮天女】八寒地獄開紅蓮，慈悲化作金剛怒｜敦煌天女 × 絲路融合 × 磅礴梵音",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "WQ24Cg6kV48",
-      "title": "【敦煌天女】月華白蓮觀自在｜敦煌天女 × 絲路融合 × 磅礴梵音"
+      "title": "【敦煌天女】月華白蓮觀自在｜敦煌天女 × 絲路融合 × 磅礴梵音",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "rTSHrwtF2NI",
-      "title": "【酒狂不歸人】誰是天下第一？醉笑沙場殺神魂⚔️東方重金屬 × 極致熱血 × 閻王讓路"
+      "title": "【酒狂不歸人】誰是天下第一？醉笑沙場殺神魂⚔️東方重金屬 × 極致熱血 × 閻王讓路",
+      "genre": "金屬 Metal",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "ugpm6S6bhC4",
-      "title": "【雪燼等月】惟願這一生 與你相守 不再分離｜狐妖師徒修仙 × OST 抒情搖滾 × 古風虐戀"
+      "title": "【雪燼等月】惟願這一生 與你相守 不再分離｜狐妖師徒修仙 × OST 抒情搖滾 × 古風虐戀",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "76VPN0k_viU",
-      "title": "【吉祥天女】天女散花聚寶臺，一曲祈願所求皆得圓滿｜敦煌天女 × 絲路融合 × 磅礴梵音"
+      "title": "【吉祥天女】天女散花聚寶臺，一曲祈願所求皆得圓滿｜敦煌天女 × 絲路融合 × 磅礴梵音",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "BQwmBJ0e8EI",
-      "title": "【中國風純音樂】流水十四韻 Ancient Chinese Music | 助眠冥想放鬆 BGM | Zen Meditation, Sleep, Relaxing Music (No Lyrics)"
+      "title": "【中國風純音樂】流水十四韻 Ancient Chinese Music | 助眠冥想放鬆 BGM | Zen Meditation, Sleep, Relaxing Music (No Lyrics)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "CWd7xE1bM8A",
-      "title": "【吉原おねえさん剎那芳華】一舞傾城淚染巾，花魁的致命誘惑｜J-Rock × 尺八三味線 × 絕美和風"
+      "title": "【吉原おねえさん剎那芳華】一舞傾城淚染巾，花魁的致命誘惑｜J-Rock × 尺八三味線 × 絕美和風",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "8Yh7IOaecV8",
-      "title": "【深宮怨系列】那年的雪，埋葬了她的權謀夢《深宮雪》宰相女機關算盡，終究道盡年華虛擲 (Gufeng / 悲傷古風)"
+      "title": "【深宮怨系列】那年的雪，埋葬了她的權謀夢《深宮雪》宰相女機關算盡，終究道盡年華虛擲 (Gufeng / 悲傷古風)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "zmP64q5LO0k",
-      "title": "【諸葛亮】天命兮難違，歸去兮無期？📜 聽懂了臥龍的忘卻此身，唯念蒼生【臥龍吟‧本心】｜古風音樂 × 雅樂沉思 × 命運叩問"
+      "title": "【諸葛亮】天命兮難違，歸去兮無期？📜 聽懂了臥龍的忘卻此身，唯念蒼生【臥龍吟‧本心】｜古風音樂 × 雅樂沉思 × 命運叩問",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "JyHnbmaYLSo",
