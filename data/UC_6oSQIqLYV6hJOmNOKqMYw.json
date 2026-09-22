@@ -1,19 +1,25 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-09-19T15:35:40.496+08:00",
+  "lastUpdated": "2026-09-22T10:00:47.492+08:00",
   "latestVideo": {
-    "videoId": "pwQhe19X_6g",
-    "title": "《我還是會想你》｜明明放下了，心卻還停在那裡｜EIRYN Official Music Video",
-    "url": "https://www.youtube.com/watch?v=pwQhe19X_6g",
-    "thumbnail": "https://i.ytimg.com/vi/pwQhe19X_6g/maxresdefault.jpg",
-    "durationSeconds": 240,
-    "publishedAt": "2026-09-18T11:30:00.000+08:00",
-    "fetchedAt": "2026-09-19T11:17:43.954+08:00",
+    "videoId": "EDpXaOhJ9Ts",
+    "title": "《靠近一點》｜一聽就上癮的浪漫情歌・女聲療癒系情歌｜EIRYN Official Music Video",
+    "url": "https://www.youtube.com/watch?v=EDpXaOhJ9Ts",
+    "thumbnail": "https://i.ytimg.com/vi/EDpXaOhJ9Ts/maxresdefault.jpg",
+    "durationSeconds": 202,
+    "publishedAt": "2026-09-22T10:00:06.000+08:00",
+    "fetchedAt": "2026-09-22T10:00:46.338+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.98
+    "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "EDpXaOhJ9Ts",
+      "title": "《靠近一點》｜一聽就上癮的浪漫情歌・女聲療癒系情歌｜EIRYN Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
+    },
     {
       "videoId": "pwQhe19X_6g",
       "title": "《我還是會想你》｜明明放下了，心卻還停在那裡｜EIRYN Official Music Video",
