@@ -1,17 +1,17 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-22T18:05:31.018+08:00",
+  "lastUpdated": "2026-09-22T18:10:30.023+08:00",
   "latestVideo": {
-    "videoId": "Vnmwxf1mCIY",
-    "title": "故事沒有結局，只是輪到明天繼續寫｜未完待續｜Yu Stellar｜星語",
-    "url": "https://www.youtube.com/watch?v=Vnmwxf1mCIY",
-    "thumbnail": "https://i.ytimg.com/vi/Vnmwxf1mCIY/maxresdefault.jpg",
-    "durationSeconds": 188,
-    "publishedAt": "2026-09-22T05:30:12.000+08:00",
-    "fetchedAt": "2026-09-22T05:30:28.168+08:00",
+    "videoId": "fMGBMxP5M4A",
+    "title": "一聲你好，剛好把從前放好｜一聲你好｜Yu Stellar｜星語",
+    "url": "https://www.youtube.com/watch?v=fMGBMxP5M4A",
+    "thumbnail": "https://i.ytimg.com/vi/fMGBMxP5M4A/maxresdefault.jpg",
+    "durationSeconds": 265,
+    "publishedAt": "2026-09-22T17:30:21.000+08:00",
+    "fetchedAt": "2026-09-22T18:10:28.318+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.68
+    "genreConfidence": 0.75
   },
   "allVideoIds": [
     {
@@ -22,25 +22,25 @@
     },
     {
       "videoId": "Vnmwxf1mCIY",
-      "title": "告別、成長、重逢之後，我們的故事還沒完｜未完待續｜Yu Stellar｜星語",
+      "title": "故事沒有結局，只是輪到明天繼續寫｜未完待續｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.68
     },
     {
       "videoId": "icHNbNwsNNs",
-      "title": "城市把路留下，卻沒有要誰停在原地｜城市把路留下｜Yu Stellar｜星語",
+      "title": "回到我們曾走過的街，我終於不必住在回憶裡｜城市把路留下｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.57
     },
     {
       "videoId": "Tae3s5cWMDM",
-      "title": "走過告別與重逢，我們終於開始計畫同一個家｜把明天留給我們｜Yu Stellar｜星語",
+      "title": "這一次，我們不只約定今天，也把明天留下｜把明天留給我們｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
     {
       "videoId": "CIv2Zqdz7o8",
-      "title": "同城預報只說有雨，沒說我們會相遇｜同城預報｜Yu Stellar｜星語",
+      "title": "同城預報｜多年後重返故城的電影感情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -64,13 +64,13 @@
     },
     {
       "videoId": "iaq0nSfm-r4",
-      "title": "名片上的我，終於不再寫在誰的身後｜名片上的我｜Yu Stellar｜星語",
+      "title": "名片上的我｜找回自己價值的成長系華語流行歌｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.81
     },
     {
       "videoId": "gEYq4QAzi4Q",
-      "title": "重逢後第一次約會，我們像兩個陌生人｜重新認識你｜Yu Stellar｜星語",
+      "title": "我們沒有假裝熟悉，而是重新認識彼此｜重新認識你｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
@@ -88,25 +88,25 @@
     },
     {
       "videoId": "Ry_wW8Zs4zM",
-      "title": "把窗打開｜一首陪你慢慢走回生活的療癒情歌｜Yu Stellar｜星語",
+      "title": "我把窗打開，也把今天重新放進來｜把窗打開｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
     {
       "videoId": "IRyuDXF3zrU",
-      "title": "我以為只有我放不下，直到想起你也曾孤單｜你也走了很遠｜Yu Stellar｜星語",
+      "title": "原來你也走了很遠，才終於懂我的沉默｜你也走了很遠｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "M4LBN1LsIsw",
-      "title": "白天裝得很好的人，終於在凌晨浴室哭了｜天亮前失重｜Yu Stellar｜星語",
+      "title": "天亮以前，我允許自己失重一次｜天亮前失重｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "-sbjaxnFS_Y",
-      "title": "那段失去沒有白費，它把我帶成更好的人｜把遺憾活成答案｜Yu Stellar｜星語",
+      "title": "我不再問如果，決定把遺憾活成答案｜把遺憾活成答案｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
@@ -118,7 +118,7 @@
     },
     {
       "videoId": "nXMpNlR50t8",
-      "title": "分開後第一次整理房間，也整理了自己｜沒有你的新生活｜Yu Stellar｜星語",
+      "title": "沒有你的房間，我終於學會把日子過好｜沒有你的新生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "不是不愛，才在末班車前說再見｜月台以西｜Yu Stellar｜星語",
+      "title": "月台以西｜寫給不得不告別的成熟情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "sfMp7JsxlsE",
-      "title": "憶。不回首｜古風女聲傷感情歌：緣盡後，把餘生還給流年｜Yu Stellar｜星語",
+      "title": "最難放下的不是你，是回不去的從前｜憶。不回首｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -172,7 +172,7 @@
     },
     {
       "videoId": "y2DPSbjtREc",
-      "title": "去程為了愛，為什麼回程她終於只為自己靠窗？｜〈回程靠窗的位置〉",
+      "title": "〈回程靠窗的位置〉我沒帶回你的愛，卻帶回完整的自己",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
@@ -184,7 +184,7 @@
     },
     {
       "videoId": "3N_7_jZk3Oc",
-      "title": "曾經一起挑的房子，最後誰也沒有住進去｜〈把未來寄丟了〉",
+      "title": "〈把未來寄丟了〉每個選擇都沒錯，為什麼拼不成一個以後？",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
@@ -202,7 +202,7 @@
     },
     {
       "videoId": "gm1q3vQ3Szc",
-      "title": "紀念日的一個微笑，讓她知道愛快結束了｜〈誰先變得沉默〉",
+      "title": "〈誰先變得沉默〉我們沒有吵架，卻一步一步弄丟了彼此",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
@@ -226,13 +226,13 @@
     },
     {
       "videoId": "ivNbbx76E6I",
-      "title": "〈月台背面的眼淚〉離別情歌｜寫給每次月台告別的人",
+      "title": "〈月台背面的眼淚〉每次都說不累，轉過身卻哭到站不穩",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
     {
       "videoId": "R3gV6vUkCLQ",
-      "title": "〈抵達〉機場失約情歌｜跨國網戀華語抒情女聲",
+      "title": "〈抵達〉我飛了幾千公里，你卻連一則訊息都沒有",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
@@ -256,13 +256,13 @@
     },
     {
       "videoId": "87E6EExCuGk",
-      "title": "雨停了，等了一整晚的訊息還是沒來｜〈你那邊下雨嗎〉",
+      "title": "〈你那邊下雨嗎〉我把關心打了又刪，只怕你不回答",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "cTGwaoSKlbc",
-      "title": "〈一張飛往你的票〉跨國網戀情歌｜為愛奔赴的華語抒情",
+      "title": "〈一張飛往你的票〉她省下每一杯咖啡，只為飛去見你",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -280,13 +280,13 @@
     },
     {
       "videoId": "-xiJ8gkPppM",
-      "title": "凌晨三點｜手機關掉後，我們把這座城市開到天亮｜Yu Stellar｜星語",
+      "title": "凌晨三點｜白天忍住的一切，今晚全部甩在身後｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.71
     },
     {
       "videoId": "3mTTEOzCGrk",
-      "title": "每天跨越幾百公里說早安，真的能等到相見嗎？｜〈兩座城的早安〉",
+      "title": "〈兩座城的早安〉遠距離最甜的儀式，是每天第一句都想到你",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
