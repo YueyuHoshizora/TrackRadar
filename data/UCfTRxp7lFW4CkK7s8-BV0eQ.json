@@ -1,7 +1,7 @@
 {
   "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
   "channelTitle": "RE:IGN(十二弦月 | 舞月)",
-  "lastUpdated": "2026-09-22T16:20:43.687+08:00",
+  "lastUpdated": "2026-09-22T16:25:42.945+08:00",
   "latestVideo": {
     "videoId": "SQdiIjYbfnk",
     "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "642V8uTPHtU",
-      "title": "Playlist 🥀 POV：黑化後的女王在廢墟中獨舞 🏰 讓人上癮的「暗黑童話風」 🎧 2025 韓國女團偶像《Sweet Nightmare》| 致命、夢幻、Girl Crush 🔥 #여자아이돌"
+      "title": "Playlist 🥀 POV：黑化後的女王在廢墟中獨舞 🏰 讓人上癮的「暗黑童話風」 🎧 2025 韓國女團偶像《Sweet Nightmare》| 致命、夢幻、Girl Crush 🔥 #여자아이돌",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "3hUgcEeYXAY",
-      "title": "Playlist 這是什麼神仙音色...☕️ 讓耳朵融化的「女子偶像團體」冬日 R&B 歌單 ❄️✨ 適合下雪的早晨 (私藏寶藏曲) #韓流 #女子偶像團體"
+      "title": "Playlist 這是什麼神仙音色...☕️ 讓耳朵融化的「女子偶像團體」冬日 R&B 歌單 ❄️✨ 適合下雪的早晨 (私藏寶藏曲) #韓流 #女子偶像團體",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "kLJnXjx3Lzk",
-      "title": "Playlist 這一整張把聖誕節的浪漫都包了 🎁 從狂歡派對到深夜被窩... 聽了想戀愛的 2025 韓國女團偶像《Merry & Memory》🎄#韓流 #女子偶像團體"
+      "title": "Playlist 這一整張把聖誕節的浪漫都包了 🎁 從狂歡派對到深夜被窩... 聽了想戀愛的 2025 韓國女團偶像《Merry & Memory》🎄#韓流 #女子偶像團體",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "uMzw0uIpFf8",
-      "title": "Playlist 聽到這張真的停不下來...🏎️ 腦袋裡全是 160BPM 的疾速快感 🎧 2025 韓國女團偶像《Overdrive》| 專屬於開車、跑步的腎上腺素歌單🔥 #韓流 #女子偶像團體"
+      "title": "Playlist 聽到這張真的停不下來...🏎️ 腦袋裡全是 160BPM 的疾速快感 🎧 2025 韓國女團偶像《Overdrive》| 專屬於開車、跑步的腎上腺素歌單🔥 #韓流 #女子偶像團體",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "1ounGIemuuI",
-      "title": "《발키리 (Valkyrie)》KPOP DANCE PLAYLIST 🔥| 2025 여자 아이돌 댄스곡 모음  | K-POPダンス曲 | 最新K-pop女團舞曲 #kpop #여자아이돌"
+      "title": "《발키리 (Valkyrie)》KPOP DANCE PLAYLIST 🔥| 2025 여자 아이돌 댄스곡 모음  | K-POPダンス曲 | 最新K-pop女團舞曲 #kpop #여자아이돌",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "mJxzbm3Iphk",
-      "title": "《세뇨리타 (Señorita)》KPOP DANCE PLAYLIST 🔥| 2025 여자 아이돌 댄스곡 모음 | 最新K-pop女團舞曲 #kpop #여자아이돌"
+      "title": "《세뇨리타 (Señorita)》KPOP DANCE PLAYLIST 🔥| 2025 여자 아이돌 댄스곡 모음 | 最新K-pop女團舞曲 #kpop #여자아이돌",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "8pQ0rXv5rJ4",
-      "title": "《노이즈 캔슬링 (Noise Canceling)》KPOP PLAYLIST 🔥| 2025 여자 아이돌 댄스곡 모음 | K-POPダンス曲 | 最新K-pop女團舞曲#kpop #여자아이돌"
+      "title": "《노이즈 캔슬링 (Noise Canceling)》KPOP PLAYLIST 🔥| 2025 여자 아이돌 댄스곡 모음 | K-POPダンス曲 | 最新K-pop女團舞曲#kpop #여자아이돌",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "1rwPy-Rje0s",
-      "title": "【K POP DANCE PLAYLIST Vol.54 🔥】2025 여자 아이돌 댄스곡 모음 | 2025年 K-POPダンス曲 | 最新K-pop女團舞曲 #kpop #여자아이돌"
+      "title": "【K POP DANCE PLAYLIST Vol.54 🔥】2025 여자 아이돌 댄스곡 모음 | 2025年 K-POPダンス曲 | 最新K-pop女團舞曲 #kpop #여자아이돌",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "w2hpnWvPe2M",
-      "title": "【K POP DANCE PLAYLIST Vol.53 🔥】2025 여자 아이돌 댄스곡 모음 | 2025年 K-POPダンス曲 | 最新K-pop女團舞曲 #kpop #여자아이돌"
+      "title": "【K POP DANCE PLAYLIST Vol.53 🔥】2025 여자 아이돌 댄스곡 모음 | 2025年 K-POPダンス曲 | 最新K-pop女團舞曲 #kpop #여자아이돌",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "IwDwo0wX6Wo",
-      "title": "【K POP DANCE PLAYLIST Vol.52 🔥】2025 여자 아이돌 댄스곡 모음 | 2025年 K-POPダンス曲 | 最新K-pop女團舞曲 #kpop #여자아이돌"
+      "title": "【K POP DANCE PLAYLIST Vol.52 🔥】2025 여자 아이돌 댄스곡 모음 | 2025年 K-POPダンス曲 | 最新K-pop女團舞曲 #kpop #여자아이돌",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "LVY3_-HYl4M",
