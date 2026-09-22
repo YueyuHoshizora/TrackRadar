@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-09-22T17:30:52.366+08:00",
+  "lastUpdated": "2026-09-22T17:35:45.956+08:00",
   "latestVideo": {
     "videoId": "LoxbrVMv3Ng",
     "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
@@ -322,43 +322,63 @@
     },
     {
       "videoId": "l8XDLdekf4w",
-      "title": "【孤月歸處】若此世間無我故鄉，我自化作永恆月光丨 空靈女聲 × 古風詩意 × 仙俠虐戀｜高音質Lyrics Video"
+      "title": "【孤月歸處】若此世間無我故鄉，我自化作永恆月光丨 空靈女聲 × 古風詩意 × 仙俠虐戀｜高音質Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "oQEkJakapa8",
-      "title": "【古風甜曲】🦊《時晨曦》角色曲  一首讓你忍不住想跟著搖尾巴的歌！[SQ]"
+      "title": "【古風甜曲】🦊《時晨曦》角色曲  一首讓你忍不住想跟著搖尾巴的歌！[SQ]",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "hmIq_nvTs-w",
-      "title": "古風音樂1小時精選【璃煙】SQ高音質合輯｜Chinese Traditional Music Playlist (附歌詞)"
+      "title": "古風音樂1小時精選【璃煙】SQ高音質合輯｜Chinese Traditional Music Playlist (附歌詞)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "6c3luULcDF0",
-      "title": "【可是沒有你的夜】🎧 既然是我不對 為何心還這麼碎｜溫暖女聲與大提琴的深夜低喃 SQ高音質"
+      "title": "【可是沒有你的夜】🎧 既然是我不對 為何心還這麼碎｜溫暖女聲與大提琴的深夜低喃 SQ高音質",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "CxvrgDVgPP4",
-      "title": "【熱血古風】《當鋒》🎧《三國志·戰略版》五週年主題曲｜不一樣的滄桑男聲！這才是戰場的聲音 SQ高音質"
+      "title": "【熱血古風】《當鋒》🎧《三國志·戰略版》五週年主題曲｜不一樣的滄桑男聲！這才是戰場的聲音 SQ高音質",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "m3rhjyM5skE",
-      "title": "【古風】《歸去無念》踏雪無痕，歸去如煙。問君此生為誰忙？🍃 4K水墨禪境系列｜治癒系溫柔男聲 [SQ高音質] Lyrics Video"
+      "title": "【古風】《歸去無念》踏雪無痕，歸去如煙。問君此生為誰忙？🍃 4K水墨禪境系列｜治癒系溫柔男聲 [SQ高音質] Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "HF_QDg4xNWc",
-      "title": "【三國志·戰略版】龍爭虎鬥應援曲《赤壁鏖兵 V2 0》 海選首戰 2026 01 04  J爆剛剛好 VS 龍虎軍團4"
+      "title": "【三國志·戰略版】龍爭虎鬥應援曲《赤壁鏖兵 V2 0》 海選首戰 2026 01 04  J爆剛剛好 VS 龍虎軍團4",
+      "genre": "遊戲音樂 Game Music",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "JkdB7fISrR0",
-      "title": "【古風】《空山念》欲借飛雪寄相思，落滿離人肩上衣❄️ 4K空山宇宙系列｜超磁性低音砲 [SQ高音質] Lyrics Video"
+      "title": "【古風】《空山念》欲借飛雪寄相思，落滿離人肩上衣❄️ 4K空山宇宙系列｜超磁性低音砲 [SQ高音質] Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Q-gwceylr04",
-      "title": "【空山夢】情不知所起，一往而深    🦋 4K空山宇宙系列「莊周夢蝶」極致美學｜致敬空山辭｜牡丹亭 ｜ Lyrics Video"
+      "title": "【空山夢】情不知所起，一往而深    🦋 4K空山宇宙系列「莊周夢蝶」極致美學｜致敬空山辭｜牡丹亭 ｜ Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "mDLf230VwjE",
-      "title": "【空山青蓮天女】洗去敦煌萬丈沙，自見靈山在心底｜敦煌天女 × 絲路融合 × 磅礴梵音"
+      "title": "【空山青蓮天女】洗去敦煌萬丈沙，自見靈山在心底｜敦煌天女 × 絲路融合 × 磅礴梵音",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Zqf4yYm5NEc",
