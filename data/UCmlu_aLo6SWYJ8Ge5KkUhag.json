@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-09-22T17:40:47.945+08:00",
+  "lastUpdated": "2026-09-22T17:45:49.643+08:00",
   "latestVideo": {
     "videoId": "rzPOmBk9Ybk",
     "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "rzPOmBk9Ybk",
-      "title": "我不追了，卻還在痛《零度以下的灰燼》｜在零度以下，安然入眠｜放不下的人・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "F2aE8X7phTI",
-      "title": "我不想再用她的聲音愛你《沙啞的真跡》｜我寧可做我沙啞的真跡｜替身文學・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "你愛的不是我，是我像她《沙啞的真跡》｜我不再借她的聲，去安撫妳的靈魂｜替身文學・華語情歌｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -382,43 +382,63 @@
     },
     {
       "videoId": "xieekRNBPBY",
-      "title": "《末日前的最後一吻》｜該在黎明逼近時恐懼逃生，還是緊緊相擁迎接粉身碎骨的華麗墜落？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《末日前的最後一吻》｜該在黎明逼近時恐懼逃生，還是緊緊相擁迎接粉身碎骨的華麗墜落？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "2KZeQE6I5m0",
-      "title": "《被偷走的夜》｜該繼續對著空船與深淵瘋癲呼喊，還是承認連「我」都已經隨著妳被偷走？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《被偷走的夜》｜該繼續對著空船與深淵瘋癲呼喊，還是承認連「我」都已經隨著妳被偷走？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "Z1dRI2OqOns",
-      "title": "《認得名字的火》｜該繼續在暴雨中徒勞奔逃，還是轉身擁抱這團認得我名字的致命烈火？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《認得名字的火》｜該繼續在暴雨中徒勞奔逃，還是轉身擁抱這團認得我名字的致命烈火？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.31
     },
     {
       "videoId": "YYb7EwnE-d0",
-      "title": "【病態虐戀】沐霧月 《掌心的碎光》 | 握得越緊越痛，越痛越不放... (Official Lyric Audio)"
+      "title": "【病態虐戀】沐霧月 《掌心的碎光》 | 握得越緊越痛，越痛越不放... (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "1k2pRzSzYi8",
-      "title": "《透明的懸崖》｜該主動開口打破這搖搖欲墜的沉默，還是繼續在透明的懸崖邊自欺欺人？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《透明的懸崖》｜該主動開口打破這搖搖欲墜的沉默，還是繼續在透明的懸崖邊自欺欺人？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "S79XtyDWuDM",
-      "title": "【病態執念】沐霧月《半醒的蓑衣》 | 棋局不動，當作妳去溫酒的時差... ｜(Official Lyric Audio)"
+      "title": "【病態執念】沐霧月《半醒的蓑衣》 | 棋局不動，當作妳去溫酒的時差... ｜(Official Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "8oudJziLWzQ",
-      "title": "《風暴裡的靜音艙》｜該繼續用誓言築起窒息的牢籠，還是鬆開雙手在這偷來的靜謐夜裡相擁？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《風暴裡的靜音艙》｜該繼續用誓言築起窒息的牢籠，還是鬆開雙手在這偷來的靜謐夜裡相擁？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "ofXnmM7yoGY",
-      "title": "《慢格的火光》｜該繼續守著生鏽的鎖孔防備世界，還是心甘情願在妳慢格的吻裡安心失去自己？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《慢格的火光》｜該繼續守著生鏽的鎖孔防備世界，還是心甘情願在妳慢格的吻裡安心失去自己？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "HfNcIeeRg8w",
-      "title": "【史詩悲歌】《雪下的炭》| 怕身上的灰燼，弄髒妳一塵不染的歲月...｜沐霧月｜(Official Lyric Audio)"
+      "title": "【史詩悲歌】《雪下的炭》| 怕身上的灰燼，弄髒妳一塵不染的歲月...｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "hXKBtV0HQqs",
-      "title": "【中國風暗黑RnB】《深藍色的化身》心甘情願被綁住，旋轉至死不歇...｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【中國風暗黑RnB】《深藍色的化身》心甘情願被綁住，旋轉至死不歇...｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "bhuerc8xlZ4",
