@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-09-22T17:20:44.872+08:00",
+  "lastUpdated": "2026-09-22T17:25:43.982+08:00",
   "latestVideo": {
     "videoId": "LoxbrVMv3Ng",
     "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
@@ -202,43 +202,63 @@
     },
     {
       "videoId": "Lt9KDM_laYY",
-      "title": "【抒情古風】孤燈守月，等歸人｜時晨曦｜十月芙蓉・高音質 Lyric Video"
+      "title": "【抒情古風】孤燈守月，等歸人｜時晨曦｜十月芙蓉・高音質 Lyric Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "0EssV_0JKKA",
-      "title": "【土曜冥蓮】🎧一念魔，一念佛｜敦煌天女 × 絲路融合 × 磅礴梵音｜ 高音質 Lyric Video"
+      "title": "【土曜冥蓮】🎧一念魔，一念佛｜敦煌天女 × 絲路融合 × 磅礴梵音｜ 高音質 Lyric Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "jG_JWPBQ6x4",
-      "title": "【飛天祝壽・媽祖生】閩南歌｜天女祝壽歌｜筠芙得利 合作曲｜敦煌天女 × 絲路梵音｜媽祖聖誕歌曲｜Lyrics Video"
+      "title": "【飛天祝壽・媽祖生】閩南歌｜天女祝壽歌｜筠芙得利 合作曲｜敦煌天女 × 絲路梵音｜媽祖聖誕歌曲｜Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "8c4f6BVfH9o",
-      "title": "【水曜琉璃】🎧 藥師垂眸撫平十方化淨城｜敦煌天女 × 絲路融合 × 磅礴梵音｜高音質 Lyrics Video"
+      "title": "【水曜琉璃】🎧 藥師垂眸撫平十方化淨城｜敦煌天女 × 絲路融合 × 磅礴梵音｜高音質 Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "FSmSiyI3pj0",
-      "title": "【飛天破闕】 🎧 霓裳隨風天女翔｜敦煌天女 × 絲路融合 × 磅礴梵音｜ 高音質 Lyrics Video"
+      "title": "【飛天破闕】 🎧 霓裳隨風天女翔｜敦煌天女 × 絲路融合 × 磅礴梵音｜ 高音質 Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "LjG-eIi0bNM",
-      "title": "【月曜清涼】🎧月光菩薩🌙化作長夜護心蓮 ｜敦煌天女 × 絲路融合 × 磅礴梵音"
+      "title": "【月曜清涼】🎧月光菩薩🌙化作長夜護心蓮 ｜敦煌天女 × 絲路融合 × 磅礴梵音",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "bs7d5MdI930",
-      "title": "【千日醒】 🎧 提燈清明祭故人｜古風武俠 × 清明時分 × 少年白馬醉春風｜ 高音質 Lyrics Video"
+      "title": "【千日醒】 🎧 提燈清明祭故人｜古風武俠 × 清明時分 × 少年白馬醉春風｜ 高音質 Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "qNa5DL_YNP0",
-      "title": "【水色湛藍是海】 🎧 照不進你的藍 ｜空靈女聲 × 敘事抒情｜ 高音質 Lyrics Video"
+      "title": "【水色湛藍是海】 🎧 照不進你的藍 ｜空靈女聲 × 敘事抒情｜ 高音質 Lyrics Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "vqQR5fk2trE",
-      "title": "【日曜熾盛】🎧日光菩薩☀️萬古長明永不滅 ｜敦煌天女 × 絲路融合 × 磅礴梵音"
+      "title": "【日曜熾盛】🎧日光菩薩☀️萬古長明永不滅 ｜敦煌天女 × 絲路融合 × 磅礴梵音",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "U-ejY_P6UUI",
-      "title": "【你到底進來沒】🎧 曖昧期必聽告白歌｜華語流行 × 電子舞曲 ｜ 高音質 Lyrics Video"
+      "title": "【你到底進來沒】🎧 曖昧期必聽告白歌｜華語流行 × 電子舞曲 ｜ 高音質 Lyrics Video",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "-63bwstMH_Y",
