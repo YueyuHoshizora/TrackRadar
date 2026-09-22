@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-09-22T17:25:43.982+08:00",
+  "lastUpdated": "2026-09-22T17:30:52.366+08:00",
   "latestVideo": {
     "videoId": "LoxbrVMv3Ng",
     "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
@@ -262,43 +262,63 @@
     },
     {
       "videoId": "-63bwstMH_Y",
-      "title": "《福滿上元》🎧闔家團圓必聽首選 丨白狐狸 × 元宵節快樂｜ 高音質 Lyrics Video"
+      "title": "《福滿上元》🎧闔家團圓必聽首選 丨白狐狸 × 元宵節快樂｜ 高音質 Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "3w-Oj1fuQGE",
-      "title": "【破海而生】🎧岸上的人，總是離海面比較近｜高音質 Lyrics Video"
+      "title": "【破海而生】🎧岸上的人，總是離海面比較近｜高音質 Lyrics Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.36
     },
     {
       "videoId": "Nmr3OFeaiyc",
-      "title": "【江湖醉夢】🎧人生不過一場夢 × 俠客豪情 × 史詩古風｜ 高音質 Lyrics Video"
+      "title": "【江湖醉夢】🎧人生不過一場夢 × 俠客豪情 × 史詩古風｜ 高音質 Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "S1NrWXkdYJg",
-      "title": "【定軍山之戰】🎧三國志戰略版史詩戰歌｜高音質 Lyrics Video"
+      "title": "【定軍山之戰】🎧三國志戰略版史詩戰歌｜高音質 Lyrics Video",
+      "genre": "遊戲音樂 Game Music",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "rJgoQDwHm24",
-      "title": "【千江水千江月】🎧萬物皆空｜禪風雅韻 × 療癒樂曲 ｜高音質 Lyrics Video"
+      "title": "【千江水千江月】🎧萬物皆空｜禪風雅韻 × 療癒樂曲 ｜高音質 Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "b1Ug8vKEFNY",
-      "title": "【星燦天女】琉璃淨土之月華｜敦煌天女 × 絲路融合 × 磅礴梵音"
+      "title": "【星燦天女】琉璃淨土之月華｜敦煌天女 × 絲路融合 × 磅礴梵音",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "iTC8ZdfCGpg",
-      "title": "《晚安大小姐》還不睡嗎？想讓我...陪妳睡嗎？｜九黎陽【超磁性低音砲 / SQ高音質】Lyrics Video"
+      "title": "《晚安大小姐》還不睡嗎？想讓我...陪妳睡嗎？｜九黎陽【超磁性低音砲 / SQ高音質】Lyrics Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.31
     },
     {
       "videoId": "YDmx9-U-1i4",
-      "title": "《長庚契》此情靜謐深長 ❄️ 長庚為證・不負天荒｜九黎陽【超磁性低音砲 / SQ高音質】Lyrics Video"
+      "title": "《長庚契》此情靜謐深長 ❄️ 長庚為證・不負天荒｜九黎陽【超磁性低音砲 / SQ高音質】Lyrics Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "ldDa8Rhk_1E",
-      "title": "【九天玄女：玄鳥降世】🎧[SQ高音質]黑羽蔽天定禍亂，金甲神威斬魔魁｜史詩中式交響 × 寶誥戰歌 × 絲路融合"
+      "title": "【九天玄女：玄鳥降世】🎧[SQ高音質]黑羽蔽天定禍亂，金甲神威斬魔魁｜史詩中式交響 × 寶誥戰歌 × 絲路融合",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "ROCVWd-UuI8",
-      "title": "【空山雷】大黑天神（Mahakala）降臨空山雷雷音聲聲破世沉，一聲雷震魂｜藏傳重低音 × 黑暗史詩 × 破除魔障 [SQ高音質]"
+      "title": "【空山雷】大黑天神（Mahakala）降臨空山雷雷音聲聲破世沉，一聲雷震魂｜藏傳重低音 × 黑暗史詩 × 破除魔障 [SQ高音質]",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "l8XDLdekf4w",
