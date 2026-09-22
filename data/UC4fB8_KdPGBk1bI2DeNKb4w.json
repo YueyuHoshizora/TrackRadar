@@ -1,7 +1,7 @@
 {
   "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
   "channelTitle": "迷子 Maigo",
-  "lastUpdated": "2026-09-22T23:10:36.593+08:00",
+  "lastUpdated": "2026-09-22T23:15:35.736+08:00",
   "latestVideo": {
     "videoId": "UnLYmfA2ias",
     "title": "夏恋ノ残火 / 迷子 feat. 重音テト",
@@ -142,23 +142,33 @@
     },
     {
       "videoId": "aFEI2rFxROE",
-      "title": "【OpenTaiko】@HAO0321_Studio  - 戒斷反應｜自製譜面 (Chart by Maigo)"
+      "title": "【OpenTaiko】@HAO0321_Studio  - 戒斷反應｜自製譜面 (Chart by Maigo)",
+      "genre": "遊戲音樂 Game Music",
+      "genreConfidence": 0.36
     },
     {
       "videoId": "1d-tkeZLw2Q",
-      "title": "偽古風《一世紅塵劫》｜中文原創單曲『Maigo』《Lyricvideo》  ai音樂 #lyricvideo #古风 #maigo #古風"
+      "title": "偽古風《一世紅塵劫》｜中文原創單曲『Maigo』《Lyricvideo》  ai音樂 #lyricvideo #古风 #maigo #古風",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "aM5yTXOZj6g",
-      "title": "【オリジナル曲】情けない (Nasakenai)（沒出息）｜怒りと風刺のダークロック - Maigo"
+      "title": "【オリジナル曲】情けない (Nasakenai)（沒出息）｜怒りと風刺のダークロック - Maigo",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "KhPJKzUjOII",
-      "title": "【中文原創】浮生若夢 (Fu Sheng Ruo Meng)｜歲月靜好的治癒古風 - Maigo"
+      "title": "【中文原創】浮生若夢 (Fu Sheng Ruo Meng)｜歲月靜好的治癒古風 - Maigo",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "SGUHOm7n8oU",
-      "title": "「北条月」直播"
+      "title": "「北条月」直播",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.71
     }
   ]
 }
