@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-09-22T17:55:49.539+08:00",
+  "lastUpdated": "2026-09-22T18:00:59.263+08:00",
   "latestVideo": {
     "videoId": "rzPOmBk9Ybk",
     "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "rzPOmBk9Ybk",
-      "title": "分開才發現，痛進骨節《零度以下的灰燼》｜這是脫不掉的風濕，痛進骨節｜失戀後聽・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "F2aE8X7phTI",
-      "title": "我不想再用她的聲音愛你《沙啞的真跡》｜我寧可做我沙啞的真跡｜替身文學・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "你愛的不是我，是我像她《沙啞的真跡》｜我不再借她的聲，去安撫妳的靈魂｜替身文學・華語情歌｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -562,43 +562,63 @@
     },
     {
       "videoId": "Ndc6s0dhz_Y",
-      "title": "【宿命雙生】《纏繞的雪》不用說愛，這是一種無聲的歃血... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【宿命雙生】《纏繞的雪》不用說愛，這是一種無聲的歃血... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "TszHdAKWMCE",
-      "title": "【極致幻痛】《零度以下的灰燼》這是無法脫下的風濕，痛進骨節... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【極致幻痛】《零度以下的灰燼》這是無法脫下的風濕，痛進骨節... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "PIZxPhnnMeg",
-      "title": "【暗黑雙生曲】《背光的共犯》當太陽太累太燙，我們一起跳進深海的藍... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【暗黑雙生曲】《背光的共犯》當太陽太累太燙，我們一起跳進深海的藍... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "ziNYRZC1UuE",
-      "title": "【窒息】《溫柔溺斃》我們最大的問題，就是從來沒問題... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【窒息】《溫柔溺斃》我們最大的問題，就是從來沒問題... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "5XekTNi7Xpk",
-      "title": "【暗黑獻祭】《背日的向日葵》硬生生把頭扭向黑暗，頸椎在響，但我願意... ｜沐霧月｜(Official Lyric Video)"
+      "title": "【暗黑獻祭】《背日的向日葵》硬生生把頭扭向黑暗，頸椎在響，但我願意... ｜沐霧月｜(Official Lyric Video)",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.25
     },
     {
       "videoId": "BBPr3WRVu64",
-      "title": "【覺醒單曲】《失焦的聲紋》愛是什麼形狀？我不想再當替身... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【覺醒單曲】《失焦的聲紋》愛是什麼形狀？我不想再當替身... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "PpnAYMgLbOg",
-      "title": "【暗黑沉溺】《水底的玫紅》我不再上岸了...｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【暗黑沉溺】《水底的玫紅》我不再上岸了...｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "Rsnum1IBeEI",
-      "title": "《液態的幽靈 Liquid Ghost》把自己溺死在對妳的幻覺裡｜Dark Trip-Hop｜沐霧月｜(Official Audio)"
+      "title": "《液態的幽靈 Liquid Ghost》把自己溺死在對妳的幻覺裡｜Dark Trip-Hop｜沐霧月｜(Official Audio)",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "3VTCIZ2pYpI",
-      "title": "【冥界敘事曲】《滯留的銅錢》船夫說太重了，因為胸口裝著沒還完的虧欠... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【冥界敘事曲】《滯留的銅錢》船夫說太重了，因為胸口裝著沒還完的虧欠... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "WKZvLgH9u0Q",
-      "title": "【撕裂】《借來的皮膚》連擁抱都像是在，對著屍體敘舊...｜沐霧月｜(Official Lyric Audio)"
+      "title": "【撕裂】《借來的皮膚》連擁抱都像是在，對著屍體敘舊...｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "8359ITF4XVM",
