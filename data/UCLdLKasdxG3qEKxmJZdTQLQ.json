@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-09-22T17:50:41.914+08:00",
+  "lastUpdated": "2026-09-22T20:35:45.732+08:00",
   "latestVideo": {
     "videoId": "LoxbrVMv3Ng",
     "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
@@ -14,6 +14,12 @@
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "SzlaCTVKRX4",
+      "title": "《藏紅妝》16–20集合集｜明知道會受傷，還是選擇靠近｜古裝百合短劇",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.82
+    },
     {
       "videoId": "LoxbrVMv3Ng",
       "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
