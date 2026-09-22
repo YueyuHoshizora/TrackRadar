@@ -1,19 +1,25 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-19T14:50:28.222+08:00",
+  "lastUpdated": "2026-09-22T15:00:45.989+08:00",
   "latestVideo": {
-    "videoId": "YTy8H78Tp1s",
-    "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
-    "url": "https://www.youtube.com/watch?v=YTy8H78Tp1s",
-    "thumbnail": "https://i.ytimg.com/vi/YTy8H78Tp1s/maxresdefault.jpg",
-    "durationSeconds": 238,
-    "publishedAt": "2026-09-18T15:00:17.000+08:00",
-    "fetchedAt": "2026-09-19T14:08:22.616+08:00",
+    "videoId": "pLJRWKAlzH8",
+    "title": "🖤我好想你｜I Miss You So Much｜想你想到快要窒息，為什麼痛的人永遠只有我自己｜Official Music Video",
+    "url": "https://www.youtube.com/watch?v=pLJRWKAlzH8",
+    "thumbnail": "https://i.ytimg.com/vi/pLJRWKAlzH8/maxresdefault.jpg",
+    "durationSeconds": 186,
+    "publishedAt": "2026-09-22T15:00:00.000+08:00",
+    "fetchedAt": "2026-09-22T15:00:43.690+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.96
+    "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "pLJRWKAlzH8",
+      "title": "🖤我好想你｜I Miss You So Much｜想你想到快要窒息，為什麼痛的人永遠只有我自己｜Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
+    },
     {
       "videoId": "YTy8H78Tp1s",
       "title": "🖤從來沒有愛過｜You Never Loved Me｜最狠的不是你不愛我，是你明知道我會當真｜Official Music Video",
