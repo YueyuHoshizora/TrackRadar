@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-09-22T17:15:25.979+08:00",
+  "lastUpdated": "2026-09-22T17:15:45.873+08:00",
   "latestVideo": {
     "videoId": "LoxbrVMv3Ng",
     "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "Kb2KrZt1hao",
-      "title": "一夢一瞬，許你一生《一拜斷夢》原創古風歌曲"
+      "title": "一夢一瞬，許你一生《一拜斷夢》原創古風歌曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "i4u7ELj66Hg",
-      "title": "不是突然離開，是你早已越過底線《巨蟹退到殼裡》原創音樂｜十二星光圖鑑 × 凌之夢"
+      "title": "不是突然離開，是你早已越過底線《巨蟹退到殼裡》原創音樂｜十二星光圖鑑 × 凌之夢",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "DVxQls_kHiw",
-      "title": "古風原創歌曲《子非魚，何以量我》你又不是我，為何勸我放下？"
+      "title": "古風原創歌曲《子非魚，何以量我》你又不是我，為何勸我放下？",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "JABXJnZ0Rtg",
-      "title": "東方古風熱血原創曲《風華町》今夜不醉，永遠不歸丨音樂可視化版本"
+      "title": "東方古風熱血原創曲《風華町》今夜不醉，永遠不歸丨音樂可視化版本",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Z3FKN9Z4-94",
-      "title": "留下來喝酒！今夜不醉，永遠不歸《風華町》東方搖滾原創曲"
+      "title": "留下來喝酒！今夜不醉，永遠不歸《風華町》東方搖滾原創曲",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "--7vsw_JMxU",
-      "title": "不求此曲撼諸天，只願梵音滿人間《金曜弦音》敦煌天女 × 絲路融合 × 療癒音樂"
+      "title": "不求此曲撼諸天，只願梵音滿人間《金曜弦音》敦煌天女 × 絲路融合 × 療癒音樂",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "rPdrREvNfs4",
-      "title": "她奉命設下美人計，最後卻愛上呂布｜《鳳儀亭》三國古風原創曲"
+      "title": "她奉命設下美人計，最後卻愛上呂布｜《鳳儀亭》三國古風原創曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "5gwY4RDnS9k",
-      "title": "你還記得，誰的名字？《墨染狂瀾》🎧璃煙｜古風搖滾×中文原創【九狐殿抽籤第25籤・狐仙解籤】Official Lyric Video"
+      "title": "你還記得，誰的名字？《墨染狂瀾》🎧璃煙｜古風搖滾×中文原創【九狐殿抽籤第25籤・狐仙解籤】Official Lyric Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "ra1cWYdEkPc",
-      "title": "原來，你不會來找我了！《剎那芳華》J-Rock × 和風搖滾 × 原創音樂"
+      "title": "原來，你不會來找我了！《剎那芳華》J-Rock × 和風搖滾 × 原創音樂",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "28jBZOh8oMo",
-      "title": "【木曜孔雀】聖羽一箭破妖鷹｜敦煌天女 × 絲路融合 × 磅礴梵音"
+      "title": "【木曜孔雀】聖羽一箭破妖鷹｜敦煌天女 × 絲路融合 × 磅礴梵音",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "BY13rqqVlMk",
