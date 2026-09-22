@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T22:50:50.167+08:00",
+  "updatedAt": "2026-09-22T22:55:47.292+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -395,15 +395,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "sED1xy1gc0Y",
-        "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
-        "url": "https://www.youtube.com/watch?v=sED1xy1gc0Y",
-        "thumbnail": "https://i.ytimg.com/vi_webp/sED1xy1gc0Y/maxresdefault.webp?v=6a9d9568",
-        "durationSeconds": 228,
-        "publishedAt": "2026-09-07T12:00:06.000+08:00",
-        "fetchedAt": "2026-09-22T22:45:45.827+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "PBn-CJQvG6w",
+        "title": "全世界都往前了，我拒絕醒來《霓虹裡的失城者》｜繁華不變，嘲弄著我的靜止｜走不出一段感情・深夜情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方 MV",
+        "url": "https://www.youtube.com/watch?v=PBn-CJQvG6w",
+        "thumbnail": "https://i.ytimg.com/vi_webp/PBn-CJQvG6w/maxresdefault.webp?v=6aa1826c",
+        "durationSeconds": 294,
+        "publishedAt": "2026-09-10T12:00:06.000+08:00",
+        "fetchedAt": "2026-09-22T22:55:41.114+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.98
       }
     },
     {
