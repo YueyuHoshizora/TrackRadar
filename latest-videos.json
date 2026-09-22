@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T23:01:11.213+08:00",
+  "updatedAt": "2026-09-22T23:05:46.858+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -148,7 +148,7 @@
         "publishedAt": "2026-09-04T19:18:31.000+08:00",
         "fetchedAt": "2026-09-19T10:46:09.359+08:00",
         "genre": "動漫/ACG",
-        "genreConfidence": 0.6
+        "genreConfidence": 0.61
       }
     },
     {
