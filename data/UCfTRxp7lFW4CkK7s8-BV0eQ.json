@@ -1,7 +1,7 @@
 {
   "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
   "channelTitle": "RE:IGN(十二弦月 | 舞月)",
-  "lastUpdated": "2026-09-22T16:50:45.595+08:00",
+  "lastUpdated": "2026-09-22T16:55:45.725+08:00",
   "latestVideo": {
     "videoId": "SQdiIjYbfnk",
     "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
@@ -502,43 +502,63 @@
     },
     {
       "videoId": "UvWByOFXoI8",
-      "title": "【K POP PLAYLIST Vol.3 🔥】2025 여자 아이돌 노래 모음 | 알앤비/댄스 팝/일렉트로팝/힙합/트랩 |  最新K-pop舞曲播放清單 #kpop #여자아이돌"
+      "title": "【K POP PLAYLIST Vol.3 🔥】2025 여자 아이돌 노래 모음 | 알앤비/댄스 팝/일렉트로팝/힙합/트랩 |  最新K-pop舞曲播放清單 #kpop #여자아이돌",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "dCEsBktuNJU",
-      "title": "【K POP PLAYLIST Vol.2 🔥】2025 여자 아이돌 노래 모음 | 알앤비/댄스 팝/일렉트로팝/힙합/트랩 |  最新K-pop舞曲播放清單 #kpop #여자아이돌"
+      "title": "【K POP PLAYLIST Vol.2 🔥】2025 여자 아이돌 노래 모음 | 알앤비/댄스 팝/일렉트로팝/힙합/트랩 |  最新K-pop舞曲播放清單 #kpop #여자아이돌",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "x7nhNcwG1xQ",
-      "title": "【K POP PLAYLIST Vol.1 🔥】2025 여자 아이돌 노래 모음 | 알앤비/댄스 팝/일렉트로팝/힙합/트랩 |  最新K-pop舞曲播放清單 #kpop #여자아이돌"
+      "title": "【K POP PLAYLIST Vol.1 🔥】2025 여자 아이돌 노래 모음 | 알앤비/댄스 팝/일렉트로팝/힙합/트랩 |  最新K-pop舞曲播放清單 #kpop #여자아이돌",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "s9bqIpOKpv4",
-      "title": "Which ASMR Box Do You Like? | Ocean, Animals & Relax Sounds #asmr どの ASMR Box が好きですか？🌊✨"
+      "title": "Which ASMR Box Do You Like? | Ocean, Animals & Relax Sounds #asmr どの ASMR Box が好きですか？🌊✨",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "exFYj7Zk83c",
-      "title": "Relaxing Chill Music — 4 Hours of Calm Ambient Vibes with HD-2D Visuals & Nature Sounds 🌙✨"
+      "title": "Relaxing Chill Music — 4 Hours of Calm Ambient Vibes with HD-2D Visuals & Nature Sounds 🌙✨",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "A6i12tj0qjU",
-      "title": "Lo-Fi Beats for Relaxation 🎧 Calm, Soothing & Chill Vibes #LoFi #Relax リラックス・癒し・穏やかな時間"
+      "title": "Lo-Fi Beats for Relaxation 🎧 Calm, Soothing & Chill Vibes #LoFi #Relax リラックス・癒し・穏やかな時間",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "ZSvaAfKuP8I",
-      "title": "海洋氣息 Lo-Fi 助眠合輯 🌊💤｜潮聲入夢・月色海灣・深藍遙想・浪跡夢途（海浪聲）"
+      "title": "海洋氣息 Lo-Fi 助眠合輯 🌊💤｜潮聲入夢・月色海灣・深藍遙想・浪跡夢途（海浪聲）",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "bEcWsuym4gw",
-      "title": "森林氣息 Lo-Fi 助眠合輯 🌲💤｜葉語入夢・林間微光・夢行苔徑（鳥鳴＋水聲）"
+      "title": "森林氣息 Lo-Fi 助眠合輯 🌲💤｜葉語入夢・林間微光・夢行苔徑（鳥鳴＋水聲）",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "xX6zaSxnYNw",
-      "title": "「致我的回憶」原創音樂 · 仙劍奇俠傳 Official OST 致敬"
+      "title": "「致我的回憶」原創音樂 · 仙劍奇俠傳 Official OST 致敬",
+      "genre": "遊戲音樂 Game Music",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "tuMtmh8UDAQ",
-      "title": "仙劍奇俠傳 · Lo-Fi OST 合輯 🎧🌙 | 放鬆助眠音樂 (10 首完整版 + 章節)"
+      "title": "仙劍奇俠傳 · Lo-Fi OST 合輯 🎧🌙 | 放鬆助眠音樂 (10 首完整版 + 章節)",
+      "genre": "遊戲音樂 Game Music",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "dZYKyiUq7wo",
