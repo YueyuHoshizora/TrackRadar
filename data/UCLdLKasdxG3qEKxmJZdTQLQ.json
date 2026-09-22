@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-09-22T17:40:45.762+08:00",
+  "lastUpdated": "2026-09-22T17:45:48.073+08:00",
   "latestVideo": {
     "videoId": "LoxbrVMv3Ng",
     "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
@@ -442,43 +442,63 @@
     },
     {
       "videoId": "JyHnbmaYLSo",
-      "title": "【天女伏魔】霓裳飛舞斬魔龍，天女悲憫眾生化金剛｜敦煌天女 × 絲路融合 × 磅礴梵音"
+      "title": "【天女伏魔】霓裳飛舞斬魔龍，天女悲憫眾生化金剛｜敦煌天女 × 絲路融合 × 磅礴梵音",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "7MZiZREnbPQ",
-      "title": "【風華樓】霓裳羽衣舞翩翩 洛陽舊夢隨風轉丨古典舞樂  × 夢幻絕美 × 盛世風華丨SUNO AI"
+      "title": "【風華樓】霓裳羽衣舞翩翩 洛陽舊夢隨風轉丨古典舞樂  × 夢幻絕美 × 盛世風華丨SUNO AI",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "kWDYbaN6uC8",
-      "title": "【忘川】忘川彼岸「獨酌空餘恨」，提燈等一個不歸人... 🏮 昔日少年江湖夢，如今只剩舊傷伴此身"
+      "title": "【忘川】忘川彼岸「獨酌空餘恨」，提燈等一個不歸人... 🏮 昔日少年江湖夢，如今只剩舊傷伴此身",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "QHsmgT51W-s",
-      "title": "【哀唱草】等你等到化成一株草，無望愛戀在北方森林迴盪｜悲傷鋼琴弦樂 × 憂鬱民謠 × 禁忌之戀"
+      "title": "【哀唱草】等你等到化成一株草，無望愛戀在北方森林迴盪｜悲傷鋼琴弦樂 × 憂鬱民謠 × 禁忌之戀",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "xnMGbodsBfs",
-      "title": "【鄄城風雲】戰鼓描繪三國亂世沙場｜史詩級中國風戰歌 × 電影感配樂 × 熱血悲壯、宿命暖意"
+      "title": "【鄄城風雲】戰鼓描繪三國亂世沙場｜史詩級中國風戰歌 × 電影感配樂 × 熱血悲壯、宿命暖意",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "GPXtsEzxiK0",
-      "title": "【鄄城血戰】  中國風史詩交響樂 二胡  竹笛  戰鼓中國風 Music  史詩磅礴、金戈鐵馬  三國亂世"
+      "title": "【鄄城血戰】  中國風史詩交響樂 二胡  竹笛  戰鼓中國風 Music  史詩磅礴、金戈鐵馬  三國亂世",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "j8kD7iwIaIU",
-      "title": "【半盞茶】憶李蓮花｜古琴與簫聲交織的沉思 ｜唱出退隱江湖的釋然 ｜溫柔男聲古風歌曲"
+      "title": "【半盞茶】憶李蓮花｜古琴與簫聲交織的沉思 ｜唱出退隱江湖的釋然 ｜溫柔男聲古風歌曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "q7o42f5TL2Y",
-      "title": "【深宮怨系列】恨命由天 不由己，深宮鬼妃絕唱，青衣幽訴白骨悲歌｜古風悲歌× 淒美哀怨 × 宮廷悲劇"
+      "title": "【深宮怨系列】恨命由天 不由己，深宮鬼妃絕唱，青衣幽訴白骨悲歌｜古風悲歌× 淒美哀怨 × 宮廷悲劇",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "_3Rf5VGJu4Q",
-      "title": "【三國志戰略版】 ✨兗州之戰 ( 史詩中國風硬搖滾 )｜「這天下，是我曹操的霸業！」｜熱血激昂 磅礴國風 BGM｜SUNO AI｜（註： 這不是攻略！！！)"
+      "title": "【三國志戰略版】 ✨兗州之戰 ( 史詩中國風硬搖滾 )｜「這天下，是我曹操的霸業！」｜熱血激昂 磅礴國風 BGM｜SUNO AI｜（註： 這不是攻略！！！)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "5U6hDz41TdA",
-      "title": "【孤月歸處】你身即是歸處　你心即為光｜古風流行 × 仙俠情歌 × 淒美動人"
+      "title": "【孤月歸處】你身即是歸處　你心即為光｜古風流行 × 仙俠情歌 × 淒美動人",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "uqbcm0hHXtM",
