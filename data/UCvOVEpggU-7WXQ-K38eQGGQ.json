@@ -1,7 +1,7 @@
 {
   "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
   "channelTitle": "Moyamina",
-  "lastUpdated": "2026-09-22T17:35:48.249+08:00",
+  "lastUpdated": "2026-09-22T17:45:49.265+08:00",
   "latestVideo": null,
   "allVideoIds": [
     {
@@ -186,43 +186,63 @@
     },
     {
       "videoId": "Y8Av1rZC3Hk",
-      "title": "DEATH OF TIME | Dark Cyberpunk Electronic Official Video (Glitchcore / Gaming BGM)"
+      "title": "DEATH OF TIME | Dark Cyberpunk Electronic Official Video (Glitchcore / Gaming BGM)",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "GgJPWswun4w",
-      "title": "《回不去的風景》 (The Scenery We Can't Return To) 獻給心裡也有思念的人｜ Suno AI 催淚神曲 Official Lyric Video"
+      "title": "《回不去的風景》 (The Scenery We Can't Return To) 獻給心裡也有思念的人｜ Suno AI 催淚神曲 Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "-DNSDiaBKFc",
-      "title": "【日系哥德搖滾】《二律背反 (Antinomy)》 - 救贖篇 Redemption Ver. Official Music Video | 震撼心靈的哥德搖滾"
+      "title": "【日系哥德搖滾】《二律背反 (Antinomy)》 - 救贖篇 Redemption Ver. Official Music Video | 震撼心靈的哥德搖滾",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "Gkzv5ajuWys",
-      "title": "【日系暗黑病嬌】千萬別在晚上聽！《二律背反 Antinomy》小瘋子 Insane Ver. 💀 | Dark J-Pop 嬌氣全開的高速哥德搖滾｜Suno AI"
+      "title": "【日系暗黑病嬌】千萬別在晚上聽！《二律背反 Antinomy》小瘋子 Insane Ver. 💀 | Dark J-Pop 嬌氣全開的高速哥德搖滾｜Suno AI",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "KMShv14b4zk",
-      "title": "【Dark K-pop】《Midnight Shot》致命誘惑 🩸 暗黑系 Cyberpunk 男團風 K-Pop | 賽博龐克 R&B"
+      "title": "【Dark K-pop】《Midnight Shot》致命誘惑 🩸 暗黑系 Cyberpunk 男團風 K-Pop | 賽博龐克 R&B",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "z6hCEUMeb2Y",
-      "title": "Best Arrangement (I'm Okay) | Lo-Fi Pop / Chill R&B Official Audio (Rain Sounds / Late Night Drive)"
+      "title": "Best Arrangement (I'm Okay) | Lo-Fi Pop / Chill R&B Official Audio (Rain Sounds / Late Night Drive)",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "fcEMG1wwdRw",
-      "title": "【古風】說好的一輩子... 訴說程蝶衣的痴狂《蝶衣夢》| 霸王別姬致敬曲 Suno ai"
+      "title": "【古風】說好的一輩子... 訴說程蝶衣的痴狂《蝶衣夢》| 霸王別姬致敬曲 Suno ai",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "p_a88tPMxU0",
-      "title": "【華語厭世】《我想擺爛》I Just Want to Rot ｜社畜厭世發洩神曲 🎵 聽完明天還是得繼續上班 (Suno AI 原創音樂)"
+      "title": "【華語厭世】《我想擺爛》I Just Want to Rot ｜社畜厭世發洩神曲 🎵 聽完明天還是得繼續上班 (Suno AI 原創音樂)",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.28
     },
     {
       "videoId": "CWacYYXxQA8",
-      "title": "No Chase (Extended Vibe) | Smooth R&B / Lo-Fi Pop Official Audio (Late Night Loop Mix)"
+      "title": "No Chase (Extended Vibe) | Smooth R&B / Lo-Fi Pop Official Audio (Late Night Loop Mix)",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "mzpyW9Ag83c",
-      "title": "【Dark K-Pop】Six Beats Synchronize (식스 비츠) - 6IX BEATS | Dark K-Pop Rock | Cyberpunk Gaming Music"
+      "title": "【Dark K-Pop】Six Beats Synchronize (식스 비츠) - 6IX BEATS | Dark K-Pop Rock | Cyberpunk Gaming Music",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "IxDmUtf5NCM",
