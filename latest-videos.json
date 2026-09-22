@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T16:11:32.512+08:00",
+  "updatedAt": "2026-09-22T16:15:49.678+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -424,7 +424,17 @@
     {
       "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
       "channelTitle": "RE:IGN(十二弦月 | 舞月)",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "SQdiIjYbfnk",
+        "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
+        "url": "https://www.youtube.com/watch?v=SQdiIjYbfnk",
+        "thumbnail": "https://i.ytimg.com/vi_webp/SQdiIjYbfnk/maxresdefault.webp?v=6a11734b",
+        "durationSeconds": 220,
+        "publishedAt": "2026-05-23T17:36:31.000+08:00",
+        "fetchedAt": "2026-09-22T16:15:40.216+08:00",
+        "genre": "R&B/Soul",
+        "genreConfidence": 0.99
+      }
     }
   ]
 }
