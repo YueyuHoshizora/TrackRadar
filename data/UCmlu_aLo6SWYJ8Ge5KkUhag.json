@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-09-22T17:15:27.120+08:00",
+  "lastUpdated": "2026-09-22T17:15:46.705+08:00",
   "latestVideo": {
     "videoId": "rzPOmBk9Ybk",
     "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "3kSHZz6UGwE",
-      "title": "【沐霧月。熵增的永夜】 連難過，我都感覺不到了｜掙扎也好，不動也好，都一樣｜憂鬱麻木・撐不下去的夜｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。熵增的永夜】 連難過，我都感覺不到了｜掙扎也好，不動也好，都一樣｜憂鬱麻木・撐不下去的夜｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "ex925FQsYng",
-      "title": "【沐霧月。沒有影子的白】 別人只看見我風平浪靜｜沒人知道這層水面之下｜微笑憂鬱・假裝沒事撐著｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。沒有影子的白】 別人只看見我風平浪靜｜沒人知道這層水面之下｜微笑憂鬱・假裝沒事撐著｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "MhcuUMWSVBw",
-      "title": "【沐霧月。旱海的無聲處刑】 不見血，所以沒人看出來｜明明沒有一滴水，我卻沉進旱海｜微笑憂鬱・情緒耗竭｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。旱海的無聲處刑】 不見血，所以沒人看出來｜明明沒有一滴水，我卻沉進旱海｜微笑憂鬱・情緒耗竭｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "dccaMsMXNck",
-      "title": "【沐霧月。與幻影共溺】 我看著她下沉，沒有伸手｜因為水裡那張臉，是我｜病態沉溺・自我內耗｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。與幻影共溺】 我看著她下沉，沒有伸手｜因為水裡那張臉，是我｜病態沉溺・自我內耗｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "cEedptMGmCo",
-      "title": "【沐霧月。超載的深淵】 我背上的事一件疊著一件｜卻沒有一個人看見｜精神內耗・成年人的崩潰｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。超載的深淵】 我背上的事一件疊著一件｜卻沒有一個人看見｜精神內耗・成年人的崩潰｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "-PJHZ3L65eY",
-      "title": "【沐霧月。笑著失火的劇場】 台上是我，台下也是我｜沒人知道，我演得有多瘋｜假面人格・成年人的崩潰｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。笑著失火的劇場】 台上是我，台下也是我｜沒人知道，我演得有多瘋｜假面人格・成年人的崩潰｜沐霧月【Official Lyric Video】",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.22
     },
     {
       "videoId": "aDuDwcaXE0Y",
-      "title": "【沐霧月。被氧氣餵養的窒息】 妳把我舉得更高｜好讓鬆手那一下，我摔得更響｜焦逃配・病態沉溺｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。被氧氣餵養的窒息】 妳把我舉得更高｜好讓鬆手那一下，我摔得更響｜焦逃配・病態沉溺｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "3h-UpV4m2vA",
-      "title": "【沐霧月。被掏空的守望者】 追著追著，連自己都追丟了｜她什麼都沒贏，給掉的都是我｜單向付出・愛而不得｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。被掏空的守望者】 追著追著，連自己都追丟了｜她什麼都沒贏，給掉的都是我｜單向付出・愛而不得｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "U7HxrMWBv8g",
-      "title": "【沐霧月。唸佛成魔的屠夫】 我越唸，殺意越清醒｜讓刀停在半空的，是我還沒學會恨的自己｜暗黑國風・恨不了的人｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。唸佛成魔的屠夫】 我越唸，殺意越清醒｜讓刀停在半空的，是我還沒學會恨的自己｜暗黑國風・恨不了的人｜沐霧月【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "qOmtnI-Go7c",
-      "title": "【沐霧月。無菌室的毒藥】 這一次，我自己把門鎖上了｜妳拉住我，只是為了讓我摔得更響｜焦逃配・自我保護｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。無菌室的毒藥】 這一次，我自己把門鎖上了｜妳拉住我，只是為了讓我摔得更響｜焦逃配・自我保護｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "sa2ViZmi6MU",
