@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-09-22T18:00:59.263+08:00",
+  "lastUpdated": "2026-09-22T18:05:48.667+08:00",
   "latestVideo": {
     "videoId": "rzPOmBk9Ybk",
     "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "rzPOmBk9Ybk",
-      "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "我不追了，卻還在痛《零度以下的灰燼》｜在零度以下，安然入眠｜放不下的人・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "F2aE8X7phTI",
-      "title": "你愛的不是我，是我像她《沙啞的真跡》｜我不再借她的聲，去安撫妳的靈魂｜替身文學・華語情歌｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "我不想再用她的聲音愛你《沙啞的真跡》｜我寧可做我沙啞的真跡｜替身文學・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -622,43 +622,63 @@
     },
     {
       "videoId": "8359ITF4XVM",
-      "title": "【深夜emo】《一夜一夜》手機亮過又暗，訊息仍然是空白...｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【深夜emo】《一夜一夜》手機亮過又暗，訊息仍然是空白...｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "8b_z7gh7dL8",
-      "title": "【備胎輓歌】《人形的止痛藥》這段時間看著我，妳是在看誰的影子？｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【備胎輓歌】《人形的止痛藥》這段時間看著我，妳是在看誰的影子？｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "GLXKIHMMGEQ",
-      "title": "【雨夜沉浸】《液態迴響》做個永遠不撐傘的人...｜我就站在暴風中央｜沐霧月｜ (Official  Lyric Audio)"
+      "title": "【雨夜沉浸】《液態迴響》做個永遠不撐傘的人...｜我就站在暴風中央｜沐霧月｜ (Official  Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "OlJa9kHn9ZA",
-      "title": "【極致暗黑】《背光的共生》妳負責在陽光下燦爛，我負責在雨裡腐爛...｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【極致暗黑】《背光的共生》妳負責在陽光下燦爛，我負責在雨裡腐爛...｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "auYtVKH1JOY",
-      "title": "【毀滅系】《月光下的自囚》想捧月光給妳，妳連手都不收...｜霧月還在嗎？｜沐霧月｜ (Official Lyric Audio) 歌詞純享版"
+      "title": "【毀滅系】《月光下的自囚》想捧月光給妳，妳連手都不收...｜霧月還在嗎？｜沐霧月｜ (Official Lyric Audio) 歌詞純享版",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "AxBtYYbbg1k",
-      "title": "【深夜淚崩】《缺角的白瓷》從小被誇懂事，是不吵鬧的標籤...｜抱抱我，好嗎？｜沐霧月｜(Official Lyric Audio)"
+      "title": "【深夜淚崩】《缺角的白瓷》從小被誇懂事，是不吵鬧的標籤...｜抱抱我，好嗎？｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "IiOTCsfMKYk",
-      "title": "【古風終章】《雪下的無名碑》我看見「我」躺在那裡...｜那是褪下的蟬蛻 ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【古風終章】《雪下的無名碑》我看見「我」躺在那裡...｜那是褪下的蟬蛻 ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "mqFLqDD0SKs",
-      "title": "【驚悚反轉】《黃昏的替身》沒有畫船，也沒有夕陽...｜夢醒了，替身死在黃昏裡 ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【驚悚反轉】《黃昏的替身》沒有畫船，也沒有夕陽...｜夢醒了，替身死在黃昏裡 ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "NqSxBYUF9nY",
-      "title": "《被拉長的影子》傲霜的菊，待春的芍藥｜The Elongated Shadow｜錯亂的季節｜沐霧月｜ (Official  Lyric Audio)"
+      "title": "《被拉長的影子》傲霜的菊，待春的芍藥｜The Elongated Shadow｜錯亂的季節｜沐霧月｜ (Official  Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "O0pCB0s8ho4",
-      "title": "《雪原裡的紅妝》唇若剛飲過血，艷麗得像場災｜沐霧月｜Red Makeup in Snow｜國風驚艷"
+      "title": "《雪原裡的紅妝》唇若剛飲過血，艷麗得像場災｜沐霧月｜Red Makeup in Snow｜國風驚艷",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "glqQNLB4wVk",
