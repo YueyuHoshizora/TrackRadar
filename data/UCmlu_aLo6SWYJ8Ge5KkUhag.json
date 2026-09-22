@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-09-22T17:15:46.705+08:00",
+  "lastUpdated": "2026-09-22T17:20:49.069+08:00",
   "latestVideo": {
     "videoId": "rzPOmBk9Ybk",
     "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "rzPOmBk9Ybk",
-      "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "我不追了，卻還在痛《零度以下的灰燼》｜在零度以下，安然入眠｜放不下的人・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "F2aE8X7phTI",
-      "title": "你愛的不是我，是我像她《沙啞的真跡》｜我不再借她的聲，去安撫妳的靈魂｜替身文學・華語情歌｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "我不想再用她的聲音愛你《沙啞的真跡》｜我寧可做我沙啞的真跡｜替身文學・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "sa2ViZmi6MU",
-      "title": "【沐霧月。指尖上的避難所】 有人看見我還站著｜在我覺得自己是一灘泥濘的時候｜被接住・療癒系｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。指尖上的避難所】 有人看見我還站著｜在我覺得自己是一灘泥濘的時候｜被接住・療癒系｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "dSRGZUlwazc",
-      "title": "【沐霧月。浴火的抉擇】 只要妳走向我｜就會毫不猶豫地，再一次選擇妳｜重新去愛・療癒系｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。浴火的抉擇】 只要妳走向我｜就會毫不猶豫地，再一次選擇妳｜重新去愛・療癒系｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "hkdBFtYRM60",
-      "title": "【沐霧月。未命名的輪廓】 今夜，我不想再假裝下去｜字眼卡在鎖骨與咽喉裡｜說不出口・自我認同｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。未命名的輪廓】 今夜，我不想再假裝下去｜字眼卡在鎖骨與咽喉裡｜說不出口・自我認同｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "E-io0AOkavI",
-      "title": "【沐霧月。鬆開死結的雙手】 註定失去的，親手送它凋零｜困在密封的玻璃罐裡沉淪｜學會放手・分手後聽的歌｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。鬆開死結的雙手】 註定失去的，親手送它凋零｜困在密封的玻璃罐裡沉淪｜學會放手・分手後聽的歌｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "ct3YDZfRp8s",
-      "title": "【沐霧月。散落的雨中人】 不敢往前，也不敢往後｜困在狹窄細縫，左愛右痛｜卡住的關係・分手後聽的歌｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。散落的雨中人】 不敢往前，也不敢往後｜困在狹窄細縫，左愛右痛｜卡住的關係・分手後聽的歌｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "Er-g2pG3Cy8",
-      "title": "【沐霧月。無盡的單向軌道】 等一班永遠不來的車｜拿著過期車票，在月台等候｜單向付出・等一個人｜沐霧月【Official Lyric Video】"
+      "title": "【沐霧月。無盡的單向軌道】 等一班永遠不來的車｜拿著過期車票，在月台等候｜單向付出・等一個人｜沐霧月【Official Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "zUaVZepiC44",
-      "title": "🧵「傷口比大腦還要忠誠，既然妳不願回來撫平這縷紋，就讓我代替妳承擔這份冰冷。」｜《縫死在心口的線頭》｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "🧵「傷口比大腦還要忠誠，既然妳不願回來撫平這縷紋，就讓我代替妳承擔這份冰冷。」｜《縫死在心口的線頭》｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "fznf1ZShT2w",
-      "title": "🌧️「請讓每一滴水替我呼喚那個名字，天空替我哭出那些震耳欲聾的痛。」｜《墜落的靜音》｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "🌧️「請讓每一滴水替我呼喚那個名字，天空替我哭出那些震耳欲聾的痛。」｜《墜落的靜音》｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "uW_X4REaUlU",
-      "title": "❄️「感情的消亡從不是轟轟烈烈的爆炸，而是一場無聲無息的凍結與沖刷。」｜《記憶的凍傷》｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "❄️「感情的消亡從不是轟轟烈烈的爆炸，而是一場無聲無息的凍結與沖刷。」｜《記憶的凍傷》｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "JvrV3zzJQMo",
-      "title": "🚢「愛得太過溫柔，太害怕碰撞；無聲走向死亡，連告別都嫌太晚。」｜《無風的沉船》｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "🚢「愛得太過溫柔，太害怕碰撞；無聲走向死亡，連告別都嫌太晚。」｜《無風的沉船》｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "9amBEtv5c7E",
