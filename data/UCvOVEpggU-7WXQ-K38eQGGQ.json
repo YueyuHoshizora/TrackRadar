@@ -1,7 +1,7 @@
 {
   "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
   "channelTitle": "Moyamina",
-  "lastUpdated": "2026-09-22T17:20:48.901+08:00",
+  "lastUpdated": "2026-09-22T17:25:48.360+08:00",
   "latestVideo": null,
   "allVideoIds": [
     {
@@ -66,43 +66,63 @@
     },
     {
       "videoId": "IMZ3sgDxBmE",
-      "title": "【暗黑另類 R&B／療傷系】The Girl Who Made It Through｜妳撐過來了｜Moyamina"
+      "title": "【暗黑另類 R&B／療傷系】The Girl Who Made It Through｜妳撐過來了｜Moyamina",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "6drC1BjEwRI",
-      "title": "【暗黑另類流行】Stand by My Grave｜致過去的自己｜治癒系反霸凌之作｜Moyamina"
+      "title": "【暗黑另類流行】Stand by My Grave｜致過去的自己｜治癒系反霸凌之作｜Moyamina",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "XWQ5RYG0MDM",
-      "title": "【暗黑電影感流行】Under My Skin 甜蜜毒藥｜有毒的愛與情感戒斷｜Moyamina"
+      "title": "【暗黑電影感流行】Under My Skin 甜蜜毒藥｜有毒的愛與情感戒斷｜Moyamina",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "dFG2w2MWgVI",
-      "title": "〈Curated〉Industrial Darkwave 版｜末世感女聲 × 演算法的無盡推播｜Moyamina"
+      "title": "〈Curated〉Industrial Darkwave 版｜末世感女聲 × 演算法的無盡推播｜Moyamina",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "6jJwxFnl8qE",
-      "title": "【暗黑流行搖滾／反烏托邦】〈警報聲的搖籃曲 The Sirens' Lullaby〉｜重失真吉他 × 電影感敘事"
+      "title": "【暗黑流行搖滾／反烏托邦】〈警報聲的搖籃曲 The Sirens' Lullaby〉｜重失真吉他 × 電影感敘事",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "QQF51ygC888",
-      "title": "【哥德新金屬】灰燼中的搖籃曲｜空靈女聲與重型音牆爆發"
+      "title": "【哥德新金屬】灰燼中的搖籃曲｜空靈女聲與重型音牆爆發",
+      "genre": "金屬 Metal",
+      "genreConfidence": 1
     },
     {
       "videoId": "UEy3TZZJ6PI",
-      "title": "【交響新金屬】Not Anymore｜活成別人的期待之後，我終於不想再演了"
+      "title": "【交響新金屬】Not Anymore｜活成別人的期待之後，我終於不想再演了",
+      "genre": "金屬 Metal",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "_oH1c1EXzKI",
-      "title": "【冷感後龐／失戀系】I Don’t Care Anymore 我不在乎了｜越說不在乎，其實越放不下"
+      "title": "【冷感後龐／失戀系】I Don’t Care Anymore 我不在乎了｜越說不在乎，其實越放不下",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "CoY52htUjgY",
-      "title": "【憂鬱流行／深夜失戀】Your Cup Is Still Here 你的杯子還在這裡｜分手後那些沒動過的小事"
+      "title": "【憂鬱流行／深夜失戀】Your Cup Is Still Here 你的杯子還在這裡｜分手後那些沒動過的小事",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "VRpt32qkX-U",
-      "title": "【哥德敘事／清明主題】Paper Bones 紙骨｜用哥德之歌寫華人清明掃墓與追思"
+      "title": "【哥德敘事／清明主題】Paper Bones 紙骨｜用哥德之歌寫華人清明掃墓與追思",
+      "genre": "金屬 Metal",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "jVhLVAEFPwk",
