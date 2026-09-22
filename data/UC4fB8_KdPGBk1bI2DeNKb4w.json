@@ -1,5 +1,6 @@
 {
   "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
+  "forcedGenre": "Vocaloid",
   "channelTitle": "迷子 Maigo",
   "lastUpdated": "2026-09-19T13:55:23.418+08:00",
   "latestVideo": {
@@ -11,8 +12,7 @@
     "publishedAt": "2026-09-04T19:18:31.000+08:00",
     "fetchedAt": "2026-09-19T10:46:09.359+08:00",
     "genre": "動漫/ACG",
-    "genreConfidence": 0.6,
-    "forcedGenre": "Vocaloid"
+    "genreConfidence": 0.6
   },
   "allVideoIds": [
     {
