@@ -1,7 +1,7 @@
 {
   "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
   "channelTitle": "Moyamina",
-  "lastUpdated": "2026-09-22T17:45:49.265+08:00",
+  "lastUpdated": "2026-09-22T17:50:45.402+08:00",
   "latestVideo": null,
   "allVideoIds": [
     {
@@ -246,11 +246,15 @@
     },
     {
       "videoId": "IxDmUtf5NCM",
-      "title": "【Dark K-Pop】NO CHASE (노 체이스) - Suno AI | Dark K-Pop Remix | High Intensity Bass & Rap"
+      "title": "【Dark K-Pop】NO CHASE (노 체이스) - Suno AI | Dark K-Pop Remix | High Intensity Bass & Rap",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.84
     },
     {
       "videoId": "fln8ghwSS7g",
-      "title": "《 NO CHASE 》(Japanese) | Midnight City Pop Playlist | 適合夜間駕駛、放鬆的音樂"
+      "title": "《 NO CHASE 》(Japanese) | Midnight City Pop Playlist | 適合夜間駕駛、放鬆的音樂",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.9
     }
   ]
 }
