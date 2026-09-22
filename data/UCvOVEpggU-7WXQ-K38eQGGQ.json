@@ -1,7 +1,7 @@
 {
   "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
   "channelTitle": "Moyamina",
-  "lastUpdated": "2026-09-22T17:25:48.360+08:00",
+  "lastUpdated": "2026-09-22T17:35:48.249+08:00",
   "latestVideo": null,
   "allVideoIds": [
     {
@@ -126,43 +126,63 @@
     },
     {
       "videoId": "jVhLVAEFPwk",
-      "title": "【哥德電音 / 闇黑女王風】Ultimate Obsession 致命癡迷 | 臣服於絕對支配的致命誘惑"
+      "title": "【哥德電音 / 闇黑女王風】Ultimate Obsession 致命癡迷 | 臣服於絕對支配的致命誘惑",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "MOsMlIowts8",
-      "title": "Whiteout | Nu Metal / Gothic Rock Official Video"
+      "title": "Whiteout | Nu Metal / Gothic Rock Official Video",
+      "genre": "金屬 Metal",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "i7N5dQFDBPw",
-      "title": "【日系惡女向】甘い猛毒 (Sweet Venom) 甜蜜毒藥 - Industrial Bass Mix_Dark Electro 黑暗電子_日文原創_suno ai"
+      "title": "【日系惡女向】甘い猛毒 (Sweet Venom) 甜蜜毒藥 - Industrial Bass Mix_Dark Electro 黑暗電子_日文原創_suno ai",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "S7Wiz63QOGY",
-      "title": "【2026 WBC】紅土狂潮 Team Taiwan - 中華隊專屬應援曲 (Official Audio) | 世界棒球經典賽_一起為中華隊加油!"
+      "title": "【2026 WBC】紅土狂潮 Team Taiwan - 中華隊專屬應援曲 (Official Audio) | 世界棒球經典賽_一起為中華隊加油!",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.49
     },
     {
       "videoId": "KCgyGDwpK1o",
-      "title": "【賽博龐克-科幻】Cyberpunk Synthwave | The Cyber Rebirth - Moyamina (Coding BGM / Sci-Fi Music)"
+      "title": "【賽博龐克-科幻】Cyberpunk Synthwave | The Cyber Rebirth - Moyamina (Coding BGM / Sci-Fi Music)",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "Wosf9LoC8ZU",
-      "title": "【Dark K-Pop】 Slow Burn (슬로우 번) - Suno AI Energetic Girl Crush"
+      "title": "【Dark K-Pop】 Slow Burn (슬로우 번) - Suno AI Energetic Girl Crush",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "n8shkhARkW8",
-      "title": "【賽博龐克-迷幻】Dark Cyberpunk Electronic | The Ghost Party - Moyamina (Dark Clubbing / Gaming BGM)"
+      "title": "【賽博龐克-迷幻】Dark Cyberpunk Electronic | The Ghost Party - Moyamina (Dark Clubbing / Gaming BGM)",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
     },
     {
       "videoId": "1FWkQ7kS24o",
-      "title": "【Dark K-Pop】Crush (친구 이상) - Suno AI | Dark K-Pop R&B | Official Audio"
+      "title": "【Dark K-Pop】Crush (친구 이상) - Suno AI | Dark K-Pop R&B | Official Audio",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "6XljrSS7bzQ",
-      "title": "【哥德金屬】The Funeral of the Year (Male Ver.) - Gothic Metal & Heavy Rock | Suno AI (Official Audio)"
+      "title": "【哥德金屬】The Funeral of the Year (Male Ver.) - Gothic Metal & Heavy Rock | Suno AI (Official Audio)",
+      "genre": "金屬 Metal",
+      "genreConfidence": 1
     },
     {
       "videoId": "IYTPlZ2EaUo",
-      "title": "【賽博龐克-暗黑系】Dark Cyberpunk Electronic | DEATH OF TIME - Moyamina (Glitchcore / Gaming BGM)"
+      "title": "【賽博龐克-暗黑系】Dark Cyberpunk Electronic | DEATH OF TIME - Moyamina (Glitchcore / Gaming BGM)",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "Y8Av1rZC3Hk",
