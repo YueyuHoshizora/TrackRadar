@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-09-22T18:05:48.667+08:00",
+  "lastUpdated": "2026-09-22T18:10:50.553+08:00",
   "latestVideo": {
     "videoId": "rzPOmBk9Ybk",
     "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -22,7 +22,7 @@
     },
     {
       "videoId": "F2aE8X7phTI",
-      "title": "我不想再用她的聲音愛你《沙啞的真跡》｜我寧可做我沙啞的真跡｜替身文學・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "如果我不像她，你愛的是誰？《沙啞的真跡》｜與其做她完美的贋品｜被當成替身・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -682,43 +682,63 @@
     },
     {
       "videoId": "glqQNLB4wVk",
-      "title": "《無主的庭院》「在沒有妳的世界，美麗是種煎熬。」｜沐霧月｜(Official Lyric Audio)"
+      "title": "《無主的庭院》「在沒有妳的世界，美麗是種煎熬。」｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "PkVoeS7YTJI",
-      "title": "【致鬱】《雨中的祭壇》沈香混著煙草的張揚...｜雨擊打荷葉，像妳歸來的慌張｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【致鬱】《雨中的祭壇》沈香混著煙草的張揚...｜雨擊打荷葉，像妳歸來的慌張｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "gb3WAeTNXeY",
-      "title": "【古風虐戀】《燭淚封緘》長安花好，只是一句謊話...｜紅燭燒盡像血書｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【古風虐戀】《燭淚封緘》長安花好，只是一句謊話...｜紅燭燒盡像血書｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "CFa4pJGgino",
-      "title": "【卑微暗戀】《旱地行舟》這幾公分是幾光年的牆...｜沐霧月｜把愛意包裝成問候 (Official  Lyric Audio)"
+      "title": "【卑微暗戀】《旱地行舟》這幾公分是幾光年的牆...｜沐霧月｜把愛意包裝成問候 (Official  Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "SVBUUe6aaxE",
-      "title": "【私藏溫柔】《口袋裡的夜色》那是被我偷走的夜色，藏在口袋裡...｜左邊是過去，右邊是天亮｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【私藏溫柔】《口袋裡的夜色》那是被我偷走的夜色，藏在口袋裡...｜左邊是過去，右邊是天亮｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "PUPpIi5tums",
-      "title": "【遺憾美學】《摺痕裡的時差》風翻頁翻得太快，我還在讀上一行...｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【遺憾美學】《摺痕裡的時差》風翻頁翻得太快，我還在讀上一行...｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "PQLMdvxHIac",
-      "title": "【暗戀真相】《軌道上的失重》其實每天精心計算，出門秒數的精準...｜沐霧月｜偽裝成巧合的深情 (Official Lyric Audio)"
+      "title": "【暗戀真相】《軌道上的失重》其實每天精心計算，出門秒數的精準...｜沐霧月｜偽裝成巧合的深情 (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "tYbX4Sm5SKY",
-      "title": "「把自己稀釋乾淨，是我對這世界最後的體貼。」《第N次溶解》｜霧月 Xiaoloulou｜(Official Lyric Audio)"
+      "title": "「把自己稀釋乾淨，是我對這世界最後的體貼。」《第N次溶解》｜霧月 Xiaoloulou｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "GZu9HWMNecA",
-      "title": "《飛馳的黃昏》身體在前往未來，靈魂卻在原地生根...｜300km/h的孤獨 ｜沐霧月 ｜(Official Lyric Audio) #霧月詞"
+      "title": "《飛馳的黃昏》身體在前往未來，靈魂卻在原地生根...｜300km/h的孤獨 ｜沐霧月 ｜(Official Lyric Audio) #霧月詞",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "TRxpDQbIFts",
-      "title": "《旱地裡的沈船》這城市在內陸，妳卻說要趕最後一班船... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "《旱地裡的沈船》這城市在內陸，妳卻說要趕最後一班船... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.42
     },
     {
       "videoId": "J83v9U8_7pI",
