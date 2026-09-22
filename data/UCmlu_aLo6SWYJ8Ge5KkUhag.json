@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-09-22T18:20:47.342+08:00",
+  "lastUpdated": "2026-09-22T18:25:45.335+08:00",
   "latestVideo": {
     "videoId": "rzPOmBk9Ybk",
     "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "rzPOmBk9Ybk",
-      "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "我不追了，卻還在痛《零度以下的灰燼》｜在零度以下，安然入眠｜放不下的人・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "F2aE8X7phTI",
-      "title": "如果我不像她，你愛的是誰？《沙啞的真跡》｜與其做她完美的贋品｜被當成替身・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "你愛的不是我，是我像她《沙啞的真跡》｜我不再借她的聲，去安撫妳的靈魂｜替身文學・華語情歌｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -862,43 +862,63 @@
     },
     {
       "videoId": "_PyVe7BgsSo",
-      "title": "《液態迴響Liquid Echo》只要天一哭，我就能聽見妳的樣子...｜雨夜氛圍 Hip&Hop R&B｜沐霧月 #霧月詞 #lyricvideo"
+      "title": "《液態迴響Liquid Echo》只要天一哭，我就能聽見妳的樣子...｜雨夜氛圍 Hip&Hop R&B｜沐霧月 #霧月詞 #lyricvideo",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "Lg4mZ_5WcrQ",
-      "title": "《靈魂擲骰》沐霧月 Xiaoloulou｜當莫札特擲骰，連神都屏息"
+      "title": "《靈魂擲骰》沐霧月 Xiaoloulou｜當莫札特擲骰，連神都屏息",
+      "genre": "古典 Classical",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "f4VzHJAcpEE",
-      "title": "《未完的告別》沐霧月｜夜色裡的話，終究要說出來。"
+      "title": "《未完的告別》沐霧月｜夜色裡的話，終究要說出來。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
     },
     {
       "videoId": "SNew6-Ux3Fw",
-      "title": "《一夜一夜》沐霧月 ｜ 在失眠裡與幻影周旋的歌"
+      "title": "《一夜一夜》沐霧月 ｜ 在失眠裡與幻影周旋的歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.72
     },
     {
       "videoId": "xpbopXnqvnQ",
-      "title": "《玫瑰不在這裡生長》沐霧月 Xiaoloulou｜ R&B的深情靈魂與Pop的時尚流行完美交織，最能觸動心弦的都會情歌｜ / 失落中尋找希望的深情浪漫 / 適合深夜獨處、城市漫遊的都會浪漫音景"
+      "title": "《玫瑰不在這裡生長》沐霧月 Xiaoloulou｜ R&B的深情靈魂與Pop的時尚流行完美交織，最能觸動心弦的都會情歌｜ / 失落中尋找希望的深情浪漫 / 適合深夜獨處、城市漫遊的都會浪漫音景",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "6D1ntm-JCF4",
-      "title": "《關於我的愛人》沐霧月｜Ex or Lover, Still in My Veins｜夢裡與現實之間的灰色心跳，失落與愛，依然在夜裡迴響。"
+      "title": "《關於我的愛人》沐霧月｜Ex or Lover, Still in My Veins｜夢裡與現實之間的灰色心跳，失落與愛，依然在夜裡迴響。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "t2xgJrWm0BQ",
-      "title": "《枉然》沐霧月｜在霓虹裡碎裂的心，無法回返的夜與愛 || 徒勞的擁抱，無聲的痛，裂縫裡的心跳，沉沒於黑潮的愛。"
+      "title": "《枉然》沐霧月｜在霓虹裡碎裂的心，無法回返的夜與愛 || 徒勞的擁抱，無聲的痛，裂縫裡的心跳，沉沒於黑潮的愛。",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "SORa4cwOd3s",
-      "title": "《如果還是那樣》沐霧月 💝 即使夢碎千遍，仍無法放手｜R&B, 刻骨銘心的愛情重演, 深夜城市獨酌時刻,"
+      "title": "《如果還是那樣》沐霧月 💝 即使夢碎千遍，仍無法放手｜R&B, 刻骨銘心的愛情重演, 深夜城市獨酌時刻,",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
     },
     {
       "videoId": "_5bifpVZEJM",
-      "title": "《狂戀》沐霧月｜午夜沉溺，無法控制的愛慾 || 午夜情歌, 愛與沉溺, Baby tonight just 狂戀妳, 午夜流行電子R&B 中文原創"
+      "title": "《狂戀》沐霧月｜午夜沉溺，無法控制的愛慾 || 午夜情歌, 愛與沉溺, Baby tonight just 狂戀妳, 午夜流行電子R&B 中文原創",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "rMDxYL7FH-A",
-      "title": "《迷你戀愛》沐霧月｜Tonight’s for you, not the crowd || 城市霓虹與氣泡酒的微醺派對夜，迷你戀愛悄悄上演, Drinks or Coffee"
+      "title": "《迷你戀愛》沐霧月｜Tonight’s for you, not the crowd || 城市霓虹與氣泡酒的微醺派對夜，迷你戀愛悄悄上演, Drinks or Coffee",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.58
     },
     {
       "videoId": "TNYrrx9QvB4",
