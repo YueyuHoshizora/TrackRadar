@@ -1,8 +1,18 @@
 {
   "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
   "channelTitle": "Moyamina",
-  "lastUpdated": "2026-09-22T17:50:45.402+08:00",
-  "latestVideo": null,
+  "lastUpdated": "2026-09-22T18:10:41.373+08:00",
+  "latestVideo": {
+    "videoId": "H7aioXg6GnQ",
+    "title": "死神邀她跳完最後一支舞《The Last Step》｜哥德暗黑探戈",
+    "url": "https://www.youtube.com/watch?v=H7aioXg6GnQ",
+    "thumbnail": "https://i.ytimg.com/vi_webp/H7aioXg6GnQ/maxresdefault.webp",
+    "durationSeconds": 272,
+    "publishedAt": "2026-09-14T19:00:01.000+08:00",
+    "fetchedAt": "2026-09-22T18:10:40.751+08:00",
+    "genre": "拉丁 Latin",
+    "genreConfidence": 0.47
+  },
   "allVideoIds": [
     {
       "videoId": "H7aioXg6GnQ",
