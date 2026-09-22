@@ -1,7 +1,7 @@
 {
   "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
   "channelTitle": "迷子 Maigo",
-  "lastUpdated": "2026-09-22T23:05:36.457+08:00",
+  "lastUpdated": "2026-09-22T23:10:36.593+08:00",
   "latestVideo": {
     "videoId": "UnLYmfA2ias",
     "title": "夏恋ノ残火 / 迷子 feat. 重音テト",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "RAiK4jTItDc",
-      "title": "『徒花ノ涙』（Adabana no Namida）/ft.重音テト -迷子 Maigo"
+      "title": "『徒花ノ涙』（Adabana no Namida）/ft.重音テト -迷子 Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "rQKDb5n1Bdo",
-      "title": "『ホワイト・アウト・シグナル』（White Out Signal）/ft.重音テト -迷子 Maigo"
+      "title": "『ホワイト・アウト・シグナル』（White Out Signal）/ft.重音テト -迷子 Maigo",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.33
     },
     {
       "videoId": "0g-_EgIvFY8",
-      "title": "『拝啓、不器用な私から』（Haikei, Bukiyouna Watashi kara）/ft.重音テト -迷子 Maigo"
+      "title": "『拝啓、不器用な私から』（Haikei, Bukiyouna Watashi kara）/ft.重音テト -迷子 Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.44
     },
     {
       "videoId": "D-V5yI9fQXU",
-      "title": "『天使の裏垢』（Tenshi no Uraaka）/ft.重音テト -迷子 Maigo"
+      "title": "『天使の裏垢』（Tenshi no Uraaka）/ft.重音テト -迷子 Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "LYaovlHSPj8",
-      "title": "『天使の裏垢』/ft.重音テトSV2 鍵をかけた、裏垢の中。🦋 #重音テト #天使の裏垢 #ボカロ"
+      "title": "『天使の裏垢』/ft.重音テトSV2 鍵をかけた、裏垢の中。🦋 #重音テト #天使の裏垢 #ボカロ",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "hKpba7TXOK8",
-      "title": "『天使の裏垢』/ ft.重音テトSV2 天使の羽は、作り物。👼 #重音テト #天使の裏垢 #ボカロ"
+      "title": "『天使の裏垢』/ ft.重音テトSV2 天使の羽は、作り物。👼 #重音テト #天使の裏垢 #ボカロ",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "-BXTQgZjb1M",
-      "title": "【ボカロ演歌 / 重音テト】大寒・北の果て (Daikan - Kita no Hate)｜白い世界に響けよ、命燃やす心唄 - Maigo"
+      "title": "【ボカロ演歌 / 重音テト】大寒・北の果て (Daikan - Kita no Hate)｜白い世界に響けよ、命燃やす心唄 - Maigo",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.47
     },
     {
       "videoId": "r3n90sy_EKQ",
-      "title": "【ボカロ風 / 和風ロック】【MV】迎春・未来回廊 (Geishun Mirai Kairou)｜2026年、新たな夢の続きを始めましょう - Maigo #maigo #オリジナル曲 #ボカロ風"
+      "title": "【ボカロ風 / 和風ロック】【MV】迎春・未来回廊 (Geishun Mirai Kairou)｜2026年、新たな夢の続きを始めましょう - Maigo #maigo #オリジナル曲 #ボカロ風",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "dSotoZ1FkyM",
-      "title": "【ボカロ風】スノー・マジック｜君と過ごす奇跡のホワイトクリスマス  #suno #maigo #ボカロ風 #クリスマス"
+      "title": "【ボカロ風】スノー・マジック｜君と過ごす奇跡のホワイトクリスマス  #suno #maigo #ボカロ風 #クリスマス",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "juB2DGiv7Eo",
-      "title": "【ボカロ風】クリスマス滅絶計画｜リア充爆発しろ！聖夜の掃討作戦開始 #suno #maigo #ボカロ風 #クリスマス"
+      "title": "【ボカロ風】クリスマス滅絶計画｜リア充爆発しろ！聖夜の掃討作戦開始 #suno #maigo #ボカロ風 #クリスマス",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "aFEI2rFxROE",
