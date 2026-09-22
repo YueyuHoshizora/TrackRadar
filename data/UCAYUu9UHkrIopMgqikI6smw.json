@@ -1,7 +1,7 @@
 {
   "channelId": "UCAYUu9UHkrIopMgqikI6smw",
   "channelTitle": "空山和尚",
-  "lastUpdated": "2026-09-20T13:05:40.119+08:00",
+  "lastUpdated": "2026-09-22T12:00:54.242+08:00",
   "latestVideo": {
     "videoId": "un-ULt6ISkk",
     "title": "人這一生，到底在追什麼？｜《紅塵客》｜空山和尚",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.78
   },
   "allVideoIds": [
+    {
+      "videoId": "_XHPZ968Al4",
+      "title": "《空山和尚》｜人人都能是空山和尚｜走自己的路，修自己的心",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.69
+    },
     {
       "videoId": "un-ULt6ISkk",
       "title": "人這一生，到底在追什麼？｜《紅塵客》｜空山和尚",
