@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-09-22T17:45:49.643+08:00",
+  "lastUpdated": "2026-09-22T17:50:48.029+08:00",
   "latestVideo": {
     "videoId": "rzPOmBk9Ybk",
     "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -22,7 +22,7 @@
     },
     {
       "videoId": "F2aE8X7phTI",
-      "title": "你愛的不是我，是我像她《沙啞的真跡》｜我不再借她的聲，去安撫妳的靈魂｜替身文學・華語情歌｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "如果我不像她，你愛的是誰？《沙啞的真跡》｜與其做她完美的贋品｜被當成替身・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -442,43 +442,63 @@
     },
     {
       "videoId": "bhuerc8xlZ4",
-      "title": "【致命誘惑】《引燃的靜默》如果妳害怕這團火，現在逃跑還來得及...｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【致命誘惑】《引燃的靜默》如果妳害怕這團火，現在逃跑還來得及...｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "xjtV8TWowQM",
-      "title": "【病態冷讀】《時間的暗格》我把自己折疊起來，永遠從外側被反鎖... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【病態冷讀】《時間的暗格》我把自己折疊起來，永遠從外側被反鎖... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "y6nXMVt0Pk0",
-      "title": "【古風虐戀】《鐘裡的墨》我是困在鐘裡的遊魂，震不碎痴念的毒...｜沐霧月｜ (Official Lyric Audio)"
+      "title": "【古風虐戀】《鐘裡的墨》我是困在鐘裡的遊魂，震不碎痴念的毒...｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Ewo3NacML08",
-      "title": "【寫實崩潰】《裂縫裡的生還者》辦公室的洗手間，成了唯一的避難場景... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【寫實崩潰】《裂縫裡的生還者》辦公室的洗手間，成了唯一的避難場景... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.34
     },
     {
       "videoId": "wnK_P75kBis",
-      "title": "【病態清醒】《給裂縫上框》不要對我說會好起來，那只是逃避我痛苦的防禦... ｜沐霧月｜(Official Lyric Audio) 歌詞純享版沐霧月 和另外 5 位合作者"
+      "title": "【病態清醒】《給裂縫上框》不要對我說會好起來，那只是逃避我痛苦的防禦... ｜沐霧月｜(Official Lyric Audio) 歌詞純享版沐霧月 和另外 5 位合作者",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.74
     },
     {
       "videoId": "egvUdiD_okY",
-      "title": "《發光的單向鏡》按下鎖屏鍵，玻璃瞬間映出疲憊的防備｜沐霧月｜ (Official Lyric Audio)"
+      "title": "《發光的單向鏡》按下鎖屏鍵，玻璃瞬間映出疲憊的防備｜沐霧月｜ (Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.56
     },
     {
       "videoId": "PJBYZJdJm_0",
-      "title": "【中國風虐心】《鏡中霜》寧願妳恨我薄倖，至少我是妳最美的夢鄉... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【中國風虐心】《鏡中霜》寧願妳恨我薄倖，至少我是妳最美的夢鄉... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "j3MKzkE8R7w",
-      "title": "【深夜內耗】《靜音的崩塌》「你睡了嗎？」全選，刪除的掙扎... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【深夜內耗】《靜音的崩塌》「你睡了嗎？」全選，刪除的掙扎... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "zWhuc3nIpwU",
-      "title": "【令人膽寒的平靜】《逾期的歸還》一行行，刪除了我們的未來... ｜沐霧月｜(Official Lyric Audio)"
+      "title": "【令人膽寒的平靜】《逾期的歸還》一行行，刪除了我們的未來... ｜沐霧月｜(Official Lyric Audio)",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "fC0bKLcSy2Y",
-      "title": "【感情內耗】《未打勾的退場》妳說有在努力愛我，像努力戒菸早起的抗拒... ｜沐霧月｜(Official Lyirc Audio) 歌詞純享版"
+      "title": "【感情內耗】《未打勾的退場》妳說有在努力愛我，像努力戒菸早起的抗拒... ｜沐霧月｜(Official Lyirc Audio) 歌詞純享版",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "9aN5zMjZhjI",
