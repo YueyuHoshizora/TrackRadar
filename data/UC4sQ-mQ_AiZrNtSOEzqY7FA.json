@@ -1,34 +1,34 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-23T07:05:29.257+08:00",
+  "lastUpdated": "2026-09-23T07:20:29.254+08:00",
   "latestVideo": {
-    "videoId": "fMGBMxP5M4A",
-    "title": "一聲你好，剛好把從前放好｜一聲你好｜Yu Stellar｜星語",
-    "url": "https://www.youtube.com/watch?v=fMGBMxP5M4A",
-    "thumbnail": "https://i.ytimg.com/vi/fMGBMxP5M4A/maxresdefault.jpg",
-    "durationSeconds": 265,
-    "publishedAt": "2026-09-22T17:30:21.000+08:00",
-    "fetchedAt": "2026-09-22T18:10:28.318+08:00",
+    "videoId": "jFAA2ibMrB0",
+    "title": "把夏天收進紙箱，卻收不進那句再見｜紙箱裡的夏天｜Yu Stellar｜星語",
+    "url": "https://www.youtube.com/watch?v=jFAA2ibMrB0",
+    "thumbnail": "https://i.ytimg.com/vi/jFAA2ibMrB0/maxresdefault.jpg",
+    "durationSeconds": 192,
+    "publishedAt": "2026-09-23T05:30:14.000+08:00",
+    "fetchedAt": "2026-09-23T07:20:28.128+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.75
+    "genreConfidence": 0.79
   },
   "allVideoIds": [
     {
       "videoId": "jFAA2ibMrB0",
-      "title": "把夏天收進紙箱，卻收不進那句再見｜紙箱裡的夏天｜Yu Stellar｜星語",
+      "title": "紙箱裡的夏天｜寫給不得不告別的華語情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
     {
       "videoId": "fMGBMxP5M4A",
-      "title": "多年後在人群裡遇見你，我們只說了一句你好｜一聲你好｜Yu Stellar｜星語",
+      "title": "一聲你好，剛好把從前放好｜一聲你好｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
     {
       "videoId": "Vnmwxf1mCIY",
-      "title": "未完待續｜一首從遺憾走向重逢的終章情歌｜Yu Stellar｜星語",
+      "title": "告別、成長、重逢之後，我們的故事還沒完｜未完待續｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.68
     },
@@ -40,31 +40,31 @@
     },
     {
       "videoId": "Tae3s5cWMDM",
-      "title": "把明天留給我們｜寫給願意一起承擔未來的愛｜Yu Stellar｜星語",
+      "title": "走過告別與重逢，我們終於開始計畫同一個家｜把明天留給我們｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
     {
       "videoId": "CIv2Zqdz7o8",
-      "title": "回到舊城以前，我決定不再尋找你的身影｜同城預報｜Yu Stellar｜星語",
+      "title": "同城預報只說有雨，沒說我們會相遇｜同城預報｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
     {
       "videoId": "TP2X8ip_55Y",
-      "title": "這次慢慢愛｜給重逢後學會珍惜的溫柔情歌｜Yu Stellar｜星語",
+      "title": "錯過那麼多年，我們決定用日常慢慢靠近｜這次慢慢愛｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
+      "title": "遠方也明亮｜寫給真正放下比較與遺憾的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
     {
       "videoId": "VlPInz7dIDs",
-      "title": "不是回到從前｜寫給重新選擇彼此的愛情主題曲｜Yu Stellar｜星語",
+      "title": "重逢之後，最重要的不是回到從前｜不是回到從前｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "OtVXQi8Nm0Q",
-      "title": "星期三的湯｜寫給獨居生活重新有光的溫柔情歌｜Yu Stellar｜星語",
+      "title": "一個人吃飯的晚上，我終於學會照顧自己｜星期三的湯｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -100,7 +100,7 @@
     },
     {
       "videoId": "IRyuDXF3zrU",
-      "title": "你也走了很遠｜寫給多年後終於互相理解的兩個人｜Yu Stellar｜星語",
+      "title": "我以為只有我放不下，直到想起你也曾孤單｜你也走了很遠｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
@@ -130,25 +130,25 @@
     },
     {
       "videoId": "_zr28L0K774",
-      "title": "當兩個人的一天再也碰不到，愛會先斷線嗎？｜兩座時區｜Yu Stellar｜星語",
+      "title": "我們隔著兩座時區，把晚安說成了再見｜兩座時區｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
     {
       "videoId": "RLQCLGovr70",
-      "title": "當你的晚安成了我的早安，愛還能撐多久？｜不同時區的晚安｜Yu Stellar｜星語",
+      "title": "不同時區的晚安｜遠距離愛情最安靜的消耗｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "那晚我們沒有爭吵，只是各自走向不同明天｜月台以西｜Yu Stellar｜星語",
+      "title": "不是不愛，才在末班車前說再見｜月台以西｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "tr7okYyGTI0",
-      "title": "那年我們鬆開手，繞了一圈才懂得重逢｜我們在遠方告別｜Yu Stellar｜星語",
+      "title": "明明還相愛，卻只能在遠方告別｜我們在遠方告別｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "sfMp7JsxlsE",
-      "title": "憶。不回首｜古風女聲傷感情歌：緣盡後，把餘生還給流年｜Yu Stellar｜星語",
+      "title": "最難放下的不是你，是回不去的從前｜憶。不回首｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -184,7 +184,7 @@
     },
     {
       "videoId": "C_hmzYKi2C0",
-      "title": "不飲孟婆湯｜孟婆遞來那碗湯，她卻說：留給下一個人｜Yu Stellar｜星語",
+      "title": "不飲孟婆湯｜忘了你，重生又有什麼意義？｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.68
     },
