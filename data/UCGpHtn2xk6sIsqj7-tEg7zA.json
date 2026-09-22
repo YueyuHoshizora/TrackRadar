@@ -1,7 +1,7 @@
 {
   "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
   "channelTitle": "ChillVibes",
-  "lastUpdated": "2026-09-19T16:50:39.915+08:00",
+  "lastUpdated": "2026-09-22T21:05:37.305+08:00",
   "latestVideo": {
     "videoId": "1w0JaA9_ueQ",
     "title": "One Earbud Each｜一人一邊，分享安靜夜晚的溫暖 R&B · 夜行日記11（歌詞版）",
@@ -14,6 +14,12 @@
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "Tv3PnW0Rd_Y",
+      "title": "Leave the Light On｜為疲憊的夜留一盞燈・夜行日記 12（歌詞版）",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
+    },
     {
       "videoId": "1w0JaA9_ueQ",
       "title": "One Earbud Each｜一人一邊，分享安靜夜晚的溫暖 R&B · 夜行日記11（歌詞版）",
