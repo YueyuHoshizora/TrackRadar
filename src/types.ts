@@ -18,6 +18,7 @@ export interface ChannelListEntry {
   id: string;
   name: string;
   avatarUrl?: string;
+  forcedGenre?: string; // 強制使用 genres.json 中的分類，優先於 AI
 }
 
 /** 單支影片資料（存放於 data/<channelId>.json） */
@@ -29,7 +30,7 @@ export interface VideoRecord {
   durationSeconds: number;
   publishedAt: string; // ISO 8601 (UTC+8)，來自 watch page microformat，精確到日
   fetchedAt: string; // ISO 8601 (UTC+8)，本系統抓到這支影片的時間
-  genre?: string; // 由 TypeSafe Jev 根據標題判斷的曲風分類（genres.json 其中一項）
+  genre?: string; // AI 分類或頻道強制分類（genres.json 其中一項）
   genreConfidence?: number; // 0~1，該曲風分類的信心值
 }
 
@@ -41,7 +42,7 @@ export interface VideoRecord {
 export interface AllVideoEntry {
   videoId: string;
   title: string;
-  genre?: string; // 由 TypeSafe Jev 根據標題判斷的曲風分類（genres.json 其中一項）
+  genre?: string; // AI 分類或頻道強制分類（genres.json 其中一項）
   genreConfidence?: number; // 0~1
 }
 
@@ -51,6 +52,7 @@ export interface ChannelData {
   lastUpdated: string;
   latestVideo: VideoRecord | null;
   allVideoIds: AllVideoEntry[];
+  forcedGenre?: string; // 上次套用的強制分類；移除設定時用於清除舊分類
 }
 
 /** 摘要各頻道最新影片，寫在 repo 根目錄，方便一次掃過所有頻道現況 */

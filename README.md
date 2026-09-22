@@ -6,9 +6,15 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
 
 所有 JSON 內的日期時間欄位一律使用 UTC+8（台灣/中國標準時間）的 ISO 8601 格式（例如 `2026-09-19T20:00:00.000+08:00`），而非預設的 UTC。
 
-- `channels.json`（repo 根目錄）：要追蹤的頻道 ID 陣列，例如：
+- `channels.json`（repo 根目錄）：頻道設定陣列，`id` 為主鍵，`name` / `avatarUrl` 由 Worker 自動同步；`forcedGenre` 為選填：
   ```json
-  ["UC4sQ-mQ_AiZrNtSOEzqY7FA", "UCYyzOVPBHzhr_cFFJbGoymQ"]
+  [
+    {
+      "id": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
+      "name": "頻道名稱",
+      "forcedGenre": "古風/國風 Chinese Style"
+    }
+  ]
   ```
 - `latest-videos.json`（repo 根目錄）：彙整所有頻道目前最新影片的總覽檔，每次執行後整份重寫，方便一次掃過全部頻道現況而不必逐一開啟 `data/<channelId>.json`：
   ```json
@@ -41,6 +47,17 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
   ```
   - `latestVideo`：該頻道目前最新一支已過濾 Shorts/直播/首播的影片，供實際使用。
   - `allVideoIds`：該頻道「全部上傳影片」清單（新到舊），含播放清單標題與曲風分類，不經過濾。
+
+### 特定頻道強制分類
+
+在 `channels.json` 的頻道物件加入 `forcedGenre`，值必須與 `genres.json` 的分類名稱完全一致。未設定的頻道維持原本 AI 分類流程。
+
+- 下一輪排程會覆蓋該頻道既有及新增影片的分類，包含 `latestVideo`、`allVideoIds` 與 `latest-videos.json`；即使沒有新影片也會更新。
+- 強制分類不呼叫 AI、不需要 `TYPESAFE_API_KEY`，也不受每輪 AI 分類數量上限限制。`genreConfidence` 會移除，避免將人工指定誤認為模型信心值。
+- 修改 `forcedGenre` 會重新套用；刪除欄位會清除先前強制分類，恢復 AI 分類。歷史影片依每輪上限逐步補齊；未設定 API key 時維持未分類。
+- 設定存放在 GitHub，修改後不需重新部署。Worker 同步頻道名稱與頭像時會保留設定。
+- 無效分類會回報該頻道錯誤並保留原資料，不會寫入錯誤分類。YouTube 抓取失敗時，仍會嘗試將有效設定套用至快取影片。
+- `data/<channelId>.json` 的 `forcedGenre` 為 Worker 記錄上次套用設定的欄位，不要手動編輯。
 
 ## 抓取策略
 
@@ -81,6 +98,6 @@ YouTube 官方 RSS（`feeds/videos.xml`）曾作為快速偵測新影片的來�
    wrangler secret put ADMIN_TOKEN        # 選填，保護手動觸發端點 /run
    wrangler secret put TYPESAFE_API_KEY   # 選填，曲風分類用（呼叫 TypeSafe System One API 的 Jev），未設定則自動跳過分類
    ```
-4. 在目標 GitHub repo 建立 `channels.json`（頻道 ID 陣列）。
+4. 在目標 GitHub repo 建立 `channels.json`（格式見上方頻道設定陣列）。
 5. 部署：`npm run deploy`
 6. 手動測試（不必等 5 分鐘）：`GET https://track-radar.plain-leaf-e871.workers.dev/run?token=<ADMIN_TOKEN>`
