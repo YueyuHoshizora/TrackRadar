@@ -55,7 +55,7 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
 - 下一輪排程會覆蓋該頻道既有及新增影片的分類，包含 `latestVideo`、`allVideoIds` 與 `latest-videos.json`；即使沒有新影片也會更新。
 - 強制分類不呼叫 AI、不需要 `TYPESAFE_API_KEY`，也不受每輪 AI 分類數量上限限制。`genreConfidence` 會移除，避免將人工指定誤認為模型信心值。
 - 修改 `forcedGenre` 會重新套用；刪除欄位會清除先前強制分類，恢復 AI 分類。歷史影片依每輪上限逐步補齊；未設定 API key 時維持未分類。
-- 設定存放在 GitHub，修改後不需重新部署。Worker 同步頻道名稱與頭像時會保留設定。
+- 設定存放在 GitHub，修改後不需重新部署。`channels.json` 的 `forcedGenre` 只由人工管理；Worker 同步名稱與頭像前會重新讀取設定，只合併這兩個欄位。若讀取後又有人修改，SHA 版本檢查會拒絕寫入，本輪略過名稱／頭像同步，不覆蓋人工設定。
 - 無效分類會回報該頻道錯誤並保留原資料，不會寫入錯誤分類。YouTube 抓取失敗時，仍會嘗試將有效設定套用至快取影片。
 - `data/<channelId>.json` 的 `forcedGenre` 為 Worker 記錄上次套用設定的欄位，不要手動編輯。
 

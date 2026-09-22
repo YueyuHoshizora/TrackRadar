@@ -1,5 +1,5 @@
 import type { AllVideoEntry, ChannelData, ChannelListEntry, Env, LatestIndex, LatestIndexEntry, VideoRecord } from "./types";
-import { getJson, putJson } from "./github";
+import { getFile, getJson, putFile, putJson } from "./github";
 import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails, isValidChannelId, preferZhTitle } from "./youtube";
 import { evaluateVideo } from "./filter";
 import { toUtc8Iso } from "./time";
@@ -326,23 +326,35 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
 
   await Promise.all(Array.from({ length: Math.min(CONCURRENCY, channels.length) }, worker));
 
-  // 若這次抓到的頻道名稱/頭像與 channels.json 記錄不同（頻道改名或換頭像），同步寫回 channels.json
-  let channelsListChanged = false;
-  const updatedChannels = channels.map((c, i) => {
-    const fetchedTitle = outcomes[i]?.channelTitle;
-    const fetchedAvatarUrl = outcomes[i]?.channelAvatarUrl;
-    const nameDiffers = Boolean(fetchedTitle && fetchedTitle !== c.name);
-    const avatarDiffers = Boolean(fetchedAvatarUrl && fetchedAvatarUrl !== c.avatarUrl);
-    if (!nameDiffers && !avatarDiffers) return c;
-    channelsListChanged = true;
-    return {
-      ...c,
-      ...(nameDiffers ? { name: fetchedTitle as string } : {}),
-      ...(avatarDiffers ? { avatarUrl: fetchedAvatarUrl as string } : {}),
-    };
-  });
-  if (channelsListChanged) {
-    await putJson(env, env.CHANNELS_FILE, updatedChannels, "TrackRadar: sync channel names/avatars in channels.json [skip ci]");
+  // 只合併名稱/頭像至最新設定，絕不把本輪開始時的 forcedGenre 寫回。
+  // 讀取與寫入使用同一 SHA；期間有人修改時交由 GitHub 拒絕寫入。
+  try {
+    const file = await getFile(env, env.CHANNELS_FILE);
+    if (file) {
+      const currentChannels = JSON.parse(file.content) as ChannelListEntry[];
+      const outcomesById = new Map(outcomes.map((outcome) => [outcome.channelId, outcome]));
+      let channelsListChanged = false;
+      const updatedChannels = currentChannels.map((c) => {
+        const outcome = outcomesById.get(c?.id);
+        const fetchedTitle = outcome?.channelTitle;
+        const fetchedAvatarUrl = outcome?.channelAvatarUrl;
+        const nameDiffers = Boolean(fetchedTitle && fetchedTitle !== c.name);
+        const avatarDiffers = Boolean(fetchedAvatarUrl && fetchedAvatarUrl !== c.avatarUrl);
+        if (!nameDiffers && !avatarDiffers) return c;
+        channelsListChanged = true;
+        return {
+          ...c,
+          ...(nameDiffers ? { name: fetchedTitle as string } : {}),
+          ...(avatarDiffers ? { avatarUrl: fetchedAvatarUrl as string } : {}),
+        };
+      });
+      if (channelsListChanged) {
+        await putFile(env, env.CHANNELS_FILE, JSON.stringify(updatedChannels, null, 2) + "\n",
+          "TrackRadar: sync channel names/avatars in channels.json [skip ci]", file.sha);
+      }
+    }
+  } catch (err) {
+    console.error("TrackRadar: channel metadata sync failed; leaving channel settings unchanged", err);
   }
 
   // 根目錄彙整檔：一次掃過所有頻道目前最新影片，方便總覽（不需逐一開啟 data/<channelId>.json）
