@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T21:05:48.987+08:00",
+  "updatedAt": "2026-09-22T21:10:53.640+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -95,15 +95,15 @@
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "XnLNBPgERI4",
-        "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
-        "url": "https://www.youtube.com/watch?v=XnLNBPgERI4",
-        "thumbnail": "https://i.ytimg.com/vi_webp/XnLNBPgERI4/maxresdefault.webp",
-        "durationSeconds": 206,
-        "publishedAt": "2026-08-20T06:19:21.000+08:00",
-        "fetchedAt": "2026-09-22T21:00:52.031+08:00",
+        "videoId": "E8PK1SITqeg",
+        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+        "durationSeconds": 255,
+        "publishedAt": "2026-09-12T04:57:52.000+08:00",
+        "fetchedAt": "2026-09-22T21:10:32.090+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.99
+        "genreConfidence": 1
       }
     },
     {
@@ -185,13 +185,13 @@
       "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
       "channelTitle": "ChillVibes",
       "latestVideo": {
-        "videoId": "1w0JaA9_ueQ",
-        "title": "One Earbud Each｜一人一邊，分享安靜夜晚的溫暖 R&B · 夜行日記11（歌詞版）",
-        "url": "https://www.youtube.com/watch?v=1w0JaA9_ueQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/1w0JaA9_ueQ/maxresdefault.webp",
-        "durationSeconds": 192,
-        "publishedAt": "2026-09-18T21:00:13.000+08:00",
-        "fetchedAt": "2026-09-19T11:17:42.739+08:00",
+        "videoId": "Tv3PnW0Rd_Y",
+        "title": "Leave the Light On｜為疲憊的夜留一盞燈・夜行日記 12（歌詞版）",
+        "url": "https://www.youtube.com/watch?v=Tv3PnW0Rd_Y",
+        "thumbnail": "https://i.ytimg.com/vi_webp/Tv3PnW0Rd_Y/maxresdefault.webp",
+        "durationSeconds": 204,
+        "publishedAt": "2026-09-22T21:00:37.000+08:00",
+        "fetchedAt": "2026-09-22T21:10:40.268+08:00",
         "genre": "R&B/Soul",
         "genreConfidence": 1
       }
@@ -440,15 +440,15 @@
       "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
       "channelTitle": "璃煙",
       "latestVideo": {
-        "videoId": "LoxbrVMv3Ng",
-        "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
-        "url": "https://www.youtube.com/watch?v=LoxbrVMv3Ng",
-        "thumbnail": "https://i.ytimg.com/vi/LoxbrVMv3Ng/maxresdefault.jpg",
-        "durationSeconds": 131,
-        "publishedAt": "2026-09-18T11:23:31.000+08:00",
-        "fetchedAt": "2026-09-22T17:15:22.801+08:00",
+        "videoId": "SzlaCTVKRX4",
+        "title": "《藏紅妝》16–20集合集｜明知道會受傷，還是選擇靠近｜古裝百合短劇",
+        "url": "https://www.youtube.com/watch?v=SzlaCTVKRX4",
+        "thumbnail": "https://i.ytimg.com/vi_webp/SzlaCTVKRX4/maxresdefault.webp",
+        "durationSeconds": 631,
+        "publishedAt": "2026-09-22T20:31:57.000+08:00",
+        "fetchedAt": "2026-09-22T21:10:47.264+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 0.86
       }
     },
     {
