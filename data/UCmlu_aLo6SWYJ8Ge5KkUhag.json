@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-09-22T17:30:54.222+08:00",
+  "lastUpdated": "2026-09-22T17:40:47.945+08:00",
   "latestVideo": {
     "videoId": "rzPOmBk9Ybk",
     "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "rzPOmBk9Ybk",
-      "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "我不追了，卻還在痛《零度以下的灰燼》｜在零度以下，安然入眠｜放不下的人・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "F2aE8X7phTI",
-      "title": "你愛的不是我，是我像她《沙啞的真跡》｜我不再借她的聲，去安撫妳的靈魂｜替身文學・華語情歌｜霧月詞・沐霧月【Official Lyric Video】",
+      "title": "我不想再用她的聲音愛你《沙啞的真跡》｜我寧可做我沙啞的真跡｜替身文學・深夜情歌｜霧月詞・沐霧月【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -322,43 +322,63 @@
     },
     {
       "videoId": "jl6DBnRfALw",
-      "title": "《時間的潮汐》｜該繼續背著沉重的舊夢固執漂流，還是任由潮水完成這場最溫柔的放手？｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《時間的潮汐》｜該繼續背著沉重的舊夢固執漂流，還是任由潮水完成這場最溫柔的放手？｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "HKRpcF2KPac",
-      "title": "《軌道上的失重》｜該打破這一寸的距離勇敢牽手，還是繼續在樓下精算這場無聲的偶遇？｜沐霧月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《軌道上的失重》｜該打破這一寸的距離勇敢牽手，還是繼續在樓下精算這場無聲的偶遇？｜沐霧月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "5m9mwt9SaRE",
-      "title": "《韻腳裡的琥珀》｜該任由時間將妳的痕跡風化，還是把來不及說的痛封存在這顆琥珀裡？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《韻腳裡的琥珀》｜該任由時間將妳的痕跡風化，還是把來不及說的痛封存在這顆琥珀裡？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "PsXddQjQAGE",
-      "title": "《第N次溶解》｜該繼續在生產線上做一顆沒有糖衣的白藥片，還是任由自己被這座城市稀釋到連疲倦都省略？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《第N次溶解》｜該繼續在生產線上做一顆沒有糖衣的白藥片，還是任由自己被這座城市稀釋到連疲倦都省略？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "pTmOeb7TooY",
-      "title": "《鏡裡的無眠者》｜該在迷宮裡撞得頭破血流尋找出口，還是絕望地認命這殘酷的終點依然是妳懷裡？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《鏡裡的無眠者》｜該在迷宮裡撞得頭破血流尋找出口，還是絕望地認命這殘酷的終點依然是妳懷裡？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "bIbHlSAeEDI",
-      "title": "《不眠的守夜人》｜該閉上眼乞求夢境的施捨，還是自願清醒失眠用痛楚換取妳的不褪色？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《不眠的守夜人》｜該閉上眼乞求夢境的施捨，還是自願清醒失眠用痛楚換取妳的不褪色？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.7
     },
     {
       "videoId": "WEnSaH78epg",
-      "title": "《溺水者的藍調》｜該奮力掙脫這座回憶的藍色牢籠，還是心甘情願在妳的幽冥裡徹底溺死？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《溺水者的藍調》｜該奮力掙脫這座回憶的藍色牢籠，還是心甘情願在妳的幽冥裡徹底溺死？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "z_5hThFJywg",
-      "title": "《飛馳的黃昏》｜該拔掉那根生鏽的釘子重新開始，還是任由靈魂在原地生根拒絕癒合？｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《飛馳的黃昏》｜該拔掉那根生鏽的釘子重新開始，還是任由靈魂在原地生根拒絕癒合？｜沐霧月｜十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.45
     },
     {
       "videoId": "Sc4-WAmVOUg",
-      "title": "《幽夜的火種》｜該向虛空乞求一絲神明的救贖，還是擁抱這場粉身碎骨的華麗墜落？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《幽夜的火種》｜該向虛空乞求一絲神明的救贖，還是擁抱這場粉身碎骨的華麗墜落？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "7Ozeuc_nhXY",
-      "title": "《旱地裡的沈船》｜該清醒地拆穿這場沒有海的荒謬離別，還是守著折斷的桅杆在水泥森林裡獨自擱淺？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio"
+      "title": "《旱地裡的沈船》｜該清醒地拆穿這場沒有海的荒謬離別，還是守著折斷的桅杆在水泥森林裡獨自擱淺？｜沐霧月｜YT十二弦月｜動態歌詞｜Official Lyrics Audio",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "xieekRNBPBY",
