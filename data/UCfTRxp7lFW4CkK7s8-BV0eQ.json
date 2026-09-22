@@ -1,7 +1,7 @@
 {
   "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
   "channelTitle": "RE:IGN(十二弦月 | 舞月)",
-  "lastUpdated": "2026-09-22T16:55:45.725+08:00",
+  "lastUpdated": "2026-09-22T17:00:54.346+08:00",
   "latestVideo": {
     "videoId": "SQdiIjYbfnk",
     "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
@@ -562,43 +562,63 @@
     },
     {
       "videoId": "dZYKyiUq7wo",
-      "title": "孤劍之心 · Lo-Fi 幻夢夜 🌙"
+      "title": "孤劍之心 · Lo-Fi 幻夢夜 🌙",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "Q-anF99-egk",
-      "title": "難再相見 · Lo-Fi 懷舊助眠 🌌"
+      "title": "難再相見 · Lo-Fi 懷舊助眠 🌌",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "-JUozm7REwM",
-      "title": "相守與犧牲 · Lo-Fi 戲劇氛圍 🎭"
+      "title": "相守與犧牲 · Lo-Fi 戲劇氛圍 🎭",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.23
     },
     {
       "videoId": "WZNnu04G7vY",
-      "title": "相知之情 · Lo-Fi 溫暖旋律 🤝"
+      "title": "相知之情 · Lo-Fi 溫暖旋律 🤝",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.3
     },
     {
       "videoId": "L6IC9-alF8c",
-      "title": "初遇之戀 · Lo-Fi 浪漫氛圍 💕"
+      "title": "初遇之戀 · Lo-Fi 浪漫氛圍 💕",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "Re1V2jSRMbA",
-      "title": "醉劍之歌 · Lo-Fi 隨性流 🍶"
+      "title": "醉劍之歌 · Lo-Fi 隨性流 🍶",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "JyGHxAFLSuY",
-      "title": "少年劍俠主題曲 · 空靈雌雄莫辨之聲唱出劍仙俠骨柔情 🎼✨"
+      "title": "少年劍俠主題曲 · 空靈雌雄莫辨之聲唱出劍仙俠骨柔情 🎼✨",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.81
     },
     {
       "videoId": "5TQKT4B9e08",
-      "title": "靈動之音 · Lo-Fi 清晨節拍 🎐"
+      "title": "靈動之音 · Lo-Fi 清晨節拍 🎐",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "zcLcLs5g12s",
-      "title": "苦澀之戀 · Lo-Fi 女俠旋律 💔"
+      "title": "苦澀之戀 · Lo-Fi 女俠旋律 💔",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.31
     },
     {
       "videoId": "tG34-mxUNXw",
-      "title": "空靈之夢 · Lo-Fi 幻境 ✨"
+      "title": "空靈之夢 · Lo-Fi 幻境 ✨",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "NgJfhfjF5m0",
