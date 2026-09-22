@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-09-22T17:45:48.073+08:00",
+  "lastUpdated": "2026-09-22T17:50:41.914+08:00",
   "latestVideo": {
     "videoId": "LoxbrVMv3Ng",
     "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
@@ -502,11 +502,15 @@
     },
     {
       "videoId": "uqbcm0hHXtM",
-      "title": "【紅顏劫】- 古風女聲 💫 清冷女聲吟誦，古箏琵琶簫笛與弦樂交織，蒼涼入骨，宿命悲歌｜傳統古風悲歌 / 悲涼宿命、紅顏薄命 / 東方嫁衣 /SUNO AI"
+      "title": "【紅顏劫】- 古風女聲 💫 清冷女聲吟誦，古箏琵琶簫笛與弦樂交織，蒼涼入骨，宿命悲歌｜傳統古風悲歌 / 悲涼宿命、紅顏薄命 / 東方嫁衣 /SUNO AI",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "tO7Z0yInlAw",
-      "title": "三國志戰略版潼關之戰超詳細講解"
+      "title": "三國志戰略版潼關之戰超詳細講解",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.69
     }
   ]
 }
