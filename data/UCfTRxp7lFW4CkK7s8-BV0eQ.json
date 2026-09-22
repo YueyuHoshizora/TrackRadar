@@ -1,7 +1,7 @@
 {
   "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
   "channelTitle": "RE:IGN(十二弦月 | 舞月)",
-  "lastUpdated": "2026-09-22T17:00:54.346+08:00",
+  "lastUpdated": "2026-09-22T17:05:41.354+08:00",
   "latestVideo": {
     "videoId": "SQdiIjYbfnk",
     "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
@@ -622,7 +622,9 @@
     },
     {
       "videoId": "NgJfhfjF5m0",
-      "title": "流月之境 · Lo-Fi 仙劍混音 🌙"
+      "title": "流月之境 · Lo-Fi 仙劍混音 🌙",
+      "genre": "遊戲音樂 Game Music",
+      "genreConfidence": 0.81
     }
   ]
 }
