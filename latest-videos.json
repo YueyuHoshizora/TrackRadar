@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T08:40:42.495+08:00",
+  "updatedAt": "2026-09-23T08:45:43.718+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -304,15 +304,15 @@
       "channelId": "UCfHGjnH3G-Gwjh9kj281FZQ",
       "channelTitle": "Nova Bird",
       "latestVideo": {
-        "videoId": "6hSMyQ4klQ4",
-        "title": "《影渡町異聞：月下無影》｜「滿城尋他，滿城不見。」｜原創音樂故事",
-        "url": "https://www.youtube.com/watch?v=6hSMyQ4klQ4",
-        "thumbnail": "https://i.ytimg.com/vi_webp/6hSMyQ4klQ4/maxresdefault.webp?v=6aa6bc78",
-        "durationSeconds": 286,
-        "publishedAt": "2026-09-13T23:13:36.000+08:00",
-        "fetchedAt": "2026-09-19T13:55:50.261+08:00",
+        "videoId": "TIM0RSK_tKU",
+        "title": "「狼族報恩，從不挑人，挑的是命裡那段空白」｜《影渡町異聞III：山月與銀狼》｜原創歌曲",
+        "url": "https://www.youtube.com/watch?v=TIM0RSK_tKU",
+        "thumbnail": "https://i.ytimg.com/vi_webp/TIM0RSK_tKU/maxresdefault.webp",
+        "durationSeconds": 273,
+        "publishedAt": "2026-09-23T08:30:22.000+08:00",
+        "fetchedAt": "2026-09-23T08:45:33.210+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.99
+        "genreConfidence": 0.83
       }
     },
     {
@@ -422,7 +422,7 @@
     },
     {
       "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
-      "channelTitle": "RE:IGN(十二弦月 | 舞月)",
+      "channelTitle": "RE:IGN",
       "latestVideo": {
         "videoId": "SQdiIjYbfnk",
         "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
