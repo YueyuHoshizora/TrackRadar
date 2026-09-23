@@ -11,6 +11,9 @@ on:
       - "channels.json"
   workflow_dispatch: {}
 
+permissions:
+  contents: read
+
 concurrency:
   group: trigger-run-on-channel-change
   cancel-in-progress: false
