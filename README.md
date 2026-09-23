@@ -4,6 +4,8 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
 
 ## 資料儲存格式
 
+公開資料的基礎網址為 [`https://data.a-music.app/`](https://data.a-music.app/)。各 JSON 檔案可直接接在此網址後方存取，例如 [`latest-videos.json`](https://data.a-music.app/latest-videos.json)、[`channels.json`](https://data.a-music.app/channels.json) 與 `data/<channelId>.json`。
+
 所有 JSON 內的日期時間欄位一律使用 UTC+8（台灣/中國標準時間）的 ISO 8601 格式（例如 `2026-09-19T20:00:00.000+08:00`），而非預設的 UTC。
 
 - `channels.json`（repo 根目錄）：頻道設定陣列，`id` 為主鍵，`name` / `avatarUrl` 由 Worker 自動同步；`forcedGenre` 為選填：
