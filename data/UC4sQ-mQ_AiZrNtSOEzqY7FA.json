@@ -1,19 +1,25 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-24T05:25:52.049+08:00",
+  "lastUpdated": "2026-09-24T05:30:52.396+08:00",
   "latestVideo": {
-    "videoId": "-qNX4NkaFsI",
-    "title": "重逢之後，我更像我，不必再為誰回頭｜重逢之後｜Yu Stellar｜星語",
-    "url": "https://www.youtube.com/watch?v=-qNX4NkaFsI",
-    "thumbnail": "https://i.ytimg.com/vi/-qNX4NkaFsI/maxresdefault.jpg",
-    "durationSeconds": 324,
-    "publishedAt": "2026-09-23T17:30:15.000+08:00",
-    "fetchedAt": "2026-09-23T17:30:50.687+08:00",
+    "videoId": "mRaq4gducE4",
+    "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
+    "url": "https://www.youtube.com/watch?v=mRaq4gducE4",
+    "thumbnail": "https://i.ytimg.com/vi/mRaq4gducE4/maxresdefault.jpg",
+    "durationSeconds": 122,
+    "publishedAt": "2026-09-24T05:30:23.000+08:00",
+    "fetchedAt": "2026-09-24T05:30:50.846+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.94
+    "genreConfidence": 0.73
   },
   "allVideoIds": [
+    {
+      "videoId": "mRaq4gducE4",
+      "title": "天還沒亮，我先學著把自己帶穩｜六點十分｜Yu Stellar｜星語",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.73
+    },
     {
       "videoId": "-qNX4NkaFsI",
       "title": "重逢之後｜從告別走向完整自己的療癒終章｜Yu Stellar｜星語",
@@ -28,7 +34,7 @@
     },
     {
       "videoId": "fMGBMxP5M4A",
-      "title": "一聲你好｜寫給不復合卻溫柔圓滿的重逢情歌｜Yu Stellar｜星語",
+      "title": "一聲你好，剛好把從前放好｜一聲你好｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
@@ -52,7 +58,7 @@
     },
     {
       "videoId": "CIv2Zqdz7o8",
-      "title": "同城預報｜多年後重返故城的電影感情歌｜Yu Stellar｜星語",
+      "title": "同城預報只說有雨，沒說我們會相遇｜同城預報｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -130,13 +136,13 @@
     },
     {
       "videoId": "nXMpNlR50t8",
-      "title": "分開後第一次整理房間，也整理了自己｜沒有你的新生活｜Yu Stellar｜星語",
+      "title": "沒有你的新生活｜寫給正在獨自重新開始的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
     {
       "videoId": "_zr28L0K774",
-      "title": "兩座時區｜遠距離愛情走向沉默的華語情歌｜Yu Stellar｜星語",
+      "title": "我們隔著兩座時區，把晚安說成了再見｜兩座時區｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -160,7 +166,7 @@
     },
     {
       "videoId": "ejhtg1ukR-o",
-      "title": "分手後再遇見，她只想問一句「最近還好嗎」｜〈不同的城市〉",
+      "title": "〈不同的城市〉遠距離戀愛終章｜療癒系華語抒情女聲",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
