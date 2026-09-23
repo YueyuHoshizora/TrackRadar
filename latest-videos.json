@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T21:11:07.654+08:00",
+  "updatedAt": "2026-09-23T21:16:08.933+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "Top7T6uaMkc",
-        "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
-        "url": "https://www.youtube.com/watch?v=Top7T6uaMkc",
-        "thumbnail": "https://i.ytimg.com/vi/Top7T6uaMkc/maxresdefault.jpg",
-        "durationSeconds": 254,
-        "publishedAt": "2026-09-16T20:11:33.000+08:00",
-        "fetchedAt": "2026-09-23T21:10:51.284+08:00",
+        "videoId": "M-z4TJ7mCpQ",
+        "title": "《月老》｜她替所有人牽紅線，結果自己先被牽走了【國風歌曲・月老紅線・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=M-z4TJ7mCpQ",
+        "thumbnail": "https://i.ytimg.com/vi/M-z4TJ7mCpQ/maxresdefault.jpg",
+        "durationSeconds": 243,
+        "publishedAt": "2026-09-19T16:54:34.000+08:00",
+        "fetchedAt": "2026-09-23T21:15:50.985+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.53
+        "genreConfidence": 1
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "_qo3tNhFo7I",
-        "title": "《明日邊界2147》平凡的一天｜AN ORDINARY DAY — 新加坡2147 世界氛圍音樂｜Singapore 2147 World Ambience",
-        "url": "https://www.youtube.com/watch?v=_qo3tNhFo7I",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_qo3tNhFo7I/maxresdefault.webp",
-        "durationSeconds": 264,
-        "publishedAt": "2026-08-22T01:00:13.000+08:00",
-        "fetchedAt": "2026-09-23T21:05:55.496+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.79
+        "videoId": "qGc_gkTS0KY",
+        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
+        "durationSeconds": 253,
+        "publishedAt": "2026-09-15T18:32:58.000+08:00",
+        "fetchedAt": "2026-09-23T21:15:54.614+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.28
       }
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
-      "channelTitle": "Aria艾莉亞",
+      "channelTitle": "Aria",
       "latestVideo": {
         "videoId": "q6L3WZAbAYk",
         "title": "不用把所有期待，都揹得太重｜《把心事借給晚風》Aria艾莉亞 Official Lyric Video",
