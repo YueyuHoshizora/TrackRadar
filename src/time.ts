@@ -6,3 +6,8 @@ export function toUtc8Iso(date: Date): string {
   const shifted = new Date(date.getTime() + 8 * 60 * 60 * 1000);
   return shifted.toISOString().replace("Z", "+08:00");
 }
+
+/** 將日期格式化為每輪更新 tag，例如 "v20260923-143052.123"（UTC+8）。 */
+export function toVersionTag(date: Date): string {
+  return `v${toUtc8Iso(date).replace(/[-:]/g, "").replace("T", "-").replace("+0800", "")}`;
+}

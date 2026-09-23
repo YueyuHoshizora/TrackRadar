@@ -1,9 +1,14 @@
 import type { Env } from "./types";
+import { toUtc8Iso } from "./time";
 
 const API_BASE = "https://api.github.com";
 
+function repoApiUrl(env: Env, path: string): string {
+  return `${API_BASE}/repos/${env.GITHUB_OWNER}/${env.GITHUB_REPO}/${path}`;
+}
+
 function apiUrl(env: Env, path: string): string {
-  return `${API_BASE}/repos/${env.GITHUB_OWNER}/${env.GITHUB_REPO}/contents/${path}`;
+  return repoApiUrl(env, `contents/${path}`);
 }
 
 function headers(env: Env): Record<string, string> {
@@ -52,14 +57,14 @@ export async function getJson<T>(env: Env, path: string): Promise<T | null> {
   return JSON.parse(file.content) as T;
 }
 
-/** 建立或更新檔案 */
+/** 建立或更新檔案，回傳新 commit SHA */
 export async function putFile(
   env: Env,
   path: string,
   content: string,
   message: string,
   sha?: string
-): Promise<void> {
+): Promise<string> {
   const body: Record<string, unknown> = {
     message,
     content: toBase64(content),
@@ -79,11 +84,58 @@ export async function putFile(
   if (!res.ok) {
     throw new Error(`GitHub putFile(${path}) failed: ${res.status} ${await res.text()}`);
   }
+  const json = (await res.json()) as { commit?: { sha?: string } };
+  const commitSha = json.commit?.sha;
+  if (!commitSha) {
+    throw new Error(`GitHub putFile(${path}) response missing commit SHA`);
+  }
+  return commitSha;
 }
 
-/** 建立或更新 JSON 檔案（自動取得目前 sha） */
-export async function putJson(env: Env, path: string, data: unknown, message: string): Promise<void> {
+/** 建立或更新 JSON 檔案（自動取得目前 sha），回傳新 commit SHA */
+export async function putJson(env: Env, path: string, data: unknown, message: string): Promise<string> {
   const existing = await getFile(env, path);
   const content = JSON.stringify(data, null, 2) + "\n";
-  await putFile(env, path, content, message, existing?.sha);
+  return putFile(env, path, content, message, existing?.sha);
+}
+
+/** 在指定 commit 建立 annotated tag，內容列出本輪修改的頻道 ID。 */
+export async function createUpdateTag(
+  env: Env,
+  tag: string,
+  commitSha: string,
+  channelIds: string[]
+): Promise<void> {
+  const message = `TrackRadar JSON update\n\nChanged channels:\n${channelIds.map((id) => `- ${id}`).join("\n")}`;
+  const tagRes = await fetch(repoApiUrl(env, "git/tags"), {
+    method: "POST",
+    headers: { ...headers(env), "Content-Type": "application/json" },
+    body: JSON.stringify({
+      tag,
+      message,
+      object: commitSha,
+      type: "commit",
+      tagger: {
+        name: "github-actions[bot]",
+        email: "41898282+github-actions[bot]@users.noreply.github.com",
+        date: toUtc8Iso(new Date()),
+      },
+    }),
+  });
+  if (!tagRes.ok) {
+    throw new Error(`GitHub createUpdateTag(${tag}) failed: ${tagRes.status} ${await tagRes.text()}`);
+  }
+  const json = (await tagRes.json()) as { sha?: string };
+  if (!json.sha) {
+    throw new Error(`GitHub createUpdateTag(${tag}) response missing tag SHA`);
+  }
+
+  const refRes = await fetch(repoApiUrl(env, "git/refs"), {
+    method: "POST",
+    headers: { ...headers(env), "Content-Type": "application/json" },
+    body: JSON.stringify({ ref: `refs/tags/${tag}`, sha: json.sha }),
+  });
+  if (!refRes.ok) {
+    throw new Error(`GitHub createUpdateTag(${tag}) ref failed: ${refRes.status} ${await refRes.text()}`);
+  }
 }

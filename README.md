@@ -16,7 +16,7 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
     }
   ]
   ```
-- `latest-videos.json`（repo 根目錄）：彙整所有頻道目前最新影片的總覽檔，每次執行後整份重寫，方便一次掃過全部頻道現況而不必逐一開啟 `data/<channelId>.json`：
+- `latest-videos.json`（repo 根目錄）：彙整所有頻道目前最新影片的總覽檔；只有本輪至少一份 JSON 實際改變時才整份重寫，方便一次掃過全部頻道現況而不必逐一開啟 `data/<channelId>.json`：
   ```json
   {
     "updatedAt": "2026-09-19T20:00:00.000+08:00",
@@ -47,6 +47,7 @@ Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不
   ```
   - `latestVideo`：該頻道目前最新一支已過濾 Shorts/直播/首播的影片，供實際使用。
   - `allVideoIds`：該頻道「全部上傳影片」清單（新到舊），含播放清單標題與曲風分類，不經過濾。
+- 每輪只要有 JSON 實際改變，就在最後一個彙整 commit 建立一個 annotated tag；名稱使用 UTC+8 的 `v年月日-時分秒.毫秒`（例如 `v20260923-143052.123`），tag 內容列出本輪修改涉及的所有頻道 ID。沒有 JSON 變更時不寫入 `latest-videos.json`，也不建立 tag。
 
 ### 特定頻道強制分類
 

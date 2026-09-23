@@ -1,8 +1,8 @@
 import type { AllVideoEntry, ChannelData, ChannelListEntry, Env, LatestIndex, LatestIndexEntry, VideoRecord } from "./types";
-import { getFile, getJson, putFile, putJson } from "./github";
+import { createUpdateTag, getFile, getJson, putFile, putJson } from "./github";
 import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails, isValidChannelId, preferZhTitle } from "./youtube";
 import { evaluateVideo } from "./filter";
-import { toUtc8Iso } from "./time";
+import { toUtc8Iso, toVersionTag } from "./time";
 import { classifyGenre } from "./genre";
 import genreCriteria from "../genres.json";
 
@@ -118,7 +118,12 @@ async function findLatestQualifying(
   return { video: null, scanned: candidateIds.length };
 }
 
-async function processChannel(env: Env, channel: ChannelListEntry, scanLimit: number): Promise<ProcessOutcome> {
+async function processChannel(
+  env: Env,
+  channel: ChannelListEntry,
+  scanLimit: number,
+  changedChannelIds: Set<string>
+): Promise<ProcessOutcome> {
   const { id: channelId, forcedGenre } = channel;
   const shortMaxSeconds = Number(env.SHORT_MAX_SECONDS || "60");
   const allIdsMaxVideos = Number(env.ALL_IDS_MAX_VIDEOS || "2000");
@@ -248,6 +253,7 @@ async function processChannel(env: Env, channel: ChannelListEntry, scanLimit: nu
       data,
       `TrackRadar: update ${channelId}${latestChanged ? ` (latest=${latestVideo?.videoId})` : ""}`
     );
+    changedChannelIds.add(channelId);
   }
 
   return {
@@ -277,7 +283,12 @@ async function loadChannelList(env: Env): Promise<ChannelListEntry[]> {
  * 單頻道處理整個失敗時的替補結果：改讀已寫入的 data/<channelId>.json，
  * 讓 latest-videos.json 沿用上一輪的標題與最新影片，而不是被覆寫成 null。
  */
-async function cachedOutcome(env: Env, channel: ChannelListEntry, err: unknown): Promise<ProcessOutcome> {
+async function cachedOutcome(
+  env: Env,
+  channel: ChannelListEntry,
+  err: unknown,
+  changedChannelIds: Set<string>
+): Promise<ProcessOutcome> {
   const { id: channelId, forcedGenre } = channel;
   let existing: ChannelData | null = null;
   try {
@@ -287,6 +298,7 @@ async function cachedOutcome(env: Env, channel: ChannelListEntry, err: unknown):
       if (applyForcedGenre(existing, forcedGenre)) {
         existing.lastUpdated = toUtc8Iso(new Date());
         await putJson(env, channelDataPath(env, channelId), existing, `TrackRadar: update forced genre for ${channelId}`);
+        changedChannelIds.add(channelId);
       }
     }
   } catch (readErr) {
@@ -308,6 +320,7 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
   const channels = await loadChannelList(env);
   const scanLimit = Number(env.CANDIDATE_SCAN_LIMIT || "10");
   const outcomes: ProcessOutcome[] = new Array(channels.length);
+  const changedChannelIds = new Set<string>();
   let cursor = 0;
 
   async function worker() {
@@ -316,10 +329,10 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
       if (index >= channels.length) return;
       const channelId = channels[index].id;
       try {
-        outcomes[index] = await processChannel(env, channels[index], scanLimit);
+        outcomes[index] = await processChannel(env, channels[index], scanLimit, changedChannelIds);
       } catch (err) {
         console.error(`TrackRadar: failed processing ${channelId}`, err);
-        outcomes[index] = await cachedOutcome(env, channels[index], err);
+        outcomes[index] = await cachedOutcome(env, channels[index], err, changedChannelIds);
       }
     }
   }
@@ -334,6 +347,7 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
       const currentChannels = JSON.parse(file.content) as ChannelListEntry[];
       const outcomesById = new Map(outcomes.map((outcome) => [outcome.channelId, outcome]));
       let channelsListChanged = false;
+      const metadataChangedChannelIds: string[] = [];
       const updatedChannels = currentChannels.map((c) => {
         const outcome = outcomesById.get(c?.id);
         const fetchedTitle = outcome?.channelTitle;
@@ -342,6 +356,7 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
         const avatarDiffers = Boolean(fetchedAvatarUrl && fetchedAvatarUrl !== c.avatarUrl);
         if (!nameDiffers && !avatarDiffers) return c;
         channelsListChanged = true;
+        metadataChangedChannelIds.push(c.id);
         return {
           ...c,
           ...(nameDiffers ? { name: fetchedTitle as string } : {}),
@@ -351,24 +366,42 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
       if (channelsListChanged) {
         await putFile(env, env.CHANNELS_FILE, JSON.stringify(updatedChannels, null, 2) + "\n",
           "TrackRadar: sync channel names/avatars in channels.json [skip ci]", file.sha);
+        for (const channelId of metadataChangedChannelIds) changedChannelIds.add(channelId);
       }
     }
   } catch (err) {
     console.error("TrackRadar: channel metadata sync failed; leaving channel settings unchanged", err);
   }
 
-  // 根目錄彙整檔：一次掃過所有頻道目前最新影片，方便總覽（不需逐一開啟 data/<channelId>.json）
-  const index: LatestIndex = {
-    updatedAt: toUtc8Iso(new Date()),
-    channels: outcomes.map(
-      (o, i): LatestIndexEntry => ({
-        channelId: o.channelId,
-        channelTitle: o.channelTitle ?? channels[i]?.name ?? o.channelId,
-        latestVideo: o.latestVideo,
-      })
-    ),
-  };
-  await putJson(env, env.LATEST_INDEX_FILE, index, "TrackRadar: update latest-videos index");
+  // 根目錄彙整檔只在內容或其他頻道 JSON 真正變更時寫入，並作為本輪唯一 tag 的目標 commit。
+  const indexChannels = outcomes.map(
+    (o, i): LatestIndexEntry => ({
+      channelId: o.channelId,
+      channelTitle: o.channelTitle ?? channels[i]?.name ?? o.channelId,
+      latestVideo: o.latestVideo,
+    })
+  );
+  const existingIndex = await getJson<LatestIndex>(env, env.LATEST_INDEX_FILE);
+  const indexChanged = JSON.stringify(existingIndex?.channels) !== JSON.stringify(indexChannels);
+  if (indexChanged) {
+    const previousById = new Map(existingIndex?.channels.map((entry) => [entry.channelId, entry]) ?? []);
+    const nextById = new Map(indexChannels.map((entry) => [entry.channelId, entry]));
+    for (const channelId of new Set([...previousById.keys(), ...nextById.keys()])) {
+      if (JSON.stringify(previousById.get(channelId)) !== JSON.stringify(nextById.get(channelId))) {
+        changedChannelIds.add(channelId);
+      }
+    }
+  }
+
+  if (changedChannelIds.size > 0 || indexChanged) {
+    const now = new Date();
+    const index: LatestIndex = {
+      updatedAt: toUtc8Iso(now),
+      channels: indexChannels,
+    };
+    const commitSha = await putJson(env, env.LATEST_INDEX_FILE, index, "TrackRadar: update latest-videos index");
+    await createUpdateTag(env, toVersionTag(now), commitSha, [...changedChannelIds].sort());
+  }
 
   return outcomes;
 }
