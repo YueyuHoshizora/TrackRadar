@@ -108,4 +108,4 @@ YouTube 官方 RSS（`feeds/videos.xml`）曾作為快速偵測新影片的來�
    ```
 4. 在目標 GitHub repo 建立 `channels.json`（格式見上方頻道設定陣列）。
 5. 部署：`npm run deploy`
-6. 手動測試（不必等 5 分鐘）：`GET https://track-radar.plain-leaf-e871.workers.dev/run?token=<ADMIN_TOKEN>`
+6. 手動測試（不必等 5 分鐘）：`curl -H "Authorization: Bearer <ADMIN_TOKEN>" https://track-radar.plain-leaf-e871.workers.dev/run`。同一時間只會有一輪在執行：另一輪進行中回 409，距上次開始不到 60 秒回 429。

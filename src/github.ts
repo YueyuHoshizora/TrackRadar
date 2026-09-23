@@ -57,8 +57,29 @@ export async function getJson<T>(env: Env, path: string): Promise<T | null> {
   return JSON.parse(file.content) as T;
 }
 
+/**
+ * 同一輪內多個頻道 worker 平行寫入時，每次 Contents API PUT 都是一個新 commit，
+ * 同時送出會讓 GitHub 以 409（branch 已前進）拒絕其中一個，因此所有寫入依序排隊。
+ */
+let writeQueue: Promise<unknown> = Promise.resolve();
+function serializeWrite<T>(task: () => Promise<T>): Promise<T> {
+  const run = writeQueue.then(task, task);
+  writeQueue = run.catch(() => undefined);
+  return run;
+}
+
 /** 建立或更新檔案，回傳新 commit SHA */
-export async function putFile(
+export function putFile(
+  env: Env,
+  path: string,
+  content: string,
+  message: string,
+  sha?: string
+): Promise<string> {
+  return serializeWrite(() => putFileNow(env, path, content, message, sha));
+}
+
+async function putFileNow(
   env: Env,
   path: string,
   content: string,
@@ -92,11 +113,13 @@ export async function putFile(
   return commitSha;
 }
 
-/** 建立或更新 JSON 檔案（自動取得目前 sha），回傳新 commit SHA */
-export async function putJson(env: Env, path: string, data: unknown, message: string): Promise<string> {
-  const existing = await getFile(env, path);
-  const content = JSON.stringify(data, null, 2) + "\n";
-  return putFile(env, path, content, message, existing?.sha);
+/** 建立或更新 JSON 檔案（自動取得目前 sha），回傳新 commit SHA；讀 sha 與寫入在同一個排隊區段內 */
+export function putJson(env: Env, path: string, data: unknown, message: string): Promise<string> {
+  return serializeWrite(async () => {
+    const existing = await getFile(env, path);
+    const content = JSON.stringify(data, null, 2) + "\n";
+    return putFileNow(env, path, content, message, existing?.sha);
+  });
 }
 
 /** 在指定 commit 建立 annotated tag，內容列出本輪修改的頻道 ID。 */

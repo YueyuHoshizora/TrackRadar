@@ -15,11 +15,12 @@ src/
   filter.ts  evaluateVideo：判斷是否排除 Shorts/直播/首播/預告
   genre.ts   classifyGenre：呼叫 TypeSafe System One API 做曲風分類（選填功能）
   github.ts  GitHub Contents API 讀寫封裝（getJson/putJson，自動處理 base64 與 sha）
+  lock.ts    RunLock Durable Object：cron 與 /run 共用的全域執行鎖（/run 進行中回 409、60 秒冷卻回 429）
   time.ts    toUtc8Iso：全專案唯一的時間格式化入口
   types.ts   Env/VideoRecord/ChannelData/LatestIndex 等型別定義
 genres.json      曲風分類選項清單（label -> 判斷依據描述），genre.ts 讀這份當 Jev 的 criteria
 channels.json    要追蹤的頻道 ID 陣列（資料，不是設定）
-wrangler.toml    Worker 設定（vars、cron trigger）；機密一律用 wrangler secret，不寫這裡
+wrangler.toml    Worker 設定（vars、cron trigger、RUN_LOCK Durable Object binding）；機密一律用 wrangler secret，不寫這裡
 data/*.json      每個頻道一個檔案，Worker 自動寫入，不要手動編輯
 latest-videos.json  全頻道最新影片彙總，Worker 自動整份重寫
 ```
@@ -31,7 +32,7 @@ npm install
 npx tsc --noEmit          # 型別檢查，改完程式碼一定要跑
 npx wrangler deploy       # 唯一的部署方式（見下方「部署模型」）
 npx wrangler tail         # 看即時 log
-curl "https://track-radar.plain-leaf-e871.workers.dev/run?token=<ADMIN_TOKEN>"  # 手動觸發一次，不必等 cron
+curl -H "Authorization: Bearer <ADMIN_TOKEN>" "https://track-radar.plain-leaf-e871.workers.dev/run"  # 手動觸發一次，不必等 cron；進行中回 409，60 秒冷卻內回 429
 ```
 
 ## 關鍵限制與陷阱
@@ -57,7 +58,7 @@ curl "https://track-radar.plain-leaf-e871.workers.dev/run?token=<ADMIN_TOKEN>"  
 1. 改 `src/*.ts` 前，先確認相關檔案目前內容（尤其 `index.ts` 的 `processChannel`，邏輯集中在這裡，改動很容易漏掉某個分支）。
 2. 改完跑 `npx tsc --noEmit`。
 3. `npx wrangler deploy`，觀察 CLI 輸出有沒有 binding/settings 錯誤。
-4. 用 `/run?token=<ADMIN_TOKEN>` 觸發一次，檢查回傳 JSON 是否符合預期（`updated`、`latestVideo`、`error` 欄位）。
+4. 用 `Authorization: Bearer <ADMIN_TOKEN>` header 呼叫 `/run` 觸發一次（不接受 `?token=`），檢查回傳 JSON 是否符合預期（`updated`、`latestVideo`、`error` 欄位）。
 5. 用 `raw.githubusercontent.com/YueyuHoshizora/TrackRadar/main/<path>` 直接讀已寫入的 JSON 內容做最終確認（CDN 可能有快取延遲，必要時加 query string 破快取或直接讀 GitHub API）。
 6. `git fetch origin && git rebase origin/main`，再 `git add -A && git commit && git push`。
 

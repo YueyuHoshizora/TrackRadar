@@ -28,6 +28,10 @@ jobs:
             "https://track-radar.plain-leaf-e871.workers.dev/run")
           echo "HTTP status: $status"
           cat /tmp/run-response.json
+          if [ "$status" -eq 409 ] || [ "$status" -eq 429 ]; then
+            echo "::notice::Worker is already running or cooling down; the next cron run (within 5 minutes) will pick up the change."
+            exit 0
+          fi
           if [ "$status" -ne 200 ]; then
             echo "::error::/run returned HTTP $status"
             exit 1

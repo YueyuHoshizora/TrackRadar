@@ -5,6 +5,9 @@ import { evaluateVideo } from "./filter";
 import { isUtc8Midnight, toPreviousDayReleaseTag, toUtc8Iso, toVersionTag } from "./time";
 import { classifyGenre } from "./genre";
 import genreCriteria from "../genres.json";
+import { MANUAL_RUN_COOLDOWN_MS, type AcquireResult } from "./lock";
+
+export { RunLock } from "./lock";
 
 const CONCURRENCY = 5;
 /** 每個頻道每次最多為尚無曲風的 allVideoIds 打幾次 Jev，避免單次 cron 超時；缺的下次再補 */
@@ -406,6 +409,22 @@ async function runOnce(env: Env): Promise<ProcessOutcome[]> {
   return outcomes;
 }
 
+/** 取得全域執行鎖後執行 runOnce；鎖被占用或冷卻中時不執行，直接回傳原因。 */
+async function runExclusive(
+  env: Env,
+  cooldownMs: number
+): Promise<{ ok: true; outcomes: ProcessOutcome[] } | Exclude<AcquireResult, { ok: true }>> {
+  const lock = env.RUN_LOCK.get(env.RUN_LOCK.idFromName("global"));
+  const owner = crypto.randomUUID();
+  const acquired = await lock.acquire(owner, cooldownMs);
+  if (!acquired.ok) return acquired;
+  try {
+    return { ok: true, outcomes: await runOnce(env) };
+  } finally {
+    await lock.release(owner);
+  }
+}
+
 function verifyAdminToken(request: Request, env: Env): boolean {
   const adminToken = env.ADMIN_TOKEN?.trim();
   if (!adminToken) {
@@ -413,13 +432,12 @@ function verifyAdminToken(request: Request, env: Env): boolean {
     return false;
   }
 
-  const url = new URL(request.url);
   const authHeader = request.headers.get("Authorization");
   const bearerToken = authHeader?.startsWith("Bearer ") ? authHeader.slice(7).trim() : null;
   const customHeaderToken = request.headers.get("X-Admin-Token")?.trim();
-  const queryToken = url.searchParams.get("token")?.trim();
 
-  const candidate = bearerToken || customHeaderToken || queryToken;
+  // 只接受 header；不收 ?token=，避免權杖出現在網址、log 與瀏覽器歷史紀錄
+  const candidate = bearerToken || customHeaderToken;
   if (!candidate) return false;
 
   if (candidate.length !== adminToken.length) return false;
@@ -432,14 +450,19 @@ export default {
   async scheduled(event: ScheduledEvent, env: Env, ctx: ExecutionContext): Promise<void> {
     const scheduledAt = new Date(event.scheduledTime);
     ctx.waitUntil((async () => {
-      const result = await runOnce(env);
+      const run = await runExclusive(env, 0);
+      if (!run.ok) {
+        console.log(`TrackRadar: skipped scheduled run (${run.reason})`);
+      } else {
+        console.log("TrackRadar run result", JSON.stringify(run.outcomes));
+      }
+      // 每日 release 與本輪是否執行無關，即使另一輪正在跑也要在午夜建立
       if (isUtc8Midnight(scheduledAt)) {
         const releaseTag = toPreviousDayReleaseTag(scheduledAt);
         const commitSha = await getBranchHeadSha(env);
         const created = await createDailyRelease(env, releaseTag, commitSha);
         console.log(`TrackRadar daily release ${releaseTag}: ${created ? "created" : "already exists"}`);
       }
-      console.log("TrackRadar run result", JSON.stringify(result));
     })());
   },
 
@@ -452,8 +475,17 @@ export default {
       if (!verifyAdminToken(request, env)) {
         return new Response("forbidden", { status: 403 });
       }
-      const outcomes = await runOnce(env);
-      return new Response(JSON.stringify(outcomes, null, 2), {
+      const run = await runExclusive(env, MANUAL_RUN_COOLDOWN_MS);
+      if (!run.ok && run.reason === "running") {
+        return Response.json({ error: "a run is already in progress" }, { status: 409 });
+      }
+      if (!run.ok) {
+        return Response.json(
+          { error: "manual run cooldown", retryAfterSeconds: run.retryAfterSeconds },
+          { status: 429, headers: { "Retry-After": String(run.retryAfterSeconds) } }
+        );
+      }
+      return new Response(JSON.stringify(run.outcomes, null, 2), {
         headers: { "Content-Type": "application/json" },
       });
     }

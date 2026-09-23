@@ -1,4 +1,7 @@
+import type { RunLock } from "./lock";
+
 export interface Env {
+  RUN_LOCK: DurableObjectNamespace<RunLock>;
   GITHUB_OWNER: string;
   GITHUB_REPO: string;
   GITHUB_BRANCH: string;

@@ -6,6 +6,15 @@ compatibility_date = "2024-11-01"
 [triggers]
 crons = ["*/5 * * * *"]
 
+# 執行鎖：cron 與手動 /run 共用，避免多輪同時寫入 GitHub（見 src/lock.ts）
+[[durable_objects.bindings]]
+name = "RUN_LOCK"
+class_name = "RunLock"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["RunLock"]
+
 [vars]
 # GitHub 儲存庫設定（不含機密資訊）
 GITHUB_OWNER = "YueyuHoshizora"
