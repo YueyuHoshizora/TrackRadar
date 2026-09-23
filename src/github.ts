@@ -139,3 +139,52 @@ export async function createUpdateTag(
     throw new Error(`GitHub createUpdateTag(${tag}) ref failed: ${refRes.status} ${await refRes.text()}`);
   }
 }
+
+/** 取得目前分支 HEAD commit，供 release 固定快照而不受後續排程寫入影響。 */
+export async function getBranchHeadSha(env: Env): Promise<string> {
+  const res = await fetch(repoApiUrl(env, `git/ref/heads/${encodeURIComponent(env.GITHUB_BRANCH)}`), {
+    headers: headers(env),
+  });
+  if (!res.ok) {
+    throw new Error(`GitHub get branch HEAD failed: ${res.status} ${await res.text()}`);
+  }
+  const json = (await res.json()) as { object?: { sha?: string } };
+  const sha = json.object?.sha;
+  if (!sha) throw new Error("GitHub get branch HEAD response missing commit SHA");
+  return sha;
+}
+
+/**
+ * 建立前一日資料快照的 GitHub Release。Release 的自動 source archive 會固定保存
+ * 午夜抓取完成後的完整 repository 資料；同名 release 已存在時安全略過。
+ */
+export async function createDailyRelease(env: Env, tag: string, commitSha: string): Promise<boolean> {
+  const releaseByTagUrl = repoApiUrl(env, `releases/tags/${encodeURIComponent(tag)}`);
+  const existingRes = await fetch(releaseByTagUrl, { headers: headers(env) });
+  if (existingRes.ok) return false;
+  if (existingRes.status !== 404) {
+    throw new Error(`GitHub get release(${tag}) failed: ${existingRes.status} ${await existingRes.text()}`);
+  }
+
+  const releaseRes = await fetch(repoApiUrl(env, "releases"), {
+    method: "POST",
+    headers: { ...headers(env), "Content-Type": "application/json" },
+    body: JSON.stringify({
+      tag_name: tag,
+      target_commitish: commitSha,
+      name: tag,
+      body: `TrackRadar data snapshot for ${tag.slice(1)} (UTC+8).`,
+      draft: false,
+      prerelease: false,
+      generate_release_notes: false,
+    }),
+  });
+  if (releaseRes.ok) return true;
+
+  // 排程重試或併發執行可能同時通過上方 404；確認另一個執行已成功建立即可。
+  if (releaseRes.status === 422) {
+    const racedRes = await fetch(releaseByTagUrl, { headers: headers(env) });
+    if (racedRes.ok) return false;
+  }
+  throw new Error(`GitHub create release(${tag}) failed: ${releaseRes.status} ${await releaseRes.text()}`);
+}

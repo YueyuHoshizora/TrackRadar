@@ -1,8 +1,8 @@
 import type { AllVideoEntry, ChannelData, ChannelListEntry, Env, LatestIndex, LatestIndexEntry, VideoRecord } from "./types";
-import { createUpdateTag, getFile, getJson, putFile, putJson } from "./github";
+import { createDailyRelease, createUpdateTag, getBranchHeadSha, getFile, getJson, putFile, putJson } from "./github";
 import { fetchAllUploadedVideoIds, fetchLatestUploadedVideoIds, fetchVideoDetails, isValidChannelId, preferZhTitle } from "./youtube";
 import { evaluateVideo } from "./filter";
-import { toUtc8Iso, toVersionTag } from "./time";
+import { isUtc8Midnight, toPreviousDayReleaseTag, toUtc8Iso, toVersionTag } from "./time";
 import { classifyGenre } from "./genre";
 import genreCriteria from "../genres.json";
 
@@ -429,8 +429,18 @@ function verifyAdminToken(request: Request, env: Env): boolean {
 }
 
 export default {
-  async scheduled(_event: ScheduledEvent, env: Env, ctx: ExecutionContext): Promise<void> {
-    ctx.waitUntil(runOnce(env).then((r) => console.log("TrackRadar run result", JSON.stringify(r))));
+  async scheduled(event: ScheduledEvent, env: Env, ctx: ExecutionContext): Promise<void> {
+    const scheduledAt = new Date(event.scheduledTime);
+    ctx.waitUntil((async () => {
+      const result = await runOnce(env);
+      if (isUtc8Midnight(scheduledAt)) {
+        const releaseTag = toPreviousDayReleaseTag(scheduledAt);
+        const commitSha = await getBranchHeadSha(env);
+        const created = await createDailyRelease(env, releaseTag, commitSha);
+        console.log(`TrackRadar daily release ${releaseTag}: ${created ? "created" : "already exists"}`);
+      }
+      console.log("TrackRadar run result", JSON.stringify(result));
+    })());
   },
 
   async fetch(request: Request, env: Env): Promise<Response> {

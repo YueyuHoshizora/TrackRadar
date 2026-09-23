@@ -11,3 +11,15 @@ export function toUtc8Iso(date: Date): string {
 export function toVersionTag(date: Date): string {
   return `v${toUtc8Iso(date).replace(/[-:]/g, "").replace("T", "-").replace("+0800", "")}`;
 }
+
+/** 判斷排程時間是否為 UTC+8 的 00:00。 */
+export function isUtc8Midnight(date: Date): boolean {
+  const shifted = new Date(date.getTime() + 8 * 60 * 60 * 1000);
+  return shifted.getUTCHours() === 0 && shifted.getUTCMinutes() === 0;
+}
+
+/** 將排程時間的前一個 UTC+8 日曆日格式化為每日 release 名稱，例如 "v20260923"。 */
+export function toPreviousDayReleaseTag(date: Date): string {
+  const previousDay = new Date(date.getTime() - 24 * 60 * 60 * 1000);
+  return `v${toUtc8Iso(previousDay).slice(0, 10).replace(/-/g, "")}`;
+}
