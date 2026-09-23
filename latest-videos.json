@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T16:56:04.292+08:00",
+  "updatedAt": "2026-09-23T17:01:03.249+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "9CaWlcB__V0",
-        "title": "🎵《沒有夢的森林》The Forest Without Dreams｜明日邊界 2147｜璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=9CaWlcB__V0",
-        "thumbnail": "https://i.ytimg.com/vi_webp/9CaWlcB__V0/maxresdefault.webp",
-        "durationSeconds": 247,
-        "publishedAt": "2026-08-14T19:30:22.000+08:00",
-        "fetchedAt": "2026-09-23T16:45:52.883+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.8
+        "videoId": "mWV39VxURKI",
+        "title": "The Last Protocol | 明日邊界2147 • Tomorrow Frontier 2147 | Sci-Fi Love Story",
+        "url": "https://www.youtube.com/watch?v=mWV39VxURKI",
+        "thumbnail": "https://i.ytimg.com/vi/mWV39VxURKI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdAdE0qXAPn7ZDhDhlKihSwplTyQ",
+        "durationSeconds": 300,
+        "publishedAt": "2026-07-22T19:35:41.000+08:00",
+        "fetchedAt": "2026-09-23T17:00:54.122+08:00",
+        "genre": "電子 Electronic",
+        "genreConfidence": 0.36
       }
     },
     {
@@ -394,13 +394,13 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "SNV1PsuGJKE",
-        "title": "情深到最後，只剩一把骨頭《風也來，雨也來》｜情深枯成骨，不負人卻寒｜愛而不得・古風虐心｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
-        "url": "https://www.youtube.com/watch?v=SNV1PsuGJKE",
-        "thumbnail": "https://i.ytimg.com/vi/SNV1PsuGJKE/maxresdefault.jpg?v=6a9a1692",
-        "durationSeconds": 259,
-        "publishedAt": "2026-09-05T12:00:06.000+08:00",
-        "fetchedAt": "2026-09-23T16:55:59.268+08:00",
+        "videoId": "t2yq_M3j0TI",
+        "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=t2yq_M3j0TI",
+        "thumbnail": "https://i.ytimg.com/vi_webp/t2yq_M3j0TI/maxresdefault.webp?v=6aad5191",
+        "durationSeconds": 228,
+        "publishedAt": "2026-09-19T12:00:06.000+08:00",
+        "fetchedAt": "2026-09-23T17:00:58.674+08:00",
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 1
       }
