@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-24T05:26:05.810+08:00",
+  "updatedAt": "2026-09-24T05:31:05.570+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "-qNX4NkaFsI",
-        "title": "重逢之後，我更像我，不必再為誰回頭｜重逢之後｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=-qNX4NkaFsI",
-        "thumbnail": "https://i.ytimg.com/vi/-qNX4NkaFsI/maxresdefault.jpg",
-        "durationSeconds": 324,
-        "publishedAt": "2026-09-23T17:30:15.000+08:00",
-        "fetchedAt": "2026-09-23T17:30:50.687+08:00",
+        "videoId": "mRaq4gducE4",
+        "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=mRaq4gducE4",
+        "thumbnail": "https://i.ytimg.com/vi/mRaq4gducE4/maxresdefault.jpg",
+        "durationSeconds": 122,
+        "publishedAt": "2026-09-24T05:30:23.000+08:00",
+        "fetchedAt": "2026-09-24T05:30:50.846+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.94
+        "genreConfidence": 0.73
       }
     },
     {
