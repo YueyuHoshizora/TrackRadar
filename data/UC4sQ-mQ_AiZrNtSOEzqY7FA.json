@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-23T11:45:34.475+08:00",
+  "lastUpdated": "2026-09-23T11:55:29.095+08:00",
   "latestVideo": {
     "videoId": "jFAA2ibMrB0",
     "title": "把夏天收進紙箱，卻收不進那句再見｜紙箱裡的夏天｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "jFAA2ibMrB0",
-      "title": "把夏天收進紙箱，卻收不進那句再見｜紙箱裡的夏天｜Yu Stellar｜星語",
+      "title": "紙箱裡的夏天｜寫給不得不告別的華語情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
     {
       "videoId": "fMGBMxP5M4A",
-      "title": "多年後在人群裡遇見你，我們只說了一句你好｜一聲你好｜Yu Stellar｜星語",
+      "title": "一聲你好，剛好把從前放好｜一聲你好｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "CIv2Zqdz7o8",
-      "title": "回到舊城以前，我決定不再尋找你的身影｜同城預報｜Yu Stellar｜星語",
+      "title": "同城預報只說有雨，沒說我們會相遇｜同城預報｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -58,13 +58,13 @@
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
+      "title": "遠方也明亮｜寫給真正放下比較與遺憾的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
     {
       "videoId": "VlPInz7dIDs",
-      "title": "不是回到從前｜寫給重新選擇彼此的愛情主題曲｜Yu Stellar｜星語",
+      "title": "重逢之後，最重要的不是回到從前｜不是回到從前｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -130,7 +130,7 @@
     },
     {
       "videoId": "_zr28L0K774",
-      "title": "當兩個人的一天再也碰不到，愛會先斷線嗎？｜兩座時區｜Yu Stellar｜星語",
+      "title": "我們隔著兩座時區，把晚安說成了再見｜兩座時區｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -142,7 +142,7 @@
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "那晚我們沒有爭吵，只是各自走向不同明天｜月台以西｜Yu Stellar｜星語",
+      "title": "不是不愛，才在末班車前說再見｜月台以西｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "ejhtg1ukR-o",
-      "title": "〈不同的城市〉愛沒有走到最後，不代表曾經不真實",
+      "title": "〈不同的城市〉遠距離戀愛終章｜療癒系華語抒情女聲",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
