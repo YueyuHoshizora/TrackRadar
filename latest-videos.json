@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T21:01:09.201+08:00",
+  "updatedAt": "2026-09-23T21:06:09.179+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "M-z4TJ7mCpQ",
-        "title": "《月老》｜她替所有人牽紅線，結果自己先被牽走了【國風歌曲・月老紅線・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=M-z4TJ7mCpQ",
-        "thumbnail": "https://i.ytimg.com/vi/M-z4TJ7mCpQ/maxresdefault.jpg",
-        "durationSeconds": 243,
-        "publishedAt": "2026-09-19T16:54:34.000+08:00",
-        "fetchedAt": "2026-09-23T21:00:51.650+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "gkdhSc_lPDo",
+        "title": "《妲己 × 姜王后》｜從她進宮那一天起，我就不再是你的唯一【虐心情歌・封神・Official MV】",
+        "url": "https://www.youtube.com/watch?v=gkdhSc_lPDo",
+        "thumbnail": "https://i.ytimg.com/vi/gkdhSc_lPDo/maxresdefault.jpg",
+        "durationSeconds": 282,
+        "publishedAt": "2026-09-12T22:41:11.000+08:00",
+        "fetchedAt": "2026-09-23T21:05:52.581+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.51
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-09-23T17:15:52.222+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.26
+        "videoId": "_qo3tNhFo7I",
+        "title": "《明日邊界2147》平凡的一天｜AN ORDINARY DAY — 新加坡2147 世界氛圍音樂｜Singapore 2147 World Ambience",
+        "url": "https://www.youtube.com/watch?v=_qo3tNhFo7I",
+        "thumbnail": "https://i.ytimg.com/vi_webp/_qo3tNhFo7I/maxresdefault.webp",
+        "durationSeconds": 264,
+        "publishedAt": "2026-08-22T01:00:13.000+08:00",
+        "fetchedAt": "2026-09-23T21:05:55.496+08:00",
+        "genre": "純音樂/器樂 Instrumental",
+        "genreConfidence": 0.79
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "jGTPT5nvpqo",
-        "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
-        "url": "https://www.youtube.com/watch?v=jGTPT5nvpqo",
-        "thumbnail": "https://i.ytimg.com/vi_webp/jGTPT5nvpqo/maxresdefault.webp?v=6aa80d29",
-        "durationSeconds": 264,
-        "publishedAt": "2026-09-16T12:00:06.000+08:00",
-        "fetchedAt": "2026-09-23T21:01:03.312+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.98
+        "videoId": "t2yq_M3j0TI",
+        "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=t2yq_M3j0TI",
+        "thumbnail": "https://i.ytimg.com/vi_webp/t2yq_M3j0TI/maxresdefault.webp?v=6aad5191",
+        "durationSeconds": 228,
+        "publishedAt": "2026-09-19T12:00:06.000+08:00",
+        "fetchedAt": "2026-09-23T21:06:03.068+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
