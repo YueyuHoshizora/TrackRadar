@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T17:11:04.444+08:00",
+  "updatedAt": "2026-09-23T17:16:03.501+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "gkdhSc_lPDo",
-        "title": "《妲己 × 姜王后》｜從她進宮那一天起，我就不再是你的唯一【虐心情歌・封神・Official MV】",
-        "url": "https://www.youtube.com/watch?v=gkdhSc_lPDo",
-        "thumbnail": "https://i.ytimg.com/vi/gkdhSc_lPDo/maxresdefault.jpg",
-        "durationSeconds": 282,
-        "publishedAt": "2026-09-12T22:41:11.000+08:00",
-        "fetchedAt": "2026-09-23T16:50:51.437+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.51
+        "videoId": "M-z4TJ7mCpQ",
+        "title": "《月老》｜她替所有人牽紅線，結果自己先被牽走了【國風歌曲・月老紅線・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=M-z4TJ7mCpQ",
+        "thumbnail": "https://i.ytimg.com/vi/M-z4TJ7mCpQ/maxresdefault.jpg",
+        "durationSeconds": 243,
+        "publishedAt": "2026-09-19T16:54:34.000+08:00",
+        "fetchedAt": "2026-09-23T17:15:50.866+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "9CaWlcB__V0",
-        "title": "🎵《沒有夢的森林》The Forest Without Dreams｜明日邊界 2147｜璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=9CaWlcB__V0",
-        "thumbnail": "https://i.ytimg.com/vi_webp/9CaWlcB__V0/maxresdefault.webp",
-        "durationSeconds": 247,
-        "publishedAt": "2026-08-14T19:30:22.000+08:00",
-        "fetchedAt": "2026-09-23T17:05:53.362+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.79
+        "videoId": "qGc_gkTS0KY",
+        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
+        "durationSeconds": 253,
+        "publishedAt": "2026-09-15T18:32:58.000+08:00",
+        "fetchedAt": "2026-09-23T17:15:52.222+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.26
       }
     },
     {
