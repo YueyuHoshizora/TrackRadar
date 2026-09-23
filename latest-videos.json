@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T11:55:44.863+08:00",
+  "updatedAt": "2026-09-23T12:01:05.445+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -454,15 +454,15 @@
       "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
       "channelTitle": "沐霧月",
       "latestVideo": {
-        "videoId": "rzPOmBk9Ybk",
-        "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=rzPOmBk9Ybk",
-        "thumbnail": "https://i.ytimg.com/vi_webp/rzPOmBk9Ybk/maxresdefault.webp",
-        "durationSeconds": 223,
-        "publishedAt": "2026-09-18T12:00:02.000+08:00",
-        "fetchedAt": "2026-09-22T17:15:23.852+08:00",
+        "videoId": "-XNQYYydYPE",
+        "title": "沒有人救我，我就救自己《我就是彼岸》｜我不等天亮了——我自己，就是火焰｜自我救贖・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=-XNQYYydYPE",
+        "thumbnail": "https://i.ytimg.com/vi_webp/-XNQYYydYPE/maxresdefault.webp",
+        "durationSeconds": 215,
+        "publishedAt": "2026-09-23T12:00:23.000+08:00",
+        "fetchedAt": "2026-09-23T12:01:00.982+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.99
       }
     },
     {
