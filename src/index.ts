@@ -211,15 +211,15 @@ async function processChannel(
 
   // 5. 為尚無曲風的 allVideoIds 補分類；有標題才打 Jev，每頻道每輪有上限
   const classifyTitle = channelTitle ?? channelId;
-  let classified = 0;
+  let attempts = 0;
   for (const entry of allVideoIds) {
-    if (forcedGenre !== undefined || classified >= ALL_IDS_CLASSIFY_LIMIT) break;
+    if (forcedGenre !== undefined || attempts >= ALL_IDS_CLASSIFY_LIMIT) break;
     if (entry.genre || !entry.title) continue;
+    attempts++;
     const genreResult = await classifyGenre(env, entry.title, classifyTitle);
     if (genreResult) {
       entry.genre = genreResult.genre;
       entry.genreConfidence = genreResult.confidence;
-      classified++;
       allIdsChanged = true;
     }
   }
