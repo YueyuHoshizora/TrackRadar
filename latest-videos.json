@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-23T17:26:04.809+08:00",
+  "updatedAt": "2026-09-23T17:31:04.132+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "jFAA2ibMrB0",
-        "title": "把夏天收進紙箱，卻收不進那句再見｜紙箱裡的夏天｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=jFAA2ibMrB0",
-        "thumbnail": "https://i.ytimg.com/vi/jFAA2ibMrB0/maxresdefault.jpg",
-        "durationSeconds": 192,
-        "publishedAt": "2026-09-23T05:30:14.000+08:00",
-        "fetchedAt": "2026-09-23T07:20:28.128+08:00",
+        "videoId": "-qNX4NkaFsI",
+        "title": "重逢之後，我更像我，不必再為誰回頭｜重逢之後｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=-qNX4NkaFsI",
+        "thumbnail": "https://i.ytimg.com/vi/-qNX4NkaFsI/maxresdefault.jpg",
+        "durationSeconds": 324,
+        "publishedAt": "2026-09-23T17:30:15.000+08:00",
+        "fetchedAt": "2026-09-23T17:30:50.687+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.79
+        "genreConfidence": 0.94
       }
     },
     {
