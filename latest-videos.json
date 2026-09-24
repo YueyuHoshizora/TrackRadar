@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-24T17:46:04.920+08:00",
+  "updatedAt": "2026-09-24T17:51:04.611+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "mRaq4gducE4",
-        "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=mRaq4gducE4",
-        "thumbnail": "https://i.ytimg.com/vi/mRaq4gducE4/maxresdefault.jpg",
-        "durationSeconds": 122,
-        "publishedAt": "2026-09-24T05:30:23.000+08:00",
-        "fetchedAt": "2026-09-24T05:30:50.846+08:00",
+        "videoId": "Tae3s5cWMDM",
+        "title": "這一次，我們不只約定今天，也把明天留下｜把明天留給我們｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=Tae3s5cWMDM",
+        "thumbnail": "https://i.ytimg.com/vi/Tae3s5cWMDM/maxresdefault.jpg",
+        "durationSeconds": 214,
+        "publishedAt": "2026-09-21T05:30:37.000+08:00",
+        "fetchedAt": "2026-09-24T17:50:51.134+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.73
+        "genreConfidence": 0.86
       }
     },
     {
@@ -95,13 +95,13 @@
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "XnLNBPgERI4",
-        "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
-        "url": "https://www.youtube.com/watch?v=XnLNBPgERI4",
-        "thumbnail": "https://i.ytimg.com/vi_webp/XnLNBPgERI4/maxresdefault.webp",
-        "durationSeconds": 206,
-        "publishedAt": "2026-08-20T06:19:21.000+08:00",
-        "fetchedAt": "2026-09-24T17:45:52.675+08:00",
+        "videoId": "E8PK1SITqeg",
+        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+        "durationSeconds": 255,
+        "publishedAt": "2026-09-12T04:57:52.000+08:00",
+        "fetchedAt": "2026-09-24T17:50:51.414+08:00",
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 1
       }
