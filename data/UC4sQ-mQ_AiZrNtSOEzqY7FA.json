@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-24T11:05:51.196+08:00",
+  "lastUpdated": "2026-09-24T11:10:51.346+08:00",
   "latestVideo": {
     "videoId": "mRaq4gducE4",
     "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
@@ -34,7 +34,7 @@
     },
     {
       "videoId": "fMGBMxP5M4A",
-      "title": "一聲你好｜寫給不復合卻溫柔圓滿的重逢情歌｜Yu Stellar｜星語",
+      "title": "多年後在人群裡遇見你，我們只說了一句你好｜一聲你好｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "icHNbNwsNNs",
-      "title": "回到我們曾走過的街，我終於不必住在回憶裡｜城市把路留下｜Yu Stellar｜星語",
+      "title": "城市把路留下｜走過舊城也走回自己的療癒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.57
     },
@@ -136,13 +136,13 @@
     },
     {
       "videoId": "nXMpNlR50t8",
-      "title": "沒有你的新生活｜寫給正在獨自重新開始的人｜Yu Stellar｜星語",
+      "title": "沒有你的房間，我終於學會把日子過好｜沒有你的新生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
     {
       "videoId": "_zr28L0K774",
-      "title": "兩座時區｜遠距離愛情走向沉默的華語情歌｜Yu Stellar｜星語",
+      "title": "當兩個人的一天再也碰不到，愛會先斷線嗎？｜兩座時區｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "月台以西｜寫給不得不告別的成熟情歌｜Yu Stellar｜星語",
+      "title": "不是不愛，才在末班車前說再見｜月台以西｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
