@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-24T09:35:51.752+08:00",
+  "lastUpdated": "2026-09-24T09:40:52.390+08:00",
   "latestVideo": {
     "videoId": "mRaq4gducE4",
     "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
@@ -34,13 +34,13 @@
     },
     {
       "videoId": "fMGBMxP5M4A",
-      "title": "一聲你好｜寫給不復合卻溫柔圓滿的重逢情歌｜Yu Stellar｜星語",
+      "title": "多年後在人群裡遇見你，我們只說了一句你好｜一聲你好｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
     {
       "videoId": "Vnmwxf1mCIY",
-      "title": "故事沒有結局，只是輪到明天繼續寫｜未完待續｜Yu Stellar｜星語",
+      "title": "未完待續｜一首從遺憾走向重逢的終章情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.68
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "Tae3s5cWMDM",
-      "title": "這一次，我們不只約定今天，也把明天留下｜把明天留給我們｜Yu Stellar｜星語",
+      "title": "把明天留給我們｜寫給願意一起承擔未來的愛｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
@@ -142,13 +142,13 @@
     },
     {
       "videoId": "_zr28L0K774",
-      "title": "當兩個人的一天再也碰不到，愛會先斷線嗎？｜兩座時區｜Yu Stellar｜星語",
+      "title": "我們隔著兩座時區，把晚安說成了再見｜兩座時區｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
     {
       "videoId": "RLQCLGovr70",
-      "title": "不同時區的晚安｜遠距離愛情最安靜的消耗｜Yu Stellar｜星語",
+      "title": "當你的晚安成了我的早安，愛還能撐多久？｜不同時區的晚安｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
