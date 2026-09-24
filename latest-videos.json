@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:26:06.092+08:00",
+  "updatedAt": "2026-09-24T20:31:09.391+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "ahfnyhTWEug",
-        "title": "突破500訂閱，感謝粉絲支持｜《Now You Know A4URA》｜現在認識A4URA了｜英文動態歌詞",
-        "url": "https://www.youtube.com/watch?v=ahfnyhTWEug",
-        "thumbnail": "https://i.ytimg.com/vi_webp/ahfnyhTWEug/maxresdefault.webp",
-        "durationSeconds": 209,
-        "publishedAt": "2026-09-21T01:42:17.000+08:00",
-        "fetchedAt": "2026-09-24T20:05:50.719+08:00",
+        "videoId": "9vVC45Qb8JQ",
+        "title": "A4URA休假日常",
+        "url": "https://www.youtube.com/watch?v=9vVC45Qb8JQ",
+        "thumbnail": "https://i.ytimg.com/vi/9vVC45Qb8JQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEIgWihyMA8=&rs=AOn4CLCjdYMfQL_83TH4t2z55hD4vkXNdw",
+        "durationSeconds": 90,
+        "publishedAt": "2026-09-02T23:27:27.000+08:00",
+        "fetchedAt": "2026-09-24T20:30:52.201+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.74
+        "genreConfidence": 0.39
       }
     },
     {
@@ -95,15 +95,15 @@
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "E8PK1SITqeg",
-        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
-        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
-        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
-        "durationSeconds": 255,
-        "publishedAt": "2026-09-12T04:57:52.000+08:00",
-        "fetchedAt": "2026-09-24T20:15:52.172+08:00",
+        "videoId": "XnLNBPgERI4",
+        "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
+        "url": "https://www.youtube.com/watch?v=XnLNBPgERI4",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XnLNBPgERI4/maxresdefault.webp",
+        "durationSeconds": 206,
+        "publishedAt": "2026-08-20T06:19:21.000+08:00",
+        "fetchedAt": "2026-09-24T20:30:54.007+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.99
       }
     },
     {
