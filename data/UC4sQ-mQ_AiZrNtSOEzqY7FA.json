@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-24T23:15:51.737+08:00",
+  "lastUpdated": "2026-09-24T23:20:52.363+08:00",
   "latestVideo": {
     "videoId": "73dglfip2WE",
     "title": "貓把爪子按在最後一個箱子上，像問我們要去哪裡｜貓砂盆旁的箱子｜Yu Stellar｜星語",
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "Vnmwxf1mCIY",
-      "title": "告別、成長、重逢之後，我們的故事還沒完｜未完待續｜Yu Stellar｜星語",
+      "title": "故事沒有結局，只是輪到明天繼續寫｜未完待續｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.68
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "Tae3s5cWMDM",
-      "title": "走過告別與重逢，我們終於開始計畫同一個家｜把明天留給我們｜Yu Stellar｜星語",
+      "title": "這一次，我們不只約定今天，也把明天留下｜把明天留給我們｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
@@ -148,13 +148,13 @@
     },
     {
       "videoId": "_zr28L0K774",
-      "title": "兩座時區｜遠距離愛情走向沉默的華語情歌｜Yu Stellar｜星語",
+      "title": "當兩個人的一天再也碰不到，愛會先斷線嗎？｜兩座時區｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
     {
       "videoId": "RLQCLGovr70",
-      "title": "不同時區的晚安｜遠距離愛情最安靜的消耗｜Yu Stellar｜星語",
+      "title": "當你的晚安成了我的早安，愛還能撐多久？｜不同時區的晚安｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
