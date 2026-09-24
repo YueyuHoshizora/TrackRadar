@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-24T20:00:54.131+08:00",
+  "lastUpdated": "2026-09-24T20:05:51.607+08:00",
   "latestVideo": {
     "videoId": "73dglfip2WE",
     "title": "貓把爪子按在最後一個箱子上，像問我們要去哪裡｜貓砂盆旁的箱子｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "73dglfip2WE",
-      "title": "貓把爪子按在最後一個箱子上，像問我們要去哪裡｜貓砂盆旁的箱子｜Yu Stellar｜星語",
+      "title": "搬家文件簽下去的那晚，我們決定各自生活｜貓砂盆旁的箱子｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.8
     },
@@ -142,7 +142,7 @@
     },
     {
       "videoId": "nXMpNlR50t8",
-      "title": "沒有你的新生活｜寫給正在獨自重新開始的人｜Yu Stellar｜星語",
+      "title": "分開後第一次整理房間，也整理了自己｜沒有你的新生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -154,13 +154,13 @@
     },
     {
       "videoId": "RLQCLGovr70",
-      "title": "不是不想說晚安，是我們活在不同的時間｜不同時區的晚安｜Yu Stellar｜星語",
+      "title": "當你的晚安成了我的早安，愛還能撐多久？｜不同時區的晚安｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "那晚我們沒有爭吵，只是各自走向不同明天｜月台以西｜Yu Stellar｜星語",
+      "title": "不是不愛，才在末班車前說再見｜月台以西｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
