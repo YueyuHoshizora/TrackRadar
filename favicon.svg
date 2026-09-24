@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TrackRadar: music note on a radar">
+  <rect width="64" height="64" rx="14" fill="#101e32"/>
+  <path d="M32 32 47 11a26 26 0 0 1 11 21Z" fill="#2dd4bf" opacity=".24"/>
+  <circle cx="32" cy="32" r="23" fill="none" stroke="#4de0cb" stroke-width="2.5"/>
+  <circle cx="32" cy="32" r="14" fill="none" stroke="#4de0cb" stroke-width="2" opacity=".58"/>
+  <path d="M32 32 47 11" fill="none" stroke="#4de0cb" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M37 21v20a5.5 4.5 0 1 1-4-4.3V25l12-3v7l-8 2" fill="#ffca70"/>
+</svg>

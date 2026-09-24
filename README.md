@@ -2,6 +2,8 @@
 
 Cloudflare Worker（實際部署名稱 `track-radar`，CF Worker 名稱規則不允許大寫，因此用連字號取代原本要求的 `TrackRadar`；實際網址 `https://track-radar.plain-leaf-e871.workers.dev`）每 5 分鐘輪詢一批 YouTube 頻道，找出每個頻道「目前最新一支」上傳影片（排除 Shorts / 直播 / 首播），並把結果以 JSON 寫回 GitHub 儲存庫（`YueyuHoshizora/TrackRadar`）。
 
+網站分頁圖示為 [`favicon.ico`](favicon.ico)（提供 16、32、48、64、128、256 px 尺寸），由 [`favicon.svg`](favicon.svg) 原始向量圖轉製：雷達掃描代表追蹤，音符代表音樂；GitHub Pages 透過 `_includes/head-custom.html` 載入。
+
 ## 資料儲存格式
 
 公開資料的基礎網址為 [`https://data.a-music.app/`](https://data.a-music.app/)。各 JSON 檔案可直接接在此網址後方存取，例如 [`latest-videos.json`](https://data.a-music.app/latest-videos.json)、[`channels.json`](https://data.a-music.app/channels.json) 與 `data/<channelId>.json`。
