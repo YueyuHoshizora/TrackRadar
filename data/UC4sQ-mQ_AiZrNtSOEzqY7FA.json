@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-24T09:20:51.226+08:00",
+  "lastUpdated": "2026-09-24T09:25:51.235+08:00",
   "latestVideo": {
     "videoId": "mRaq4gducE4",
     "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
@@ -22,13 +22,13 @@
     },
     {
       "videoId": "-qNX4NkaFsI",
-      "title": "重逢之後｜從告別走向完整自己的療癒終章｜Yu Stellar｜星語",
+      "title": "重逢之後，我更像我，不必再為誰回頭｜重逢之後｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
     {
       "videoId": "jFAA2ibMrB0",
-      "title": "紙箱裡的夏天｜寫給不得不告別的華語情歌｜Yu Stellar｜星語",
+      "title": "把夏天收進紙箱，卻收不進那句再見｜紙箱裡的夏天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
+      "title": "聽見你的好消息，我第一次只剩一句真好｜遠方也明亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -94,13 +94,13 @@
     },
     {
       "videoId": "OtVXQi8Nm0Q",
-      "title": "一個人吃飯的晚上，我終於學會照顧自己｜星期三的湯｜Yu Stellar｜星語",
+      "title": "星期三的湯｜寫給獨居生活重新有光的溫柔情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "kwEQLyh-Dfs",
-      "title": "多年後的那場雨，讓我們再次站在彼此面前｜同一場雨｜Yu Stellar｜星語",
+      "title": "同一場雨｜多年後意外重逢的電影感情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -154,13 +154,13 @@
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "那晚我們沒有爭吵，只是各自走向不同明天｜月台以西｜Yu Stellar｜星語",
+      "title": "月台以西｜寫給不得不告別的成熟情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "tr7okYyGTI0",
-      "title": "那年我們鬆開手，繞了一圈才懂得重逢｜我們在遠方告別｜Yu Stellar｜星語",
+      "title": "我們在遠方告別｜寫給錯過卻仍相信愛的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -196,13 +196,13 @@
     },
     {
       "videoId": "C_hmzYKi2C0",
-      "title": "不飲孟婆湯｜忘了你，重生又有什麼意義？｜Yu Stellar｜星語",
+      "title": "不飲孟婆湯｜忘川奈何橋・輪迴虐戀｜東方女聲 EDM｜Yu Stellar｜星語",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 0.68
     },
     {
       "videoId": "3N_7_jZk3Oc",
-      "title": "〈把未來寄丟了〉每個選擇都沒錯，為什麼拼不成一個以後？",
+      "title": "〈把未來寄丟了〉遠距離戀愛情歌｜寫給沒能實現的未來",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
@@ -268,7 +268,7 @@
     },
     {
       "videoId": "wtLpZKrVHkI",
-      "title": "你不是撐不住，只是太久沒休息｜今日不問江湖事｜Yu Stellar｜星語",
+      "title": "今日不問江湖事｜古風女聲・瀟灑女俠的偷閒之歌｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.35
     },
@@ -280,7 +280,7 @@
     },
     {
       "videoId": "cTGwaoSKlbc",
-      "title": "〈一張飛往你的票〉她省下每一杯咖啡，只為飛去見你",
+      "title": "第一次辦護照、第一次出國，終點卻沒有他｜〈一張飛往你的票〉",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -292,7 +292,7 @@
     },
     {
       "videoId": "zqxllawDlec",
-      "title": "〈週末的車票〉遠距離最捨不得的，是每次見面都在倒數",
+      "title": "〈週末的車票〉華語抒情女聲｜寫給每個跨城相愛的人",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
