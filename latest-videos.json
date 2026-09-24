@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:11:05.071+08:00",
+  "updatedAt": "2026-09-24T19:16:05.179+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "9vVC45Qb8JQ",
-        "title": "A4URA休假日常",
-        "url": "https://www.youtube.com/watch?v=9vVC45Qb8JQ",
-        "thumbnail": "https://i.ytimg.com/vi/9vVC45Qb8JQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEIgWihyMA8=&rs=AOn4CLCjdYMfQL_83TH4t2z55hD4vkXNdw",
-        "durationSeconds": 90,
-        "publishedAt": "2026-09-02T23:27:27.000+08:00",
-        "fetchedAt": "2026-09-24T19:10:50.888+08:00",
+        "videoId": "ahfnyhTWEug",
+        "title": "突破500訂閱，感謝粉絲支持｜《Now You Know A4URA》｜現在認識A4URA了｜英文動態歌詞",
+        "url": "https://www.youtube.com/watch?v=ahfnyhTWEug",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ahfnyhTWEug/maxresdefault.webp",
+        "durationSeconds": 209,
+        "publishedAt": "2026-09-21T01:42:17.000+08:00",
+        "fetchedAt": "2026-09-24T19:15:50.762+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.41
+        "genreConfidence": 0.7
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "CsvkFZ57bu8",
-        "title": "《找不回來的你》The One I Couldn't Bring Back｜明日邊界2147 Universe｜璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=CsvkFZ57bu8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/CsvkFZ57bu8/maxresdefault.webp",
-        "durationSeconds": 252,
-        "publishedAt": "2026-09-06T18:00:32.000+08:00",
-        "fetchedAt": "2026-09-24T19:00:55.693+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.38
+        "videoId": "qGc_gkTS0KY",
+        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
+        "durationSeconds": 253,
+        "publishedAt": "2026-09-15T18:32:58.000+08:00",
+        "fetchedAt": "2026-09-24T19:15:53.080+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.26
       }
     },
     {
