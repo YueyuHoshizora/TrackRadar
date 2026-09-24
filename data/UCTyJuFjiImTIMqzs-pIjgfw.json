@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-09-22T12:20:34.394+08:00",
+  "lastUpdated": "2026-09-24T12:35:53.962+08:00",
   "latestVideo": {
-    "videoId": "hnxK9kwd3Xk",
-    "title": "🍺 台語大帝國《空杯醉袂過》(90s台語懷舊演歌)｜男女對唱｜四首台語酒歌，竟然能接成一首？｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=hnxK9kwd3Xk",
-    "thumbnail": "https://i.ytimg.com/vi_webp/hnxK9kwd3Xk/maxresdefault.webp",
-    "durationSeconds": 240,
-    "publishedAt": "2026-09-22T10:01:37.000+08:00",
-    "fetchedAt": "2026-09-22T12:20:33.163+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.45
+    "videoId": "yBdAcvKkaTY",
+    "title": "📀《台語大帝國 Vol.6》完整版｜7首台語酒歌合輯串燒｜2026必聽！｜完整歌單 Playlist｜台羅動態字幕｜筠芙得利",
+    "url": "https://www.youtube.com/watch?v=yBdAcvKkaTY",
+    "thumbnail": "https://i.ytimg.com/vi/yBdAcvKkaTY/maxresdefault.jpg",
+    "durationSeconds": 1626,
+    "publishedAt": "2026-09-24T12:33:22.000+08:00",
+    "fetchedAt": "2026-09-24T12:35:52.803+08:00",
+    "genre": "其他/無法判斷 Other",
+    "genreConfidence": 0.47
   },
   "allVideoIds": [
+    {
+      "videoId": "yBdAcvKkaTY",
+      "title": "📀《台語大帝國 Vol.6》完整版｜7首台語酒歌合輯串燒｜2026必聽！｜完整歌單 Playlist｜台羅動態字幕｜筠芙得利",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.47
+    },
     {
       "videoId": "hnxK9kwd3Xk",
       "title": "🍺 台語大帝國《空杯醉袂過》(90s台語懷舊演歌)｜男女對唱｜四首台語酒歌，竟然能接成一首？｜筠芙得利【Official MV】",
