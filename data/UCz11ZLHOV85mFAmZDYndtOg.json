@@ -1,19 +1,25 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-09-21T18:40:41.926+08:00",
+  "lastUpdated": "2026-09-24T19:55:57.371+08:00",
   "latestVideo": {
-    "videoId": "Ry1DMm5OUwo",
-    "title": "4 0、BEAST MODE",
-    "url": "https://www.youtube.com/watch?v=Ry1DMm5OUwo",
-    "thumbnail": "https://i.ytimg.com/vi/Ry1DMm5OUwo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACuAiKAgwIABABGH8gKigTMA8=&rs=AOn4CLCD_VGo0VqhoanrsMOu9JzH-H8MHQ",
-    "durationSeconds": 176,
-    "publishedAt": "2026-09-21T18:31:22.000+08:00",
-    "fetchedAt": "2026-09-21T18:40:40.200+08:00",
+    "videoId": "R4ZN32tF0G0",
+    "title": "🌧️Neon Rain After Midnight",
+    "url": "https://www.youtube.com/watch?v=R4ZN32tF0G0",
+    "thumbnail": "https://i.ytimg.com/vi/R4ZN32tF0G0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBK1XZ6WMO9cLhXDH9LXfEnFDYGA",
+    "durationSeconds": 2864,
+    "publishedAt": "2026-09-24T19:55:38.000+08:00",
+    "fetchedAt": "2026-09-24T19:55:56.818+08:00",
     "genre": "電子 Electronic",
-    "genreConfidence": 0.98
+    "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "R4ZN32tF0G0",
+      "title": "🌧️Neon Rain After Midnight",
+      "genre": "電子 Electronic",
+      "genreConfidence": 1
+    },
     {
       "videoId": "Ry1DMm5OUwo",
       "title": "4 0、BEAST MODE",
