@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T12:21:04.283+08:00",
+  "updatedAt": "2026-09-24T12:26:03.575+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -274,13 +274,13 @@
       "channelId": "UCP7vt7hh_7k9iSk1cNu9DsQ",
       "channelTitle": "洛陽-Luo Sequence ",
       "latestVideo": {
-        "videoId": "AQGbIHAQ44Q",
-        "title": "《浮生舊夢 : 歸雁》洛陽｜中國風原創｜有些人一別，便錯過了一生",
-        "url": "https://www.youtube.com/watch?v=AQGbIHAQ44Q",
-        "thumbnail": "https://i.ytimg.com/vi_webp/AQGbIHAQ44Q/maxresdefault.webp?v=6aa8c555",
-        "durationSeconds": 235,
-        "publishedAt": "2026-09-15T12:05:06.000+08:00",
-        "fetchedAt": "2026-09-19T11:17:46.778+08:00",
+        "videoId": "GWRfqgEbfYk",
+        "title": "《墜入月宮 remix》廣寒深處藏情夢；萬里星河寄相思 | #國風 #古風 #仙戀 | Official MV",
+        "url": "https://www.youtube.com/watch?v=GWRfqgEbfYk",
+        "thumbnail": "https://i.ytimg.com/vi_webp/GWRfqgEbfYk/maxresdefault.webp",
+        "durationSeconds": 264,
+        "publishedAt": "2026-09-24T12:15:34.000+08:00",
+        "fetchedAt": "2026-09-24T12:25:55.328+08:00",
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 1
       }
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "_2jV7hVxrz8",
-        "title": "《玫紅色的我們》Rose Red｜《未曾抵達的我們》前傳｜原創愛情微電影｜霧月 Xiaoloulou｜GL｜百合雙女主",
-        "url": "https://www.youtube.com/watch?v=_2jV7hVxrz8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_2jV7hVxrz8/maxresdefault.webp?v=6ab0d1e4",
-        "durationSeconds": 516,
-        "publishedAt": "2026-09-21T15:00:10.000+08:00",
-        "fetchedAt": "2026-09-23T21:11:01.773+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.67
+        "videoId": "OK-sgI85blA",
+        "title": "連清高都一樣《不群之芳》｜音樂微電影｜霧月 Xiaoloulou【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=OK-sgI85blA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/OK-sgI85blA/maxresdefault.webp?v=6ab2293a",
+        "durationSeconds": 157,
+        "publishedAt": "2026-09-24T12:00:09.000+08:00",
+        "fetchedAt": "2026-09-24T12:25:57.259+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.47
       }
     },
     {
