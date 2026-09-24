@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:01:10.350+08:00",
+  "updatedAt": "2026-09-24T16:06:09.298+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "ahfnyhTWEug",
-        "title": "突破500訂閱，感謝粉絲支持｜《Now You Know A4URA》｜現在認識A4URA了｜英文動態歌詞",
-        "url": "https://www.youtube.com/watch?v=ahfnyhTWEug",
-        "thumbnail": "https://i.ytimg.com/vi_webp/ahfnyhTWEug/maxresdefault.webp",
-        "durationSeconds": 209,
-        "publishedAt": "2026-09-21T01:42:17.000+08:00",
-        "fetchedAt": "2026-09-21T01:45:28.222+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.7
+        "videoId": "9vVC45Qb8JQ",
+        "title": "A4URA休假日常",
+        "url": "https://www.youtube.com/watch?v=9vVC45Qb8JQ",
+        "thumbnail": "https://i.ytimg.com/vi/9vVC45Qb8JQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEIgWihyMA8=&rs=AOn4CLCjdYMfQL_83TH4t2z55hD4vkXNdw",
+        "durationSeconds": 90,
+        "publishedAt": "2026-09-02T23:27:27.000+08:00",
+        "fetchedAt": "2026-09-24T16:05:52.513+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.42
       }
     },
     {
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "M-z4TJ7mCpQ",
-        "title": "《月老》｜她替所有人牽紅線，結果自己先被牽走了【國風歌曲・月老紅線・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=M-z4TJ7mCpQ",
-        "thumbnail": "https://i.ytimg.com/vi/M-z4TJ7mCpQ/maxresdefault.jpg",
-        "durationSeconds": 243,
-        "publishedAt": "2026-09-19T16:54:34.000+08:00",
-        "fetchedAt": "2026-09-23T21:15:50.985+08:00",
+        "videoId": "V0Oeq0kcOfE",
+        "title": "《九尾狐》｜山海經中的九尾妖狐，被人類追殺後卻回頭救了全村【超燃國風電音・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=V0Oeq0kcOfE",
+        "thumbnail": "https://i.ytimg.com/vi_webp/V0Oeq0kcOfE/maxresdefault.webp",
+        "durationSeconds": 262,
+        "publishedAt": "2026-09-09T18:00:10.000+08:00",
+        "fetchedAt": "2026-09-24T16:05:53.712+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 0.86
       }
     },
     {
