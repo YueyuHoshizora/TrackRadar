@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:11:07.770+08:00",
+  "updatedAt": "2026-09-24T20:16:06.288+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -95,15 +95,15 @@
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "XnLNBPgERI4",
-        "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
-        "url": "https://www.youtube.com/watch?v=XnLNBPgERI4",
-        "thumbnail": "https://i.ytimg.com/vi_webp/XnLNBPgERI4/maxresdefault.webp",
-        "durationSeconds": 206,
-        "publishedAt": "2026-08-20T06:19:21.000+08:00",
-        "fetchedAt": "2026-09-24T20:10:52.279+08:00",
+        "videoId": "E8PK1SITqeg",
+        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+        "durationSeconds": 255,
+        "publishedAt": "2026-09-12T04:57:52.000+08:00",
+        "fetchedAt": "2026-09-24T20:15:52.172+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.99
+        "genreConfidence": 1
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "CsvkFZ57bu8",
-        "title": "《找不回來的你》The One I Couldn't Bring Back｜明日邊界2147 Universe｜璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=CsvkFZ57bu8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/CsvkFZ57bu8/maxresdefault.webp",
-        "durationSeconds": 252,
-        "publishedAt": "2026-09-06T18:00:32.000+08:00",
-        "fetchedAt": "2026-09-24T20:10:55.140+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.36
+        "videoId": "qGc_gkTS0KY",
+        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
+        "durationSeconds": 253,
+        "publishedAt": "2026-09-15T18:32:58.000+08:00",
+        "fetchedAt": "2026-09-24T20:15:54.057+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.32
       }
     },
     {
@@ -259,15 +259,15 @@
       "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
       "channelTitle": "DJ - Lumina",
       "latestVideo": {
-        "videoId": "R4ZN32tF0G0",
-        "title": "🌧️Neon Rain After Midnight",
-        "url": "https://www.youtube.com/watch?v=R4ZN32tF0G0",
-        "thumbnail": "https://i.ytimg.com/vi/R4ZN32tF0G0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBK1XZ6WMO9cLhXDH9LXfEnFDYGA",
-        "durationSeconds": 2864,
-        "publishedAt": "2026-09-24T19:55:38.000+08:00",
-        "fetchedAt": "2026-09-24T19:55:56.818+08:00",
-        "genre": "電子 Electronic",
-        "genreConfidence": 1
+        "videoId": "EnKLsVBuJm8",
+        "title": "✉️Letters We Never Sent",
+        "url": "https://www.youtube.com/watch?v=EnKLsVBuJm8",
+        "thumbnail": "https://i.ytimg.com/vi/EnKLsVBuJm8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNQctjaf4o8tXeiQOczMNkRB6d9A",
+        "durationSeconds": 2797,
+        "publishedAt": "2026-09-24T20:06:03.000+08:00",
+        "fetchedAt": "2026-09-24T20:15:57.744+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.67
       }
     },
     {
