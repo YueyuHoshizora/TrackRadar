@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-25T05:26:05.940+08:00",
+  "updatedAt": "2026-09-25T05:31:04.821+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "73dglfip2WE",
-        "title": "貓把爪子按在最後一個箱子上，像問我們要去哪裡｜貓砂盆旁的箱子｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=73dglfip2WE",
-        "thumbnail": "https://i.ytimg.com/vi/73dglfip2WE/maxresdefault.jpg",
-        "durationSeconds": 246,
-        "publishedAt": "2026-09-24T17:30:08.000+08:00",
-        "fetchedAt": "2026-09-24T18:15:50.717+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.58
+        "videoId": "J0Rkv1IHBLk",
+        "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=J0Rkv1IHBLk",
+        "thumbnail": "https://i.ytimg.com/vi/J0Rkv1IHBLk/maxresdefault.jpg",
+        "durationSeconds": 132,
+        "publishedAt": "2026-09-25T05:30:10.000+08:00",
+        "fetchedAt": "2026-09-25T05:30:50.951+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.95
       }
     },
     {
