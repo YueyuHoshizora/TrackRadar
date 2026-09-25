@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T18:06:03.665+08:00",
+  "updatedAt": "2026-09-25T18:11:05.554+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "Yu Starry Music",
+      "channelTitle": "語音星空",
       "latestVideo": {
         "videoId": "VC9am2Q097k",
         "title": "我在新房間點亮第一盞燈，先讓貓知道我回來了｜新房間的第一盞燈｜Yu Stellar｜星語",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "h_Rws3_K1dY",
-        "title": "A4URA+NIX:0互動舞蹈練習",
-        "url": "https://www.youtube.com/watch?v=h_Rws3_K1dY",
-        "thumbnail": "https://i.ytimg.com/vi/h_Rws3_K1dY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUyhHMA8=&rs=AOn4CLBtiNAsKZw-ptRv21vfwbxR-wvRWw",
-        "durationSeconds": 118,
-        "publishedAt": "2026-08-30T17:47:49.000+08:00",
-        "fetchedAt": "2026-09-25T17:55:50.995+08:00",
+        "videoId": "ahfnyhTWEug",
+        "title": "突破500訂閱，感謝粉絲支持｜《Now You Know A4URA》｜現在認識A4URA了｜英文動態歌詞",
+        "url": "https://www.youtube.com/watch?v=ahfnyhTWEug",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ahfnyhTWEug/maxresdefault.webp",
+        "durationSeconds": 209,
+        "publishedAt": "2026-09-21T01:42:17.000+08:00",
+        "fetchedAt": "2026-09-25T18:10:50.871+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.65
+        "genreConfidence": 0.66
       }
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
-      "channelTitle": "Aria艾莉亞",
+      "channelTitle": "Aria",
       "latestVideo": {
         "videoId": "q6L3WZAbAYk",
         "title": "不用把所有期待，都揹得太重｜《把心事借給晚風》Aria艾莉亞 Official Lyric Video",
