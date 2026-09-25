@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-25T15:20:51.265+08:00",
+  "lastUpdated": "2026-09-25T15:25:51.411+08:00",
   "latestVideo": {
     "videoId": "J0Rkv1IHBLk",
     "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "J0Rkv1IHBLk",
-      "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
+      "title": "搬到新家後，我學會自己修窗、買晚餐｜新地址的雨｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "73dglfip2WE",
-      "title": "搬家文件簽下去的那晚，我們決定各自生活｜貓砂盆旁的箱子｜Yu Stellar｜星語",
+      "title": "貓把爪子按在最後一個箱子上，像問我們要去哪裡｜貓砂盆旁的箱子｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.8
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "遠方也明亮｜寫給真正放下比較與遺憾的人｜Yu Stellar｜星語",
+      "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "iaq0nSfm-r4",
-      "title": "這次站上台接受掌聲，我沒有再想起誰的手｜名片上的我｜Yu Stellar｜星語",
+      "title": "名片上的我｜找回自己價值的成長系華語流行歌｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.81
     },
@@ -172,7 +172,7 @@
     },
     {
       "videoId": "tr7okYyGTI0",
-      "title": "明明還相愛，卻只能在遠方告別｜我們在遠方告別｜Yu Stellar｜星語",
+      "title": "那年我們鬆開手，繞了一圈才懂得重逢｜我們在遠方告別｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
