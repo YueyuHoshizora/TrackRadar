@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T17:36:02.693+08:00",
+  "updatedAt": "2026-09-25T17:41:02.022+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-09-25T09:15:53.897+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.27
+        "videoId": "mF7FjZR4evo",
+        "title": "如果可以重來 If I Could Start Again ｜明日邊界 2147 ｜ 璃沫 ｜ Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=mF7FjZR4evo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/mF7FjZR4evo/maxresdefault.webp",
+        "durationSeconds": 200,
+        "publishedAt": "2026-08-06T19:00:32.000+08:00",
+        "fetchedAt": "2026-09-25T17:40:53.472+08:00",
+        "genre": "純音樂/器樂 Instrumental",
+        "genreConfidence": 0.65
       }
     },
     {
