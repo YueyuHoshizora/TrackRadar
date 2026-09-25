@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-25T13:20:51.464+08:00",
+  "lastUpdated": "2026-09-25T13:25:51.389+08:00",
   "latestVideo": {
     "videoId": "J0Rkv1IHBLk",
     "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "J0Rkv1IHBLk",
-      "title": "搬到新家後，我學會自己修窗、買晚餐｜新地址的雨｜Yu Stellar｜星語",
+      "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "mRaq4gducE4",
-      "title": "六點十分｜一首陪你在陌生城市重新出發的歌｜Yu Stellar｜星語",
+      "title": "天還沒亮，我先學著把自己帶穩｜六點十分｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "icHNbNwsNNs",
-      "title": "回到我們曾走過的街，我終於不必住在回憶裡｜城市把路留下｜Yu Stellar｜星語",
+      "title": "城市把路留下，卻沒有要誰停在原地｜城市把路留下｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.57
     },
@@ -148,7 +148,7 @@
     },
     {
       "videoId": "nXMpNlR50t8",
-      "title": "沒有你的新生活｜寫給正在獨自重新開始的人｜Yu Stellar｜星語",
+      "title": "分開後第一次整理房間，也整理了自己｜沒有你的新生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "月台以西｜寫給不得不告別的成熟情歌｜Yu Stellar｜星語",
+      "title": "那晚我們沒有爭吵，只是各自走向不同明天｜月台以西｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
