@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-25T16:45:52.608+08:00",
+  "lastUpdated": "2026-09-25T16:50:51.564+08:00",
   "latestVideo": {
     "videoId": "J0Rkv1IHBLk",
     "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "J0Rkv1IHBLk",
-      "title": "搬到新家後，我學會自己修窗、買晚餐｜新地址的雨｜Yu Stellar｜星語",
+      "title": "新地址的雨｜寫給一個人慢慢安頓下來的情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "mRaq4gducE4",
-      "title": "六點十分｜一首陪你在陌生城市重新出發的歌｜Yu Stellar｜星語",
+      "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "_zr28L0K774",
-      "title": "當兩個人的一天再也碰不到，愛會先斷線嗎？｜兩座時區｜Yu Stellar｜星語",
+      "title": "兩座時區｜遠距離愛情走向沉默的華語情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "ejhtg1ukR-o",
-      "title": "〈不同的城市〉愛沒有走到最後，不代表曾經不真實",
+      "title": "分手後再遇見，她只想問一句「最近還好嗎」｜〈不同的城市〉",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
