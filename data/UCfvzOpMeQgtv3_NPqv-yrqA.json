@@ -1,19 +1,25 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-22T15:00:45.989+08:00",
+  "lastUpdated": "2026-09-25T15:00:57.617+08:00",
   "latestVideo": {
-    "videoId": "pLJRWKAlzH8",
-    "title": "🖤我好想你｜I Miss You So Much｜想你想到快要窒息，為什麼痛的人永遠只有我自己｜Official Music Video",
-    "url": "https://www.youtube.com/watch?v=pLJRWKAlzH8",
-    "thumbnail": "https://i.ytimg.com/vi/pLJRWKAlzH8/maxresdefault.jpg",
-    "durationSeconds": 186,
-    "publishedAt": "2026-09-22T15:00:00.000+08:00",
-    "fetchedAt": "2026-09-22T15:00:43.690+08:00",
+    "videoId": "HkQFuSd80WQ",
+    "title": "🌧️愛情有什麼了不起｜What’s So Great About Love｜我嘴上說沒什麼，唱到最後卻還是會哽咽｜Official Music Video",
+    "url": "https://www.youtube.com/watch?v=HkQFuSd80WQ",
+    "thumbnail": "https://i.ytimg.com/vi/HkQFuSd80WQ/maxresdefault.jpg",
+    "durationSeconds": 235,
+    "publishedAt": "2026-09-25T15:00:28.000+08:00",
+    "fetchedAt": "2026-09-25T15:00:56.622+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.99
+    "genreConfidence": 0.96
   },
   "allVideoIds": [
+    {
+      "videoId": "HkQFuSd80WQ",
+      "title": "🌧️愛情有什麼了不起｜What’s So Great About Love｜我嘴上說沒什麼，唱到最後卻還是會哽咽｜Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
+    },
     {
       "videoId": "pLJRWKAlzH8",
       "title": "🖤我好想你｜I Miss You So Much｜想你想到快要窒息，為什麼痛的人永遠只有我自己｜Official Music Video",
