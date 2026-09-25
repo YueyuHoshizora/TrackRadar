@@ -1,18 +1,23 @@
 {
   "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
   "channelTitle": "迷子 Maigo",
-  "lastUpdated": "2026-09-22T23:20:17.351+08:00",
+  "lastUpdated": "2026-09-25T15:25:52.458+08:00",
   "latestVideo": {
-    "videoId": "UnLYmfA2ias",
-    "title": "夏恋ノ残火 / 迷子 feat. 重音テト",
-    "url": "https://www.youtube.com/watch?v=UnLYmfA2ias",
-    "thumbnail": "https://i.ytimg.com/vi/UnLYmfA2ias/maxresdefault.jpg",
-    "durationSeconds": 245,
-    "publishedAt": "2026-09-04T19:18:31.000+08:00",
-    "fetchedAt": "2026-09-19T10:46:09.359+08:00",
+    "videoId": "hOsVYk0CCIg",
+    "title": "徒花ノ涙 / 迷子 feat. 重音テト【MV・歌詞付き】",
+    "url": "https://www.youtube.com/watch?v=hOsVYk0CCIg",
+    "thumbnail": "https://i.ytimg.com/vi/hOsVYk0CCIg/maxresdefault.jpg",
+    "durationSeconds": 240,
+    "publishedAt": "2026-09-25T15:21:34.000+08:00",
+    "fetchedAt": "2026-09-25T15:25:52.110+08:00",
     "genre": "Vocaloid"
   },
   "allVideoIds": [
+    {
+      "videoId": "hOsVYk0CCIg",
+      "title": "徒花ノ涙 / 迷子 feat. 重音テト【MV・歌詞付き】",
+      "genre": "Vocaloid"
+    },
     {
       "videoId": "UnLYmfA2ias",
       "title": "夏恋ノ残火 / 迷子 feat. 重音テト",
