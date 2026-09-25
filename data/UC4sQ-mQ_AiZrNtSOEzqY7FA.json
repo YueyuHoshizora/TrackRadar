@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-25T15:40:51.267+08:00",
+  "lastUpdated": "2026-09-25T15:45:51.780+08:00",
   "latestVideo": {
     "videoId": "J0Rkv1IHBLk",
     "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "J0Rkv1IHBLk",
-      "title": "搬到新家後，我學會自己修窗、買晚餐｜新地址的雨｜Yu Stellar｜星語",
+      "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "73dglfip2WE",
-      "title": "貓砂盆旁的箱子｜寫給一起生活後不得不告別的人｜Yu Stellar｜星語",
+      "title": "搬家文件簽下去的那晚，我們決定各自生活｜貓砂盆旁的箱子｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.8
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "Tae3s5cWMDM",
-      "title": "這一次，我們不只約定今天，也把明天留下｜把明天留給我們｜Yu Stellar｜星語",
+      "title": "把明天留給我們｜寫給願意一起承擔未來的愛｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
@@ -94,13 +94,13 @@
     },
     {
       "videoId": "iaq0nSfm-r4",
-      "title": "名片上的我｜找回自己價值的成長系華語流行歌｜Yu Stellar｜星語",
+      "title": "這次站上台接受掌聲，我沒有再想起誰的手｜名片上的我｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.81
     },
     {
       "videoId": "gEYq4QAzi4Q",
-      "title": "我們沒有假裝熟悉，而是重新認識彼此｜重新認識你｜Yu Stellar｜星語",
+      "title": "重新認識你｜給重逢後重新開始的成熟情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
@@ -124,13 +124,13 @@
     },
     {
       "videoId": "IRyuDXF3zrU",
-      "title": "原來你也走了很遠，才終於懂我的沉默｜你也走了很遠｜Yu Stellar｜星語",
+      "title": "你也走了很遠｜寫給多年後終於互相理解的兩個人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "M4LBN1LsIsw",
-      "title": "天亮以前，我允許自己失重一次｜天亮前失重｜Yu Stellar｜星語",
+      "title": "天亮前失重｜給不必一直假裝堅強的你｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -148,7 +148,7 @@
     },
     {
       "videoId": "nXMpNlR50t8",
-      "title": "沒有你的房間，我終於學會把日子過好｜沒有你的新生活｜Yu Stellar｜星語",
+      "title": "沒有你的新生活｜寫給正在獨自重新開始的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -160,13 +160,13 @@
     },
     {
       "videoId": "RLQCLGovr70",
-      "title": "不同時區的晚安｜遠距離愛情最安靜的消耗｜Yu Stellar｜星語",
+      "title": "當你的晚安成了我的早安，愛還能撐多久？｜不同時區的晚安｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "那晚我們沒有爭吵，只是各自走向不同明天｜月台以西｜Yu Stellar｜星語",
+      "title": "月台以西｜寫給不得不告別的成熟情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "ejhtg1ukR-o",
-      "title": "〈不同的城市〉愛沒有走到最後，不代表曾經不真實",
+      "title": "〈不同的城市〉遠距離戀愛終章｜療癒系華語抒情女聲",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
