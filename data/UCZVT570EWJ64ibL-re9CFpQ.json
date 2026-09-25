@@ -1,19 +1,25 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-09-24T13:35:59.321+08:00",
+  "lastUpdated": "2026-09-25T17:01:00.826+08:00",
   "latestVideo": {
-    "videoId": "s-toc391qSk",
-    "title": "【中國風 - 明知故犯】不渡 不渡 我動心的孽 🎧 －九黎月｜潮流R&B原創【Official Lyric Video】",
-    "url": "https://www.youtube.com/watch?v=s-toc391qSk",
-    "thumbnail": "https://i.ytimg.com/vi_webp/s-toc391qSk/maxresdefault.webp",
-    "durationSeconds": 249,
-    "publishedAt": "2026-09-21T17:00:26.000+08:00",
-    "fetchedAt": "2026-09-21T17:25:57.277+08:00",
+    "videoId": "F6-kdHlEYNo",
+    "title": "【中國風 - 新娘不是我】你牽她走過那道紗 水袖一甩滿堂花 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+    "url": "https://www.youtube.com/watch?v=F6-kdHlEYNo",
+    "thumbnail": "https://i.ytimg.com/vi_webp/F6-kdHlEYNo/maxresdefault.webp",
+    "durationSeconds": 130,
+    "publishedAt": "2026-09-25T17:00:33.000+08:00",
+    "fetchedAt": "2026-09-25T17:00:58.795+08:00",
     "genre": "古風/國風 Chinese Style",
-    "genreConfidence": 0.52
+    "genreConfidence": 0.74
   },
   "allVideoIds": [
+    {
+      "videoId": "F6-kdHlEYNo",
+      "title": "【中國風 - 新娘不是我】你牽她走過那道紗 水袖一甩滿堂花 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.74
+    },
     {
       "videoId": "s-toc391qSk",
       "title": "【中國風 - 明知故犯】不渡 不渡 我動心的孽 🎧 －九黎月｜潮流R&B原創【Official Lyric Video】",
