@@ -1,19 +1,25 @@
 {
   "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
   "channelTitle": "予安YUAN",
-  "lastUpdated": "2026-09-22T12:10:33.548+08:00",
+  "lastUpdated": "2026-09-25T11:00:58.601+08:00",
   "latestVideo": {
-    "videoId": "UgnXZ467dc4",
-    "title": "《錯過的星光》｜我們錯過的，不只是愛情｜予安 Yuan Official  Music  Video",
-    "url": "https://www.youtube.com/watch?v=UgnXZ467dc4",
-    "thumbnail": "https://i.ytimg.com/vi/UgnXZ467dc4/maxresdefault.jpg",
-    "durationSeconds": 220,
-    "publishedAt": "2026-09-22T11:00:08.000+08:00",
-    "fetchedAt": "2026-09-22T12:10:33.310+08:00",
+    "videoId": "I0BM3wWtNhU",
+    "title": "《愛有回聲》｜忘不了的那個人，原來愛過就不會沒發生｜予安 Yuan Official  Music  Video",
+    "url": "https://www.youtube.com/watch?v=I0BM3wWtNhU",
+    "thumbnail": "https://i.ytimg.com/vi_webp/I0BM3wWtNhU/maxresdefault.webp",
+    "durationSeconds": 232,
+    "publishedAt": "2026-09-25T11:00:06.000+08:00",
+    "fetchedAt": "2026-09-25T11:00:58.057+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.92
+    "genreConfidence": 0.97
   },
   "allVideoIds": [
+    {
+      "videoId": "I0BM3wWtNhU",
+      "title": "《愛有回聲》｜忘不了的那個人，原來愛過就不會沒發生｜予安 Yuan Official  Music  Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
+    },
     {
       "videoId": "UgnXZ467dc4",
       "title": "《錯過的星光》｜我們錯過的，不只是愛情｜予安 Yuan Official  Music  Video",
