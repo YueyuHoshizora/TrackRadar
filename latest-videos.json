@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T17:56:00.972+08:00",
+  "updatedAt": "2026-09-25T18:01:05.011+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -95,15 +95,15 @@
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "E8PK1SITqeg",
-        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
-        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
-        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
-        "durationSeconds": 255,
-        "publishedAt": "2026-09-12T04:57:52.000+08:00",
-        "fetchedAt": "2026-09-25T09:15:52.554+08:00",
+        "videoId": "XnLNBPgERI4",
+        "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
+        "url": "https://www.youtube.com/watch?v=XnLNBPgERI4",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XnLNBPgERI4/maxresdefault.webp",
+        "durationSeconds": 206,
+        "publishedAt": "2026-08-20T06:19:21.000+08:00",
+        "fetchedAt": "2026-09-25T18:00:53.756+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.99
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "mWV39VxURKI",
-        "title": "The Last Protocol | 明日邊界2147 • Tomorrow Frontier 2147 | Sci-Fi Love Story",
-        "url": "https://www.youtube.com/watch?v=mWV39VxURKI",
-        "thumbnail": "https://i.ytimg.com/vi/mWV39VxURKI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdAdE0qXAPn7ZDhDhlKihSwplTyQ",
-        "durationSeconds": 300,
-        "publishedAt": "2026-07-22T19:35:41.000+08:00",
-        "fetchedAt": "2026-09-25T17:50:53.491+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.37
+        "videoId": "CsvkFZ57bu8",
+        "title": "《找不回來的你》The One I Couldn't Bring Back｜明日邊界2147 Universe｜璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=CsvkFZ57bu8",
+        "thumbnail": "https://i.ytimg.com/vi_webp/CsvkFZ57bu8/maxresdefault.webp",
+        "durationSeconds": 252,
+        "publishedAt": "2026-09-06T18:00:32.000+08:00",
+        "fetchedAt": "2026-09-25T18:00:53.990+08:00",
+        "genre": "純音樂/器樂 Instrumental",
+        "genreConfidence": 0.41
       }
     },
     {
