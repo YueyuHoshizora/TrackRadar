@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T18:26:02.566+08:00",
+  "updatedAt": "2026-09-25T18:31:11.474+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "語音星空",
+      "channelTitle": "Yu Starry Music",
       "latestVideo": {
         "videoId": "VC9am2Q097k",
         "title": "我在新房間點亮第一盞燈，先讓貓知道我回來了｜新房間的第一盞燈｜Yu Stellar｜星語",
@@ -334,15 +334,15 @@
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
       "latestVideo": {
-        "videoId": "OKsXq4WU1K0",
-        "title": "《薛丁格的愛情》不敢追問的愛最致命！不說結束也不說開始，破防虐心華語新歌 ｜弦斷誰聽",
-        "url": "https://www.youtube.com/watch?v=OKsXq4WU1K0",
-        "thumbnail": "https://i.ytimg.com/vi_webp/OKsXq4WU1K0/maxresdefault.webp",
-        "durationSeconds": 217,
-        "publishedAt": "2026-09-21T18:30:02.000+08:00",
-        "fetchedAt": "2026-09-21T18:35:47.588+08:00",
+        "videoId": "sN2G4paJC34",
+        "title": "《故障的愛情》真的愛不會叫人猜不停！關掉故障的愛情，這次換我先轉身 ｜ 勿冷又忽熱，你是壞掉的熱水器嗎  ｜ 弦斷誰聽",
+        "url": "https://www.youtube.com/watch?v=sN2G4paJC34",
+        "thumbnail": "https://i.ytimg.com/vi_webp/sN2G4paJC34/maxresdefault.webp",
+        "durationSeconds": 258,
+        "publishedAt": "2026-09-25T18:30:23.000+08:00",
+        "fetchedAt": "2026-09-25T18:30:57.246+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.98
+        "genreConfidence": 0.93
       }
     },
     {
