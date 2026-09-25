@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-25T14:40:51.915+08:00",
+  "lastUpdated": "2026-09-25T14:45:51.448+08:00",
   "latestVideo": {
     "videoId": "J0Rkv1IHBLk",
     "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "J0Rkv1IHBLk",
-      "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
+      "title": "搬到新家後，我學會自己修窗、買晚餐｜新地址的雨｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "73dglfip2WE",
-      "title": "貓把爪子按在最後一個箱子上，像問我們要去哪裡｜貓砂盆旁的箱子｜Yu Stellar｜星語",
+      "title": "搬家文件簽下去的那晚，我們決定各自生活｜貓砂盆旁的箱子｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.8
     },
@@ -34,7 +34,7 @@
     },
     {
       "videoId": "-qNX4NkaFsI",
-      "title": "重逢之後｜從告別走向完整自己的療癒終章｜Yu Stellar｜星語",
+      "title": "重逢之後，我更像我，不必再為誰回頭｜重逢之後｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "Tae3s5cWMDM",
-      "title": "把明天留給我們｜寫給願意一起承擔未來的愛｜Yu Stellar｜星語",
+      "title": "走過告別與重逢，我們終於開始計畫同一個家｜把明天留給我們｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "遠方也明亮｜寫給真正放下比較與遺憾的人｜Yu Stellar｜星語",
+      "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -94,19 +94,19 @@
     },
     {
       "videoId": "iaq0nSfm-r4",
-      "title": "名片上的我，終於不再寫在誰的身後｜名片上的我｜Yu Stellar｜星語",
+      "title": "這次站上台接受掌聲，我沒有再想起誰的手｜名片上的我｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.81
     },
     {
       "videoId": "gEYq4QAzi4Q",
-      "title": "重新認識你｜給重逢後重新開始的成熟情歌｜Yu Stellar｜星語",
+      "title": "重逢後第一次約會，我們像兩個陌生人｜重新認識你｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
     {
       "videoId": "OtVXQi8Nm0Q",
-      "title": "一個人吃飯的晚上，我終於學會照顧自己｜星期三的湯｜Yu Stellar｜星語",
+      "title": "星期三的湯｜寫給獨居生活重新有光的溫柔情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -172,7 +172,7 @@
     },
     {
       "videoId": "tr7okYyGTI0",
-      "title": "明明還相愛，卻只能在遠方告別｜我們在遠方告別｜Yu Stellar｜星語",
+      "title": "那年我們鬆開手，繞了一圈才懂得重逢｜我們在遠方告別｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
