@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-26T00:15:52.471+08:00",
+  "lastUpdated": "2026-09-26T00:20:51.997+08:00",
   "latestVideo": {
     "videoId": "VC9am2Q097k",
     "title": "我在新房間點亮第一盞燈，先讓貓知道我回來了｜新房間的第一盞燈｜Yu Stellar｜星語",
@@ -22,25 +22,25 @@
     },
     {
       "videoId": "J0Rkv1IHBLk",
-      "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
+      "title": "新地址的雨｜寫給一個人慢慢安頓下來的情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "73dglfip2WE",
-      "title": "搬家文件簽下去的那晚，我們決定各自生活｜貓砂盆旁的箱子｜Yu Stellar｜星語",
+      "title": "貓把爪子按在最後一個箱子上，像問我們要去哪裡｜貓砂盆旁的箱子｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.8
     },
     {
       "videoId": "mRaq4gducE4",
-      "title": "六點十分｜一首陪你在陌生城市重新出發的歌｜Yu Stellar｜星語",
+      "title": "天還沒亮，我先學著把自己帶穩｜六點十分｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "-qNX4NkaFsI",
-      "title": "重逢之後，我更像我，不必再為誰回頭｜重逢之後｜Yu Stellar｜星語",
+      "title": "重逢之後｜從告別走向完整自己的療癒終章｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "CIv2Zqdz7o8",
-      "title": "回到舊城以前，我決定不再尋找你的身影｜同城預報｜Yu Stellar｜星語",
+      "title": "同城預報只說有雨，沒說我們會相遇｜同城預報｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -88,7 +88,7 @@
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
+      "title": "遠方也明亮｜寫給真正放下比較與遺憾的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -100,7 +100,7 @@
     },
     {
       "videoId": "iaq0nSfm-r4",
-      "title": "這次站上台接受掌聲，我沒有再想起誰的手｜名片上的我｜Yu Stellar｜星語",
+      "title": "名片上的我，終於不再寫在誰的身後｜名片上的我｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.81
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "M4LBN1LsIsw",
-      "title": "天亮前失重｜給不必一直假裝堅強的你｜Yu Stellar｜星語",
+      "title": "白天裝得很好的人，終於在凌晨浴室哭了｜天亮前失重｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -172,13 +172,13 @@
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "那晚我們沒有爭吵，只是各自走向不同明天｜月台以西｜Yu Stellar｜星語",
+      "title": "不是不愛，才在末班車前說再見｜月台以西｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "tr7okYyGTI0",
-      "title": "那年我們鬆開手，繞了一圈才懂得重逢｜我們在遠方告別｜Yu Stellar｜星語",
+      "title": "明明還相愛，卻只能在遠方告別｜我們在遠方告別｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
