@@ -1,19 +1,25 @@
 {
   "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
   "channelTitle": "COYA可夜",
-  "lastUpdated": "2026-09-26T06:06:01.672+08:00",
+  "lastUpdated": "2026-09-26T11:51:01.387+08:00",
   "latestVideo": {
-    "videoId": "g5S0fPOzAGA",
-    "title": "「人有悲歡離合，月有陰晴圓缺。」🌕｜《千里共嬋娟》｜可夜｜新國風｜Official MV｜千里之外，也望著同一輪月亮｜",
-    "url": "https://www.youtube.com/watch?v=g5S0fPOzAGA",
-    "thumbnail": "https://i.ytimg.com/vi_webp/g5S0fPOzAGA/maxresdefault.webp",
-    "durationSeconds": 265,
-    "publishedAt": "2026-09-22T10:30:30.000+08:00",
-    "fetchedAt": "2026-09-22T12:10:28.249+08:00",
+    "videoId": "AMp5YA1XeIY",
+    "title": "「一煞臨門萬鬼惶，百邪伏首不敢言。」｜《繪面 一煞》｜Coya可夜｜八家將神將降駕｜新國風｜Official MV｜神鬼誌 一煞",
+    "url": "https://www.youtube.com/watch?v=AMp5YA1XeIY",
+    "thumbnail": "https://i.ytimg.com/vi/AMp5YA1XeIY/maxresdefault.jpg",
+    "durationSeconds": 195,
+    "publishedAt": "2026-09-26T10:30:01.000+08:00",
+    "fetchedAt": "2026-09-26T11:51:00.465+08:00",
     "genre": "古風/國風 Chinese Style",
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "AMp5YA1XeIY",
+      "title": "「一煞臨門萬鬼惶，百邪伏首不敢言。」｜《繪面 一煞》｜Coya可夜｜八家將神將降駕｜新國風｜Official MV｜神鬼誌 一煞",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
+    },
     {
       "videoId": "g5S0fPOzAGA",
       "title": "「但願人長久，千里共嬋娟。」🌕｜《千里共嬋娟》｜水調歌頭・明月幾時有｜可夜｜新國風｜Official MV｜中秋思念歌曲｜",
