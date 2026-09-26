@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-26T20:45:45.434+08:00",
+  "lastUpdated": "2026-09-26T20:55:38.632+08:00",
   "latestVideo": {
     "videoId": "jGTPT5nvpqo",
     "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "zRdRkHXuPmA",
+      "title": "【突襲開台】不務正業的文字作家，今天拿刀｜Onimusha: Way of the Sword｜霧月 Xiaoloulou",
+      "genre": "遊戲音樂 Game Music",
+      "genreConfidence": 0.49
+    },
     {
       "videoId": "hu4zqC7akn4",
       "title": "時鐘敲響自由的那一刻｜After Hours 木吉他 Lofi Blues 深夜電台｜加班・夜車・失眠都可以放著｜霧月 Xiaoloulou",
@@ -40,7 +46,7 @@
     },
     {
       "videoId": "t2yq_M3j0TI",
-      "title": "今生前世，還能相認嗎《隔鏡相望》｜與誰相認？與誰相隨？｜輪迴虐戀・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "title": "看見彼此，卻隔了一生《隔鏡相望》｜一照傾城，再照成空｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
