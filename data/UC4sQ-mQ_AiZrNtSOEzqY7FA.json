@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-27T02:00:30.667+08:00",
+  "lastUpdated": "2026-09-27T02:05:25.031+08:00",
   "latestVideo": {
     "videoId": "L6lxR92AxDo",
     "title": "我只問牠今天吃得好嗎，沒問你最近好嗎｜牠今天吃得好嗎｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "L6lxR92AxDo",
-      "title": "我只問牠今天吃得好嗎，沒問你最近好嗎｜牠今天吃得好嗎｜Yu Stellar｜星語",
+      "title": "牠今天吃得好嗎｜寫給分開後仍默默牽掛的情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.48
     },
     {
       "videoId": "iVw2-XJsOjM",
-      "title": "未讀的晚安｜給學會安靜放下的深夜情歌｜Yu Stellar｜星語",
+      "title": "想問你過得好嗎，最後卻沒有發出那句話｜未讀的晚安｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -34,7 +34,7 @@
     },
     {
       "videoId": "J0Rkv1IHBLk",
-      "title": "新地址的雨｜寫給一個人慢慢安頓下來的情歌｜Yu Stellar｜星語",
+      "title": "搬到新家後，我學會自己修窗、買晚餐｜新地址的雨｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "mRaq4gducE4",
-      "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
+      "title": "六點十分｜一首陪你在陌生城市重新出發的歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -88,7 +88,7 @@
     },
     {
       "videoId": "CIv2Zqdz7o8",
-      "title": "同城預報｜多年後重返故城的電影感情歌｜Yu Stellar｜星語",
+      "title": "回到舊城以前，我決定不再尋找你的身影｜同城預報｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -100,7 +100,7 @@
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "聽見你的好消息，我第一次只剩一句真好｜遠方也明亮｜Yu Stellar｜星語",
+      "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -112,7 +112,7 @@
     },
     {
       "videoId": "iaq0nSfm-r4",
-      "title": "名片上的我，終於不再寫在誰的身後｜名片上的我｜Yu Stellar｜星語",
+      "title": "名片上的我｜找回自己價值的成長系華語流行歌｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.81
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "RLQCLGovr70",
-      "title": "當你的晚安成了我的早安，愛還能撐多久？｜不同時區的晚安｜Yu Stellar｜星語",
+      "title": "不同時區的晚安｜遠距離愛情最安靜的消耗｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
