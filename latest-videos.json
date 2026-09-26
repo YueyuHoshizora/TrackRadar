@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-27T05:25:37.564+08:00",
+  "updatedAt": "2026-09-27T05:30:41.891+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "L6lxR92AxDo",
-        "title": "我只問牠今天吃得好嗎，沒問你最近好嗎｜牠今天吃得好嗎｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=L6lxR92AxDo",
-        "thumbnail": "https://i.ytimg.com/vi/L6lxR92AxDo/maxresdefault.jpg",
-        "durationSeconds": 163,
-        "publishedAt": "2026-09-26T17:30:02.000+08:00",
-        "fetchedAt": "2026-09-26T17:30:20.102+08:00",
+        "videoId": "dFZ43K4pdN8",
+        "title": "工牌背面寫著今天，也寫著我不能倒下｜工牌背面｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=dFZ43K4pdN8",
+        "thumbnail": "https://i.ytimg.com/vi/dFZ43K4pdN8/maxresdefault.jpg",
+        "durationSeconds": 162,
+        "publishedAt": "2026-09-27T05:30:15.000+08:00",
+        "fetchedAt": "2026-09-27T05:30:22.864+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.48
+        "genreConfidence": 0.61
       }
     },
     {
