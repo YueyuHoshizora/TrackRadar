@@ -1,19 +1,25 @@
 {
   "channelId": "UCTrgJME6bNivRn8-rERa9Ww",
   "channelTitle": "Zoe. G",
-  "lastUpdated": "2026-09-27T08:25:25.767+08:00",
+  "lastUpdated": "2026-09-27T13:45:26.572+08:00",
   "latestVideo": {
-    "videoId": "od8qd3dFnj0",
-    "title": "玻璃背後，是我沒說出口的呼救｜《虛構》- Zoe. G - 我是ZOE｜我把尖銳的自己磨成平庸，只為換一個討喜的笑容｜官方MV｜【Official Lyric Video】｜Zoe.G 中文原創單曲",
-    "url": "https://www.youtube.com/watch?v=od8qd3dFnj0",
-    "thumbnail": "https://i.ytimg.com/vi/od8qd3dFnj0/maxresdefault.jpg",
-    "durationSeconds": 238,
-    "publishedAt": "2026-09-21T11:20:07.000+08:00",
-    "fetchedAt": "2026-09-27T08:25:24.960+08:00",
+    "videoId": "pUHahoff9cc",
+    "title": "那些說不清的情緒｜《沉》- Zoe. G - 我是ZOE｜沒有哪一天特別難過，只是一天比一天更深｜官方MV｜【Official Video】｜Zoe.G 中文原創單曲",
+    "url": "https://www.youtube.com/watch?v=pUHahoff9cc",
+    "thumbnail": "https://i.ytimg.com/vi/pUHahoff9cc/maxresdefault.jpg",
+    "durationSeconds": 277,
+    "publishedAt": "2026-09-27T13:42:28.000+08:00",
+    "fetchedAt": "2026-09-27T13:45:25.463+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.78
+    "genreConfidence": 0.94
   },
   "allVideoIds": [
+    {
+      "videoId": "pUHahoff9cc",
+      "title": "那些說不清的情緒｜《沉》- Zoe. G - 我是ZOE｜沒有哪一天特別難過，只是一天比一天更深｜官方MV｜【Official Video】｜Zoe.G 中文原創單曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
+    },
     {
       "videoId": "Rzl6mYrk2A8",
       "title": "破戒的豬八戒",
