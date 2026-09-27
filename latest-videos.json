@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T08:20:33.948+08:00",
+  "updatedAt": "2026-09-27T08:25:36.280+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "9vVC45Qb8JQ",
-        "title": "A4URA休假日常",
-        "url": "https://www.youtube.com/watch?v=9vVC45Qb8JQ",
-        "thumbnail": "https://i.ytimg.com/vi/9vVC45Qb8JQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEIgWihyMA8=&rs=AOn4CLCjdYMfQL_83TH4t2z55hD4vkXNdw",
-        "durationSeconds": 90,
-        "publishedAt": "2026-09-02T23:27:27.000+08:00",
-        "fetchedAt": "2026-09-27T06:30:25.376+08:00",
+        "videoId": "ahfnyhTWEug",
+        "title": "突破500訂閱，感謝粉絲支持｜《Now You Know A4URA》｜現在認識A4URA了｜英文動態歌詞",
+        "url": "https://www.youtube.com/watch?v=ahfnyhTWEug",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ahfnyhTWEug/maxresdefault.webp",
+        "durationSeconds": 209,
+        "publishedAt": "2026-09-21T01:42:17.000+08:00",
+        "fetchedAt": "2026-09-27T08:25:22.597+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.45
+        "genreConfidence": 0.69
       }
     },
     {
@@ -110,15 +110,15 @@
       "channelId": "UCTrgJME6bNivRn8-rERa9Ww",
       "channelTitle": "Zoe. G",
       "latestVideo": {
-        "videoId": "0FrYDcqC6QU",
-        "title": "每一次退潮留下的想念，都在等你靠岸｜七夕情歌｜《潮汐》- Zoe. G - 我是ZOE｜思念從未退潮｜官方動態歌詞【Official Lyric Video】｜Zoe.G 中文原創單曲",
-        "url": "https://www.youtube.com/watch?v=0FrYDcqC6QU",
-        "thumbnail": "https://i.ytimg.com/vi/0FrYDcqC6QU/maxresdefault.jpg",
-        "durationSeconds": 325,
-        "publishedAt": "2026-08-19T11:51:43.000+08:00",
-        "fetchedAt": "2026-09-27T07:20:28.810+08:00",
+        "videoId": "od8qd3dFnj0",
+        "title": "玻璃背後，是我沒說出口的呼救｜《虛構》- Zoe. G - 我是ZOE｜我把尖銳的自己磨成平庸，只為換一個討喜的笑容｜官方MV｜【Official Lyric Video】｜Zoe.G 中文原創單曲",
+        "url": "https://www.youtube.com/watch?v=od8qd3dFnj0",
+        "thumbnail": "https://i.ytimg.com/vi/od8qd3dFnj0/maxresdefault.jpg",
+        "durationSeconds": 238,
+        "publishedAt": "2026-09-21T11:20:07.000+08:00",
+        "fetchedAt": "2026-09-27T08:25:24.960+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.78
       }
     },
     {
