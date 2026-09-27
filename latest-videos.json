@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T19:00:43.411+08:00",
+  "updatedAt": "2026-09-27T19:05:34.604+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -469,15 +469,15 @@
       "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
       "channelTitle": "Moyamina",
       "latestVideo": {
-        "videoId": "H7aioXg6GnQ",
-        "title": "死神邀她跳完最後一支舞《The Last Step》｜哥德暗黑探戈",
-        "url": "https://www.youtube.com/watch?v=H7aioXg6GnQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/H7aioXg6GnQ/maxresdefault.webp",
-        "durationSeconds": 272,
-        "publishedAt": "2026-09-14T19:00:01.000+08:00",
-        "fetchedAt": "2026-09-22T18:10:40.751+08:00",
+        "videoId": "JSfMzWA0v0g",
+        "title": "理智叫我離開，身體卻沒有 《The Body Speaks》｜暗黑探戈",
+        "url": "https://www.youtube.com/watch?v=JSfMzWA0v0g",
+        "thumbnail": "https://i.ytimg.com/vi/JSfMzWA0v0g/maxresdefault.jpg",
+        "durationSeconds": 182,
+        "publishedAt": "2026-09-27T19:00:31.000+08:00",
+        "fetchedAt": "2026-09-27T19:05:30.718+08:00",
         "genre": "拉丁 Latin",
-        "genreConfidence": 0.47
+        "genreConfidence": 0.43
       }
     }
   ]
