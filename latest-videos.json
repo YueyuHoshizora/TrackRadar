@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T17:05:36.173+08:00",
+  "updatedAt": "2026-09-27T17:10:36.827+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "yBdAcvKkaTY",
-        "title": "📀《台語大帝國 Vol.6》完整版｜7首台語酒歌合輯串燒｜2026必聽！｜完整歌單 Playlist｜台羅動態字幕｜筠芙得利",
-        "url": "https://www.youtube.com/watch?v=yBdAcvKkaTY",
-        "thumbnail": "https://i.ytimg.com/vi/yBdAcvKkaTY/maxresdefault.jpg",
-        "durationSeconds": 1626,
-        "publishedAt": "2026-09-24T12:33:22.000+08:00",
-        "fetchedAt": "2026-09-24T12:35:52.803+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.47
+        "videoId": "1a5mdRJ__LE",
+        "title": "🌞 台語大帝國《未來有你真好》李多娜｜台語勵志流行歌曲｜向前行，向前行！這首台語歌唱予每一個拍拚的人｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=1a5mdRJ__LE",
+        "thumbnail": "https://i.ytimg.com/vi/1a5mdRJ__LE/maxresdefault.jpg",
+        "durationSeconds": 199,
+        "publishedAt": "2026-09-27T17:06:43.000+08:00",
+        "fetchedAt": "2026-09-27T17:10:25.087+08:00",
+        "genre": "流行 Pop",
+        "genreConfidence": 0.99
       }
     },
     {
