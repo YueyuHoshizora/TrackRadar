@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-28T05:30:34.815+08:00",
+  "updatedAt": "2026-09-28T05:35:37.512+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "bZETT3MDPpo",
-        "title": "未讀的藍色，亮在我不打擾你的夜｜未讀的藍色｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=bZETT3MDPpo",
-        "thumbnail": "https://i.ytimg.com/vi/bZETT3MDPpo/maxresdefault.jpg",
-        "durationSeconds": 158,
-        "publishedAt": "2026-09-27T17:30:11.000+08:00",
-        "fetchedAt": "2026-09-27T17:30:27.571+08:00",
+        "videoId": "VPvSIuXRGfo",
+        "title": "在天亮以前，我先把自己的燈點亮｜燈亮以前｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=VPvSIuXRGfo",
+        "thumbnail": "https://i.ytimg.com/vi/VPvSIuXRGfo/maxresdefault.jpg",
+        "durationSeconds": 121,
+        "publishedAt": "2026-09-28T05:30:30.000+08:00",
+        "fetchedAt": "2026-09-28T05:35:24.197+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.81
+        "genreConfidence": 0.64
       }
     },
     {
