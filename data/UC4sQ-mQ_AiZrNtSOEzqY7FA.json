@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-  "channelTitle": "Yu Starry Music",
-  "lastUpdated": "2026-09-27T20:05:19.231+08:00",
+  "channelTitle": "語音星空",
+  "lastUpdated": "2026-09-27T20:10:27.830+08:00",
   "latestVideo": {
     "videoId": "bZETT3MDPpo",
     "title": "未讀的藍色，亮在我不打擾你的夜｜未讀的藍色｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "bZETT3MDPpo",
-      "title": "未讀的藍色，亮在我不打擾你的夜｜未讀的藍色｜Yu Stellar｜星語",
+      "title": "未讀的藍色｜給學會把牽掛放遠一點的深夜情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.81
     },
     {
       "videoId": "dFZ43K4pdN8",
-      "title": "工牌背面｜寫給努力撐住生活的上班族情歌｜Yu Stellar｜星語",
+      "title": "工牌背面寫著今天，也寫著我不能倒下｜工牌背面｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.61
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "mRaq4gducE4",
-      "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
+      "title": "六點十分｜一首陪你在陌生城市重新出發的歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -100,7 +100,7 @@
     },
     {
       "videoId": "CIv2Zqdz7o8",
-      "title": "同城預報｜多年後重返故城的電影感情歌｜Yu Stellar｜星語",
+      "title": "回到舊城以前，我決定不再尋找你的身影｜同城預報｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -112,7 +112,7 @@
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "聽見你的好消息，我第一次只剩一句真好｜遠方也明亮｜Yu Stellar｜星語",
+      "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "OtVXQi8Nm0Q",
-      "title": "星期三的湯｜寫給獨居生活重新有光的溫柔情歌｜Yu Stellar｜星語",
+      "title": "一個人吃飯的晚上，我終於學會照顧自己｜星期三的湯｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
