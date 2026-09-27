@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T21:10:44.140+08:00",
+  "updatedAt": "2026-09-27T21:15:46.723+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,30 +80,30 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "YOhbhVLaBzU",
-        "title": "《雪女 Yuki Onna》｜他闖進她的冬天，最後讓冰雪融成了春天【和風歌曲・日本妖怪傳說・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=YOhbhVLaBzU",
-        "thumbnail": "https://i.ytimg.com/vi/YOhbhVLaBzU/maxresdefault.jpg",
-        "durationSeconds": 257,
-        "publishedAt": "2026-09-24T18:00:11.000+08:00",
-        "fetchedAt": "2026-09-27T21:05:21.858+08:00",
+        "videoId": "M-z4TJ7mCpQ",
+        "title": "《月老》｜她替所有人牽紅線，結果自己先被牽走了【國風歌曲・月老紅線・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=M-z4TJ7mCpQ",
+        "thumbnail": "https://i.ytimg.com/vi/M-z4TJ7mCpQ/maxresdefault.jpg",
+        "durationSeconds": 243,
+        "publishedAt": "2026-09-19T16:54:34.000+08:00",
+        "fetchedAt": "2026-09-27T21:15:29.296+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.85
+        "genreConfidence": 1
       }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "E8PK1SITqeg",
-        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
-        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
-        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
-        "durationSeconds": 255,
-        "publishedAt": "2026-09-12T04:57:52.000+08:00",
-        "fetchedAt": "2026-09-27T21:10:27.368+08:00",
+        "videoId": "XnLNBPgERI4",
+        "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
+        "url": "https://www.youtube.com/watch?v=XnLNBPgERI4",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XnLNBPgERI4/maxresdefault.webp",
+        "durationSeconds": 206,
+        "publishedAt": "2026-08-20T06:19:21.000+08:00",
+        "fetchedAt": "2026-09-27T21:15:31.021+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.99
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "_2jV7hVxrz8",
-        "title": "《玫紅色的我們》Rose Red｜原創愛情微電影｜霧月 Xiaoloulou｜GL｜百合雙女主",
-        "url": "https://www.youtube.com/watch?v=_2jV7hVxrz8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_2jV7hVxrz8/maxresdefault.webp?v=6ab0d1e4",
-        "durationSeconds": 516,
-        "publishedAt": "2026-09-21T15:00:10.000+08:00",
-        "fetchedAt": "2026-09-27T21:10:38.350+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.66
+        "videoId": "OK-sgI85blA",
+        "title": "連清高都一樣《不群之芳》｜音樂微電影｜霧月 Xiaoloulou【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=OK-sgI85blA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/OK-sgI85blA/maxresdefault.webp?v=6ab2293a",
+        "durationSeconds": 157,
+        "publishedAt": "2026-09-24T12:00:09.000+08:00",
+        "fetchedAt": "2026-09-27T21:15:40.480+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.49
       }
     },
     {
