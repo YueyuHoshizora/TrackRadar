@@ -1,19 +1,25 @@
 {
   "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
   "channelTitle": "修卡迪特AI_創作",
-  "lastUpdated": "2026-09-27T22:20:29.767+08:00",
+  "lastUpdated": "2026-09-27T23:15:20.411+08:00",
   "latestVideo": {
-    "videoId": "ahfnyhTWEug",
-    "title": "突破500訂閱，感謝粉絲支持｜《Now You Know A4URA》｜現在認識A4URA了｜英文動態歌詞",
-    "url": "https://www.youtube.com/watch?v=ahfnyhTWEug",
-    "thumbnail": "https://i.ytimg.com/vi_webp/ahfnyhTWEug/maxresdefault.webp",
-    "durationSeconds": 209,
-    "publishedAt": "2026-09-21T01:42:17.000+08:00",
-    "fetchedAt": "2026-09-27T22:20:28.916+08:00",
-    "genre": "其他/無法判斷 Other",
-    "genreConfidence": 0.68
+    "videoId": "CgJR4I8MNiE",
+    "title": "《A4URA滅夢師》｜EP00序章｜夢獸開端",
+    "url": "https://www.youtube.com/watch?v=CgJR4I8MNiE",
+    "thumbnail": "https://i.ytimg.com/vi/CgJR4I8MNiE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFEgTChlMA8=&rs=AOn4CLAOZoLesXamOmNS_uukPoQ7SkzibA",
+    "durationSeconds": 226,
+    "publishedAt": "2026-09-27T23:14:18.000+08:00",
+    "fetchedAt": "2026-09-27T23:15:19.545+08:00",
+    "genre": "動漫/ACG",
+    "genreConfidence": 0.74
   },
   "allVideoIds": [
+    {
+      "videoId": "CgJR4I8MNiE",
+      "title": "《A4URA滅夢師》｜EP00序章｜夢獸開端",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.74
+    },
     {
       "videoId": "9WqmGz7koiU",
       "title": "中秋節快到了，A4URA當然也要來烤肉了~",
