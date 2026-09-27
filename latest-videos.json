@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T22:05:45.278+08:00",
+  "updatedAt": "2026-09-27T22:10:40.943+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "Yu Starry Music",
+      "channelTitle": "語音星空",
       "latestVideo": {
         "videoId": "bZETT3MDPpo",
         "title": "未讀的藍色，亮在我不打擾你的夜｜未讀的藍色｜Yu Stellar｜星語",
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "Top7T6uaMkc",
-        "title": "《嫦娥》｜她得到了長生，卻只想回到后羿身邊【國風說唱・嫦娥奔月・Official MV】",
-        "url": "https://www.youtube.com/watch?v=Top7T6uaMkc",
-        "thumbnail": "https://i.ytimg.com/vi/Top7T6uaMkc/maxresdefault.jpg",
-        "durationSeconds": 254,
-        "publishedAt": "2026-09-16T20:11:33.000+08:00",
-        "fetchedAt": "2026-09-27T22:00:26.275+08:00",
+        "videoId": "M-z4TJ7mCpQ",
+        "title": "《月老》｜她替所有人牽紅線，結果自己先被牽走了【國風歌曲・月老紅線・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=M-z4TJ7mCpQ",
+        "thumbnail": "https://i.ytimg.com/vi/M-z4TJ7mCpQ/maxresdefault.jpg",
+        "durationSeconds": 243,
+        "publishedAt": "2026-09-19T16:54:34.000+08:00",
+        "fetchedAt": "2026-09-27T22:10:23.408+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.49
+        "genreConfidence": 1
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "sED1xy1gc0Y",
-        "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
-        "url": "https://www.youtube.com/watch?v=sED1xy1gc0Y",
-        "thumbnail": "https://i.ytimg.com/vi_webp/sED1xy1gc0Y/maxresdefault.webp?v=6a9d9568",
-        "durationSeconds": 228,
-        "publishedAt": "2026-09-07T12:00:06.000+08:00",
-        "fetchedAt": "2026-09-27T22:05:38.332+08:00",
+        "videoId": "OK-sgI85blA",
+        "title": "連清高都一樣《不群之芳》｜音樂微電影｜霧月 Xiaoloulou【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=OK-sgI85blA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/OK-sgI85blA/maxresdefault.webp?v=6ab2293a",
+        "durationSeconds": 157,
+        "publishedAt": "2026-09-24T12:00:09.000+08:00",
+        "fetchedAt": "2026-09-27T22:10:33.318+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 0.42
       }
     },
     {
