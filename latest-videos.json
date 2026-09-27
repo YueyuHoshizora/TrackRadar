@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T22:00:44.757+08:00",
+  "updatedAt": "2026-09-27T22:05:45.278+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "語音星空",
+      "channelTitle": "Yu Starry Music",
       "latestVideo": {
         "videoId": "bZETT3MDPpo",
         "title": "未讀的藍色，亮在我不打擾你的夜｜未讀的藍色｜Yu Stellar｜星語",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "9vVC45Qb8JQ",
-        "title": "A4URA休假日常",
-        "url": "https://www.youtube.com/watch?v=9vVC45Qb8JQ",
-        "thumbnail": "https://i.ytimg.com/vi/9vVC45Qb8JQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEIgWihyMA8=&rs=AOn4CLCjdYMfQL_83TH4t2z55hD4vkXNdw",
-        "durationSeconds": 90,
-        "publishedAt": "2026-09-02T23:27:27.000+08:00",
-        "fetchedAt": "2026-09-27T22:00:25.225+08:00",
+        "videoId": "ahfnyhTWEug",
+        "title": "突破500訂閱，感謝粉絲支持｜《Now You Know A4URA》｜現在認識A4URA了｜英文動態歌詞",
+        "url": "https://www.youtube.com/watch?v=ahfnyhTWEug",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ahfnyhTWEug/maxresdefault.webp",
+        "durationSeconds": 209,
+        "publishedAt": "2026-09-21T01:42:17.000+08:00",
+        "fetchedAt": "2026-09-27T22:05:23.815+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.44
+        "genreConfidence": 0.72
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-09-26T21:20:22.756+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.29
+        "videoId": "mF7FjZR4evo",
+        "title": "如果可以重來 If I Could Start Again ｜明日邊界 2147 ｜ 璃沫 ｜ Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=mF7FjZR4evo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/mF7FjZR4evo/maxresdefault.webp",
+        "durationSeconds": 200,
+        "publishedAt": "2026-08-06T19:00:32.000+08:00",
+        "fetchedAt": "2026-09-27T22:05:28.602+08:00",
+        "genre": "純音樂/器樂 Instrumental",
+        "genreConfidence": 0.73
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "jGTPT5nvpqo",
-        "title": "你只說了一句，全屋都信了《說得不像我》｜半句話借了滿屋的舌頭｜被造謠的時候聽・華語抒情｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
-        "url": "https://www.youtube.com/watch?v=jGTPT5nvpqo",
-        "thumbnail": "https://i.ytimg.com/vi_webp/jGTPT5nvpqo/maxresdefault.webp?v=6aa80d29",
-        "durationSeconds": 264,
-        "publishedAt": "2026-09-16T12:00:06.000+08:00",
-        "fetchedAt": "2026-09-27T22:00:37.792+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.99
+        "videoId": "sED1xy1gc0Y",
+        "title": "早知道，不如當初沒遇見《若只如初見》｜秋扇無言，此心成灰｜愛而不得・古風｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+        "url": "https://www.youtube.com/watch?v=sED1xy1gc0Y",
+        "thumbnail": "https://i.ytimg.com/vi_webp/sED1xy1gc0Y/maxresdefault.webp?v=6a9d9568",
+        "durationSeconds": 228,
+        "publishedAt": "2026-09-07T12:00:06.000+08:00",
+        "fetchedAt": "2026-09-27T22:05:38.332+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
