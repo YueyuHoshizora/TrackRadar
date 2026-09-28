@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T15:00:39.328+08:00",
+  "updatedAt": "2026-09-28T15:05:33.413+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -319,15 +319,15 @@
       "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
       "channelTitle": "Vera Studio",
       "latestVideo": {
-        "videoId": "HkQFuSd80WQ",
-        "title": "🌧️愛情有什麼了不起｜What’s So Great About Love｜我嘴上說沒什麼，唱到最後卻還是會哽咽｜Official Music Video",
-        "url": "https://www.youtube.com/watch?v=HkQFuSd80WQ",
-        "thumbnail": "https://i.ytimg.com/vi/HkQFuSd80WQ/maxresdefault.jpg",
-        "durationSeconds": 235,
-        "publishedAt": "2026-09-25T15:00:28.000+08:00",
-        "fetchedAt": "2026-09-25T15:00:56.622+08:00",
+        "videoId": "RmcsxLVZ8mM",
+        "title": "🌱板擦｜The Blackboard Eraser｜長大以後才懂，有些錯不是擦掉，是教你重新來過｜Official Music Video",
+        "url": "https://www.youtube.com/watch?v=RmcsxLVZ8mM",
+        "thumbnail": "https://i.ytimg.com/vi/RmcsxLVZ8mM/maxresdefault.jpg",
+        "durationSeconds": 226,
+        "publishedAt": "2026-09-28T15:00:37.000+08:00",
+        "fetchedAt": "2026-09-28T15:05:27.011+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.96
+        "genreConfidence": 0.62
       }
     },
     {
