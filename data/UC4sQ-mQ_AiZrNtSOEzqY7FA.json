@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-28T10:30:28.286+08:00",
+  "lastUpdated": "2026-09-28T10:35:20.515+08:00",
   "latestVideo": {
     "videoId": "VPvSIuXRGfo",
     "title": "在天亮以前，我先把自己的燈點亮｜燈亮以前｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "VPvSIuXRGfo",
-      "title": "燈亮以前｜從想念走向自我照顧的療癒情歌｜Yu Stellar｜星語",
+      "title": "不再等誰替我導航，我自己走進清晨｜燈亮以前｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
     {
       "videoId": "bZETT3MDPpo",
-      "title": "未讀的藍色，亮在我不打擾你的夜｜未讀的藍色｜Yu Stellar｜星語",
+      "title": "未讀的藍色｜給學會把牽掛放遠一點的深夜情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.81
     },
@@ -64,13 +64,13 @@
     },
     {
       "videoId": "mRaq4gducE4",
-      "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
+      "title": "六點十分｜一首陪你在陌生城市重新出發的歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "-qNX4NkaFsI",
-      "title": "重逢之後，我更像我，不必再為誰回頭｜重逢之後｜Yu Stellar｜星語",
+      "title": "重逢之後｜從告別走向完整自己的療癒終章｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "CIv2Zqdz7o8",
-      "title": "同城預報｜多年後重返故城的電影感情歌｜Yu Stellar｜星語",
+      "title": "回到舊城以前，我決定不再尋找你的身影｜同城預報｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -118,7 +118,7 @@
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
+      "title": "遠方也明亮｜寫給真正放下比較與遺憾的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -130,7 +130,7 @@
     },
     {
       "videoId": "iaq0nSfm-r4",
-      "title": "這次站上台接受掌聲，我沒有再想起誰的手｜名片上的我｜Yu Stellar｜星語",
+      "title": "名片上的我｜找回自己價值的成長系華語流行歌｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.81
     },
