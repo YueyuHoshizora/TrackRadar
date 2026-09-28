@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-28T18:20:41.633+08:00",
+  "updatedAt": "2026-09-28T18:25:38.769+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "VPvSIuXRGfo",
-        "title": "在天亮以前，我先把自己的燈點亮｜燈亮以前｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=VPvSIuXRGfo",
-        "thumbnail": "https://i.ytimg.com/vi/VPvSIuXRGfo/maxresdefault.jpg",
-        "durationSeconds": 121,
-        "publishedAt": "2026-09-28T05:30:30.000+08:00",
-        "fetchedAt": "2026-09-28T05:35:24.197+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.64
+        "videoId": "AJFAh9FaxVY",
+        "title": "影印機卡住的下午，我也學會把問題一張張取出｜影印機卡住的下午｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=AJFAh9FaxVY",
+        "thumbnail": "https://i.ytimg.com/vi/AJFAh9FaxVY/maxresdefault.jpg",
+        "durationSeconds": 116,
+        "publishedAt": "2026-09-28T17:30:08.000+08:00",
+        "fetchedAt": "2026-09-28T18:25:25.273+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.52
       }
     },
     {
