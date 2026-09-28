@@ -1,22 +1,28 @@
 {
   "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
   "channelTitle": "弦斷誰聽",
-  "lastUpdated": "2026-09-28T18:25:33.691+08:00",
+  "lastUpdated": "2026-09-28T18:30:36.644+08:00",
   "latestVideo": {
-    "videoId": "sN2G4paJC34",
-    "title": "《故障的愛情》真的愛不會叫人猜不停！關掉故障的愛情，這次換我先轉身 ｜ 勿冷又忽熱，你是壞掉的熱水器嗎  ｜ 弦斷誰聽",
-    "url": "https://www.youtube.com/watch?v=sN2G4paJC34",
-    "thumbnail": "https://i.ytimg.com/vi_webp/sN2G4paJC34/maxresdefault.webp",
-    "durationSeconds": 258,
-    "publishedAt": "2026-09-25T18:30:23.000+08:00",
-    "fetchedAt": "2026-09-25T18:30:57.246+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.93
+    "videoId": "wkeNcCpcAAI",
+    "title": "《忘情劫》｜舊識若成空，何妨初相逢｜如果妳已不記得我，我們還能重新相愛嗎？｜Official Music Video 劇情 MV 古風原創歌曲・弦斷誰聽",
+    "url": "https://www.youtube.com/watch?v=wkeNcCpcAAI",
+    "thumbnail": "https://i.ytimg.com/vi_webp/wkeNcCpcAAI/maxresdefault.webp",
+    "durationSeconds": 486,
+    "publishedAt": "2026-09-28T18:30:21.000+08:00",
+    "fetchedAt": "2026-09-28T18:30:33.387+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 1
   },
   "allVideoIds": [
     {
+      "videoId": "wkeNcCpcAAI",
+      "title": "《忘情劫》｜如果妳已不記得我，我們還能重新相愛嗎？｜劇情 MV ｜ Official Music Video 古風原創歌曲・弦斷誰聽",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
+    },
+    {
       "videoId": "sN2G4paJC34",
-      "title": "《故障的愛情》勿冷又忽熱，你是壞掉的熱水器嗎！｜官方全新高畫質MV完整版！唱盡忽冷忽熱拉扯與勇敢止損 ｜弦斷誰聽",
+      "title": "《故障的愛情》聽完直接清醒絕交！一秒放行一秒喊停，我不是你隨意切換的心情 ｜ 勿冷又忽熱，你是壞掉的熱水器嗎  ｜ 弦斷誰聽",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
