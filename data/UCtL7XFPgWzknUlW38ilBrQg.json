@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-09-28T11:20:36.824+08:00",
+  "lastUpdated": "2026-09-28T12:00:31.871+08:00",
   "latestVideo": {
     "videoId": "OK-sgI85blA",
     "title": "連清高都一樣《不群之芳》｜音樂微電影｜霧月 Xiaoloulou【Official Music Video】",
@@ -15,16 +15,16 @@
   },
   "allVideoIds": [
     {
-      "videoId": "hu4zqC7akn4",
-      "title": "時鐘敲響自由的那一刻｜After Hours 木吉他 Lofi Blues 深夜電台｜加班・夜車・失眠都可以放著｜霧月 Xiaoloulou",
-      "genre": "民謠/Acoustic",
-      "genreConfidence": 0.78
-    },
-    {
       "videoId": "yqjdlgX49wY",
       "title": "連想妳都不能說嗎？《天亮說晚安的我們》｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.65
+    },
+    {
+      "videoId": "hu4zqC7akn4",
+      "title": "時鐘敲響自由的那一刻｜After Hours 木吉他 Lofi Blues 深夜電台｜加班・夜車・失眠都可以放著｜霧月 Xiaoloulou",
+      "genre": "民謠/Acoustic",
+      "genreConfidence": 0.78
     },
     {
       "videoId": "OK-sgI85blA",
