@@ -1,19 +1,25 @@
 {
   "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
   "channelTitle": "田井魚",
-  "lastUpdated": "2026-09-19T13:04:18.039+08:00",
+  "lastUpdated": "2026-09-28T10:00:30.231+08:00",
   "latestVideo": {
-    "videoId": "338djo367Vg",
-    "title": "你還在我身旁，卻一直等著她，原來...不被愛的才是第三者 《我們。你們》｜華語輕搖滾",
-    "url": "https://www.youtube.com/watch?v=338djo367Vg",
-    "thumbnail": "https://i.ytimg.com/vi_webp/338djo367Vg/maxresdefault.webp",
-    "durationSeconds": 193,
-    "publishedAt": "2026-09-16T18:30:25.000+08:00",
-    "fetchedAt": "2026-09-19T11:18:40.135+08:00",
-    "genre": "搖滾 Rock",
-    "genreConfidence": 0.77
+    "videoId": "xdDm7Ix4NSQ",
+    "title": "再見前任，只想知道當年到底看上他哪裡《鬼遮眼》｜諷刺饒舌",
+    "url": "https://www.youtube.com/watch?v=xdDm7Ix4NSQ",
+    "thumbnail": "https://i.ytimg.com/vi_webp/xdDm7Ix4NSQ/maxresdefault.webp",
+    "durationSeconds": 235,
+    "publishedAt": "2026-09-28T10:00:26.000+08:00",
+    "fetchedAt": "2026-09-28T10:00:29.969+08:00",
+    "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+    "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "xdDm7Ix4NSQ",
+      "title": "再見前任，只想知道當年到底看上他哪裡《鬼遮眼》｜諷刺饒舌",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 1
+    },
     {
       "videoId": "338djo367Vg",
       "title": "你還在我身旁，卻一直等著她，原來...不被愛的才是第三者 《我們。你們》｜華語輕搖滾",
@@ -30,7 +36,7 @@
       "videoId": "7Igt11TM2EM",
       "title": "等到失去以後，我才終於看懂你給過的愛 《遲來的明白》｜遺憾系失戀情歌",
       "genre": "抒情/情歌 Ballad",
-      "genreConfidence": 1.0
+      "genreConfidence": 1
     },
     {
       "videoId": "IvuuLEy_lIw",
@@ -48,13 +54,13 @@
       "videoId": "xyKKEf6klEw",
       "title": "各國崩潰用語大串燒，Z世代必聽洗腦歌 ｜嘻哈迷因／紓壓神曲《我的老天鵝》",
       "genre": "嘻哈/饒舌 Hip-Hop/Rap",
-      "genreConfidence": 1.0
+      "genreConfidence": 1
     },
     {
       "videoId": "YbQdQoFggfg",
       "title": "【古風】不瘋不魔不成活...訴說程蝶衣的偏執、純粹且絕望的愛《戲夢》| 霸王別姬致敬曲｜田井魚",
       "genre": "古風/國風 Chinese Style",
-      "genreConfidence": 1.0
+      "genreConfidence": 1
     },
     {
       "videoId": "i0V9cAXjTes",
@@ -66,7 +72,7 @@
       "videoId": "m1WPd4SNr_I",
       "title": "【分手療癒/悲傷抒情】如果愛是場電影｜散場就別回頭找劇情 - 田井魚 Official Video",
       "genre": "抒情/情歌 Ballad",
-      "genreConfidence": 1.0
+      "genreConfidence": 1
     },
     {
       "videoId": "GOC_6dJ2kM4",
@@ -90,7 +96,7 @@
       "videoId": "85At9_H9FFw",
       "title": "【都會傷感／心碎抒情】偏偏是愛情｜以為有人陪在左右，後來才明白那些溫暖只是一段錯覺...田井魚",
       "genre": "抒情/情歌 Ballad",
-      "genreConfidence": 1.0
+      "genreConfidence": 1
     },
     {
       "videoId": "wh4svaoDEv4",
