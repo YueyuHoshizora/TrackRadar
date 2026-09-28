@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-28T18:30:28.391+08:00",
+  "lastUpdated": "2026-09-28T18:35:27.450+08:00",
   "latestVideo": {
     "videoId": "AJFAh9FaxVY",
     "title": "影印機卡住的下午，我也學會把問題一張張取出｜影印機卡住的下午｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "AJFAh9FaxVY",
-      "title": "今天很糟，但我沒有往誰的懷裡躲｜影印機卡住的下午｜Yu Stellar｜星語",
+      "title": "影印機卡住的下午，我也學會把問題一張張取出｜影印機卡住的下午｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
     {
       "videoId": "VPvSIuXRGfo",
-      "title": "在天亮以前，我先把自己的燈點亮｜燈亮以前｜Yu Stellar｜星語",
+      "title": "燈亮以前｜從想念走向自我照顧的療癒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
@@ -40,13 +40,13 @@
     },
     {
       "videoId": "L6lxR92AxDo",
-      "title": "看見你和貓的照片，我最後只敢問這一句｜牠今天吃得好嗎｜Yu Stellar｜星語",
+      "title": "我只問牠今天吃得好嗎，沒問你最近好嗎｜牠今天吃得好嗎｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.48
     },
     {
       "videoId": "iVw2-XJsOjM",
-      "title": "我把晚安留在未讀裡，讓你自由地睡｜未讀的晚安｜Yu Stellar｜星語",
+      "title": "未讀的晚安｜給學會安靜放下的深夜情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "mRaq4gducE4",
-      "title": "天還沒亮，我先學著把自己帶穩｜六點十分｜Yu Stellar｜星語",
+      "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -106,13 +106,13 @@
     },
     {
       "videoId": "Tae3s5cWMDM",
-      "title": "走過告別與重逢，我們終於開始計畫同一個家｜把明天留給我們｜Yu Stellar｜星語",
+      "title": "這一次，我們不只約定今天，也把明天留下｜把明天留給我們｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
     {
       "videoId": "CIv2Zqdz7o8",
-      "title": "同城預報只說有雨，沒說我們會相遇｜同城預報｜Yu Stellar｜星語",
+      "title": "同城預報｜多年後重返故城的電影感情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
