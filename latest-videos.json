@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-29T05:25:42.204+08:00",
+  "updatedAt": "2026-09-29T05:30:51.777+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "AJFAh9FaxVY",
-        "title": "影印機卡住的下午，我也學會把問題一張張取出｜影印機卡住的下午｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=AJFAh9FaxVY",
-        "thumbnail": "https://i.ytimg.com/vi/AJFAh9FaxVY/maxresdefault.jpg",
-        "durationSeconds": 116,
-        "publishedAt": "2026-09-28T17:30:08.000+08:00",
-        "fetchedAt": "2026-09-28T18:25:25.273+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.52
+        "videoId": "sw86VfMO81M",
+        "title": "這扇窗不再等誰，我有自己的晴朗｜我的窗台｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=sw86VfMO81M",
+        "thumbnail": "https://i.ytimg.com/vi/sw86VfMO81M/maxresdefault.jpg",
+        "durationSeconds": 123,
+        "publishedAt": "2026-09-29T05:30:33.000+08:00",
+        "fetchedAt": "2026-09-29T05:30:37.376+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.76
       }
     },
     {
