@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-09-29T13:10:21.660+08:00",
+  "lastUpdated": "2026-09-29T13:15:21.207+08:00",
   "latestVideo": {
     "videoId": "sw86VfMO81M",
     "title": "這扇窗不再等誰，我有自己的晴朗｜我的窗台｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "sw86VfMO81M",
-      "title": "我的窗台｜寫給一個人也能擁有幸福日常的歌｜Yu Stellar｜星語",
+      "title": "當房間開始有自己的方向，我終於過得很好｜我的窗台｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
@@ -46,13 +46,13 @@
     },
     {
       "videoId": "L6lxR92AxDo",
-      "title": "牠今天吃得好嗎｜寫給分開後仍默默牽掛的情歌｜Yu Stellar｜星語",
+      "title": "看見你和貓的照片，我最後只敢問這一句｜牠今天吃得好嗎｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.48
     },
     {
       "videoId": "iVw2-XJsOjM",
-      "title": "想問你過得好嗎，最後卻沒有發出那句話｜未讀的晚安｜Yu Stellar｜星語",
+      "title": "我把晚安留在未讀裡，讓你自由地睡｜未讀的晚安｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -76,13 +76,13 @@
     },
     {
       "videoId": "mRaq4gducE4",
-      "title": "六點十分｜一首陪你在陌生城市重新出發的歌｜Yu Stellar｜星語",
+      "title": "天還沒亮，我先學著把自己帶穩｜六點十分｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "-qNX4NkaFsI",
-      "title": "重逢之後｜從告別走向完整自己的療癒終章｜Yu Stellar｜星語",
+      "title": "重逢之後，我更像我，不必再為誰回頭｜重逢之後｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -112,7 +112,7 @@
     },
     {
       "videoId": "Tae3s5cWMDM",
-      "title": "把明天留給我們｜寫給願意一起承擔未來的愛｜Yu Stellar｜星語",
+      "title": "走過告別與重逢，我們終於開始計畫同一個家｜把明天留給我們｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
@@ -130,7 +130,7 @@
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "遠方也明亮｜寫給真正放下比較與遺憾的人｜Yu Stellar｜星語",
+      "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -148,13 +148,13 @@
     },
     {
       "videoId": "gEYq4QAzi4Q",
-      "title": "重新認識你｜給重逢後重新開始的成熟情歌｜Yu Stellar｜星語",
+      "title": "重逢後第一次約會，我們像兩個陌生人｜重新認識你｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
     {
       "videoId": "OtVXQi8Nm0Q",
-      "title": "一個人吃飯的晚上，我終於學會照顧自己｜星期三的湯｜Yu Stellar｜星語",
+      "title": "星期三的湯｜寫給獨居生活重新有光的溫柔情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
