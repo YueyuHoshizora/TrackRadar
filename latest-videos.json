@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T14:55:34.456+08:00",
+  "updatedAt": "2026-09-29T15:00:50.319+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -319,15 +319,15 @@
       "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
       "channelTitle": "Vera Studio",
       "latestVideo": {
-        "videoId": "RmcsxLVZ8mM",
-        "title": "🌱板擦｜The Blackboard Eraser｜長大以後才懂，有些錯不是擦掉，是教你重新來過｜Official Music Video",
-        "url": "https://www.youtube.com/watch?v=RmcsxLVZ8mM",
-        "thumbnail": "https://i.ytimg.com/vi/RmcsxLVZ8mM/maxresdefault.jpg",
-        "durationSeconds": 226,
-        "publishedAt": "2026-09-28T15:00:37.000+08:00",
-        "fetchedAt": "2026-09-28T15:05:27.011+08:00",
+        "videoId": "Dn_fGqhzA7M",
+        "title": "🌧️沒說完的將來｜沒有真正的承諾是可以追究｜Official Music Video",
+        "url": "https://www.youtube.com/watch?v=Dn_fGqhzA7M",
+        "thumbnail": "https://i.ytimg.com/vi/Dn_fGqhzA7M/maxresdefault.jpg",
+        "durationSeconds": 220,
+        "publishedAt": "2026-09-29T15:00:08.000+08:00",
+        "fetchedAt": "2026-09-29T15:00:38.147+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.62
+        "genreConfidence": 0.64
       }
     },
     {
