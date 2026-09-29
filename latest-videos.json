@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T08:50:42.669+08:00",
+  "updatedAt": "2026-09-29T08:55:46.056+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "_2jV7hVxrz8",
-        "title": "《玫紅色的我們》Rose Red｜原創愛情微電影｜霧月 Xiaoloulou｜GL｜百合雙女主",
-        "url": "https://www.youtube.com/watch?v=_2jV7hVxrz8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_2jV7hVxrz8/maxresdefault.webp?v=6ab0d1e4",
-        "durationSeconds": 516,
-        "publishedAt": "2026-09-21T15:00:10.000+08:00",
-        "fetchedAt": "2026-09-29T08:45:39.874+08:00",
+        "videoId": "yqjdlgX49wY",
+        "title": "連想妳都不能說嗎？《天亮說晚安的我們》｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL",
+        "url": "https://www.youtube.com/watch?v=yqjdlgX49wY",
+        "thumbnail": "https://i.ytimg.com/vi/yqjdlgX49wY/maxresdefault.jpg?v=6ab69c37",
+        "durationSeconds": 756,
+        "publishedAt": "2026-09-28T12:00:07.000+08:00",
+        "fetchedAt": "2026-09-29T08:55:38.467+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.66
+        "genreConfidence": 0.63
       }
     },
     {
