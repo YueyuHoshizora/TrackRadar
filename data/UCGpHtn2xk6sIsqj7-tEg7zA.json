@@ -1,19 +1,25 @@
 {
   "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
   "channelTitle": "ChillVibes",
-  "lastUpdated": "2026-09-29T16:00:30.771+08:00",
+  "lastUpdated": "2026-09-29T21:05:31.264+08:00",
   "latestVideo": {
-    "videoId": "3yIwpimKk-4",
-    "title": "I Hope You're Doing Better｜給明天的我，希望你過得好一點・NIGHT.13（歌詞版",
-    "url": "https://www.youtube.com/watch?v=3yIwpimKk-4",
-    "thumbnail": "https://i.ytimg.com/vi/3yIwpimKk-4/maxresdefault.jpg",
-    "durationSeconds": 192,
-    "publishedAt": "2026-09-25T21:00:17.000+08:00",
-    "fetchedAt": "2026-09-25T21:05:56.138+08:00",
+    "videoId": "Tv3PnW0Rd_Y",
+    "title": "Leave the Light On｜為疲憊的夜留一盞燈・夜行日記 12（歌詞版）",
+    "url": "https://www.youtube.com/watch?v=Tv3PnW0Rd_Y",
+    "thumbnail": "https://i.ytimg.com/vi_webp/Tv3PnW0Rd_Y/maxresdefault.webp",
+    "durationSeconds": 204,
+    "publishedAt": "2026-09-22T21:00:37.000+08:00",
+    "fetchedAt": "2026-09-29T21:05:30.502+08:00",
     "genre": "R&B/Soul",
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "98IpjEE87Jw",
+      "title": "夜行日記 Vol. 2｜不想睡的深夜陪伴｜22分鐘 R&B 故事合輯（7首歌曲）",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
+    },
     {
       "videoId": "3yIwpimKk-4",
       "title": "I Hope You're Doing Better｜給明天的我，希望你過得好一點・NIGHT.13（歌詞版",
