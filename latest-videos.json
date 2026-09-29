@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T10:55:31.779+08:00",
+  "updatedAt": "2026-09-29T11:00:46.649+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -229,15 +229,15 @@
       "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
       "channelTitle": "予安YUAN",
       "latestVideo": {
-        "videoId": "JU7EqP-MmXo",
-        "title": "PLAYLIST 2026華語愛情情歌精選｜一聽就上癮的浪漫情歌・失戀情歌・抒情歌曲｜陪你聽完這個夜晚",
-        "url": "https://www.youtube.com/watch?v=JU7EqP-MmXo",
-        "thumbnail": "https://i.ytimg.com/vi/JU7EqP-MmXo/maxresdefault.jpg",
-        "durationSeconds": 4428,
-        "publishedAt": "2026-09-27T18:00:07.000+08:00",
-        "fetchedAt": "2026-09-27T18:00:28.737+08:00",
+        "videoId": "QaFzkmT51f8",
+        "title": "【催淚對嘴 MV】《被愛遺忘的季節》｜如果放手是最後的溫柔，我會學著習慣沒有你的以後｜予安 ｜Official MV",
+        "url": "https://www.youtube.com/watch?v=QaFzkmT51f8",
+        "thumbnail": "https://i.ytimg.com/vi/QaFzkmT51f8/maxresdefault.jpg",
+        "durationSeconds": 227,
+        "publishedAt": "2026-09-29T11:00:03.000+08:00",
+        "fetchedAt": "2026-09-29T11:00:36.732+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.99
       }
     },
     {
