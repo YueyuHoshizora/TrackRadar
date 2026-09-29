@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-30T05:25:41.278+08:00",
+  "updatedAt": "2026-09-30T05:30:47.272+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "X4F2OBt5ErQ",
-        "title": "週三煮一鍋湯，留一碗給明天的我｜週三煮一鍋湯｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=X4F2OBt5ErQ",
-        "thumbnail": "https://i.ytimg.com/vi/X4F2OBt5ErQ/maxresdefault.jpg",
-        "durationSeconds": 179,
-        "publishedAt": "2026-09-29T17:30:19.000+08:00",
-        "fetchedAt": "2026-09-29T17:30:31.345+08:00",
+        "videoId": "lJZ9RyZMjdY",
+        "title": "我終於把自己的名字，寫在掌聲以前｜把名字寫好｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=lJZ9RyZMjdY",
+        "thumbnail": "https://i.ytimg.com/vi/lJZ9RyZMjdY/maxresdefault.jpg",
+        "durationSeconds": 187,
+        "publishedAt": "2026-09-30T05:30:05.000+08:00",
+        "fetchedAt": "2026-09-30T05:30:33.193+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.49
+        "genreConfidence": 0.39
       }
     },
     {
