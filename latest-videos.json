@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-29T17:25:33.646+08:00",
+  "updatedAt": "2026-09-29T17:30:43.336+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "sw86VfMO81M",
-        "title": "這扇窗不再等誰，我有自己的晴朗｜我的窗台｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=sw86VfMO81M",
-        "thumbnail": "https://i.ytimg.com/vi/sw86VfMO81M/maxresdefault.jpg",
-        "durationSeconds": 123,
-        "publishedAt": "2026-09-29T05:30:33.000+08:00",
-        "fetchedAt": "2026-09-29T05:30:37.376+08:00",
+        "videoId": "X4F2OBt5ErQ",
+        "title": "週三煮一鍋湯，留一碗給明天的我｜週三煮一鍋湯｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=X4F2OBt5ErQ",
+        "thumbnail": "https://i.ytimg.com/vi/X4F2OBt5ErQ/maxresdefault.jpg",
+        "durationSeconds": 179,
+        "publishedAt": "2026-09-29T17:30:19.000+08:00",
+        "fetchedAt": "2026-09-29T17:30:31.345+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.76
+        "genreConfidence": 0.49
       }
     },
     {
