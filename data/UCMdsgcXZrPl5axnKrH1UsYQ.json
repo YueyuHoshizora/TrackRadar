@@ -1,7 +1,7 @@
 {
   "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
   "channelTitle": "修卡迪特AI_創作",
-  "lastUpdated": "2026-09-27T23:15:20.411+08:00",
+  "lastUpdated": "2026-09-30T23:40:38.854+08:00",
   "latestVideo": {
     "videoId": "CgJR4I8MNiE",
     "title": "《A4URA滅夢師》｜EP00序章｜夢獸開端",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.74
   },
   "allVideoIds": [
+    {
+      "videoId": "uS0mue9cs6k",
+      "title": "A4URA滅夢師主題音樂MV｜《Don't Wake Yet》｜Official Music Video",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.42
+    },
     {
       "videoId": "CgJR4I8MNiE",
       "title": "《A4URA滅夢師》｜EP00序章｜夢獸開端",
