@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-01T00:10:43.112+08:00",
+  "lastUpdated": "2026-10-01T00:15:54.329+08:00",
   "latestVideo": {
     "videoId": "7Y1FykKE9FE",
     "title": "貓跳上窗台後，我才發現這裡也能叫做家｜貓跳上窗台後｜Yu Stellar｜星語",
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "X4F2OBt5ErQ",
-      "title": "週三煮一鍋湯｜寫給慢慢把生活過回來的療癒情歌｜Yu Stellar｜星語",
+      "title": "週三煮一鍋湯，留一碗給明天的我｜週三煮一鍋湯｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.49
     },
@@ -70,13 +70,13 @@
     },
     {
       "videoId": "iVw2-XJsOjM",
-      "title": "未讀的晚安｜給學會安靜放下的深夜情歌｜Yu Stellar｜星語",
+      "title": "我把晚安留在未讀裡，讓你自由地睡｜未讀的晚安｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "VC9am2Q097k",
-      "title": "搬到陌生房間的第一晚，只有貓陪我把家住進來｜新房間的第一盞燈｜Yu Stellar｜星語",
+      "title": "我在新房間點亮第一盞燈，先讓貓知道我回來了｜新房間的第一盞燈｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.46
     },
@@ -112,7 +112,7 @@
     },
     {
       "videoId": "fMGBMxP5M4A",
-      "title": "一聲你好｜寫給不復合卻溫柔圓滿的重逢情歌｜Yu Stellar｜星語",
+      "title": "一聲你好，剛好把從前放好｜一聲你好｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
@@ -124,7 +124,7 @@
     },
     {
       "videoId": "icHNbNwsNNs",
-      "title": "城市把路留下｜走過舊城也走回自己的療癒情歌｜Yu Stellar｜星語",
+      "title": "城市把路留下，卻沒有要誰停在原地｜城市把路留下｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.57
     },
@@ -142,7 +142,7 @@
     },
     {
       "videoId": "TP2X8ip_55Y",
-      "title": "這次慢慢愛｜給重逢後學會珍惜的溫柔情歌｜Yu Stellar｜星語",
+      "title": "這次不急著愛滿，只想把每一天過好｜這次慢慢愛｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -220,25 +220,25 @@
     },
     {
       "videoId": "_zr28L0K774",
-      "title": "當兩個人的一天再也碰不到，愛會先斷線嗎？｜兩座時區｜Yu Stellar｜星語",
+      "title": "我們隔著兩座時區，把晚安說成了再見｜兩座時區｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
     {
       "videoId": "RLQCLGovr70",
-      "title": "當你的晚安成了我的早安，愛還能撐多久？｜不同時區的晚安｜Yu Stellar｜星語",
+      "title": "不是不想說晚安，是我們活在不同的時間｜不同時區的晚安｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
     {
       "videoId": "yyI87zcLXag",
-      "title": "月台以西｜寫給不得不告別的成熟情歌｜Yu Stellar｜星語",
+      "title": "不是不愛，才在末班車前說再見｜月台以西｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "tr7okYyGTI0",
-      "title": "我們在遠方告別｜寫給錯過卻仍相信愛的人｜Yu Stellar｜星語",
+      "title": "明明還相愛，卻只能在遠方告別｜我們在遠方告別｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
