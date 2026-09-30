@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T00:45:54.952+08:00",
+  "updatedAt": "2026-10-01T00:50:51.780+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "CgJR4I8MNiE",
-        "title": "《A4URA滅夢師》｜EP00序章｜夢獸開端",
-        "url": "https://www.youtube.com/watch?v=CgJR4I8MNiE",
-        "thumbnail": "https://i.ytimg.com/vi/CgJR4I8MNiE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFEgTChlMA8=&rs=AOn4CLAOZoLesXamOmNS_uukPoQ7SkzibA",
-        "durationSeconds": 226,
-        "publishedAt": "2026-09-27T23:14:18.000+08:00",
-        "fetchedAt": "2026-09-27T23:15:19.545+08:00",
+        "videoId": "uS0mue9cs6k",
+        "title": "A4URA滅夢師主題音樂MV｜《Don't Wake Yet》｜Official Music Video",
+        "url": "https://www.youtube.com/watch?v=uS0mue9cs6k",
+        "thumbnail": "https://i.ytimg.com/vi_webp/uS0mue9cs6k/maxresdefault.webp",
+        "durationSeconds": 248,
+        "publishedAt": "2026-09-30T23:36:39.000+08:00",
+        "fetchedAt": "2026-10-01T00:50:30.177+08:00",
         "genre": "動漫/ACG",
-        "genreConfidence": 0.74
+        "genreConfidence": 0.42
       }
     },
     {
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "gkdhSc_lPDo",
-        "title": "《妲己 × 姜王后》｜從她進宮那一天起，我就不再是你的唯一【虐心情歌・封神・Official MV】",
-        "url": "https://www.youtube.com/watch?v=gkdhSc_lPDo",
-        "thumbnail": "https://i.ytimg.com/vi/gkdhSc_lPDo/maxresdefault.jpg",
-        "durationSeconds": 282,
-        "publishedAt": "2026-09-12T22:41:11.000+08:00",
-        "fetchedAt": "2026-09-30T23:20:55.531+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.48
+        "videoId": "TNcozacvD3U",
+        "title": "《齊天大聖》悟空｜五指山脫困後，她最終選擇為唐僧而戰｜孫悟空 × 西遊記【國風搖滾・Official MV・中文原創歌曲】",
+        "url": "https://www.youtube.com/watch?v=TNcozacvD3U",
+        "thumbnail": "https://i.ytimg.com/vi/TNcozacvD3U/maxresdefault.jpg",
+        "durationSeconds": 225,
+        "publishedAt": "2026-09-29T18:00:31.000+08:00",
+        "fetchedAt": "2026-10-01T00:50:32.251+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.83
       }
     },
     {
