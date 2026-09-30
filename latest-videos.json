@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T08:55:50.731+08:00",
+  "updatedAt": "2026-09-30T20:46:05.039+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,13 +394,13 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "yqjdlgX49wY",
-        "title": "連想妳都不能說嗎？《天亮說晚安的我們》｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL",
-        "url": "https://www.youtube.com/watch?v=yqjdlgX49wY",
-        "thumbnail": "https://i.ytimg.com/vi/yqjdlgX49wY/maxresdefault.jpg?v=6ab69c37",
-        "durationSeconds": 756,
-        "publishedAt": "2026-09-28T12:00:07.000+08:00",
-        "fetchedAt": "2026-09-29T08:55:38.467+08:00",
+        "videoId": "qh85S8Il_ZA",
+        "title": "妳這樣，我會以為妳也喜歡我｜《我知道這樣不好，But I Do》原創愛情微電影・番外篇｜霧月 Xiaoloulou｜百合 GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=qh85S8Il_ZA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qh85S8Il_ZA/maxresdefault.webp?v=6aba28b7",
+        "durationSeconds": 273,
+        "publishedAt": "2026-09-30T12:00:07.000+08:00",
+        "fetchedAt": "2026-09-30T20:45:54.276+08:00",
         "genre": "其他/無法判斷 Other",
         "genreConfidence": 0.63
       }
@@ -409,15 +409,15 @@
       "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
       "channelTitle": "九黎月",
       "latestVideo": {
-        "videoId": "F6-kdHlEYNo",
-        "title": "【中國風 - 新娘不是我】你牽她走過那道紗 水袖一甩滿堂花 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=F6-kdHlEYNo",
-        "thumbnail": "https://i.ytimg.com/vi_webp/F6-kdHlEYNo/maxresdefault.webp",
-        "durationSeconds": 130,
-        "publishedAt": "2026-09-25T17:00:33.000+08:00",
-        "fetchedAt": "2026-09-25T17:00:58.795+08:00",
+        "videoId": "G6HkQ4PQJPA",
+        "title": "【中國風 - 不負卿】我寧輸盡千城 也不負卿 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=G6HkQ4PQJPA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/G6HkQ4PQJPA/maxresdefault.webp",
+        "durationSeconds": 147,
+        "publishedAt": "2026-09-30T17:00:20.000+08:00",
+        "fetchedAt": "2026-09-30T20:45:55.238+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.74
+        "genreConfidence": 0.66
       }
     },
     {
