@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-01T17:25:46.465+08:00",
+  "updatedAt": "2026-10-01T17:30:52.331+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "waD4ZMRNZa8",
-        "title": "原來那段路沒有白走，答案是各自成為自己｜舊城的答案｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=waD4ZMRNZa8",
-        "thumbnail": "https://i.ytimg.com/vi/waD4ZMRNZa8/maxresdefault.jpg",
-        "durationSeconds": 223,
-        "publishedAt": "2026-10-01T05:30:09.000+08:00",
-        "fetchedAt": "2026-10-01T05:30:45.067+08:00",
+        "videoId": "UG1MCjMuGwI",
+        "title": "亮著的工作證，證明我走過那段沒有掌聲的路｜亮著的工作證｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=UG1MCjMuGwI",
+        "thumbnail": "https://i.ytimg.com/vi/UG1MCjMuGwI/maxresdefault.jpg",
+        "durationSeconds": 208,
+        "publishedAt": "2026-10-01T17:30:15.000+08:00",
+        "fetchedAt": "2026-10-01T17:30:31.155+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.72
+        "genreConfidence": 0.63
       }
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
-      "channelTitle": "COYA",
+      "channelTitle": "COYA可夜",
       "latestVideo": {
         "videoId": "y_W_bfwATaY",
         "title": "「一念成魔，萬鬼驚；一念成神，護蒼生。」⚔️｜《增損》｜可夜｜新國風｜神鬼誌系列：增損 一鎮",
