@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-02T05:15:44.009+08:00",
+  "updatedAt": "2026-10-02T05:20:49.038+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "Yu Starry Music",
+      "channelTitle": "語音星空",
       "latestVideo": {
         "videoId": "UG1MCjMuGwI",
         "title": "亮著的工作證，證明我走過那段沒有掌聲的路｜亮著的工作證｜Yu Stellar｜星語",
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "YOhbhVLaBzU",
-        "title": "《雪女 Yuki Onna》｜他闖進她的冬天，最後讓冰雪融成了春天【和風歌曲・日本妖怪傳說・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=YOhbhVLaBzU",
-        "thumbnail": "https://i.ytimg.com/vi/YOhbhVLaBzU/maxresdefault.jpg",
-        "durationSeconds": 257,
-        "publishedAt": "2026-09-24T18:00:11.000+08:00",
-        "fetchedAt": "2026-10-02T04:45:28.857+08:00",
+        "videoId": "TNcozacvD3U",
+        "title": "《齊天大聖》悟空｜五指山脫困後，她最終選擇為唐僧而戰｜孫悟空 × 西遊記【國風搖滾・Official MV・中文原創歌曲】",
+        "url": "https://www.youtube.com/watch?v=TNcozacvD3U",
+        "thumbnail": "https://i.ytimg.com/vi/TNcozacvD3U/maxresdefault.jpg",
+        "durationSeconds": 225,
+        "publishedAt": "2026-09-29T18:00:31.000+08:00",
+        "fetchedAt": "2026-10-02T05:20:29.063+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.9
+        "genreConfidence": 0.84
       }
     },
     {
