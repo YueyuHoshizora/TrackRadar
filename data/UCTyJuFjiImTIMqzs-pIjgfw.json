@@ -1,7 +1,7 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-09-27T17:10:26.348+08:00",
+  "lastUpdated": "2026-10-01T10:25:39.750+08:00",
   "latestVideo": {
     "videoId": "1a5mdRJ__LE",
     "title": "🌞 台語大帝國《未來有你真好》李多娜｜台語勵志流行歌曲｜向前行，向前行！這首台語歌唱予每一個拍拚的人｜筠芙得利【Official MV】",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "HoWWoG5qmEc",
+      "title": "🎸 台語大帝國《你看起來比我閣孤單》Asher 凜｜(台語藍調搖滾情歌)｜情債首部曲｜浪子愛情故事｜筠芙得利【Official MV】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.8
+    },
     {
       "videoId": "1a5mdRJ__LE",
       "title": "🌞 台語大帝國《未來有你真好》李多娜｜台語勵志流行歌曲｜向前行，向前行！這首台語歌唱予每一個拍拚的人｜筠芙得利【Official MV】",
