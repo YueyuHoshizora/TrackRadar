@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T17:55:45.171+08:00",
+  "updatedAt": "2026-10-01T18:00:57.843+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -214,15 +214,15 @@
       "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
       "channelTitle": "EIRYN",
       "latestVideo": {
-        "videoId": "yCq67Ui6ko8",
-        "title": "【最走心台語歌】《少年人的路》－寫給每一個離開家、慢慢學會長大的你 ｜官方歌詞版 Lyric Video",
-        "url": "https://www.youtube.com/watch?v=yCq67Ui6ko8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/yCq67Ui6ko8/maxresdefault.webp",
-        "durationSeconds": 220,
-        "publishedAt": "2026-09-29T11:30:15.000+08:00",
-        "fetchedAt": "2026-09-29T11:30:28.544+08:00",
+        "videoId": "mCigNsim2tM",
+        "title": "《PLAYLIST 2》 2026華語情歌精選｜陪你走過那些沒說完的故事｜10首超耐聽抒情歌曲｜EIRYN Official Music Video｜",
+        "url": "https://www.youtube.com/watch?v=mCigNsim2tM",
+        "thumbnail": "https://i.ytimg.com/vi/mCigNsim2tM/maxresdefault.jpg",
+        "durationSeconds": 2275,
+        "publishedAt": "2026-09-12T18:00:30.000+08:00",
+        "fetchedAt": "2026-10-01T18:00:46.034+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.9
+        "genreConfidence": 1
       }
     },
     {
