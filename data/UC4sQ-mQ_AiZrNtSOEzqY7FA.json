@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-01T16:15:32.274+08:00",
+  "lastUpdated": "2026-10-01T16:20:28.628+08:00",
   "latestVideo": {
     "videoId": "waD4ZMRNZa8",
     "title": "原來那段路沒有白走，答案是各自成為自己｜舊城的答案｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "waD4ZMRNZa8",
-      "title": "舊城的答案｜寫給走過遺憾後終於釋懷的人｜Yu Stellar｜星語",
+      "title": "我買了回舊城的車票，卻不是為了把你帶回來｜舊城的答案｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "bZETT3MDPpo",
-      "title": "我把一句近況刪掉，決定不再追問你的生活｜未讀的藍色｜Yu Stellar｜星語",
+      "title": "未讀的藍色，亮在我不打擾你的夜｜未讀的藍色｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.81
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "L6lxR92AxDo",
-      "title": "看見你和貓的照片，我最後只敢問這一句｜牠今天吃得好嗎｜Yu Stellar｜星語",
+      "title": "我只問牠今天吃得好嗎，沒問你最近好嗎｜牠今天吃得好嗎｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.48
     },
@@ -142,7 +142,7 @@
     },
     {
       "videoId": "CIv2Zqdz7o8",
-      "title": "同城預報只說有雨，沒說我們會相遇｜同城預報｜Yu Stellar｜星語",
+      "title": "同城預報｜多年後重返故城的電影感情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
