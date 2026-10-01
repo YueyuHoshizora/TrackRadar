@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T19:15:44.288+08:00",
+  "updatedAt": "2026-10-01T19:20:50.696+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -214,15 +214,15 @@
       "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
       "channelTitle": "EIRYN",
       "latestVideo": {
-        "videoId": "mCigNsim2tM",
-        "title": "《PLAYLIST 2》 2026華語情歌精選｜陪你走過那些沒說完的故事｜10首超耐聽抒情歌曲｜EIRYN Official Music Video｜",
-        "url": "https://www.youtube.com/watch?v=mCigNsim2tM",
-        "thumbnail": "https://i.ytimg.com/vi/mCigNsim2tM/maxresdefault.jpg",
-        "durationSeconds": 2275,
-        "publishedAt": "2026-09-12T18:00:30.000+08:00",
-        "fetchedAt": "2026-10-01T18:00:46.034+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "videoId": "k9CbI7rqITA",
+        "title": "《閃身步搖起來》｜超洗腦舞曲🔥 一聽就會跳！閃身步・浪子踢球・狗熊哆嗦毛・搖頭晃腦｜2026熱門舞曲",
+        "url": "https://www.youtube.com/watch?v=k9CbI7rqITA",
+        "thumbnail": "https://i.ytimg.com/vi/k9CbI7rqITA/maxresdefault.jpg",
+        "durationSeconds": 188,
+        "publishedAt": "2026-10-01T18:00:17.000+08:00",
+        "fetchedAt": "2026-10-01T19:20:38.588+08:00",
+        "genre": "電子 Electronic",
+        "genreConfidence": 0.44
       }
     },
     {
