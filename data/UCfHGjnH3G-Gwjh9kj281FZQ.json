@@ -1,7 +1,7 @@
 {
   "channelId": "UCfHGjnH3G-Gwjh9kj281FZQ",
   "channelTitle": "Nova Bird",
-  "lastUpdated": "2026-09-23T08:45:33.568+08:00",
+  "lastUpdated": "2026-10-01T21:10:45.274+08:00",
   "latestVideo": {
     "videoId": "TIM0RSK_tKU",
     "title": "「狼族報恩，從不挑人，挑的是命裡那段空白」｜《影渡町異聞III：山月與銀狼》｜原創歌曲",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.83
   },
   "allVideoIds": [
+    {
+      "videoId": "cyfRk2YpQCU",
+      "title": "《銀月傳（上）》｜牠守了百夜，只為尋找那個願意放下刀的人｜影渡町外傳・原創故事MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.68
+    },
     {
       "videoId": "TIM0RSK_tKU",
       "title": "「狼族報恩，從不挑人，挑的是命裡那段空白」｜《影渡町異聞III：山月與銀狼》｜原創歌曲",
