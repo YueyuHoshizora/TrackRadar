@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T19:16:00.778+08:00",
+  "updatedAt": "2026-10-02T19:21:01.777+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-09-30T20:50:49.931+08:00",
+        "videoId": "7l7jikX0THQ",
+        "title": "《背靠背的誓言》BACK TO BACK｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-02T19:20:44.269+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.25
+        "genreConfidence": 0.32
       }
     },
     {
@@ -334,15 +334,15 @@
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
       "latestVideo": {
-        "videoId": "GAAHyI04NcA",
-        "title": "《如果那天我沒有放你走》以為成全比挽留溫柔，一句\"一路順風\" 了終身遺憾 ｜ 弦斷誰聽 ｜ 那年夏天的 沒說出口的喜歡  ｜ 高清 MV 版本 2026",
-        "url": "https://www.youtube.com/watch?v=GAAHyI04NcA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/GAAHyI04NcA/maxresdefault.webp",
-        "durationSeconds": 257,
-        "publishedAt": "2026-09-14T18:30:12.000+08:00",
-        "fetchedAt": "2026-10-02T19:15:50.876+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.98
+        "videoId": "HJm1C2ZbiT8",
+        "title": "《一諾成霜》原創華語古風催淚單曲，歲月守候與漫長等待必聽單曲循環  |   弦斷誰聽   | 無盡的等侯 劇情 MV ｜ Official Music Video 古風虐戀",
+        "url": "https://www.youtube.com/watch?v=HJm1C2ZbiT8",
+        "thumbnail": "https://i.ytimg.com/vi_webp/HJm1C2ZbiT8/maxresdefault.webp",
+        "durationSeconds": 293,
+        "publishedAt": "2026-10-02T18:30:07.000+08:00",
+        "fetchedAt": "2026-10-02T19:20:51.527+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
