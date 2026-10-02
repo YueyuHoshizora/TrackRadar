@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T19:11:02.520+08:00",
+  "updatedAt": "2026-10-02T19:16:00.778+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -334,15 +334,15 @@
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
       "latestVideo": {
-        "videoId": "wkeNcCpcAAI",
-        "title": "《忘情劫》｜舊識若成空，何妨初相逢｜如果妳已不記得我，我們還能重新相愛嗎？｜Official Music Video 劇情 MV 古風原創歌曲・弦斷誰聽",
-        "url": "https://www.youtube.com/watch?v=wkeNcCpcAAI",
-        "thumbnail": "https://i.ytimg.com/vi_webp/wkeNcCpcAAI/maxresdefault.webp",
-        "durationSeconds": 486,
-        "publishedAt": "2026-09-28T18:30:21.000+08:00",
-        "fetchedAt": "2026-09-28T18:30:33.387+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "GAAHyI04NcA",
+        "title": "《如果那天我沒有放你走》以為成全比挽留溫柔，一句\"一路順風\" 了終身遺憾 ｜ 弦斷誰聽 ｜ 那年夏天的 沒說出口的喜歡  ｜ 高清 MV 版本 2026",
+        "url": "https://www.youtube.com/watch?v=GAAHyI04NcA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/GAAHyI04NcA/maxresdefault.webp",
+        "durationSeconds": 257,
+        "publishedAt": "2026-09-14T18:30:12.000+08:00",
+        "fetchedAt": "2026-10-02T19:15:50.876+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.98
       }
     },
     {
@@ -409,15 +409,15 @@
       "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
       "channelTitle": "九黎月",
       "latestVideo": {
-        "videoId": "mf7LkSX2slo",
-        "title": "【中國風 - 女媧】捏眉目捏四肢 捏出七情六慾的牽掛 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=mf7LkSX2slo",
-        "thumbnail": "https://i.ytimg.com/vi_webp/mf7LkSX2slo/maxresdefault.webp",
-        "durationSeconds": 160,
-        "publishedAt": "2026-09-10T17:00:36.000+08:00",
-        "fetchedAt": "2026-10-02T18:40:53.675+08:00",
+        "videoId": "G6HkQ4PQJPA",
+        "title": "【中國風 - 不負卿】我寧輸盡千城 也不負卿 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=G6HkQ4PQJPA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/G6HkQ4PQJPA/maxresdefault.webp",
+        "durationSeconds": 147,
+        "publishedAt": "2026-09-30T17:00:20.000+08:00",
+        "fetchedAt": "2026-10-02T19:15:52.510+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.55
+        "genreConfidence": 0.7
       }
     },
     {
