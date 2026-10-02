@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-03T05:25:49.040+08:00",
+  "updatedAt": "2026-10-03T05:30:55.667+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "9UAtR4sixu4",
-        "title": "盒底那枚鈴鐺，搖醒的不是誰，是那時候的我們｜盒底的鈴鐺｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=9UAtR4sixu4",
-        "thumbnail": "https://i.ytimg.com/vi/9UAtR4sixu4/maxresdefault.jpg",
-        "durationSeconds": 239,
-        "publishedAt": "2026-10-02T17:30:39.000+08:00",
-        "fetchedAt": "2026-10-02T17:30:42.990+08:00",
+        "videoId": "xjc4pFdZJfE",
+        "title": "你好，後來的你，謝謝你走成現在的自己｜你好，後來的你｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=xjc4pFdZJfE",
+        "thumbnail": "https://i.ytimg.com/vi/xjc4pFdZJfE/maxresdefault.jpg",
+        "durationSeconds": 200,
+        "publishedAt": "2026-10-03T05:30:05.000+08:00",
+        "fetchedAt": "2026-10-03T05:30:37.406+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.76
+        "genreConfidence": 0.92
       }
     },
     {
