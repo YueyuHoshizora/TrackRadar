@@ -1,19 +1,25 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-03T05:25:35.056+08:00",
+  "lastUpdated": "2026-10-03T05:30:39.728+08:00",
   "latestVideo": {
-    "videoId": "9UAtR4sixu4",
-    "title": "盒底那枚鈴鐺，搖醒的不是誰，是那時候的我們｜盒底的鈴鐺｜Yu Stellar｜星語",
-    "url": "https://www.youtube.com/watch?v=9UAtR4sixu4",
-    "thumbnail": "https://i.ytimg.com/vi/9UAtR4sixu4/maxresdefault.jpg",
-    "durationSeconds": 239,
-    "publishedAt": "2026-10-02T17:30:39.000+08:00",
-    "fetchedAt": "2026-10-02T17:30:42.990+08:00",
+    "videoId": "xjc4pFdZJfE",
+    "title": "你好，後來的你，謝謝你走成現在的自己｜你好，後來的你｜Yu Stellar｜星語",
+    "url": "https://www.youtube.com/watch?v=xjc4pFdZJfE",
+    "thumbnail": "https://i.ytimg.com/vi/xjc4pFdZJfE/maxresdefault.jpg",
+    "durationSeconds": 200,
+    "publishedAt": "2026-10-03T05:30:05.000+08:00",
+    "fetchedAt": "2026-10-03T05:30:37.406+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.76
+    "genreConfidence": 0.92
   },
   "allVideoIds": [
+    {
+      "videoId": "xjc4pFdZJfE",
+      "title": "你好，後來的你｜寫給成熟重逢與溫柔告別的終章｜Yu Stellar｜星語",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
+    },
     {
       "videoId": "9UAtR4sixu4",
       "title": "盒底那枚鈴鐺，搖醒的不是誰，是那時候的我們｜盒底的鈴鐺｜Yu Stellar｜星語",
@@ -28,7 +34,7 @@
     },
     {
       "videoId": "UG1MCjMuGwI",
-      "title": "升遷的好消息，我第一次只留給今晚的自己｜亮著的工作證｜Yu Stellar｜星語",
+      "title": "亮著的工作證，證明我走過那段沒有掌聲的路｜亮著的工作證｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.63
     },
@@ -88,7 +94,7 @@
     },
     {
       "videoId": "L6lxR92AxDo",
-      "title": "看見你和貓的照片，我最後只敢問這一句｜牠今天吃得好嗎｜Yu Stellar｜星語",
+      "title": "我只問牠今天吃得好嗎，沒問你最近好嗎｜牠今天吃得好嗎｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.48
     },
@@ -118,7 +124,7 @@
     },
     {
       "videoId": "mRaq4gducE4",
-      "title": "天還沒亮，我先學著把自己帶穩｜六點十分｜Yu Stellar｜星語",
+      "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -172,7 +178,7 @@
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "聽見你的好消息，我第一次只剩一句真好｜遠方也明亮｜Yu Stellar｜星語",
+      "title": "遠方也明亮｜寫給真正放下比較與遺憾的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
