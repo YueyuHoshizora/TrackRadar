@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T03:10:55.651+08:00",
+  "updatedAt": "2026-10-03T03:15:59.324+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,30 +394,30 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "qh85S8Il_ZA",
-        "title": "妳這樣，我會以為妳也喜歡我｜《我知道這樣不好，But I Do》原創愛情微電影・番外篇｜霧月 Xiaoloulou｜百合 GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=qh85S8Il_ZA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qh85S8Il_ZA/maxresdefault.webp?v=6aba28b7",
-        "durationSeconds": 273,
-        "publishedAt": "2026-09-30T12:00:07.000+08:00",
-        "fetchedAt": "2026-10-03T02:40:48.464+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.69
+        "videoId": "0V_p8sy29H0",
+        "title": "我住過很多地方，沒有一個是家《還要往哪裡》｜還要往哪裡，才容得下我｜漂泊的人・華語抒情｜霧月詞・Xiaoloulou【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=0V_p8sy29H0",
+        "thumbnail": "https://i.ytimg.com/vi/0V_p8sy29H0/maxresdefault.jpg?v=6abe673d",
+        "durationSeconds": 198,
+        "publishedAt": "2026-10-02T12:00:06.000+08:00",
+        "fetchedAt": "2026-10-03T03:15:50.580+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.99
       }
     },
     {
       "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
       "channelTitle": "九黎月",
       "latestVideo": {
-        "videoId": "mf7LkSX2slo",
-        "title": "【中國風 - 女媧】捏眉目捏四肢 捏出七情六慾的牽掛 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=mf7LkSX2slo",
-        "thumbnail": "https://i.ytimg.com/vi_webp/mf7LkSX2slo/maxresdefault.webp",
-        "durationSeconds": 160,
-        "publishedAt": "2026-09-10T17:00:36.000+08:00",
-        "fetchedAt": "2026-10-03T02:05:50.680+08:00",
+        "videoId": "G6HkQ4PQJPA",
+        "title": "【中國風 - 不負卿】我寧輸盡千城 也不負卿 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=G6HkQ4PQJPA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/G6HkQ4PQJPA/maxresdefault.webp",
+        "durationSeconds": 147,
+        "publishedAt": "2026-09-30T17:00:20.000+08:00",
+        "fetchedAt": "2026-10-03T03:15:50.608+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.53
+        "genreConfidence": 0.7
       }
     },
     {
