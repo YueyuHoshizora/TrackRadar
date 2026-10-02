@@ -1,19 +1,25 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-09-29T15:00:38.689+08:00",
+  "lastUpdated": "2026-10-02T15:00:52.719+08:00",
   "latestVideo": {
-    "videoId": "Dn_fGqhzA7M",
-    "title": "🌧️沒說完的將來｜沒有真正的承諾是可以追究｜Official Music Video",
-    "url": "https://www.youtube.com/watch?v=Dn_fGqhzA7M",
-    "thumbnail": "https://i.ytimg.com/vi/Dn_fGqhzA7M/maxresdefault.jpg",
-    "durationSeconds": 220,
-    "publishedAt": "2026-09-29T15:00:08.000+08:00",
-    "fetchedAt": "2026-09-29T15:00:38.147+08:00",
+    "videoId": "LIDT_7EhGK8",
+    "title": "🌧️差一步的我們｜最短的一步，最後卻隔開了好多年｜Official Music Video",
+    "url": "https://www.youtube.com/watch?v=LIDT_7EhGK8",
+    "thumbnail": "https://i.ytimg.com/vi/LIDT_7EhGK8/maxresdefault.jpg",
+    "durationSeconds": 212,
+    "publishedAt": "2026-10-02T15:00:07.000+08:00",
+    "fetchedAt": "2026-10-02T15:00:51.922+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.64
+    "genreConfidence": 0.92
   },
   "allVideoIds": [
+    {
+      "videoId": "LIDT_7EhGK8",
+      "title": "🌧️差一步的我們｜最短的一步，最後卻隔開了好多年｜Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
+    },
     {
       "videoId": "Dn_fGqhzA7M",
       "title": "🌧️沒說完的將來｜沒有真正的承諾是可以追究｜Official Music Video",
