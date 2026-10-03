@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-03T17:26:01.354+08:00",
+  "updatedAt": "2026-10-03T17:31:06.549+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "xjc4pFdZJfE",
-        "title": "你好，後來的你，謝謝你走成現在的自己｜你好，後來的你｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=xjc4pFdZJfE",
-        "thumbnail": "https://i.ytimg.com/vi/xjc4pFdZJfE/maxresdefault.jpg",
-        "durationSeconds": 200,
-        "publishedAt": "2026-10-03T05:30:05.000+08:00",
-        "fetchedAt": "2026-10-03T05:30:37.406+08:00",
+        "videoId": "qjL13tkSgOk",
+        "title": "回程票根夾在書裡，原來回去不是回到從前｜回程票根｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=qjL13tkSgOk",
+        "thumbnail": "https://i.ytimg.com/vi/qjL13tkSgOk/maxresdefault.jpg",
+        "durationSeconds": 233,
+        "publishedAt": "2026-10-03T17:30:28.000+08:00",
+        "fetchedAt": "2026-10-03T17:30:43.222+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.92
+        "genreConfidence": 0.82
       }
     },
     {
