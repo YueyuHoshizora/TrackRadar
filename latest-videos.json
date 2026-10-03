@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T21:15:59.196+08:00",
+  "updatedAt": "2026-10-03T21:20:56.879+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "TNcozacvD3U",
-        "title": "《齊天大聖》悟空｜五指山脫困後，她最終選擇為唐僧而戰｜孫悟空 × 西遊記【國風搖滾・Official MV・中文原創歌曲】",
-        "url": "https://www.youtube.com/watch?v=TNcozacvD3U",
-        "thumbnail": "https://i.ytimg.com/vi/TNcozacvD3U/maxresdefault.jpg",
-        "durationSeconds": 225,
-        "publishedAt": "2026-09-29T18:00:31.000+08:00",
-        "fetchedAt": "2026-10-02T05:20:29.063+08:00",
+        "videoId": "LuYDDZQz8Ek",
+        "title": "《閃身步》｜浪子踢球、狗熊哆嗦毛，她以為三招就能闖江湖，直到遇見真正的高手【國風歌曲・武俠劇・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=LuYDDZQz8Ek",
+        "thumbnail": "https://i.ytimg.com/vi/LuYDDZQz8Ek/maxresdefault.jpg",
+        "durationSeconds": 180,
+        "publishedAt": "2026-10-03T21:11:06.000+08:00",
+        "fetchedAt": "2026-10-03T21:20:38.037+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.84
+        "genreConfidence": 1
       }
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
-      "channelTitle": "Aria",
+      "channelTitle": "Aria艾莉亞",
       "latestVideo": {
         "videoId": "q6L3WZAbAYk",
         "title": "不用把所有期待，都揹得太重｜《把心事借給晚風》Aria艾莉亞 Official Lyric Video",
