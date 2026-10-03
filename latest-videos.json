@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T11:35:53.704+08:00",
+  "updatedAt": "2026-10-03T11:40:50.164+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "HoWWoG5qmEc",
-        "title": "🎸 台語大帝國《你看起來比我閣孤單》Asher 凜｜(台語藍調搖滾情歌)｜情債首部曲｜浪子愛情故事｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=HoWWoG5qmEc",
-        "thumbnail": "https://i.ytimg.com/vi/HoWWoG5qmEc/maxresdefault.jpg",
-        "durationSeconds": 240,
-        "publishedAt": "2026-10-01T10:22:45.000+08:00",
-        "fetchedAt": "2026-10-01T11:46:07.674+08:00",
-        "genre": "搖滾 Rock",
-        "genreConfidence": 0.74
+        "videoId": "lSsJdvBG1iQ",
+        "title": "🌧️ 台語大帝國《我佇遮等你》李多娜 (台語情歌)｜《情債》二部曲｜若愛你註定粉身碎骨，我甘願陪你到終點｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=lSsJdvBG1iQ",
+        "thumbnail": "https://i.ytimg.com/vi/lSsJdvBG1iQ/maxresdefault.jpg",
+        "durationSeconds": 234,
+        "publishedAt": "2026-10-03T11:40:21.000+08:00",
+        "fetchedAt": "2026-10-03T11:40:38.070+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
       }
     },
     {
