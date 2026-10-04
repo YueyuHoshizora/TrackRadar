@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T02:01:02.648+08:00",
+  "updatedAt": "2026-10-05T02:06:01.233+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -439,15 +439,15 @@
       "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
       "channelTitle": "璃煙",
       "latestVideo": {
-        "videoId": "MLY1Kom3LkY",
-        "title": "《藏紅妝》21–25集合集｜願意用自己的命， 護她最後一次 ｜古裝百合短劇",
-        "url": "https://www.youtube.com/watch?v=MLY1Kom3LkY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/MLY1Kom3LkY/maxresdefault.webp",
-        "durationSeconds": 806,
-        "publishedAt": "2026-10-02T12:15:53.000+08:00",
-        "fetchedAt": "2026-10-02T12:20:51.839+08:00",
+        "videoId": "LoxbrVMv3Ng",
+        "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
+        "url": "https://www.youtube.com/watch?v=LoxbrVMv3Ng",
+        "thumbnail": "https://i.ytimg.com/vi/LoxbrVMv3Ng/maxresdefault.jpg",
+        "durationSeconds": 131,
+        "publishedAt": "2026-09-18T11:23:31.000+08:00",
+        "fetchedAt": "2026-10-05T02:05:56.350+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.69
+        "genreConfidence": 1
       }
     },
     {
