@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-05T01:30:57.084+08:00",
+  "updatedAt": "2026-10-05T01:36:03.892+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "qjL13tkSgOk",
-        "title": "回程票根夾在書裡，原來回去不是回到從前｜回程票根｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=qjL13tkSgOk",
-        "thumbnail": "https://i.ytimg.com/vi/qjL13tkSgOk/maxresdefault.jpg",
-        "durationSeconds": 233,
-        "publishedAt": "2026-10-03T17:30:28.000+08:00",
-        "fetchedAt": "2026-10-03T17:30:43.222+08:00",
+        "videoId": "P7foTF8Z6Q8",
+        "title": "兩人一貓站在同一盞晚霞裡，已經足夠成為答案｜兩人一貓｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=P7foTF8Z6Q8",
+        "thumbnail": "https://i.ytimg.com/vi/P7foTF8Z6Q8/maxresdefault.jpg",
+        "durationSeconds": 245,
+        "publishedAt": "2026-10-04T17:30:14.000+08:00",
+        "fetchedAt": "2026-10-05T01:35:39.300+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.82
+        "genreConfidence": 0.54
       }
     },
     {
