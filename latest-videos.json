@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T03:11:03.046+08:00",
+  "updatedAt": "2026-10-05T03:16:26.016+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -289,15 +289,15 @@
       "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
       "channelTitle": "Breathe And Be",
       "latestVideo": {
-        "videoId": "yjMA-uG_DLw",
-        "title": "【中文 Pop playlist】隨手點開🎧結果一首比一首更對味⋆｡°✩ 🖤｜Mandarin POP × R&B｜工作・開車・通勤・放空 BGM｜《失重漫遊》",
-        "url": "https://www.youtube.com/watch?v=yjMA-uG_DLw",
-        "thumbnail": "https://i.ytimg.com/vi_webp/yjMA-uG_DLw/maxresdefault.webp",
-        "durationSeconds": 3650,
-        "publishedAt": "2026-09-21T08:00:05.000+08:00",
-        "fetchedAt": "2026-09-21T08:05:33.935+08:00",
-        "genre": "流行 Pop",
-        "genreConfidence": 0.81
+        "videoId": "iTTqfTi0gd0",
+        "title": "【如果我說了 MV】- Bre And Be 💎 一切是否會變得不一樣｜深情R&B與流行抒情融合，細膩聲線訴說未盡心事｜R&B Music / 告白邊緣的溫柔心緒",
+        "url": "https://www.youtube.com/watch?v=iTTqfTi0gd0",
+        "thumbnail": "https://i.ytimg.com/vi_webp/iTTqfTi0gd0/maxresdefault.webp",
+        "durationSeconds": 185,
+        "publishedAt": "2026-10-04T11:37:13.000+08:00",
+        "fetchedAt": "2026-10-05T03:15:59.739+08:00",
+        "genre": "R&B/Soul",
+        "genreConfidence": 0.98
       }
     },
     {
@@ -439,15 +439,15 @@
       "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
       "channelTitle": "璃煙",
       "latestVideo": {
-        "videoId": "jno6srECLsA",
-        "title": "《藏紅妝》6–10集合集｜她奉命接近貴妃，卻一步步陷進宮廷殺局｜古裝百合短劇",
-        "url": "https://www.youtube.com/watch?v=jno6srECLsA",
-        "thumbnail": "https://i.ytimg.com/vi/jno6srECLsA/maxresdefault.jpg",
-        "durationSeconds": 560,
-        "publishedAt": "2026-09-05T13:42:58.000+08:00",
-        "fetchedAt": "2026-10-05T02:26:08.604+08:00",
+        "videoId": "8MsICQeEm6w",
+        "title": "藏紅妝｜第26集",
+        "url": "https://www.youtube.com/watch?v=8MsICQeEm6w",
+        "thumbnail": "https://i.ytimg.com/vi/8MsICQeEm6w/maxresdefault.jpg",
+        "durationSeconds": 130,
+        "publishedAt": "2026-10-04T23:09:49.000+08:00",
+        "fetchedAt": "2026-10-05T03:16:14.965+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.65
+        "genreConfidence": 0.89
       }
     },
     {
