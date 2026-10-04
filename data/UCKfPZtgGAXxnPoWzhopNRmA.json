@@ -1,7 +1,7 @@
 {
   "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
   "channelTitle": "Breathe And Be",
-  "lastUpdated": "2026-09-21T08:05:34.857+08:00",
+  "lastUpdated": "2026-10-05T00:20:58.160+08:00",
   "latestVideo": {
     "videoId": "yjMA-uG_DLw",
     "title": "【中文 Pop playlist】隨手點開🎧結果一首比一首更對味⋆｡°✩ 🖤｜Mandarin POP × R&B｜工作・開車・通勤・放空 BGM｜《失重漫遊》",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.81
   },
   "allVideoIds": [
+    {
+      "videoId": "iTTqfTi0gd0",
+      "title": "【如果我說了 MV】- Bre And Be 💎 一切是否會變得不一樣｜深情R&B與流行抒情融合，細膩聲線訴說未盡心事｜R&B Music / 告白邊緣的溫柔心緒",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.98
+    },
     {
       "videoId": "yjMA-uG_DLw",
       "title": "【中文 Pop playlist】隨手點開🎧結果一首比一首更對味⋆｡°✩ 🖤｜Mandarin POP × R&B｜工作・開車・通勤・放空 BGM｜《失重漫遊》",
