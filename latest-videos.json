@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T02:21:16.068+08:00",
+  "updatedAt": "2026-10-05T02:26:21.479+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -197,7 +197,7 @@
     },
     {
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
-      "channelTitle": "Aria",
+      "channelTitle": "Aria艾莉亞",
       "latestVideo": {
         "videoId": "q6L3WZAbAYk",
         "title": "不用把所有期待，都揹得太重｜《把心事借給晚風》Aria艾莉亞 Official Lyric Video",
@@ -439,15 +439,15 @@
       "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
       "channelTitle": "璃煙",
       "latestVideo": {
-        "videoId": "LoxbrVMv3Ng",
-        "title": "《火曜熒惑》｜敦煌飛天・古風祭舞｜RunningHub全球AIGC長片創作大賽先導片",
-        "url": "https://www.youtube.com/watch?v=LoxbrVMv3Ng",
-        "thumbnail": "https://i.ytimg.com/vi/LoxbrVMv3Ng/maxresdefault.jpg",
-        "durationSeconds": 131,
-        "publishedAt": "2026-09-18T11:23:31.000+08:00",
-        "fetchedAt": "2026-10-05T02:05:56.350+08:00",
+        "videoId": "jno6srECLsA",
+        "title": "《藏紅妝》6–10集合集｜她奉命接近貴妃，卻一步步陷進宮廷殺局｜古裝百合短劇",
+        "url": "https://www.youtube.com/watch?v=jno6srECLsA",
+        "thumbnail": "https://i.ytimg.com/vi/jno6srECLsA/maxresdefault.jpg",
+        "durationSeconds": 560,
+        "publishedAt": "2026-09-05T13:42:58.000+08:00",
+        "fetchedAt": "2026-10-05T02:26:08.604+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 0.65
       }
     },
     {
