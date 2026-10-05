@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-05T17:46:09.115+08:00",
+  "updatedAt": "2026-10-05T17:51:11.358+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "suI7UWsEOcM",
-        "title": "有些人只同路一站，卻一直留在記憶裡《一站以前》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=suI7UWsEOcM",
-        "thumbnail": "https://i.ytimg.com/vi_webp/suI7UWsEOcM/maxresdefault.webp",
-        "durationSeconds": 141,
-        "publishedAt": "2026-10-05T05:30:14.000+08:00",
-        "fetchedAt": "2026-10-05T06:50:36.827+08:00",
+        "videoId": "JF9Tb-YzoCE",
+        "title": "門縫的光｜不是不愛了，只是明天不在同一個房間｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=JF9Tb-YzoCE",
+        "thumbnail": "https://i.ytimg.com/vi/JF9Tb-YzoCE/maxresdefault.jpg",
+        "durationSeconds": 195,
+        "publishedAt": "2026-10-05T17:30:21.000+08:00",
+        "fetchedAt": "2026-10-05T17:50:45.325+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.9
+        "genreConfidence": 0.95
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "_qo3tNhFo7I",
-        "title": "《明日邊界2147》平凡的一天｜AN ORDINARY DAY — 新加坡2147 世界氛圍音樂｜Singapore 2147 World Ambience",
-        "url": "https://www.youtube.com/watch?v=_qo3tNhFo7I",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_qo3tNhFo7I/maxresdefault.webp",
-        "durationSeconds": 264,
-        "publishedAt": "2026-08-22T01:00:13.000+08:00",
-        "fetchedAt": "2026-10-05T17:45:49.873+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.82
+        "videoId": "7l7jikX0THQ",
+        "title": "《背靠背的誓言》BACK TO BACK｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-05T17:50:49.786+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.37
       }
     },
     {
