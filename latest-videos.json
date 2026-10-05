@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:41:04.091+08:00",
+  "updatedAt": "2026-10-05T17:46:09.115+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "7l7jikX0THQ",
-        "title": "《背靠背的誓言》BACK TO BACK｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
-        "durationSeconds": 223,
-        "publishedAt": "2026-10-02T18:55:18.000+08:00",
-        "fetchedAt": "2026-10-03T03:20:43.702+08:00",
-        "genre": "動漫/ACG",
-        "genreConfidence": 0.33
+        "videoId": "_qo3tNhFo7I",
+        "title": "《明日邊界2147》平凡的一天｜AN ORDINARY DAY — 新加坡2147 世界氛圍音樂｜Singapore 2147 World Ambience",
+        "url": "https://www.youtube.com/watch?v=_qo3tNhFo7I",
+        "thumbnail": "https://i.ytimg.com/vi_webp/_qo3tNhFo7I/maxresdefault.webp",
+        "durationSeconds": 264,
+        "publishedAt": "2026-08-22T01:00:13.000+08:00",
+        "fetchedAt": "2026-10-05T17:45:49.873+08:00",
+        "genre": "純音樂/器樂 Instrumental",
+        "genreConfidence": 0.82
       }
     },
     {
@@ -409,15 +409,15 @@
       "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
       "channelTitle": "九黎月",
       "latestVideo": {
-        "videoId": "mRGBTFuVfU8",
-        "title": "【中國風 - 愛已成灰】或許是緣分不對 或許是我學不會🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=mRGBTFuVfU8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/mRGBTFuVfU8/maxresdefault.webp",
-        "durationSeconds": 227,
-        "publishedAt": "2026-08-28T17:00:03.000+08:00",
-        "fetchedAt": "2026-10-05T17:25:55.845+08:00",
+        "videoId": "zUsiNnk-BCI",
+        "title": "【中國風 - 墮修羅（男女合唱版）】血雨之中 最後一握是你手心 殘存的溫熱 🎧 九黎月｜潮流R&B原創【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=zUsiNnk-BCI",
+        "thumbnail": "https://i.ytimg.com/vi_webp/zUsiNnk-BCI/maxresdefault.webp",
+        "durationSeconds": 176,
+        "publishedAt": "2026-10-05T17:00:40.000+08:00",
+        "fetchedAt": "2026-10-05T17:46:01.234+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.59
+        "genreConfidence": 0.85
       }
     },
     {
