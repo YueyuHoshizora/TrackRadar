@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-05T12:10:39.280+08:00",
+  "lastUpdated": "2026-10-05T12:15:38.279+08:00",
   "latestVideo": {
     "videoId": "suI7UWsEOcM",
     "title": "有些人只同路一站，卻一直留在記憶裡《一站以前》｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "suI7UWsEOcM",
-      "title": "有些人只同路一站，卻一直留在記憶裡《一站以前》｜Yu Stellar｜星語",
+      "title": "《一站以前》公車偶遇與錯過的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
     {
       "videoId": "P7foTF8Z6Q8",
-      "title": "多年後在寵物用品店重逢，我們只交換彼此的近況｜兩人一貓｜Yu Stellar｜星語",
+      "title": "兩人一貓站在同一盞晚霞裡，已經足夠成為答案｜兩人一貓｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "US7L9OBay8U",
-      "title": "多年後走回那條街，我看見的已經不是過去｜回到最初｜Yu Stellar｜星語",
+      "title": "回到最初，不是回到從前｜回到最初｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -88,13 +88,13 @@
     },
     {
       "videoId": "sw86VfMO81M",
-      "title": "這扇窗不再等誰，我有自己的晴朗｜我的窗台｜Yu Stellar｜星語",
+      "title": "我的窗台｜寫給一個人也能擁有幸福日常的歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
     {
       "videoId": "AJFAh9FaxVY",
-      "title": "影印機卡住的下午，我也學會把問題一張張取出｜影印機卡住的下午｜Yu Stellar｜星語",
+      "title": "影印機卡住的下午｜寫給努力撐過工作與生活的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "bZETT3MDPpo",
-      "title": "未讀的藍色，亮在我不打擾你的夜｜未讀的藍色｜Yu Stellar｜星語",
+      "title": "未讀的藍色｜給學會把牽掛放遠一點的深夜情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.81
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "-qNX4NkaFsI",
-      "title": "我們沒有復合，但我終於能陪自己走很遠｜重逢之後｜Yu Stellar｜星語",
+      "title": "重逢之後，我更像我，不必再為誰回頭｜重逢之後｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
