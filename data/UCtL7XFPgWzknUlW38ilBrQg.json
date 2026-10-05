@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-10-05T02:56:01.213+08:00",
+  "lastUpdated": "2026-10-05T10:05:49.132+08:00",
   "latestVideo": {
     "videoId": "8TZjFTUSp8k",
     "title": "姐，那我們到底算什麼？《未曾抵達的我們》｜三部曲＋番外篇・完整故事重剪版｜霧月 Xiaoloulou｜百合 GL 雙女主",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.61
   },
   "allVideoIds": [
+    {
+      "videoId": "6V_pACYUsPY",
+      "title": "悲傷不用被治好，只要有地方停｜夜讀・寫作・失眠 純音樂 12章回｜豎琴×古箏×低音提琴｜悲傷停佇之夜 II・霧月 Xiaoloulou",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.96
+    },
     {
       "videoId": "OUB0Zq8_FoE",
       "title": "我要妳跟我走《逆流》｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
@@ -31,12 +37,6 @@
       "title": "我住過很多地方，沒有一個是家《還要往哪裡》｜還要往哪裡，才容得下我｜漂泊的人・華語抒情｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
-    },
-    {
-      "videoId": "Ox9f_TkHo9I",
-      "title": "悲傷不用被治好，只要有地方停｜夜讀・寫作・失眠 純音樂 12章回｜豎琴×古箏×低音提琴｜悲傷停佇之夜 II・霧月 Xiaoloulou",
-      "genre": "純音樂/器樂 Instrumental",
-      "genreConfidence": 0.93
     },
     {
       "videoId": "qh85S8Il_ZA",
