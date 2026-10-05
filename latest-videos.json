@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T00:11:13.621+08:00",
+  "updatedAt": "2026-10-06T00:16:28.734+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "_qo3tNhFo7I",
-        "title": "《明日邊界2147》平凡的一天｜AN ORDINARY DAY — 新加坡2147 世界氛圍音樂｜Singapore 2147 World Ambience",
-        "url": "https://www.youtube.com/watch?v=_qo3tNhFo7I",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_qo3tNhFo7I/maxresdefault.webp",
-        "durationSeconds": 264,
-        "publishedAt": "2026-08-22T01:00:13.000+08:00",
-        "fetchedAt": "2026-10-06T00:01:05.494+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.82
+        "videoId": "7l7jikX0THQ",
+        "title": "《背靠背的誓言》BACK TO BACK｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-06T00:15:51.081+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.39
       }
     },
     {
@@ -184,13 +184,13 @@
       "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
       "channelTitle": "ChillVibes",
       "latestVideo": {
-        "videoId": "azudOtnA9YA",
-        "title": "Let It Pass｜讓它經過 | Healing R&B for Letting Go · STILL.01 (Lyric Video)",
-        "url": "https://www.youtube.com/watch?v=azudOtnA9YA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/azudOtnA9YA/maxresdefault.webp",
+        "videoId": "o1lab_sr_j4",
+        "title": "你的連帽外套還在我車上｜深夜 R&B，獻給還在想念一個人的你 · NIGHT.14（歌詞版）",
+        "url": "https://www.youtube.com/watch?v=o1lab_sr_j4",
+        "thumbnail": "https://i.ytimg.com/vi_webp/o1lab_sr_j4/maxresdefault.webp",
         "durationSeconds": 227,
-        "publishedAt": "2026-09-15T21:00:33.000+08:00",
-        "fetchedAt": "2026-10-06T00:10:54.124+08:00",
+        "publishedAt": "2026-10-02T21:00:29.000+08:00",
+        "fetchedAt": "2026-10-06T00:15:55.764+08:00",
         "genre": "R&B/Soul",
         "genreConfidence": 1
       }
