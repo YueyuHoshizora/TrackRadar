@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-06T05:25:47.938+08:00",
+  "updatedAt": "2026-10-06T05:30:56.979+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "JF9Tb-YzoCE",
-        "title": "門縫的光｜不是不愛了，只是明天不在同一個房間｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=JF9Tb-YzoCE",
-        "thumbnail": "https://i.ytimg.com/vi/JF9Tb-YzoCE/maxresdefault.jpg",
-        "durationSeconds": 195,
-        "publishedAt": "2026-10-05T17:30:21.000+08:00",
-        "fetchedAt": "2026-10-05T17:50:45.325+08:00",
+        "videoId": "vRr0WmS-kTI",
+        "title": "你通訊錄裡，也有一個始終沒加上的人嗎？《沒有加上的人》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=vRr0WmS-kTI",
+        "thumbnail": "https://i.ytimg.com/vi/vRr0WmS-kTI/maxresdefault.jpg",
+        "durationSeconds": 184,
+        "publishedAt": "2026-10-06T05:30:09.000+08:00",
+        "fetchedAt": "2026-10-06T05:30:40.684+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.95
+        "genreConfidence": 0.76
       }
     },
     {
