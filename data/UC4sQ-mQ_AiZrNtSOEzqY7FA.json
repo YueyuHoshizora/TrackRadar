@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-06T13:36:14.811+08:00",
+  "lastUpdated": "2026-10-06T13:41:14.541+08:00",
   "latestVideo": {
     "videoId": "vRr0WmS-kTI",
     "title": "你通訊錄裡，也有一個始終沒加上的人嗎？《沒有加上的人》｜Yu Stellar｜星語",
@@ -16,19 +16,19 @@
   "allVideoIds": [
     {
       "videoId": "vRr0WmS-kTI",
-      "title": "聚會取消後，那個名字永遠停在「確認」以前《沒有加上的人》｜Yu Stellar｜星語",
+      "title": "《沒有加上的人》錯過聯絡方式的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
     {
       "videoId": "JF9Tb-YzoCE",
-      "title": "門縫的光｜成熟分手系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "門縫的光｜不是不愛了，只是明天不在同一個房間｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "suI7UWsEOcM",
-      "title": "《一站以前》公車偶遇與錯過的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "有些人只同路一站，卻一直留在記憶裡《一站以前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "Ln7HY6uaRwY",
-      "title": "故事只走了幾百公尺，名字卻留了三年《借來的傘》｜Yu Stellar｜星語",
+      "title": "《借來的傘》三年前雨天偶遇的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -64,13 +64,13 @@
     },
     {
       "videoId": "US7L9OBay8U",
-      "title": "回到最初，不是回到從前｜回到最初｜Yu Stellar｜星語",
+      "title": "多年後走回那條街，我看見的已經不是過去｜回到最初｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
     {
       "videoId": "UG1MCjMuGwI",
-      "title": "升遷的好消息，我第一次只留給今晚的自己｜亮著的工作證｜Yu Stellar｜星語",
+      "title": "亮著的工作證｜找回自我價值的成長系華語情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.63
     },
@@ -88,7 +88,7 @@
     },
     {
       "videoId": "lJZ9RyZMjdY",
-      "title": "這次的成功，不是為了讓遠方的誰看見｜把名字寫好｜Yu Stellar｜星語",
+      "title": "把名字寫好｜找回自我價值的成長系華語情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.39
     },
