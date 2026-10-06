@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T12:16:11.292+08:00",
+  "updatedAt": "2026-10-06T12:21:02.832+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -214,30 +214,30 @@
       "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
       "channelTitle": "EIRYN",
       "latestVideo": {
-        "videoId": "k9CbI7rqITA",
-        "title": "《閃身步搖起來》｜超洗腦舞曲🔥 一聽就會跳！閃身步・浪子踢球・狗熊哆嗦毛・搖頭晃腦｜2026熱門舞曲",
-        "url": "https://www.youtube.com/watch?v=k9CbI7rqITA",
-        "thumbnail": "https://i.ytimg.com/vi/k9CbI7rqITA/maxresdefault.jpg",
-        "durationSeconds": 188,
-        "publishedAt": "2026-10-01T18:00:17.000+08:00",
-        "fetchedAt": "2026-10-01T19:20:38.588+08:00",
-        "genre": "電子 Electronic",
-        "genreConfidence": 0.44
+        "videoId": "5tECwat4v14",
+        "title": "《10/10 (Our Turn)》換我們上場！寫給台灣的超燃國慶饒舌 🔥｜2026雙十國慶主題曲｜官方歌詞版 Lyric Video",
+        "url": "https://www.youtube.com/watch?v=5tECwat4v14",
+        "thumbnail": "https://i.ytimg.com/vi/5tECwat4v14/maxresdefault.jpg",
+        "durationSeconds": 222,
+        "publishedAt": "2026-10-06T11:30:17.000+08:00",
+        "fetchedAt": "2026-10-06T12:20:47.796+08:00",
+        "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+        "genreConfidence": 1
       }
     },
     {
       "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
       "channelTitle": "予安YUAN",
       "latestVideo": {
-        "videoId": "4LKCT5dVpQg",
-        "title": "《閃身步》｜一秒入魂！浪子踢球・狗熊哆嗦毛・搖頭晃腦｜跟著節奏一起搖｜2026最強洗腦神曲｜予安 Yuan Official MV Music  Video",
-        "url": "https://www.youtube.com/watch?v=4LKCT5dVpQg",
-        "thumbnail": "https://i.ytimg.com/vi/4LKCT5dVpQg/maxresdefault.jpg",
-        "durationSeconds": 187,
-        "publishedAt": "2026-10-02T11:00:32.000+08:00",
-        "fetchedAt": "2026-10-02T11:00:43.275+08:00",
-        "genre": "流行 Pop",
-        "genreConfidence": 0.43
+        "videoId": "2EzsdrG8IQ8",
+        "title": "《夢的翅膀不想飛》｜明知道愛已經枯萎，我還是不肯後退...｜予安 Yuan Official MV Music  Video｜療癒失戀情歌",
+        "url": "https://www.youtube.com/watch?v=2EzsdrG8IQ8",
+        "thumbnail": "https://i.ytimg.com/vi/2EzsdrG8IQ8/maxresdefault.jpg",
+        "durationSeconds": 248,
+        "publishedAt": "2026-10-06T11:00:03.000+08:00",
+        "fetchedAt": "2026-10-06T12:20:48.585+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
       }
     },
     {
