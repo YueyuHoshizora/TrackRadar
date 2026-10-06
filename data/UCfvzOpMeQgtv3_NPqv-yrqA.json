@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-10-05T00:30:59.568+08:00",
+  "lastUpdated": "2026-10-06T15:06:26.025+08:00",
   "latestVideo": {
     "videoId": "ZXUQyq0qmtU",
     "title": "🐔閃身步｜事情不對先閃一步，尷尬還沒追上人就不見了｜Official Music Video",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.48
   },
   "allVideoIds": [
+    {
+      "videoId": "XUBHn_IOVAU",
+      "title": "🌧️恨意失效｜嘴上說再也不要，心裡卻還沒能把你當成從前｜Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.9
+    },
     {
       "videoId": "ZXUQyq0qmtU",
       "title": "🐔【迷因舞曲－閃身步】浪子踢球・狗熊哆嗦毛・搖頭晃腦我都不會｜洗腦神曲｜Official Music Video",
