@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-07T00:21:28.114+08:00",
+  "updatedAt": "2026-10-07T07:21:23.419+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "bT9GwrPkD5c",
-        "title": "最後一班電梯｜最難的告別，是電梯門關上也沒人挽留｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=bT9GwrPkD5c",
-        "thumbnail": "https://i.ytimg.com/vi/bT9GwrPkD5c/maxresdefault.jpg",
-        "durationSeconds": 179,
-        "publishedAt": "2026-10-06T17:30:36.000+08:00",
-        "fetchedAt": "2026-10-06T18:16:06.849+08:00",
+        "videoId": "uLEX7Y3bvYw",
+        "title": "剛開始工作的你，也曾努力把自己站穩嗎？《新工作的早晨》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=uLEX7Y3bvYw",
+        "thumbnail": "https://i.ytimg.com/vi/uLEX7Y3bvYw/maxresdefault.jpg",
+        "durationSeconds": 181,
+        "publishedAt": "2026-10-07T05:30:37.000+08:00",
+        "fetchedAt": "2026-10-07T07:21:10.183+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.95
+        "genreConfidence": 0.45
       }
     },
     {
