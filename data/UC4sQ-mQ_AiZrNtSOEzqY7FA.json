@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-06T23:41:13.589+08:00",
+  "lastUpdated": "2026-10-06T23:46:14.283+08:00",
   "latestVideo": {
     "videoId": "bT9GwrPkD5c",
     "title": "最後一班電梯｜最難的告別，是電梯門關上也沒人挽留｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "bT9GwrPkD5c",
-      "title": "最後一班電梯｜他走進最後一班電梯，我們正式失去彼此｜Yu Stellar｜星語",
+      "title": "最後一班電梯｜體面告別系華語女聲失戀情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -28,13 +28,13 @@
     },
     {
       "videoId": "JF9Tb-YzoCE",
-      "title": "門縫的光｜不是不愛了，只是明天不在同一個房間｜Yu Stellar｜星語",
+      "title": "門縫的光｜成熟分手系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "suI7UWsEOcM",
-      "title": "有些人只同路一站，卻一直留在記憶裡《一站以前》｜Yu Stellar｜星語",
+      "title": "《一站以前》公車偶遇與錯過的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -64,31 +64,31 @@
     },
     {
       "videoId": "9UAtR4sixu4",
-      "title": "整理舊貓玩具時，我終於明白我們都曾努力生活｜盒底的鈴鐺｜Yu Stellar｜星語",
+      "title": "盒底的鈴鐺｜寫給重新理解一段感情的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
     {
       "videoId": "US7L9OBay8U",
-      "title": "多年後走回那條街，我看見的已經不是過去｜回到最初｜Yu Stellar｜星語",
+      "title": "回到最初，不是回到從前｜回到最初｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
     {
       "videoId": "UG1MCjMuGwI",
-      "title": "亮著的工作證，證明我走過那段沒有掌聲的路｜亮著的工作證｜Yu Stellar｜星語",
+      "title": "亮著的工作證｜找回自我價值的成長系華語情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.63
     },
     {
       "videoId": "waD4ZMRNZa8",
-      "title": "我買了回舊城的車票，卻不是為了把你帶回來｜舊城的答案｜Yu Stellar｜星語",
+      "title": "原來那段路沒有白走，答案是各自成為自己｜舊城的答案｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
     {
       "videoId": "7Y1FykKE9FE",
-      "title": "貓跳上窗台後｜一人一貓建立新家的溫暖情歌｜Yu Stellar｜星語",
+      "title": "貓跳上窗台後，我才發現這裡也能叫做家｜貓跳上窗台後｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
