@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T14:11:16.462+08:00",
+  "updatedAt": "2026-10-07T14:16:34.677+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -33,7 +33,7 @@
     },
     {
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
-      "channelTitle": "COYA",
+      "channelTitle": "COYA可夜",
       "latestVideo": {
         "videoId": "Dl10N-wRsFA",
         "title": "「地獄未空，此身不退；眾生未渡，此願不休。」🕯️｜《地藏》｜可夜｜新國風｜Official MV｜地藏菩薩｜神鬼誌：一渡",
@@ -199,15 +199,15 @@
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
       "channelTitle": "Aria艾莉亞",
       "latestVideo": {
-        "videoId": "q6L3WZAbAYk",
-        "title": "不用把所有期待，都揹得太重｜《把心事借給晚風》Aria艾莉亞 Official Lyric Video",
-        "url": "https://www.youtube.com/watch?v=q6L3WZAbAYk",
-        "thumbnail": "https://i.ytimg.com/vi/q6L3WZAbAYk/maxresdefault.jpg",
-        "durationSeconds": 208,
-        "publishedAt": "2026-09-16T12:00:01.000+08:00",
-        "fetchedAt": "2026-09-19T11:18:06.037+08:00",
+        "videoId": "rV6HIcHTtdQ",
+        "title": "算了吧，學會及時收回喜歡｜《原來沉默就是答案》Aria艾莉亞 Official Lyric Video",
+        "url": "https://www.youtube.com/watch?v=rV6HIcHTtdQ",
+        "thumbnail": "https://i.ytimg.com/vi/rV6HIcHTtdQ/maxresdefault.jpg",
+        "durationSeconds": 213,
+        "publishedAt": "2026-10-07T12:00:22.000+08:00",
+        "fetchedAt": "2026-10-07T14:16:15.948+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.9
+        "genreConfidence": 0.86
       }
     },
     {
