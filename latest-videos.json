@@ -1,19 +1,17 @@
 {
-  "updatedAt": "2026-10-07T17:41:32.427+08:00",
+  "updatedAt": "2026-10-07T17:46:38.993+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "uLEX7Y3bvYw",
-        "title": "剛開始工作的你，也曾努力把自己站穩嗎？《新工作的早晨》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=uLEX7Y3bvYw",
-        "thumbnail": "https://i.ytimg.com/vi/uLEX7Y3bvYw/maxresdefault.jpg",
-        "durationSeconds": 181,
-        "publishedAt": "2026-10-07T05:30:37.000+08:00",
-        "fetchedAt": "2026-10-07T07:21:10.183+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.45
+        "videoId": "1TY37nPugGk",
+        "title": "紙上的地址｜地址可以改，想念卻搬不出舊習慣｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=1TY37nPugGk",
+        "thumbnail": "https://i.ytimg.com/vi/1TY37nPugGk/maxresdefault.jpg",
+        "durationSeconds": 165,
+        "publishedAt": "2026-10-07T17:30:12.000+08:00",
+        "fetchedAt": "2026-10-07T17:46:12.632+08:00"
       }
     },
     {
@@ -80,15 +78,13 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "LuYDDZQz8Ek",
-        "title": "《閃身步》｜浪子踢球、狗熊哆嗦毛，她以為三招就能闖江湖，直到遇見真正的高手【國風歌曲・武俠劇・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=LuYDDZQz8Ek",
-        "thumbnail": "https://i.ytimg.com/vi/LuYDDZQz8Ek/maxresdefault.jpg",
-        "durationSeconds": 180,
-        "publishedAt": "2026-10-03T21:11:06.000+08:00",
-        "fetchedAt": "2026-10-07T00:16:17.366+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "2vrEFvNJwPs",
+        "title": "《鍾馗嫁妹》｜想娶她？先過聶小倩、貞子、龍王敖廣三關【國風歌曲・東方神話・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=2vrEFvNJwPs",
+        "thumbnail": "https://i.ytimg.com/vi_webp/2vrEFvNJwPs/maxresdefault.webp",
+        "durationSeconds": 248,
+        "publishedAt": "2026-10-07T17:00:26.000+08:00",
+        "fetchedAt": "2026-10-07T17:46:15.502+08:00"
       }
     },
     {
