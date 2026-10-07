@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:11:35.486+08:00",
+  "updatedAt": "2026-10-07T20:16:38.677+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -63,15 +63,13 @@
       "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
       "channelTitle": "浣月Huanyue",
       "latestVideo": {
-        "videoId": "tSPWbnG23lM",
-        "title": "十年生死兩茫茫，再見你已是夢中人《斷腸引》｜古風・中國風原創歌曲🎵浣月Huanyue",
-        "url": "https://www.youtube.com/watch?v=tSPWbnG23lM",
-        "thumbnail": "https://i.ytimg.com/vi_webp/tSPWbnG23lM/maxresdefault.webp",
-        "durationSeconds": 279,
-        "publishedAt": "2026-10-04T12:00:19.000+08:00",
-        "fetchedAt": "2026-10-05T03:20:42.898+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "TwLhRdW45fw",
+        "title": "萬世長生，不及妳身旁｜《長生》｜古風・中國風原創歌曲🎧浣月Huanyue",
+        "url": "https://www.youtube.com/watch?v=TwLhRdW45fw",
+        "thumbnail": "https://i.ytimg.com/vi_webp/TwLhRdW45fw/maxresdefault.webp",
+        "durationSeconds": 228,
+        "publishedAt": "2026-10-07T19:30:33.000+08:00",
+        "fetchedAt": "2026-10-07T20:16:11.717+08:00"
       }
     },
     {
@@ -136,13 +134,13 @@
       "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
       "channelTitle": "迷子 Maigo",
       "latestVideo": {
-        "videoId": "hOsVYk0CCIg",
-        "title": "徒花ノ涙 / 迷子 feat. 重音テト【MV・歌詞付き】",
-        "url": "https://www.youtube.com/watch?v=hOsVYk0CCIg",
-        "thumbnail": "https://i.ytimg.com/vi/hOsVYk0CCIg/maxresdefault.jpg",
-        "durationSeconds": 240,
-        "publishedAt": "2026-09-25T15:21:34.000+08:00",
-        "fetchedAt": "2026-09-25T15:25:52.110+08:00",
+        "videoId": "43IcDK9qpp0",
+        "title": "完璧な嘘 / 迷子 feat. 重音テト【歌詞付き】",
+        "url": "https://www.youtube.com/watch?v=43IcDK9qpp0",
+        "thumbnail": "https://i.ytimg.com/vi/43IcDK9qpp0/maxresdefault.jpg",
+        "durationSeconds": 188,
+        "publishedAt": "2026-10-07T20:05:02.000+08:00",
+        "fetchedAt": "2026-10-07T20:16:15.298+08:00",
         "genre": "Vocaloid"
       }
     },
@@ -416,7 +414,7 @@
     },
     {
       "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
-      "channelTitle": "RE:IGN(十二弦月 | 舞月)",
+      "channelTitle": "RE:IGN",
       "latestVideo": {
         "videoId": "SQdiIjYbfnk",
         "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
