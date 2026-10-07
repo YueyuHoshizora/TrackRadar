@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T18:31:38.191+08:00",
+  "updatedAt": "2026-10-07T18:36:30.478+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -300,15 +300,13 @@
       "channelId": "UCfHGjnH3G-Gwjh9kj281FZQ",
       "channelTitle": "Nova Bird",
       "latestVideo": {
-        "videoId": "cyfRk2YpQCU",
-        "title": "《銀月傳（上）》｜牠守了百夜，只為尋找那個願意放下刀的人｜影渡町外傳・原創故事MV",
-        "url": "https://www.youtube.com/watch?v=cyfRk2YpQCU",
-        "thumbnail": "https://i.ytimg.com/vi_webp/cyfRk2YpQCU/maxresdefault.webp",
-        "durationSeconds": 300,
-        "publishedAt": "2026-10-01T21:08:34.000+08:00",
-        "fetchedAt": "2026-10-01T21:50:39.643+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.74
+        "videoId": "4Rqj-zwWopM",
+        "title": "「我這個故事裡的人，竟最後才拿到劇本啊。」｜《造謠》｜Nova Bird｜暗黑新國風｜華語原創歌曲",
+        "url": "https://www.youtube.com/watch?v=4Rqj-zwWopM",
+        "thumbnail": "https://i.ytimg.com/vi/4Rqj-zwWopM/maxresdefault.jpg",
+        "durationSeconds": 310,
+        "publishedAt": "2026-10-07T18:35:54.000+08:00",
+        "fetchedAt": "2026-10-07T18:36:18.692+08:00"
       }
     },
     {
