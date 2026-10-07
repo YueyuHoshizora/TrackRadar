@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:56:28.750+08:00",
+  "updatedAt": "2026-10-07T21:02:37.178+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -178,15 +178,13 @@
       "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
       "channelTitle": "ChillVibes",
       "latestVideo": {
-        "videoId": "o1lab_sr_j4",
-        "title": "你的連帽外套還在我車上｜深夜 R&B，獻給還在想念一個人的你 · NIGHT.14（歌詞版）",
-        "url": "https://www.youtube.com/watch?v=o1lab_sr_j4",
-        "thumbnail": "https://i.ytimg.com/vi_webp/o1lab_sr_j4/maxresdefault.webp",
-        "durationSeconds": 227,
-        "publishedAt": "2026-10-02T21:00:29.000+08:00",
-        "fetchedAt": "2026-10-06T03:50:45.760+08:00",
-        "genre": "R&B/Soul",
-        "genreConfidence": 1
+        "videoId": "29_wBRla5R4",
+        "title": "Balcony Lights | Late-Night R&B for Lonely Nights · NIGHT.15 (Lyric Video)",
+        "url": "https://www.youtube.com/watch?v=29_wBRla5R4",
+        "thumbnail": "https://i.ytimg.com/vi_webp/29_wBRla5R4/maxresdefault.webp",
+        "durationSeconds": 195,
+        "publishedAt": "2026-10-07T21:00:13.000+08:00",
+        "fetchedAt": "2026-10-07T21:01:49.123+08:00"
       }
     },
     {
