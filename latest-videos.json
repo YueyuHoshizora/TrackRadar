@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T01:41:22.449+08:00",
+  "updatedAt": "2026-10-09T01:46:29.581+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -249,15 +249,13 @@
       "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
       "channelTitle": "DJ - Lumina",
       "latestVideo": {
-        "videoId": "EnKLsVBuJm8",
-        "title": "✉️Letters We Never Sent",
-        "url": "https://www.youtube.com/watch?v=EnKLsVBuJm8",
-        "thumbnail": "https://i.ytimg.com/vi/EnKLsVBuJm8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNQctjaf4o8tXeiQOczMNkRB6d9A",
-        "durationSeconds": 2797,
-        "publishedAt": "2026-09-24T20:06:03.000+08:00",
-        "fetchedAt": "2026-09-24T20:15:57.744+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.67
+        "videoId": "dm-ofTdb_cw",
+        "title": "今晚誰都別做人",
+        "url": "https://www.youtube.com/watch?v=dm-ofTdb_cw",
+        "thumbnail": "https://i.ytimg.com/vi/dm-ofTdb_cw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKygiMA8=&rs=AOn4CLAlJAX51frbvYf-SeiQV3TDB8jL4g",
+        "durationSeconds": 210,
+        "publishedAt": "2026-10-09T01:40:16.000+08:00",
+        "fetchedAt": "2026-10-09T01:46:14.879+08:00"
       }
     },
     {
