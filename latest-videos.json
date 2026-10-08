@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T19:21:29.413+08:00",
+  "updatedAt": "2026-10-08T20:26:29.874+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -74,13 +74,13 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "TNcozacvD3U",
-        "title": "《齊天大聖》悟空｜五指山脫困後，她最終選擇為唐僧而戰｜孫悟空 × 西遊記【國風搖滾・Official MV・中文原創歌曲】",
-        "url": "https://www.youtube.com/watch?v=TNcozacvD3U",
-        "thumbnail": "https://i.ytimg.com/vi/TNcozacvD3U/maxresdefault.jpg",
-        "durationSeconds": 225,
-        "publishedAt": "2026-09-29T18:00:31.000+08:00",
-        "fetchedAt": "2026-10-08T19:01:14.769+08:00"
+        "videoId": "2vrEFvNJwPs",
+        "title": "《鍾馗嫁妹》｜想娶她？先過聶小倩、貞子、龍王敖廣三關【國風歌曲・東方神話・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=2vrEFvNJwPs",
+        "thumbnail": "https://i.ytimg.com/vi_webp/2vrEFvNJwPs/maxresdefault.webp",
+        "durationSeconds": 248,
+        "publishedAt": "2026-10-07T17:00:26.000+08:00",
+        "fetchedAt": "2026-10-08T20:26:07.106+08:00"
       }
     },
     {
@@ -451,15 +451,13 @@
       "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
       "channelTitle": "Moyamina",
       "latestVideo": {
-        "videoId": "JSfMzWA0v0g",
-        "title": "理智叫我離開，身體卻沒有 《The Body Speaks》｜暗黑探戈",
-        "url": "https://www.youtube.com/watch?v=JSfMzWA0v0g",
-        "thumbnail": "https://i.ytimg.com/vi/JSfMzWA0v0g/maxresdefault.jpg",
-        "durationSeconds": 182,
-        "publishedAt": "2026-09-27T19:00:31.000+08:00",
-        "fetchedAt": "2026-09-27T19:05:30.718+08:00",
-        "genre": "拉丁 Latin",
-        "genreConfidence": 0.43
+        "videoId": "qlH0AkOz7rI",
+        "title": "靠得太近，已經捨不得走《Too Close. Too Deep》｜慾望與拉扯",
+        "url": "https://www.youtube.com/watch?v=qlH0AkOz7rI",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qlH0AkOz7rI/maxresdefault.webp",
+        "durationSeconds": 208,
+        "publishedAt": "2026-10-08T18:45:08.000+08:00",
+        "fetchedAt": "2026-10-08T20:26:24.486+08:00"
       }
     }
   ]
