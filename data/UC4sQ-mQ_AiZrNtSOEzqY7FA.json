@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-09T03:06:13.276+08:00",
+  "lastUpdated": "2026-10-09T03:11:17.842+08:00",
   "latestVideo": {
     "videoId": "ZoI-_lEZkww",
     "title": "沒有寄出的信｜想說的話寫了很多，最後一封也沒寄出｜Yu Stellar｜星語",
@@ -14,7 +14,7 @@
   "allVideoIds": [
     {
       "videoId": "ZoI-_lEZkww",
-      "title": "沒有寄出的信｜得知他換了工作，她把信投給了風｜Yu Stellar｜星語"
+      "title": "沒有寄出的信｜想說的話寫了很多，最後一封也沒寄出｜Yu Stellar｜星語"
     },
     {
       "videoId": "uZcCI6O6OhM",
@@ -22,7 +22,7 @@
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜地址可以改，想念卻搬不出舊習慣｜Yu Stellar｜星語"
+      "title": "紙上的地址｜搬到另一座城後，她才開始真正失戀｜Yu Stellar｜星語"
     },
     {
       "videoId": "uLEX7Y3bvYw",
@@ -68,7 +68,7 @@
     },
     {
       "videoId": "qjL13tkSgOk",
-      "title": "回程票根｜一人一貓重返故城的電影感情歌｜Yu Stellar｜星語",
+      "title": "帶著貓回到舊城，卻在街口看見了那個熟悉身影｜回程票根｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
@@ -92,7 +92,7 @@
     },
     {
       "videoId": "UG1MCjMuGwI",
-      "title": "亮著的工作證，證明我走過那段沒有掌聲的路｜亮著的工作證｜Yu Stellar｜星語",
+      "title": "升遷的好消息，我第一次只留給今晚的自己｜亮著的工作證｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.63
     },
@@ -122,7 +122,7 @@
     },
     {
       "videoId": "sw86VfMO81M",
-      "title": "這扇窗不再等誰，我有自己的晴朗｜我的窗台｜Yu Stellar｜星語",
+      "title": "當房間開始有自己的方向，我終於過得很好｜我的窗台｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
@@ -152,7 +152,7 @@
     },
     {
       "videoId": "L6lxR92AxDo",
-      "title": "我只問牠今天吃得好嗎，沒問你最近好嗎｜牠今天吃得好嗎｜Yu Stellar｜星語",
+      "title": "看見你和貓的照片，我最後只敢問這一句｜牠今天吃得好嗎｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.48
     },
