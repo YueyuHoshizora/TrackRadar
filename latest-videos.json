@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T18:26:30.140+08:00",
+  "updatedAt": "2026-10-09T18:31:29.143+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -304,15 +304,13 @@
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
       "latestVideo": {
-        "videoId": "YNQWeCS-ADU",
-        "title": "《乩身》被命運強行選中的極致窒息感！天命難違，肉身化作神明容器 《神選之子-乩身》｜弦斷誰聽",
-        "url": "https://www.youtube.com/watch?v=YNQWeCS-ADU",
-        "thumbnail": "https://i.ytimg.com/vi_webp/YNQWeCS-ADU/maxresdefault.webp",
-        "durationSeconds": 165,
-        "publishedAt": "2026-10-05T18:30:39.000+08:00",
-        "fetchedAt": "2026-10-05T18:31:01.277+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.85
+        "videoId": "hw9mKxQKASw",
+        "title": "沒說出口的喜歡｜有些人沒在一起，卻想了好多年｜15首女聲情歌合輯｜ 愛要怎麼說出口 ｜ 弦斷誰聽",
+        "url": "https://www.youtube.com/watch?v=hw9mKxQKASw",
+        "thumbnail": "https://i.ytimg.com/vi/hw9mKxQKASw/maxresdefault.jpg",
+        "durationSeconds": 3574,
+        "publishedAt": "2026-10-09T18:30:01.000+08:00",
+        "fetchedAt": "2026-10-09T18:31:22.017+08:00"
       }
     },
     {
