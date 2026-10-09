@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-09T09:36:09.245+08:00",
+  "lastUpdated": "2026-10-09T09:41:10.702+08:00",
   "latestVideo": {
     "videoId": "QEv303T1dZE",
     "title": "聽見你的近況，我卻不再急著追問了《他方的消息》｜Yu Stellar｜星語",
@@ -14,7 +14,7 @@
   "allVideoIds": [
     {
       "videoId": "QEv303T1dZE",
-      "title": "聽見你的近況，我卻不再急著追問了《他方的消息》｜Yu Stellar｜星語"
+      "title": "朋友突然提起他轉職，她只回了一個笑臉《他方的消息》｜Yu Stellar｜星語"
     },
     {
       "videoId": "ZoI-_lEZkww",
@@ -26,17 +26,17 @@
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜地址可以改，想念卻搬不出舊習慣｜Yu Stellar｜星語"
+      "title": "紙上的地址｜搬到另一座城後，她才開始真正失戀｜Yu Stellar｜星語"
     },
     {
       "videoId": "uLEX7Y3bvYw",
-      "title": "《新工作的早晨》寫給職場新鮮人的成長系華語歌｜Yu Stellar｜星語",
+      "title": "剛開始工作的你，也曾努力把自己站穩嗎？《新工作的早晨》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.45
     },
     {
       "videoId": "bT9GwrPkD5c",
-      "title": "最後一班電梯｜他走進最後一班電梯，我們正式失去彼此｜Yu Stellar｜星語",
+      "title": "最後一班電梯｜體面告別系華語女聲失戀情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -108,7 +108,7 @@
     },
     {
       "videoId": "7Y1FykKE9FE",
-      "title": "貓跳上窗台後｜一人一貓建立新家的溫暖情歌｜Yu Stellar｜星語",
+      "title": "貓跳上窗台後，我才發現這裡也能叫做家｜貓跳上窗台後｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -126,7 +126,7 @@
     },
     {
       "videoId": "sw86VfMO81M",
-      "title": "這扇窗不再等誰，我有自己的晴朗｜我的窗台｜Yu Stellar｜星語",
+      "title": "當房間開始有自己的方向，我終於過得很好｜我的窗台｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
