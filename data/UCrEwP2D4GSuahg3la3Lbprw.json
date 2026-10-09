@@ -1,19 +1,21 @@
 {
   "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
   "channelTitle": "弦斷誰聽",
-  "lastUpdated": "2026-10-09T18:26:22.100+08:00",
+  "lastUpdated": "2026-10-09T18:31:24.142+08:00",
   "latestVideo": {
-    "videoId": "YNQWeCS-ADU",
-    "title": "《乩身》被命運強行選中的極致窒息感！天命難違，肉身化作神明容器 《神選之子-乩身》｜弦斷誰聽",
-    "url": "https://www.youtube.com/watch?v=YNQWeCS-ADU",
-    "thumbnail": "https://i.ytimg.com/vi_webp/YNQWeCS-ADU/maxresdefault.webp",
-    "durationSeconds": 165,
-    "publishedAt": "2026-10-05T18:30:39.000+08:00",
-    "fetchedAt": "2026-10-05T18:31:01.277+08:00",
-    "genre": "古風/國風 Chinese Style",
-    "genreConfidence": 0.85
+    "videoId": "hw9mKxQKASw",
+    "title": "沒說出口的喜歡｜有些人沒在一起，卻想了好多年｜15首女聲情歌合輯｜ 愛要怎麼說出口 ｜ 弦斷誰聽",
+    "url": "https://www.youtube.com/watch?v=hw9mKxQKASw",
+    "thumbnail": "https://i.ytimg.com/vi/hw9mKxQKASw/maxresdefault.jpg",
+    "durationSeconds": 3574,
+    "publishedAt": "2026-10-09T18:30:01.000+08:00",
+    "fetchedAt": "2026-10-09T18:31:22.017+08:00"
   },
   "allVideoIds": [
+    {
+      "videoId": "hw9mKxQKASw",
+      "title": "沒說出口的喜歡｜有些人沒在一起，卻想了好多年｜15首女聲情歌合輯｜ 愛要怎麼說出口 ｜ 弦斷誰聽"
+    },
     {
       "videoId": "YNQWeCS-ADU",
       "title": "《乩身》被命運強行選中的極致窒息感！天命難違，肉身化作神明容器 《神選之子-乩身》｜弦斷誰聽",
@@ -22,13 +24,13 @@
     },
     {
       "videoId": "HJm1C2ZbiT8",
-      "title": "《一諾成霜》原創華語古風催淚單曲，歲月守候與漫長等待必聽單曲循環  |   弦斷誰聽   | 無盡的等侯 劇情 MV ｜ Official Music Video 古風虐戀",
+      "title": "《一諾成霜》若有一日風替你喚我名，我仍能像當初輕輕回應｜古風抒情 ｜弦斷誰聽 | 一段刻骨銘心的愛 劇情 MV ｜Official Music Video 古風虐戀",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
     {
       "videoId": "wkeNcCpcAAI",
-      "title": "《忘情劫》｜如果妳已不記得我，我們還能重新相愛嗎？｜劇情 MV ｜ Official Music Video 古風原創歌曲・弦斷誰聽",
+      "title": "《忘情劫》｜妳忘了我們的從前，我願陪妳重新走一程｜劇情 MV ｜ Official Music Video 古風虐戀・弦斷誰聽",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
