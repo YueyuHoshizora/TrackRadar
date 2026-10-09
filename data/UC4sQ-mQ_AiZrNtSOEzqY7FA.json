@@ -1,24 +1,28 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-10T05:26:09.367+08:00",
+  "lastUpdated": "2026-10-10T05:31:15.542+08:00",
   "latestVideo": {
-    "videoId": "6VX_MsMFFJE",
-    "title": "雨衣掛在門後｜最遺憾的重逢，是你已走完這一生｜Yu Stellar｜星語",
-    "url": "https://www.youtube.com/watch?v=6VX_MsMFFJE",
-    "thumbnail": "https://i.ytimg.com/vi/6VX_MsMFFJE/maxresdefault.jpg",
-    "durationSeconds": 183,
-    "publishedAt": "2026-10-09T17:30:01.000+08:00",
-    "fetchedAt": "2026-10-09T17:31:05.598+08:00"
+    "videoId": "uOHGS7MvPs8",
+    "title": "一個人看海，也可以比有人陪更自由《獨自看海》｜Yu Stellar｜星語",
+    "url": "https://www.youtube.com/watch?v=uOHGS7MvPs8",
+    "thumbnail": "https://i.ytimg.com/vi/uOHGS7MvPs8/maxresdefault.jpg",
+    "durationSeconds": 153,
+    "publishedAt": "2026-10-10T05:30:32.000+08:00",
+    "fetchedAt": "2026-10-10T05:31:12.655+08:00"
   },
   "allVideoIds": [
     {
+      "videoId": "uOHGS7MvPs8",
+      "title": "《獨自看海》寫給一個人旅行的自由系華語抒情歌｜Yu Stellar｜星語"
+    },
+    {
       "videoId": "6VX_MsMFFJE",
-      "title": "雨衣掛在門後｜最遺憾的重逢，是你已走完這一生｜Yu Stellar｜星語"
+      "title": "雨衣掛在門後｜前世死別系華語女聲宿命情歌｜Yu Stellar｜星語"
     },
     {
       "videoId": "QEv303T1dZE",
-      "title": "朋友突然提起他轉職，她只回了一個笑臉《他方的消息》｜Yu Stellar｜星語"
+      "title": "聽見你的近況，我卻不再急著追問了《他方的消息》｜Yu Stellar｜星語"
     },
     {
       "videoId": "ZoI-_lEZkww",
@@ -26,7 +30,7 @@
     },
     {
       "videoId": "uZcCI6O6OhM",
-      "title": "第二盆花開了，她也終於不再等待誰來訪《窗台第二盆花》｜Yu Stellar｜星語"
+      "title": "一個人把租屋住成家，是長大後最溫柔的勇敢《窗台第二盆花》｜Yu Stellar｜星語"
     },
     {
       "videoId": "1TY37nPugGk",
@@ -46,7 +50,7 @@
     },
     {
       "videoId": "vRr0WmS-kTI",
-      "title": "你通訊錄裡，也有一個始終沒加上的人嗎？《沒有加上的人》｜Yu Stellar｜星語",
+      "title": "《沒有加上的人》錯過聯絡方式的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
@@ -58,7 +62,7 @@
     },
     {
       "videoId": "suI7UWsEOcM",
-      "title": "按錯下車鈴的那幾秒，我們忘了交換聯絡方式《一站以前》｜Yu Stellar｜星語",
+      "title": "有些人只同路一站，卻一直留在記憶裡《一站以前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -94,7 +98,7 @@
     },
     {
       "videoId": "US7L9OBay8U",
-      "title": "回到最初｜一首重返故城卻不再回頭的情歌｜Yu Stellar｜星語",
+      "title": "回到最初，不是回到從前｜回到最初｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -106,7 +110,7 @@
     },
     {
       "videoId": "waD4ZMRNZa8",
-      "title": "我買了回舊城的車票，卻不是為了把你帶回來｜舊城的答案｜Yu Stellar｜星語",
+      "title": "原來那段路沒有白走，答案是各自成為自己｜舊城的答案｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
@@ -142,7 +146,7 @@
     },
     {
       "videoId": "VPvSIuXRGfo",
-      "title": "在天亮以前，我先把自己的燈點亮｜燈亮以前｜Yu Stellar｜星語",
+      "title": "燈亮以前｜從想念走向自我照顧的療癒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
@@ -178,19 +182,19 @@
     },
     {
       "videoId": "J0Rkv1IHBLk",
-      "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
+      "title": "搬到新家後，我學會自己修窗、買晚餐｜新地址的雨｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "73dglfip2WE",
-      "title": "貓把爪子按在最後一個箱子上，像問我們要去哪裡｜貓砂盆旁的箱子｜Yu Stellar｜星語",
+      "title": "貓砂盆旁的箱子｜寫給一起生活後不得不告別的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.8
     },
     {
       "videoId": "mRaq4gducE4",
-      "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
+      "title": "六點十分｜一首陪你在陌生城市重新出發的歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -232,7 +236,7 @@
     },
     {
       "videoId": "CIv2Zqdz7o8",
-      "title": "同城預報只說有雨，沒說我們會相遇｜同城預報｜Yu Stellar｜星語",
+      "title": "回到舊城以前，我決定不再尋找你的身影｜同城預報｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
