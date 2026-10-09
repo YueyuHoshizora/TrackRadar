@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:01:27.267+08:00",
+  "updatedAt": "2026-10-09T10:06:22.140+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -275,15 +275,13 @@
       "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
       "channelTitle": "Breathe And Be",
       "latestVideo": {
-        "videoId": "7CfeXr4BR90",
-        "title": "《失重愛情》｜如果墜落，也希望是你接住我｜R&B情歌｜Official MV｜官方動態歌詞｜失重漫遊專輯",
-        "url": "https://www.youtube.com/watch?v=7CfeXr4BR90",
-        "thumbnail": "https://i.ytimg.com/vi_webp/7CfeXr4BR90/maxresdefault.webp",
-        "durationSeconds": 212,
-        "publishedAt": "2026-10-05T20:37:49.000+08:00",
-        "fetchedAt": "2026-10-05T20:45:54.444+08:00",
-        "genre": "R&B/Soul",
-        "genreConfidence": 1
+        "videoId": "S2x9sVDBfcA",
+        "title": "失去你之後，連呼吸都會痛｜《降落在沒有你的星球》｜傷心情歌｜Official MV｜官方動態歌詞｜失重漫遊專輯",
+        "url": "https://www.youtube.com/watch?v=S2x9sVDBfcA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/S2x9sVDBfcA/maxresdefault.webp",
+        "durationSeconds": 207,
+        "publishedAt": "2026-10-09T10:03:59.000+08:00",
+        "fetchedAt": "2026-10-09T10:06:13.112+08:00"
       }
     },
     {
