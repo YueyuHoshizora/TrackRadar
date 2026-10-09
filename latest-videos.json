@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T14:56:25.166+08:00",
+  "updatedAt": "2026-10-09T15:01:29.906+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -293,15 +293,13 @@
       "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
       "channelTitle": "Vera Studio",
       "latestVideo": {
-        "videoId": "XUBHn_IOVAU",
-        "title": "🌧️恨意失效｜嘴上說再也不要，心裡卻還沒能把你當成從前｜Official Music Video",
-        "url": "https://www.youtube.com/watch?v=XUBHn_IOVAU",
-        "thumbnail": "https://i.ytimg.com/vi/XUBHn_IOVAU/maxresdefault.jpg",
-        "durationSeconds": 186,
-        "publishedAt": "2026-10-06T15:00:21.000+08:00",
-        "fetchedAt": "2026-10-06T15:16:18.547+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.89
+        "videoId": "ACGFq-eyu2s",
+        "title": "🖤失真｜越清醒越無法抽離，最後連自己都認不清｜Official Music Video",
+        "url": "https://www.youtube.com/watch?v=ACGFq-eyu2s",
+        "thumbnail": "https://i.ytimg.com/vi/ACGFq-eyu2s/maxresdefault.jpg",
+        "durationSeconds": 203,
+        "publishedAt": "2026-10-09T15:00:39.000+08:00",
+        "fetchedAt": "2026-10-09T15:01:20.286+08:00"
       }
     },
     {
