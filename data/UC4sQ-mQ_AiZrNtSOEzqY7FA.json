@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-10T04:46:12.878+08:00",
+  "lastUpdated": "2026-10-10T04:51:16.275+08:00",
   "latestVideo": {
     "videoId": "6VX_MsMFFJE",
     "title": "雨衣掛在門後｜最遺憾的重逢，是你已走完這一生｜Yu Stellar｜星語",
@@ -14,7 +14,7 @@
   "allVideoIds": [
     {
       "videoId": "6VX_MsMFFJE",
-      "title": "雨衣掛在門後｜多年後她等到的，不是重逢而是死訊｜Yu Stellar｜星語"
+      "title": "雨衣掛在門後｜前世死別系華語女聲宿命情歌｜Yu Stellar｜星語"
     },
     {
       "videoId": "QEv303T1dZE",
@@ -22,7 +22,7 @@
     },
     {
       "videoId": "ZoI-_lEZkww",
-      "title": "沒有寄出的信｜得知他換了工作，她把信投給了風｜Yu Stellar｜星語"
+      "title": "沒有寄出的信｜克制思念系華語女聲失戀情歌｜Yu Stellar｜星語"
     },
     {
       "videoId": "uZcCI6O6OhM",
@@ -30,7 +30,7 @@
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜異地分離系華語女聲抒情歌｜Yu Stellar｜星語"
+      "title": "紙上的地址｜搬到另一座城後，她才開始真正失戀｜Yu Stellar｜星語"
     },
     {
       "videoId": "uLEX7Y3bvYw",
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "bT9GwrPkD5c",
-      "title": "最後一班電梯｜最難的告別，是電梯門關上也沒人挽留｜Yu Stellar｜星語",
+      "title": "最後一班電梯｜他走進最後一班電梯，我們正式失去彼此｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "JF9Tb-YzoCE",
-      "title": "門縫的光｜成熟分手系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "門縫的光｜分開那晚，門縫裡還亮著最後一盞光｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "Ln7HY6uaRwY",
-      "title": "《借來的傘》三年前雨天偶遇的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "故事只走了幾百公尺，名字卻留了三年《借來的傘》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -100,7 +100,7 @@
     },
     {
       "videoId": "UG1MCjMuGwI",
-      "title": "亮著的工作證｜找回自我價值的成長系華語情歌｜Yu Stellar｜星語",
+      "title": "升遷的好消息，我第一次只留給今晚的自己｜亮著的工作證｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.63
     },
@@ -112,7 +112,7 @@
     },
     {
       "videoId": "7Y1FykKE9FE",
-      "title": "當貓不再找舊房間，我也終於住進自己的生活｜貓跳上窗台後｜Yu Stellar｜星語",
+      "title": "貓跳上窗台後｜一人一貓建立新家的溫暖情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -130,13 +130,13 @@
     },
     {
       "videoId": "sw86VfMO81M",
-      "title": "我的窗台｜寫給一個人也能擁有幸福日常的歌｜Yu Stellar｜星語",
+      "title": "當房間開始有自己的方向，我終於過得很好｜我的窗台｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
     {
       "videoId": "AJFAh9FaxVY",
-      "title": "影印機卡住的下午｜寫給努力撐過工作與生活的人｜Yu Stellar｜星語",
+      "title": "今天很糟，但我沒有往誰的懷裡躲｜影印機卡住的下午｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "L6lxR92AxDo",
-      "title": "牠今天吃得好嗎｜寫給分開後仍默默牽掛的情歌｜Yu Stellar｜星語",
+      "title": "看見你和貓的照片，我最後只敢問這一句｜牠今天吃得好嗎｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.48
     },
