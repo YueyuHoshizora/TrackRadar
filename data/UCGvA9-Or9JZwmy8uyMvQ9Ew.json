@@ -1,19 +1,21 @@
 {
   "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
   "channelTitle": "予安YUAN",
-  "lastUpdated": "2026-10-06T12:20:49.703+08:00",
+  "lastUpdated": "2026-10-09T11:01:12.505+08:00",
   "latestVideo": {
-    "videoId": "2EzsdrG8IQ8",
-    "title": "《夢的翅膀不想飛》｜明知道愛已經枯萎，我還是不肯後退...｜予安 Yuan Official MV Music  Video｜療癒失戀情歌",
-    "url": "https://www.youtube.com/watch?v=2EzsdrG8IQ8",
-    "thumbnail": "https://i.ytimg.com/vi/2EzsdrG8IQ8/maxresdefault.jpg",
-    "durationSeconds": 248,
-    "publishedAt": "2026-10-06T11:00:03.000+08:00",
-    "fetchedAt": "2026-10-06T12:20:48.585+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 1
+    "videoId": "j2LtWI2oLjE",
+    "title": "《孟婆的特調》｜這杯喝下去，你真的捨得忘記他嗎？｜予安 Yuan Official MV Music  Video",
+    "url": "https://www.youtube.com/watch?v=j2LtWI2oLjE",
+    "thumbnail": "https://i.ytimg.com/vi/j2LtWI2oLjE/maxresdefault.jpg",
+    "durationSeconds": 217,
+    "publishedAt": "2026-10-09T11:00:16.000+08:00",
+    "fetchedAt": "2026-10-09T11:01:11.704+08:00"
   },
   "allVideoIds": [
+    {
+      "videoId": "j2LtWI2oLjE",
+      "title": "《孟婆的特調》｜這杯喝下去，你真的捨得忘記他嗎？｜予安 Yuan Official MV Music  Video"
+    },
     {
       "videoId": "2EzsdrG8IQ8",
       "title": "《夢的翅膀不想飛》｜明知道愛已經枯萎，我還是不肯後退...｜予安 Yuan Official MV Music  Video｜療癒失戀情歌",
