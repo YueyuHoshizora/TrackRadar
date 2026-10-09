@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T14:41:26.027+08:00",
+  "updatedAt": "2026-10-09T14:46:25.751+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -144,15 +144,13 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "pXK27T1BJEs",
-        "title": "🌧️ 台語大帝國《我袂當替妳活》紀時宇｜《情債》三部曲・想為妳做個好人，卻走不出江湖｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=pXK27T1BJEs",
-        "thumbnail": "https://i.ytimg.com/vi_webp/pXK27T1BJEs/maxresdefault.webp",
-        "durationSeconds": 246,
-        "publishedAt": "2026-10-06T14:18:19.000+08:00",
-        "fetchedAt": "2026-10-06T15:16:12.906+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.89
+        "videoId": "sLDISwBCCQk",
+        "title": "💔 台語大帝國｜Aurora 葵《毋通愛我》｜《情債》最終曲｜怕你為愛送命，只好忍痛離開｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=sLDISwBCCQk",
+        "thumbnail": "https://i.ytimg.com/vi_webp/sLDISwBCCQk/maxresdefault.webp",
+        "durationSeconds": 208,
+        "publishedAt": "2026-10-09T14:17:21.000+08:00",
+        "fetchedAt": "2026-10-09T14:46:12.066+08:00"
       }
     },
     {
