@@ -1,7 +1,7 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-10-09T17:01:31.881+08:00",
+  "lastUpdated": "2026-10-11T01:51:33.406+08:00",
   "latestVideo": {
     "videoId": "lTARke6du68",
     "title": "【中國風 - 朝歌妖狐】狐是真的，情是假的嗎？ 🎧 －九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi/lTARke6du68/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gQygyMA8=&rs=AOn4CLBBQ8fBm66m327jEA3_jdv_iBKw8w",
     "durationSeconds": 205,
     "publishedAt": "2026-10-08T17:00:26.000+08:00",
-    "fetchedAt": "2026-10-08T17:16:26.442+08:00"
+    "fetchedAt": "2026-10-08T17:16:26.442+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 0.53
   },
   "allVideoIds": [
     {
       "videoId": "lTARke6du68",
-      "title": "【中國風 - 朝歌妖狐】狐是真的，情是假的嗎？ 🎧 －九黎月｜潮流R&B原創【Official Lyric Video】"
+      "title": "【中國風 - 朝歌妖狐】狐是真的，情是假的嗎？ 🎧 －九黎月｜潮流R&B原創【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "zUsiNnk-BCI",
