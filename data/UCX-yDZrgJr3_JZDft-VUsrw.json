@@ -1,7 +1,7 @@
 {
   "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
   "channelTitle": "田井魚",
-  "lastUpdated": "2026-10-09T18:01:17.429+08:00",
+  "lastUpdated": "2026-10-11T01:51:19.559+08:00",
   "latestVideo": {
     "videoId": "p8dl9srBUOw",
     "title": "我講了半天，你只會嗯喔好《單音節動物》｜俏皮情歌",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi_webp/p8dl9srBUOw/maxresdefault.webp",
     "durationSeconds": 192,
     "publishedAt": "2026-10-09T18:00:35.000+08:00",
-    "fetchedAt": "2026-10-09T18:01:16.426+08:00"
+    "fetchedAt": "2026-10-09T18:01:16.426+08:00",
+    "genre": "抒情/情歌 Ballad",
+    "genreConfidence": 0.73
   },
   "allVideoIds": [
     {
       "videoId": "p8dl9srBUOw",
-      "title": "我講了半天，你只會嗯喔好《單音節動物》｜俏皮情歌"
+      "title": "我講了半天，你只會嗯喔好《單音節動物》｜俏皮情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "xdDm7Ix4NSQ",
