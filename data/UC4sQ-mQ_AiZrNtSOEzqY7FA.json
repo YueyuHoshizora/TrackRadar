@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-10T18:01:24.544+08:00",
+  "lastUpdated": "2026-10-10T18:06:09.535+08:00",
   "latestVideo": {
     "videoId": "5uSV8JwkgGs",
     "title": "陌生早餐店｜有些習慣忘了前世，身體卻還記得｜Yu Stellar｜星語",
@@ -26,7 +26,7 @@
     },
     {
       "videoId": "QEv303T1dZE",
-      "title": "《他方的消息》放下執著、好好生活的療癒華語歌｜Yu Stellar｜星語"
+      "title": "聽見你的近況，我卻不再急著追問了《他方的消息》｜Yu Stellar｜星語"
     },
     {
       "videoId": "ZoI-_lEZkww",
@@ -38,11 +38,11 @@
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜異地分離系華語女聲抒情歌｜Yu Stellar｜星語"
+      "title": "紙上的地址｜地址可以改，想念卻搬不出舊習慣｜Yu Stellar｜星語"
     },
     {
       "videoId": "uLEX7Y3bvYw",
-      "title": "員工證照片很僵硬，她卻在忙亂裡找回自己《新工作的早晨》｜Yu Stellar｜星語",
+      "title": "《新工作的早晨》寫給職場新鮮人的成長系華語歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.45
     },
@@ -60,13 +60,13 @@
     },
     {
       "videoId": "JF9Tb-YzoCE",
-      "title": "門縫的光｜成熟分手系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "門縫的光｜不是不愛了，只是明天不在同一個房間｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "suI7UWsEOcM",
-      "title": "《一站以前》公車偶遇與錯過的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "有些人只同路一站，卻一直留在記憶裡《一站以前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -78,7 +78,7 @@
     },
     {
       "videoId": "Ln7HY6uaRwY",
-      "title": "故事只走了幾百公尺，名字卻留了三年《借來的傘》｜Yu Stellar｜星語",
+      "title": "你也有一個只見過一次，卻記了三年的人嗎？《借來的傘》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -108,7 +108,7 @@
     },
     {
       "videoId": "UG1MCjMuGwI",
-      "title": "亮著的工作證｜找回自我價值的成長系華語情歌｜Yu Stellar｜星語",
+      "title": "亮著的工作證，證明我走過那段沒有掌聲的路｜亮著的工作證｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.63
     },
@@ -126,7 +126,7 @@
     },
     {
       "videoId": "lJZ9RyZMjdY",
-      "title": "這次的成功，不是為了讓遠方的誰看見｜把名字寫好｜Yu Stellar｜星語",
+      "title": "把名字寫好｜找回自我價值的成長系華語情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.39
     },
@@ -138,7 +138,7 @@
     },
     {
       "videoId": "sw86VfMO81M",
-      "title": "我的窗台｜寫給一個人也能擁有幸福日常的歌｜Yu Stellar｜星語",
+      "title": "這扇窗不再等誰，我有自己的晴朗｜我的窗台｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
@@ -168,7 +168,7 @@
     },
     {
       "videoId": "L6lxR92AxDo",
-      "title": "牠今天吃得好嗎｜寫給分開後仍默默牽掛的情歌｜Yu Stellar｜星語",
+      "title": "我只問牠今天吃得好嗎，沒問你最近好嗎｜牠今天吃得好嗎｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.48
     },
