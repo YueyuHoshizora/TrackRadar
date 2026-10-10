@@ -1,7 +1,7 @@
 {
   "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
   "channelTitle": "COYA可夜",
-  "lastUpdated": "2026-10-11T01:41:10.940+08:00",
+  "lastUpdated": "2026-10-11T01:51:07.315+08:00",
   "latestVideo": {
     "videoId": "luH432c3M8M",
     "title": "「若問嫦娥何所有，一身清白一身痕。」🌕｜《嫦娥葬月》｜可夜｜新國風｜月宮神話｜Official MV｜仙聞錄系列",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi/luH432c3M8M/maxresdefault.jpg",
     "durationSeconds": 238,
     "publishedAt": "2026-10-08T08:30:05.000+08:00",
-    "fetchedAt": "2026-10-08T09:46:05.222+08:00"
+    "fetchedAt": "2026-10-08T09:46:05.222+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 1
   },
   "allVideoIds": [
     {
       "videoId": "luH432c3M8M",
-      "title": "「若問嫦娥何所有，一身清白一身痕。」🌕｜《嫦娥葬月》｜可夜｜新國風｜月宮神話｜Official MV｜仙聞錄系列"
+      "title": "「若問嫦娥何所有，一身清白一身痕。」🌕｜《嫦娥葬月》｜可夜｜新國風｜月宮神話｜Official MV｜仙聞錄系列",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "Dl10N-wRsFA",
@@ -78,7 +82,7 @@
     },
     {
       "videoId": "WUsZiCEKkUg",
-      "title": "「有些歌被很多人聽見，有些歌一直安靜待在角落。」｜《從古至今》｜可夜｜新國風60分鐘合輯｜從江湖到人間｜官方動態歌詞｜",
+      "title": "【新國風60分鐘合輯】從江湖到人間的沉浸古風精選 ｜《從古至今》・可夜",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
