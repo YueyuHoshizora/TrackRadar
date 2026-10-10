@@ -1,7 +1,7 @@
 {
   "channelId": "UCKfPZtgGAXxnPoWzhopNRmA",
   "channelTitle": "Breathe And Be",
-  "lastUpdated": "2026-10-09T10:06:14.194+08:00",
+  "lastUpdated": "2026-10-11T01:51:22.728+08:00",
   "latestVideo": {
     "videoId": "S2x9sVDBfcA",
     "title": "失去你之後，連呼吸都會痛｜《降落在沒有你的星球》｜傷心情歌｜Official MV｜官方動態歌詞｜失重漫遊專輯",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi_webp/S2x9sVDBfcA/maxresdefault.webp",
     "durationSeconds": 207,
     "publishedAt": "2026-10-09T10:03:59.000+08:00",
-    "fetchedAt": "2026-10-09T10:06:13.112+08:00"
+    "fetchedAt": "2026-10-09T10:06:13.112+08:00",
+    "genre": "抒情/情歌 Ballad",
+    "genreConfidence": 1
   },
   "allVideoIds": [
     {
       "videoId": "S2x9sVDBfcA",
-      "title": "失去你之後，連呼吸都會痛｜《降落在沒有你的星球》｜傷心情歌｜Official MV｜官方動態歌詞｜失重漫遊專輯"
+      "title": "失去你之後，連呼吸都會痛｜《降落在沒有你的星球》｜傷心情歌｜Official MV｜官方動態歌詞｜失重漫遊專輯",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "7CfeXr4BR90",
