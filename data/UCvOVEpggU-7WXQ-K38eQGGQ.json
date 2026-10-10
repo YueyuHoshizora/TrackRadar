@@ -1,7 +1,7 @@
 {
   "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
   "channelTitle": "Moyamina",
-  "lastUpdated": "2026-10-08T20:26:26.026+08:00",
+  "lastUpdated": "2026-10-11T01:51:35.460+08:00",
   "latestVideo": {
     "videoId": "qlH0AkOz7rI",
     "title": "靠得太近，已經捨不得走《Too Close. Too Deep》｜慾望與拉扯",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi_webp/qlH0AkOz7rI/maxresdefault.webp",
     "durationSeconds": 208,
     "publishedAt": "2026-10-08T18:45:08.000+08:00",
-    "fetchedAt": "2026-10-08T20:26:24.486+08:00"
+    "fetchedAt": "2026-10-08T20:26:24.486+08:00",
+    "genre": "抒情/情歌 Ballad",
+    "genreConfidence": 0.68
   },
   "allVideoIds": [
     {
       "videoId": "qlH0AkOz7rI",
-      "title": "靠得太近，已經捨不得走《Too Close. Too Deep》｜慾望與拉扯"
+      "title": "靠得太近，已經捨不得走《Too Close. Too Deep》｜慾望與拉扯",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "JSfMzWA0v0g",
