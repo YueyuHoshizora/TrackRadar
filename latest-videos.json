@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-11T06:11:22.623+08:00",
+  "updatedAt": "2026-10-11T06:16:27.355+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "5uSV8JwkgGs",
-        "title": "陌生早餐店｜有些習慣忘了前世，身體卻還記得｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=5uSV8JwkgGs",
-        "thumbnail": "https://i.ytimg.com/vi/5uSV8JwkgGs/maxresdefault.jpg",
-        "durationSeconds": 129,
-        "publishedAt": "2026-10-10T17:30:13.000+08:00",
-        "fetchedAt": "2026-10-10T17:31:13.188+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.4
+        "videoId": "Mbho2s5i1BM",
+        "title": "那個消失三年的名字，突然出現在工作郵件裡《名字又出現》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=Mbho2s5i1BM",
+        "thumbnail": "https://i.ytimg.com/vi/Mbho2s5i1BM/maxresdefault.jpg",
+        "durationSeconds": 158,
+        "publishedAt": "2026-10-11T05:30:26.000+08:00",
+        "fetchedAt": "2026-10-11T06:16:07.344+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.45
       }
     },
     {
