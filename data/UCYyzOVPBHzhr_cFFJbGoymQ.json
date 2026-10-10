@@ -1,7 +1,7 @@
 {
   "channelId": "UCYyzOVPBHzhr_cFFJbGoymQ",
   "channelTitle": "安餒An_Nei",
-  "lastUpdated": "2026-10-09T23:31:07.351+08:00",
+  "lastUpdated": "2026-10-11T01:51:06.138+08:00",
   "latestVideo": {
     "videoId": "KeC7NtdmRAw",
     "title": "【中國風 – 老爺不要】「夫人會看到！若是被她知道，今晚誰都跑不了！」DJ電音效果的歡樂神曲。 🎧 安餒 An_Nei",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi_webp/KeC7NtdmRAw/maxresdefault.webp",
     "durationSeconds": 196,
     "publishedAt": "2026-10-09T11:00:33.000+08:00",
-    "fetchedAt": "2026-10-09T11:01:05.157+08:00"
+    "fetchedAt": "2026-10-09T11:01:05.157+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 0.61
   },
   "allVideoIds": [
     {
       "videoId": "KeC7NtdmRAw",
-      "title": "【中國風 – 老爺不要】「夫人會看到！若是被她知道，今晚誰都跑不了！」DJ電音效果的歡樂神曲。 🎧 安餒 An_Nei"
+      "title": "【中國風 – 老爺不要】「夫人會看到！若是被她知道，今晚誰都跑不了！」DJ電音效果的歡樂神曲。 🎧 安餒 An_Nei",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.61
     },
     {
       "videoId": "HmzNxSZ4gcc",
