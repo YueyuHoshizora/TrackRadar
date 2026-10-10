@@ -1,7 +1,7 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-10-10T15:11:15.355+08:00",
+  "lastUpdated": "2026-10-11T01:51:16.267+08:00",
   "latestVideo": {
     "videoId": "EQUByQ01Fkk",
     "title": "台語大帝國《叫我三太子》｜三太子哪吒台語電音饒舌！｜風火輪一轉，少年仔出陣｜筠芙得利【Official MV】",
@@ -9,16 +9,22 @@
     "thumbnail": "https://i.ytimg.com/vi_webp/EQUByQ01Fkk/maxresdefault.webp",
     "durationSeconds": 210,
     "publishedAt": "2026-10-10T15:01:41.000+08:00",
-    "fetchedAt": "2026-10-10T15:06:12.169+08:00"
+    "fetchedAt": "2026-10-10T15:06:12.169+08:00",
+    "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+    "genreConfidence": 0.97
   },
   "allVideoIds": [
     {
       "videoId": "EQUByQ01Fkk",
-      "title": "台語大帝國《叫我三太子》｜三太子哪吒台語電音饒舌！｜風火輪一轉，少年仔出陣｜筠芙得利【Official MV】"
+      "title": "台語大帝國《叫我三太子》｜三太子哪吒台語電音饒舌！｜風火輪一轉，少年仔出陣｜筠芙得利【Official MV】",
+      "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "sLDISwBCCQk",
-      "title": "💔 台語大帝國｜Aurora 葵《毋通愛我》｜《情債》最終曲｜怕你為愛送命，只好忍痛離開｜筠芙得利【Official MV】"
+      "title": "💔 台語大帝國｜Aurora 葵《毋通愛我》｜《情債》最終曲｜怕你為愛送命，只好忍痛離開｜筠芙得利【Official MV】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "pXK27T1BJEs",
