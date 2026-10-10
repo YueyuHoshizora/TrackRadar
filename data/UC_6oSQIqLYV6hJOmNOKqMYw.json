@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-10-09T11:31:18.449+08:00",
+  "lastUpdated": "2026-10-11T01:51:16.796+08:00",
   "latestVideo": {
     "videoId": "jM3BOrMzlSg",
     "title": "《月老也失戀》｜如果紅線真的存在，為什麼我還是等不到你？｜2026超有共鳴的華語流行搖滾情歌",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi/jM3BOrMzlSg/maxresdefault.jpg",
     "durationSeconds": 243,
     "publishedAt": "2026-10-09T11:30:09.000+08:00",
-    "fetchedAt": "2026-10-09T11:31:17.310+08:00"
+    "fetchedAt": "2026-10-09T11:31:17.310+08:00",
+    "genre": "抒情/情歌 Ballad",
+    "genreConfidence": 0.4
   },
   "allVideoIds": [
     {
       "videoId": "jM3BOrMzlSg",
-      "title": "《月老也失戀》｜如果紅線真的存在，為什麼我還是等不到你？｜2026超有共鳴的華語流行搖滾情歌"
+      "title": "《月老也失戀》｜如果紅線真的存在，為什麼我還是等不到你？｜2026超有共鳴的華語流行搖滾情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "5tECwat4v14",
