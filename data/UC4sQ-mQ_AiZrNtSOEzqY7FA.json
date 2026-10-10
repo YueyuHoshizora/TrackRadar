@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-10T11:26:07.576+08:00",
+  "lastUpdated": "2026-10-10T11:31:06.914+08:00",
   "latestVideo": {
     "videoId": "uOHGS7MvPs8",
     "title": "一個人看海，也可以比有人陪更自由《獨自看海》｜Yu Stellar｜星語",
@@ -30,11 +30,11 @@
     },
     {
       "videoId": "uZcCI6O6OhM",
-      "title": "一個人把租屋住成家，是長大後最溫柔的勇敢《窗台第二盆花》｜Yu Stellar｜星語"
+      "title": "《窗台第二盆花》一個人生活也能很幸福的療癒華語歌｜Yu Stellar｜星語"
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜搬到另一座城後，她才開始真正失戀｜Yu Stellar｜星語"
+      "title": "紙上的地址｜異地分離系華語女聲抒情歌｜Yu Stellar｜星語"
     },
     {
       "videoId": "uLEX7Y3bvYw",
@@ -44,7 +44,7 @@
     },
     {
       "videoId": "bT9GwrPkD5c",
-      "title": "最後一班電梯｜最難的告別，是電梯門關上也沒人挽留｜Yu Stellar｜星語",
+      "title": "最後一班電梯｜他走進最後一班電梯，我們正式失去彼此｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -62,7 +62,7 @@
     },
     {
       "videoId": "suI7UWsEOcM",
-      "title": "《一站以前》公車偶遇與錯過的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "按錯下車鈴的那幾秒，我們忘了交換聯絡方式《一站以前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -110,13 +110,13 @@
     },
     {
       "videoId": "waD4ZMRNZa8",
-      "title": "原來那段路沒有白走，答案是各自成為自己｜舊城的答案｜Yu Stellar｜星語",
+      "title": "舊城的答案｜寫給走過遺憾後終於釋懷的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
     {
       "videoId": "7Y1FykKE9FE",
-      "title": "當貓不再找舊房間，我也終於住進自己的生活｜貓跳上窗台後｜Yu Stellar｜星語",
+      "title": "貓跳上窗台後｜一人一貓建立新家的溫暖情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -188,19 +188,19 @@
     },
     {
       "videoId": "73dglfip2WE",
-      "title": "貓把爪子按在最後一個箱子上，像問我們要去哪裡｜貓砂盆旁的箱子｜Yu Stellar｜星語",
+      "title": "貓砂盆旁的箱子｜寫給一起生活後不得不告別的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.8
     },
     {
       "videoId": "mRaq4gducE4",
-      "title": "六點十分的車，載我離開熟悉的門｜六點十分｜Yu Stellar｜星語",
+      "title": "天還沒亮，我先學著把自己帶穩｜六點十分｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "-qNX4NkaFsI",
-      "title": "重逢之後，我更像我，不必再為誰回頭｜重逢之後｜Yu Stellar｜星語",
+      "title": "重逢之後｜從告別走向完整自己的療癒終章｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -230,7 +230,7 @@
     },
     {
       "videoId": "Tae3s5cWMDM",
-      "title": "這一次，我們不只約定今天，也把明天留下｜把明天留給我們｜Yu Stellar｜星語",
+      "title": "走過告別與重逢，我們終於開始計畫同一個家｜把明天留給我們｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
@@ -248,7 +248,7 @@
     },
     {
       "videoId": "IrSZG7Qbqng",
-      "title": "你在遠方也明亮，而我不必因此黯淡｜遠方也明亮｜Yu Stellar｜星語",
+      "title": "遠方也明亮｜寫給真正放下比較與遺憾的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
