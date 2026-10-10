@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-10-09T10:56:09.835+08:00",
+  "lastUpdated": "2026-10-11T01:51:11.245+08:00",
   "latestVideo": {
     "videoId": "n0_GX2o9h4w",
     "title": "《眾神降臨》｜10首MV合輯｜閃身步、哪吒、月老、孟婆、黑白無常、九尾狐【武俠劇・國風歌曲・中文原創歌曲】",
@@ -9,20 +9,28 @@
     "thumbnail": "https://i.ytimg.com/vi_webp/n0_GX2o9h4w/maxresdefault.webp",
     "durationSeconds": 2420,
     "publishedAt": "2026-10-09T10:55:37.000+08:00",
-    "fetchedAt": "2026-10-09T10:56:08.305+08:00"
+    "fetchedAt": "2026-10-09T10:56:08.305+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 1
   },
   "allVideoIds": [
     {
       "videoId": "n0_GX2o9h4w",
-      "title": "《眾神降臨》｜10首MV合輯｜閃身步、哪吒、月老、孟婆、黑白無常、九尾狐【武俠劇・國風歌曲・中文原創歌曲】"
+      "title": "《眾神降臨》｜10首MV合輯｜閃身步、哪吒、月老、孟婆、黑白無常、九尾狐【武俠劇・國風歌曲・中文原創歌曲】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "jhKDFWkMQAc",
-      "title": "《鍾馗嫁妹》👻｜想娶她？先過聶小倩、貞子、龍王敖廣三關！"
+      "title": "《鍾馗嫁妹》👻｜想娶她？先過聶小倩、貞子、龍王敖廣三關！",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "2vrEFvNJwPs",
-      "title": "《鍾馗嫁妹》｜想娶她？先過聶小倩、貞子、龍王敖廣三關【國風歌曲・東方神話・中文原創歌曲・Official MV】"
+      "title": "《鍾馗嫁妹》｜想娶她？先過聶小倩、貞子、龍王敖廣三關【國風歌曲・東方神話・中文原創歌曲・Official MV】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "pLievWQx_bk",
