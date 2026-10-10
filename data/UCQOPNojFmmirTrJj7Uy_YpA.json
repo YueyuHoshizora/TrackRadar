@@ -1,7 +1,7 @@
 {
   "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
   "channelTitle": "浣月Huanyue",
-  "lastUpdated": "2026-10-08T06:26:04.890+08:00",
+  "lastUpdated": "2026-10-11T01:51:06.548+08:00",
   "latestVideo": {
     "videoId": "TwLhRdW45fw",
     "title": "萬世長生，不及妳身旁｜《長生》｜古風・中國風原創歌曲🎧浣月Huanyue",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi_webp/TwLhRdW45fw/maxresdefault.webp",
     "durationSeconds": 228,
     "publishedAt": "2026-10-07T19:30:33.000+08:00",
-    "fetchedAt": "2026-10-07T20:16:11.717+08:00"
+    "fetchedAt": "2026-10-07T20:16:11.717+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 1
   },
   "allVideoIds": [
     {
       "videoId": "TwLhRdW45fw",
-      "title": "萬世長生，不及妳身旁｜《長生》｜古風・中國風原創歌曲🎧浣月Huanyue"
+      "title": "萬世長生，不及妳身旁｜《長生》｜古風・中國風原創歌曲🎧浣月Huanyue",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "tSPWbnG23lM",
