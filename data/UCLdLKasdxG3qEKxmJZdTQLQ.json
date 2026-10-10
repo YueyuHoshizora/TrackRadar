@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-10-10T22:51:33.575+08:00",
+  "lastUpdated": "2026-10-11T01:51:33.990+08:00",
   "latestVideo": {
     "videoId": "gQGOubER1IM",
     "title": "《藏紅妝》26–30集合集｜宿命給的餘生，換我為妳重來｜古裝百合短劇",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi_webp/gQGOubER1IM/maxresdefault.webp",
     "durationSeconds": 729,
     "publishedAt": "2026-10-10T22:50:44.000+08:00",
-    "fetchedAt": "2026-10-10T22:51:31.896+08:00"
+    "fetchedAt": "2026-10-10T22:51:31.896+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 0.82
   },
   "allVideoIds": [
     {
       "videoId": "gQGOubER1IM",
-      "title": "《藏紅妝》26–30集合集｜宿命給的餘生，換我為妳重來｜古裝百合短劇"
+      "title": "《藏紅妝》26–30集合集｜宿命給的餘生，換我為妳重來｜古裝百合短劇",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "8MsICQeEm6w",
