@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T01:46:33.894+08:00",
+  "updatedAt": "2026-10-11T01:51:39.744+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -11,7 +11,9 @@
         "thumbnail": "https://i.ytimg.com/vi/5uSV8JwkgGs/maxresdefault.jpg",
         "durationSeconds": 129,
         "publishedAt": "2026-10-10T17:30:13.000+08:00",
-        "fetchedAt": "2026-10-10T17:31:13.188+08:00"
+        "fetchedAt": "2026-10-10T17:31:13.188+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.4
       }
     },
     {
@@ -24,7 +26,9 @@
         "thumbnail": "https://i.ytimg.com/vi_webp/KeC7NtdmRAw/maxresdefault.webp",
         "durationSeconds": 196,
         "publishedAt": "2026-10-09T11:00:33.000+08:00",
-        "fetchedAt": "2026-10-09T11:01:05.157+08:00"
+        "fetchedAt": "2026-10-09T11:01:05.157+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.61
       }
     },
     {
@@ -37,7 +41,9 @@
         "thumbnail": "https://i.ytimg.com/vi/luH432c3M8M/maxresdefault.jpg",
         "durationSeconds": 238,
         "publishedAt": "2026-10-08T08:30:05.000+08:00",
-        "fetchedAt": "2026-10-08T09:46:05.222+08:00"
+        "fetchedAt": "2026-10-08T09:46:05.222+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
@@ -50,7 +56,9 @@
         "thumbnail": "https://i.ytimg.com/vi/-De-KYQh5bE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUShPMA8=&rs=AOn4CLCAUMLSBSjS2jH_fzYDia5wKEQN4w",
         "durationSeconds": 232,
         "publishedAt": "2026-10-10T01:58:13.000+08:00",
-        "fetchedAt": "2026-10-10T02:01:15.258+08:00"
+        "fetchedAt": "2026-10-10T02:01:15.258+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.83
       }
     },
     {
@@ -63,7 +71,9 @@
         "thumbnail": "https://i.ytimg.com/vi_webp/TwLhRdW45fw/maxresdefault.webp",
         "durationSeconds": 228,
         "publishedAt": "2026-10-07T19:30:33.000+08:00",
-        "fetchedAt": "2026-10-07T20:16:11.717+08:00"
+        "fetchedAt": "2026-10-07T20:16:11.717+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
@@ -76,7 +86,9 @@
         "thumbnail": "https://i.ytimg.com/vi_webp/n0_GX2o9h4w/maxresdefault.webp",
         "durationSeconds": 2420,
         "publishedAt": "2026-10-09T10:55:37.000+08:00",
-        "fetchedAt": "2026-10-09T10:56:08.305+08:00"
+        "fetchedAt": "2026-10-09T10:56:08.305+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
@@ -148,7 +160,9 @@
         "thumbnail": "https://i.ytimg.com/vi_webp/EQUByQ01Fkk/maxresdefault.webp",
         "durationSeconds": 210,
         "publishedAt": "2026-10-10T15:01:41.000+08:00",
-        "fetchedAt": "2026-10-10T15:06:12.169+08:00"
+        "fetchedAt": "2026-10-10T15:06:12.169+08:00",
+        "genre": "嘻哈/饒舌 Hip-Hop/Rap",
+        "genreConfidence": 0.97
       }
     },
     {
@@ -176,7 +190,9 @@
         "thumbnail": "https://i.ytimg.com/vi/bFCxEpW-Lzw/maxresdefault.jpg",
         "durationSeconds": 179,
         "publishedAt": "2026-10-09T21:15:26.000+08:00",
-        "fetchedAt": "2026-10-09T23:16:17.720+08:00"
+        "fetchedAt": "2026-10-09T23:16:17.720+08:00",
+        "genre": "R&B/Soul",
+        "genreConfidence": 0.99
       }
     },
     {
@@ -204,7 +220,9 @@
         "thumbnail": "https://i.ytimg.com/vi/jM3BOrMzlSg/maxresdefault.jpg",
         "durationSeconds": 243,
         "publishedAt": "2026-10-09T11:30:09.000+08:00",
-        "fetchedAt": "2026-10-09T11:31:17.310+08:00"
+        "fetchedAt": "2026-10-09T11:31:17.310+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.4
       }
     },
     {
@@ -217,7 +235,9 @@
         "thumbnail": "https://i.ytimg.com/vi/j2LtWI2oLjE/maxresdefault.jpg",
         "durationSeconds": 217,
         "publishedAt": "2026-10-09T11:00:16.000+08:00",
-        "fetchedAt": "2026-10-09T11:01:11.704+08:00"
+        "fetchedAt": "2026-10-09T11:01:11.704+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.54
       }
     },
     {
@@ -230,7 +250,9 @@
         "thumbnail": "https://i.ytimg.com/vi_webp/p8dl9srBUOw/maxresdefault.webp",
         "durationSeconds": 192,
         "publishedAt": "2026-10-09T18:00:35.000+08:00",
-        "fetchedAt": "2026-10-09T18:01:16.426+08:00"
+        "fetchedAt": "2026-10-09T18:01:16.426+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.73
       }
     },
     {
@@ -243,7 +265,9 @@
         "thumbnail": "https://i.ytimg.com/vi/dm-ofTdb_cw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKygiMA8=&rs=AOn4CLAlJAX51frbvYf-SeiQV3TDB8jL4g",
         "durationSeconds": 210,
         "publishedAt": "2026-10-09T01:40:16.000+08:00",
-        "fetchedAt": "2026-10-09T01:46:14.879+08:00"
+        "fetchedAt": "2026-10-09T01:46:14.879+08:00",
+        "genre": "電子 Electronic",
+        "genreConfidence": 0.93
       }
     },
     {
@@ -256,7 +280,9 @@
         "thumbnail": "https://i.ytimg.com/vi_webp/rOXw_Fa075g/maxresdefault.webp",
         "durationSeconds": 272,
         "publishedAt": "2026-10-08T12:16:50.000+08:00",
-        "fetchedAt": "2026-10-08T13:16:16.396+08:00"
+        "fetchedAt": "2026-10-08T13:16:16.396+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
       }
     },
     {
@@ -269,7 +295,9 @@
         "thumbnail": "https://i.ytimg.com/vi_webp/S2x9sVDBfcA/maxresdefault.webp",
         "durationSeconds": 207,
         "publishedAt": "2026-10-09T10:03:59.000+08:00",
-        "fetchedAt": "2026-10-09T10:06:13.112+08:00"
+        "fetchedAt": "2026-10-09T10:06:13.112+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
       }
     },
     {
@@ -282,7 +310,9 @@
         "thumbnail": "https://i.ytimg.com/vi/4Rqj-zwWopM/maxresdefault.jpg",
         "durationSeconds": 310,
         "publishedAt": "2026-10-07T18:35:54.000+08:00",
-        "fetchedAt": "2026-10-07T18:36:18.692+08:00"
+        "fetchedAt": "2026-10-07T18:36:18.692+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
@@ -295,7 +325,9 @@
         "thumbnail": "https://i.ytimg.com/vi/ACGFq-eyu2s/maxresdefault.jpg",
         "durationSeconds": 203,
         "publishedAt": "2026-10-09T15:00:39.000+08:00",
-        "fetchedAt": "2026-10-09T15:01:20.286+08:00"
+        "fetchedAt": "2026-10-09T15:01:20.286+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.46
       }
     },
     {
@@ -308,7 +340,9 @@
         "thumbnail": "https://i.ytimg.com/vi/hw9mKxQKASw/maxresdefault.jpg",
         "durationSeconds": 3574,
         "publishedAt": "2026-10-09T18:30:01.000+08:00",
-        "fetchedAt": "2026-10-09T18:31:22.017+08:00"
+        "fetchedAt": "2026-10-09T18:31:22.017+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
       }
     },
     {
@@ -366,7 +400,9 @@
         "thumbnail": "https://i.ytimg.com/vi_webp/8FKKm3A1Q_w/maxresdefault.webp?v=6ac8286e",
         "durationSeconds": 222,
         "publishedAt": "2026-10-10T12:00:09.000+08:00",
-        "fetchedAt": "2026-10-10T12:06:19.235+08:00"
+        "fetchedAt": "2026-10-10T12:06:19.235+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.76
       }
     },
     {
@@ -379,7 +415,9 @@
         "thumbnail": "https://i.ytimg.com/vi/lTARke6du68/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gQygyMA8=&rs=AOn4CLBBQ8fBm66m327jEA3_jdv_iBKw8w",
         "durationSeconds": 205,
         "publishedAt": "2026-10-08T17:00:26.000+08:00",
-        "fetchedAt": "2026-10-08T17:16:26.442+08:00"
+        "fetchedAt": "2026-10-08T17:16:26.442+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.53
       }
     },
     {
@@ -407,7 +445,9 @@
         "thumbnail": "https://i.ytimg.com/vi_webp/gQGOubER1IM/maxresdefault.webp",
         "durationSeconds": 729,
         "publishedAt": "2026-10-10T22:50:44.000+08:00",
-        "fetchedAt": "2026-10-10T22:51:31.896+08:00"
+        "fetchedAt": "2026-10-10T22:51:31.896+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.82
       }
     },
     {
@@ -435,7 +475,9 @@
         "thumbnail": "https://i.ytimg.com/vi_webp/qlH0AkOz7rI/maxresdefault.webp",
         "durationSeconds": 208,
         "publishedAt": "2026-10-08T18:45:08.000+08:00",
-        "fetchedAt": "2026-10-08T20:26:24.486+08:00"
+        "fetchedAt": "2026-10-08T20:26:24.486+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.68
       }
     }
   ]
