@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-10-09T15:01:22.003+08:00",
+  "lastUpdated": "2026-10-11T01:51:26.325+08:00",
   "latestVideo": {
     "videoId": "ACGFq-eyu2s",
     "title": "🖤失真｜越清醒越無法抽離，最後連自己都認不清｜Official Music Video",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi/ACGFq-eyu2s/maxresdefault.jpg",
     "durationSeconds": 203,
     "publishedAt": "2026-10-09T15:00:39.000+08:00",
-    "fetchedAt": "2026-10-09T15:01:20.286+08:00"
+    "fetchedAt": "2026-10-09T15:01:20.286+08:00",
+    "genre": "其他/無法判斷 Other",
+    "genreConfidence": 0.46
   },
   "allVideoIds": [
     {
       "videoId": "ACGFq-eyu2s",
-      "title": "🖤失真｜越清醒越無法抽離，最後連自己都認不清｜Official Music Video"
+      "title": "🖤失真｜越清醒越無法抽離，最後連自己都認不清｜Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "XUBHn_IOVAU",
@@ -618,11 +622,15 @@
     },
     {
       "videoId": "1WWpjJwB8ZI",
-      "title": "🌧️《月影潛行》｜原來最痛那一下，是你幸福與我無關的那天｜Official Lyric Video"
+      "title": "🌧️《月影潛行》｜原來最痛那一下，是你幸福與我無關的那天｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "7cLa4BaUEOU",
-      "title": "🌱《已讀深夜》｜沉默就是最後，這次我自己把結尾寫完｜Official Lyric Video"
+      "title": "🌱《已讀深夜》｜沉默就是最後，這次我自己把結尾寫完｜Official Lyric Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.89
     }
   ]
 }
