@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-10T19:21:11.552+08:00",
+  "lastUpdated": "2026-10-10T19:26:10.865+08:00",
   "latestVideo": {
     "videoId": "5uSV8JwkgGs",
     "title": "陌生早餐店｜有些習慣忘了前世，身體卻還記得｜Yu Stellar｜星語",
@@ -14,7 +14,7 @@
   "allVideoIds": [
     {
       "videoId": "5uSV8JwkgGs",
-      "title": "陌生早餐店｜前世今生系華語女聲宿命歌曲｜Yu Stellar｜星語"
+      "title": "陌生早餐店｜第一次走進早餐店，老闆竟記得她不加糖｜Yu Stellar｜星語"
     },
     {
       "videoId": "uOHGS7MvPs8",
@@ -22,7 +22,7 @@
     },
     {
       "videoId": "6VX_MsMFFJE",
-      "title": "雨衣掛在門後｜最遺憾的重逢，是你已走完這一生｜Yu Stellar｜星語"
+      "title": "雨衣掛在門後｜前世死別系華語女聲宿命情歌｜Yu Stellar｜星語"
     },
     {
       "videoId": "QEv303T1dZE",
@@ -30,11 +30,11 @@
     },
     {
       "videoId": "ZoI-_lEZkww",
-      "title": "沒有寄出的信｜想說的話寫了很多，最後一封也沒寄出｜Yu Stellar｜星語"
+      "title": "沒有寄出的信｜克制思念系華語女聲失戀情歌｜Yu Stellar｜星語"
     },
     {
       "videoId": "uZcCI6O6OhM",
-      "title": "第二盆花開了，她也終於不再等待誰來訪《窗台第二盆花》｜Yu Stellar｜星語"
+      "title": "一個人把租屋住成家，是長大後最溫柔的勇敢《窗台第二盆花》｜Yu Stellar｜星語"
     },
     {
       "videoId": "1TY37nPugGk",
@@ -48,7 +48,7 @@
     },
     {
       "videoId": "bT9GwrPkD5c",
-      "title": "最後一班電梯｜體面告別系華語女聲失戀情歌｜Yu Stellar｜星語",
+      "title": "最後一班電梯｜他走進最後一班電梯，我們正式失去彼此｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -84,7 +84,7 @@
     },
     {
       "videoId": "qjL13tkSgOk",
-      "title": "回程票根夾在書裡，原來回去不是回到從前｜回程票根｜Yu Stellar｜星語",
+      "title": "回程票根｜一人一貓重返故城的電影感情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
@@ -96,7 +96,7 @@
     },
     {
       "videoId": "9UAtR4sixu4",
-      "title": "盒底的鈴鐺｜寫給重新理解一段感情的人｜Yu Stellar｜星語",
+      "title": "整理舊貓玩具時，我終於明白我們都曾努力生活｜盒底的鈴鐺｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
@@ -114,13 +114,13 @@
     },
     {
       "videoId": "waD4ZMRNZa8",
-      "title": "原來那段路沒有白走，答案是各自成為自己｜舊城的答案｜Yu Stellar｜星語",
+      "title": "我買了回舊城的車票，卻不是為了把你帶回來｜舊城的答案｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
     {
       "videoId": "7Y1FykKE9FE",
-      "title": "貓跳上窗台後，我才發現這裡也能叫做家｜貓跳上窗台後｜Yu Stellar｜星語",
+      "title": "貓跳上窗台後｜一人一貓建立新家的溫暖情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -132,7 +132,7 @@
     },
     {
       "videoId": "X4F2OBt5ErQ",
-      "title": "週三煮一鍋湯｜寫給慢慢把生活過回來的療癒情歌｜Yu Stellar｜星語",
+      "title": "一個人的晚餐，也能把日子煮得有溫度｜週三煮一鍋湯｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.49
     },
