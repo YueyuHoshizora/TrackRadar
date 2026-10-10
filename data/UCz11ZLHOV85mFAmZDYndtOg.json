@@ -1,7 +1,7 @@
 {
   "channelId": "UCz11ZLHOV85mFAmZDYndtOg",
   "channelTitle": "DJ - Lumina",
-  "lastUpdated": "2026-10-09T01:46:16.306+08:00",
+  "lastUpdated": "2026-10-11T01:51:20.156+08:00",
   "latestVideo": {
     "videoId": "dm-ofTdb_cw",
     "title": "今晚誰都別做人",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi/dm-ofTdb_cw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKygiMA8=&rs=AOn4CLAlJAX51frbvYf-SeiQV3TDB8jL4g",
     "durationSeconds": 210,
     "publishedAt": "2026-10-09T01:40:16.000+08:00",
-    "fetchedAt": "2026-10-09T01:46:14.879+08:00"
+    "fetchedAt": "2026-10-09T01:46:14.879+08:00",
+    "genre": "電子 Electronic",
+    "genreConfidence": 0.93
   },
   "allVideoIds": [
     {
       "videoId": "dm-ofTdb_cw",
-      "title": "今晚誰都別做人"
+      "title": "今晚誰都別做人",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "EnKLsVBuJm8",
