@@ -1,7 +1,7 @@
 {
   "channelId": "UCfHGjnH3G-Gwjh9kj281FZQ",
   "channelTitle": "Nova Bird",
-  "lastUpdated": "2026-10-07T18:36:19.922+08:00",
+  "lastUpdated": "2026-10-11T01:51:23.577+08:00",
   "latestVideo": {
     "videoId": "4Rqj-zwWopM",
     "title": "「我這個故事裡的人，竟最後才拿到劇本啊。」｜《造謠》｜Nova Bird｜暗黑新國風｜華語原創歌曲",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi/4Rqj-zwWopM/maxresdefault.jpg",
     "durationSeconds": 310,
     "publishedAt": "2026-10-07T18:35:54.000+08:00",
-    "fetchedAt": "2026-10-07T18:36:18.692+08:00"
+    "fetchedAt": "2026-10-07T18:36:18.692+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 1
   },
   "allVideoIds": [
     {
       "videoId": "4Rqj-zwWopM",
-      "title": "「我這個故事裡的人，竟最後才拿到劇本啊。」｜《造謠》｜Nova Bird｜暗黑新國風｜華語原創歌曲"
+      "title": "「我這個故事裡的人，竟最後才拿到劇本啊。」｜《造謠》｜Nova Bird｜暗黑新國風｜華語原創歌曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
     },
     {
       "videoId": "cyfRk2YpQCU",
