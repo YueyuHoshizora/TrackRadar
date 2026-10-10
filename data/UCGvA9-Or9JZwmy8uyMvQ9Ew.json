@@ -1,7 +1,7 @@
 {
   "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
   "channelTitle": "予安YUAN",
-  "lastUpdated": "2026-10-09T11:01:12.505+08:00",
+  "lastUpdated": "2026-10-11T01:51:16.872+08:00",
   "latestVideo": {
     "videoId": "j2LtWI2oLjE",
     "title": "《孟婆的特調》｜這杯喝下去，你真的捨得忘記他嗎？｜予安 Yuan Official MV Music  Video",
@@ -9,12 +9,16 @@
     "thumbnail": "https://i.ytimg.com/vi/j2LtWI2oLjE/maxresdefault.jpg",
     "durationSeconds": 217,
     "publishedAt": "2026-10-09T11:00:16.000+08:00",
-    "fetchedAt": "2026-10-09T11:01:11.704+08:00"
+    "fetchedAt": "2026-10-09T11:01:11.704+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 0.54
   },
   "allVideoIds": [
     {
       "videoId": "j2LtWI2oLjE",
-      "title": "《孟婆的特調》｜這杯喝下去，你真的捨得忘記他嗎？｜予安 Yuan Official MV Music  Video"
+      "title": "《孟婆的特調》｜這杯喝下去，你真的捨得忘記他嗎？｜予安 Yuan Official MV Music  Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "2EzsdrG8IQ8",
