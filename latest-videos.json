@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-12T05:26:17.072+08:00",
+  "updatedAt": "2026-10-12T05:31:32.299+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "3da8OxYlRvc",
-        "title": "未讀的星期天｜有些夢醒了，卻像一封沒讀完的信｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=3da8OxYlRvc",
-        "thumbnail": "https://i.ytimg.com/vi/3da8OxYlRvc/maxresdefault.jpg",
-        "durationSeconds": 173,
-        "publishedAt": "2026-10-11T17:30:19.000+08:00",
-        "fetchedAt": "2026-10-11T18:16:07.021+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.86
+        "videoId": "gEG2PlPG9Cs",
+        "title": "三年後再見，我們卻先從一場會議開始《第一次會議》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=gEG2PlPG9Cs",
+        "thumbnail": "https://i.ytimg.com/vi/gEG2PlPG9Cs/maxresdefault.jpg",
+        "durationSeconds": 174,
+        "publishedAt": "2026-10-12T05:30:07.000+08:00",
+        "fetchedAt": "2026-10-12T05:31:15.659+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.43
       }
     },
     {
