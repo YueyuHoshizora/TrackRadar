@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-12T04:01:12.793+08:00",
+  "lastUpdated": "2026-10-12T04:06:05.000+08:00",
   "latestVideo": {
     "videoId": "3da8OxYlRvc",
     "title": "未讀的星期天｜有些夢醒了，卻像一封沒讀完的信｜Yu Stellar｜星語",
@@ -16,19 +16,19 @@
   "allVideoIds": [
     {
       "videoId": "3da8OxYlRvc",
-      "title": "未讀的星期天｜有些夢醒了，卻像一封沒讀完的信｜Yu Stellar｜星語",
+      "title": "未讀的星期天｜沒有寄件人的夢，為何反覆出現同一扇門｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
     {
       "videoId": "Mbho2s5i1BM",
-      "title": "她在會議名單第三行，看見三年前只見過一次的人《名字又出現》｜Yu Stellar｜星語",
+      "title": "《名字又出現》三年後意外重逢的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "5uSV8JwkgGs",
-      "title": "陌生早餐店｜前世今生系華語女聲宿命歌曲｜Yu Stellar｜星語",
+      "title": "陌生早餐店｜有些習慣忘了前世，身體卻還記得｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.4
     },
@@ -40,13 +40,13 @@
     },
     {
       "videoId": "6VX_MsMFFJE",
-      "title": "雨衣掛在門後｜前世死別系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "雨衣掛在門後｜最遺憾的重逢，是你已走完這一生｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "QEv303T1dZE",
-      "title": "聽見你的近況，我卻不再急著追問了《他方的消息》｜Yu Stellar｜星語",
+      "title": "朋友突然提起他轉職，她只回了一個笑臉《他方的消息》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜地址可以改，想念卻搬不出舊習慣｜Yu Stellar｜星語",
+      "title": "紙上的地址｜搬到另一座城後，她才開始真正失戀｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -76,13 +76,13 @@
     },
     {
       "videoId": "bT9GwrPkD5c",
-      "title": "最後一班電梯｜他走進最後一班電梯，我們正式失去彼此｜Yu Stellar｜星語",
+      "title": "最後一班電梯｜體面告別系華語女聲失戀情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "vRr0WmS-kTI",
-      "title": "《沒有加上的人》錯過聯絡方式的華語抒情歌｜Yu Stellar｜星語",
+      "title": "你通訊錄裡，也有一個始終沒加上的人嗎？《沒有加上的人》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "Ln7HY6uaRwY",
-      "title": "《借來的傘》三年前雨天偶遇的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "你也有一個只見過一次，卻記了三年的人嗎？《借來的傘》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -124,7 +124,7 @@
     },
     {
       "videoId": "9UAtR4sixu4",
-      "title": "盒底的鈴鐺｜寫給重新理解一段感情的人｜Yu Stellar｜星語",
+      "title": "盒底那枚鈴鐺，搖醒的不是誰，是那時候的我們｜盒底的鈴鐺｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
@@ -148,7 +148,7 @@
     },
     {
       "videoId": "7Y1FykKE9FE",
-      "title": "貓跳上窗台後｜一人一貓建立新家的溫暖情歌｜Yu Stellar｜星語",
+      "title": "貓跳上窗台後，我才發現這裡也能叫做家｜貓跳上窗台後｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
