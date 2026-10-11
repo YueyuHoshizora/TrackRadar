@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-11T18:11:30.583+08:00",
+  "updatedAt": "2026-10-11T18:16:24.202+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "1TY37nPugGk",
-        "title": "紙上的地址｜地址可以改，想念卻搬不出舊習慣｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=1TY37nPugGk",
-        "thumbnail": "https://i.ytimg.com/vi/1TY37nPugGk/maxresdefault.jpg",
-        "durationSeconds": 165,
-        "publishedAt": "2026-10-07T17:30:12.000+08:00",
-        "fetchedAt": "2026-10-11T17:56:08.539+08:00",
+        "videoId": "3da8OxYlRvc",
+        "title": "未讀的星期天｜有些夢醒了，卻像一封沒讀完的信｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=3da8OxYlRvc",
+        "thumbnail": "https://i.ytimg.com/vi/3da8OxYlRvc/maxresdefault.jpg",
+        "durationSeconds": 173,
+        "publishedAt": "2026-10-11T17:30:19.000+08:00",
+        "fetchedAt": "2026-10-11T18:16:07.021+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.92
+        "genreConfidence": 0.86
       }
     },
     {
