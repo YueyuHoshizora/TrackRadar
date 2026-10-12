@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-13T00:31:19.570+08:00",
+  "lastUpdated": "2026-10-13T00:36:06.252+08:00",
   "latestVideo": {
     "videoId": "oBle1qTszwM",
     "title": "夜車經過海邊｜我沒來過這裡，為什麼記得那場雨｜Yu Stellar｜星語",
@@ -34,7 +34,7 @@
     },
     {
       "videoId": "Mbho2s5i1BM",
-      "title": "那個消失三年的名字，突然出現在工作郵件裡《名字又出現》｜Yu Stellar｜星語",
+      "title": "她在會議名單第三行，看見三年前只見過一次的人《名字又出現》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "uOHGS7MvPs8",
-      "title": "《獨自看海》寫給一個人旅行的自由系華語抒情歌｜Yu Stellar｜星語",
+      "title": "她獨自搭上海線客運，最後只替自己買了明信片《獨自看海》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜地址可以改，想念卻搬不出舊習慣｜Yu Stellar｜星語",
+      "title": "紙上的地址｜異地分離系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -106,25 +106,25 @@
     },
     {
       "videoId": "suI7UWsEOcM",
-      "title": "《一站以前》公車偶遇與錯過的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "有些人只同路一站，卻一直留在記憶裡《一站以前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
     {
       "videoId": "P7foTF8Z6Q8",
-      "title": "兩人一貓站在同一盞晚霞裡，已經足夠成為答案｜兩人一貓｜Yu Stellar｜星語",
+      "title": "兩人一貓｜寫給不復合卻溫柔圓滿的故事終章｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
     {
       "videoId": "Ln7HY6uaRwY",
-      "title": "故事只走了幾百公尺，名字卻留了三年《借來的傘》｜Yu Stellar｜星語",
+      "title": "《借來的傘》三年前雨天偶遇的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "qjL13tkSgOk",
-      "title": "回程票根夾在書裡，原來回去不是回到從前｜回程票根｜Yu Stellar｜星語",
+      "title": "回程票根｜一人一貓重返故城的電影感情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
@@ -142,13 +142,13 @@
     },
     {
       "videoId": "US7L9OBay8U",
-      "title": "回到最初，不是回到從前｜回到最初｜Yu Stellar｜星語",
+      "title": "回到最初｜一首重返故城卻不再回頭的情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
     {
       "videoId": "UG1MCjMuGwI",
-      "title": "升遷的好消息，我第一次只留給今晚的自己｜亮著的工作證｜Yu Stellar｜星語",
+      "title": "亮著的工作證｜找回自我價值的成長系華語情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.63
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "lJZ9RyZMjdY",
-      "title": "這次的成功，不是為了讓遠方的誰看見｜把名字寫好｜Yu Stellar｜星語",
+      "title": "把名字寫好｜找回自我價值的成長系華語情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.39
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "sw86VfMO81M",
-      "title": "這扇窗不再等誰，我有自己的晴朗｜我的窗台｜Yu Stellar｜星語",
+      "title": "我的窗台｜寫給一個人也能擁有幸福日常的歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
