@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-10-12T15:11:26.392+08:00",
+  "lastUpdated": "2026-10-12T15:21:28.746+08:00",
   "latestVideo": {
     "videoId": "IKSgpVN_CvY",
     "title": "別把今夜忘了《半夕蝶夢》｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
@@ -15,6 +15,12 @@
   },
   "allVideoIds": [
     {
+      "videoId": "C0N_UQK_rSY",
+      "title": "霧月音樂台｜悲傷不用被治好，只要有地方停｜夜讀・寫作・失眠 純音樂 12章回｜豎琴×古箏×低音提琴｜悲傷停佇之夜 II・霧月 Xiaoloulou",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.99
+    },
+    {
       "videoId": "IKSgpVN_CvY",
       "title": "別把今夜忘了《半夕蝶夢》｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
       "genre": "其他/無法判斷 Other",
@@ -22,7 +28,7 @@
     },
     {
       "videoId": "8FKKm3A1Q_w",
-      "title": "這人生，怎麼都磨不合《磨開》｜失眠情歌・藍調｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "我們倒著走，卻弄丟了路《磨開》｜關係磨損・藍調｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
@@ -34,15 +40,9 @@
     },
     {
       "videoId": "CeVcwXA6VVo",
-      "title": "若還有來世，可還有卿？《偏偏是卿》｜一生若盡，一念未息｜前世今生・古風情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+      "title": "這一生，偏偏是卿《偏偏是卿》｜一世之外，可還有卿？｜命定之人・古風情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
-    },
-    {
-      "videoId": "E4KZdJNW-z0",
-      "title": "霧月音樂台｜悲傷不用被治好，只要有地方停｜夜讀・寫作・失眠 純音樂 12章回｜豎琴×古箏×低音提琴｜悲傷停佇之夜 II・霧月 Xiaoloulou",
-      "genre": "純音樂/器樂 Instrumental",
-      "genreConfidence": 0.98
     },
     {
       "videoId": "OUB0Zq8_FoE",
