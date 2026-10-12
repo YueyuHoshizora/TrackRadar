@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-13T06:41:36.336+08:00",
+  "updatedAt": "2026-10-13T06:46:23.005+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "語音星空",
+      "channelTitle": "Yu Starry Music",
       "latestVideo": {
-        "videoId": "oBle1qTszwM",
-        "title": "夜車經過海邊｜我沒來過這裡，為什麼記得那場雨｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=oBle1qTszwM",
-        "thumbnail": "https://i.ytimg.com/vi/oBle1qTszwM/maxresdefault.jpg",
-        "durationSeconds": 209,
-        "publishedAt": "2026-10-12T17:30:29.000+08:00",
-        "fetchedAt": "2026-10-12T17:31:13.325+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.71
+        "videoId": "HcbXCfmK0ZI",
+        "title": "真正認識一個人，是從香菜和熱茶開始《午餐十二點半》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=HcbXCfmK0ZI",
+        "thumbnail": "https://i.ytimg.com/vi/HcbXCfmK0ZI/maxresdefault.jpg",
+        "durationSeconds": 162,
+        "publishedAt": "2026-10-13T05:30:13.000+08:00",
+        "fetchedAt": "2026-10-13T06:46:03.978+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.79
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "CsvkFZ57bu8",
-        "title": "《找不回來的你》The One I Couldn't Bring Back｜明日邊界2147 Universe｜璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=CsvkFZ57bu8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/CsvkFZ57bu8/maxresdefault.webp",
-        "durationSeconds": 252,
-        "publishedAt": "2026-09-06T18:00:32.000+08:00",
-        "fetchedAt": "2026-10-13T04:41:38.625+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.43
+        "videoId": "7l7jikX0THQ",
+        "title": "《背靠背的誓言》BACK TO BACK｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-13T06:46:06.502+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.39
       }
     },
     {
