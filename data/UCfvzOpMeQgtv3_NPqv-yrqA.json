@@ -1,19 +1,25 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-10-11T01:51:26.325+08:00",
+  "lastUpdated": "2026-10-12T15:01:24.263+08:00",
   "latestVideo": {
-    "videoId": "ACGFq-eyu2s",
-    "title": "🖤失真｜越清醒越無法抽離，最後連自己都認不清｜Official Music Video",
-    "url": "https://www.youtube.com/watch?v=ACGFq-eyu2s",
-    "thumbnail": "https://i.ytimg.com/vi/ACGFq-eyu2s/maxresdefault.jpg",
-    "durationSeconds": 203,
-    "publishedAt": "2026-10-09T15:00:39.000+08:00",
-    "fetchedAt": "2026-10-09T15:01:20.286+08:00",
-    "genre": "其他/無法判斷 Other",
-    "genreConfidence": 0.46
+    "videoId": "QpkDTllpkKg",
+    "title": "🌱最低解析｜不是忘記，只是不再把你放大成整個世界｜Official Music Video",
+    "url": "https://www.youtube.com/watch?v=QpkDTllpkKg",
+    "thumbnail": "https://i.ytimg.com/vi_webp/QpkDTllpkKg/maxresdefault.webp",
+    "durationSeconds": 195,
+    "publishedAt": "2026-10-12T15:00:28.000+08:00",
+    "fetchedAt": "2026-10-12T15:01:22.362+08:00",
+    "genre": "抒情/情歌 Ballad",
+    "genreConfidence": 0.83
   },
   "allVideoIds": [
+    {
+      "videoId": "QpkDTllpkKg",
+      "title": "🌱最低解析｜不是忘記，只是不再把你放大成整個世界｜Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
+    },
     {
       "videoId": "ACGFq-eyu2s",
       "title": "🖤失真｜越清醒越無法抽離，最後連自己都認不清｜Official Music Video",
