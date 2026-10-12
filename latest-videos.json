@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T04:16:43.166+08:00",
+  "updatedAt": "2026-10-13T04:21:44.507+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -95,15 +95,15 @@
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "E8PK1SITqeg",
-        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
-        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
-        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
-        "durationSeconds": 255,
-        "publishedAt": "2026-09-12T04:57:52.000+08:00",
-        "fetchedAt": "2026-10-13T03:46:17.942+08:00",
+        "videoId": "XnLNBPgERI4",
+        "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
+        "url": "https://www.youtube.com/watch?v=XnLNBPgERI4",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XnLNBPgERI4/maxresdefault.webp",
+        "durationSeconds": 206,
+        "publishedAt": "2026-08-20T06:19:21.000+08:00",
+        "fetchedAt": "2026-10-13T04:21:40.632+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.99
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "CsvkFZ57bu8",
-        "title": "《找不回來的你》The One I Couldn't Bring Back｜明日邊界2147 Universe｜璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=CsvkFZ57bu8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/CsvkFZ57bu8/maxresdefault.webp",
-        "durationSeconds": 252,
-        "publishedAt": "2026-09-06T18:00:32.000+08:00",
-        "fetchedAt": "2026-10-13T04:16:39.466+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.42
+        "videoId": "7l7jikX0THQ",
+        "title": "《背靠背的誓言》BACK TO BACK｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-13T04:21:11.912+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.33
       }
     },
     {
@@ -422,7 +422,7 @@
     },
     {
       "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
-      "channelTitle": "RE:IGN",
+      "channelTitle": "RE:IGN(十二弦月 | 舞月)",
       "latestVideo": {
         "videoId": "SQdiIjYbfnk",
         "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
