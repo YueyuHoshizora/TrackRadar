@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-12T17:26:23.620+08:00",
+  "updatedAt": "2026-10-12T17:32:58.889+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "gEG2PlPG9Cs",
-        "title": "三年後再見，我們卻先從一場會議開始《第一次會議》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=gEG2PlPG9Cs",
-        "thumbnail": "https://i.ytimg.com/vi/gEG2PlPG9Cs/maxresdefault.jpg",
-        "durationSeconds": 174,
-        "publishedAt": "2026-10-12T05:30:07.000+08:00",
-        "fetchedAt": "2026-10-12T05:31:15.659+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.43
+        "videoId": "oBle1qTszwM",
+        "title": "夜車經過海邊｜我沒來過這裡，為什麼記得那場雨｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=oBle1qTszwM",
+        "thumbnail": "https://i.ytimg.com/vi/oBle1qTszwM/maxresdefault.jpg",
+        "durationSeconds": 209,
+        "publishedAt": "2026-10-12T17:30:29.000+08:00",
+        "fetchedAt": "2026-10-12T17:31:13.325+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.71
       }
     },
     {
