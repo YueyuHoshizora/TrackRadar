@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T12:11:22.077+08:00",
+  "updatedAt": "2026-10-12T12:16:25.761+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -199,15 +199,15 @@
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
       "channelTitle": "Aria艾莉亞",
       "latestVideo": {
-        "videoId": "rV6HIcHTtdQ",
-        "title": "算了吧，學會及時收回喜歡｜《原來沉默就是答案》Aria艾莉亞 Official Lyric Video",
-        "url": "https://www.youtube.com/watch?v=rV6HIcHTtdQ",
-        "thumbnail": "https://i.ytimg.com/vi/rV6HIcHTtdQ/maxresdefault.jpg",
-        "durationSeconds": 213,
-        "publishedAt": "2026-10-07T12:00:22.000+08:00",
-        "fetchedAt": "2026-10-07T14:16:15.948+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.86
+        "videoId": "1GnVEVfsJRQ",
+        "title": "各取所需，誰也別假裝委屈｜《平替關係》Aria艾莉亞 Official Lyric Video",
+        "url": "https://www.youtube.com/watch?v=1GnVEVfsJRQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/1GnVEVfsJRQ/maxresdefault.webp",
+        "durationSeconds": 187,
+        "publishedAt": "2026-10-12T12:00:23.000+08:00",
+        "fetchedAt": "2026-10-12T12:16:14.215+08:00",
+        "genre": "流行 Pop",
+        "genreConfidence": 0.43
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "8FKKm3A1Q_w",
-        "title": "這人生，怎麼都磨不合《磨開》｜失眠情歌・藍調｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
-        "url": "https://www.youtube.com/watch?v=8FKKm3A1Q_w",
-        "thumbnail": "https://i.ytimg.com/vi_webp/8FKKm3A1Q_w/maxresdefault.webp?v=6ac8286e",
-        "durationSeconds": 222,
-        "publishedAt": "2026-10-10T12:00:09.000+08:00",
-        "fetchedAt": "2026-10-10T12:06:19.235+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.76
+        "videoId": "IKSgpVN_CvY",
+        "title": "別把今夜忘了《半夕蝶夢》｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=IKSgpVN_CvY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/IKSgpVN_CvY/maxresdefault.webp?v=6acbe63e",
+        "durationSeconds": 258,
+        "publishedAt": "2026-10-12T12:00:07.000+08:00",
+        "fetchedAt": "2026-10-12T12:16:19.642+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.68
       }
     },
     {
