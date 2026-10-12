@@ -1,19 +1,25 @@
 {
   "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
   "channelTitle": "九黎月",
-  "lastUpdated": "2026-10-12T15:36:23.606+08:00",
+  "lastUpdated": "2026-10-12T17:01:41.449+08:00",
   "latestVideo": {
-    "videoId": "lTARke6du68",
-    "title": "【中國風 - 朝歌妖狐】狐是真的，情是假的嗎？ 🎧 －九黎月｜潮流R&B原創【Official Lyric Video】",
-    "url": "https://www.youtube.com/watch?v=lTARke6du68",
-    "thumbnail": "https://i.ytimg.com/vi/lTARke6du68/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gQygyMA8=&rs=AOn4CLBBQ8fBm66m327jEA3_jdv_iBKw8w",
-    "durationSeconds": 205,
-    "publishedAt": "2026-10-08T17:00:26.000+08:00",
-    "fetchedAt": "2026-10-08T17:16:26.442+08:00",
+    "videoId": "0by2RwDMhsk",
+    "title": "【中國風 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 前世今生】本來只想隨便聽，結果每一首都像一場前世 🎧｜九黎月原創合集｜古風 × Chill R&B × 情緒沉浸｜深夜／開車／通勤必聽",
+    "url": "https://www.youtube.com/watch?v=0by2RwDMhsk",
+    "thumbnail": "https://i.ytimg.com/vi_webp/0by2RwDMhsk/maxresdefault.webp",
+    "durationSeconds": 2670,
+    "publishedAt": "2026-10-12T17:00:37.000+08:00",
+    "fetchedAt": "2026-10-12T17:01:38.052+08:00",
     "genre": "古風/國風 Chinese Style",
-    "genreConfidence": 0.53
+    "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "0by2RwDMhsk",
+      "title": "【中國風 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 前世今生】本來只想隨便聽，結果每一首都像一場前世 🎧｜九黎月原創合集｜古風 × Chill R&B × 情緒沉浸｜深夜／開車／通勤必聽",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
+    },
     {
       "videoId": "lTARke6du68",
       "title": "【中國風 - 朝歌妖狐】狐是真的，情是假的嗎？ 🎧 －九黎月｜潮流R&B原創【Official Lyric Video】",
