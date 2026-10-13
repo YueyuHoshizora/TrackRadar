@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-13T17:41:21.167+08:00",
+  "updatedAt": "2026-10-13T17:46:21.233+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "HcbXCfmK0ZI",
-        "title": "真正認識一個人，是從香菜和熱茶開始《午餐十二點半》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=HcbXCfmK0ZI",
-        "thumbnail": "https://i.ytimg.com/vi/HcbXCfmK0ZI/maxresdefault.jpg",
-        "durationSeconds": 162,
-        "publishedAt": "2026-10-13T05:30:13.000+08:00",
-        "fetchedAt": "2026-10-13T06:46:03.978+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.79
+        "videoId": "DU-leXwtOXg",
+        "title": "把燈開著｜我把燈開著，不是等你，是照顧自己｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=DU-leXwtOXg",
+        "thumbnail": "https://i.ytimg.com/vi/DU-leXwtOXg/maxresdefault.jpg",
+        "durationSeconds": 177,
+        "publishedAt": "2026-10-13T17:30:36.000+08:00",
+        "fetchedAt": "2026-10-13T17:46:02.579+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.87
       }
     },
     {
