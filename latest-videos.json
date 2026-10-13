@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T03:36:35.839+08:00",
+  "updatedAt": "2026-10-14T03:41:33.911+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "IKSgpVN_CvY",
-        "title": "別把今夜忘了《半夕蝶夢》EP 02｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=IKSgpVN_CvY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/IKSgpVN_CvY/maxresdefault.webp?v=6acbe63e",
-        "durationSeconds": 258,
-        "publishedAt": "2026-10-12T12:00:07.000+08:00",
-        "fetchedAt": "2026-10-13T22:46:33.687+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.59
+        "videoId": "8FKKm3A1Q_w",
+        "title": "這人生，怎麼都磨不合《磨開》｜失眠情歌・藍調｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+        "url": "https://www.youtube.com/watch?v=8FKKm3A1Q_w",
+        "thumbnail": "https://i.ytimg.com/vi_webp/8FKKm3A1Q_w/maxresdefault.webp?v=6ac8286e",
+        "durationSeconds": 222,
+        "publishedAt": "2026-10-10T12:00:09.000+08:00",
+        "fetchedAt": "2026-10-14T03:41:26.158+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.73
       }
     },
     {
