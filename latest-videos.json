@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T09:16:42.581+08:00",
+  "updatedAt": "2026-10-13T09:21:38.271+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "7l7jikX0THQ",
-        "title": "《背靠背的誓言》BACK TO BACK｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
-        "durationSeconds": 223,
-        "publishedAt": "2026-10-02T18:55:18.000+08:00",
-        "fetchedAt": "2026-10-13T09:11:11.736+08:00",
-        "genre": "動漫/ACG",
-        "genreConfidence": 0.31
+        "videoId": "qGc_gkTS0KY",
+        "title": "《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
+        "durationSeconds": 253,
+        "publishedAt": "2026-09-15T18:32:58.000+08:00",
+        "fetchedAt": "2026-10-13T09:21:19.915+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.32
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "CeVcwXA6VVo",
-        "title": "這一生，偏偏是卿《偏偏是卿》｜一世之外，可還有卿？｜命定之人・古風情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
-        "url": "https://www.youtube.com/watch?v=CeVcwXA6VVo",
-        "thumbnail": "https://i.ytimg.com/vi/CeVcwXA6VVo/maxresdefault.jpg?v=6ac662ce",
-        "durationSeconds": 279,
-        "publishedAt": "2026-10-08T12:00:11.000+08:00",
-        "fetchedAt": "2026-10-13T09:16:37.123+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "IKSgpVN_CvY",
+        "title": "別把今夜忘了《半夕蝶夢》EP 02｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=IKSgpVN_CvY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/IKSgpVN_CvY/maxresdefault.webp?v=6acbe63e",
+        "durationSeconds": 258,
+        "publishedAt": "2026-10-12T12:00:07.000+08:00",
+        "fetchedAt": "2026-10-13T09:21:26.093+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.57
       }
     },
     {
