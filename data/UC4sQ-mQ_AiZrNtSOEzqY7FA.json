@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-13T19:21:06.889+08:00",
+  "lastUpdated": "2026-10-13T19:26:10.869+08:00",
   "latestVideo": {
     "videoId": "DU-leXwtOXg",
     "title": "把燈開著｜我把燈開著，不是等你，是照顧自己｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "DU-leXwtOXg",
-      "title": "把燈開著｜我把燈開著，不是等你，是照顧自己｜Yu Stellar｜星語",
+      "title": "把燈開著｜獨居療癒系華語女聲歌曲｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -46,13 +46,13 @@
     },
     {
       "videoId": "Mbho2s5i1BM",
-      "title": "《名字又出現》三年後意外重逢的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "那個消失三年的名字，突然出現在工作郵件裡《名字又出現》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "5uSV8JwkgGs",
-      "title": "陌生早餐店｜第一次走進早餐店，老闆竟記得她不加糖｜Yu Stellar｜星語",
+      "title": "陌生早餐店｜有些習慣忘了前世，身體卻還記得｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.4
     },
@@ -112,13 +112,13 @@
     },
     {
       "videoId": "JF9Tb-YzoCE",
-      "title": "門縫的光｜分開那晚，門縫裡還亮著最後一盞光｜Yu Stellar｜星語",
+      "title": "門縫的光｜成熟分手系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "suI7UWsEOcM",
-      "title": "按錯下車鈴的那幾秒，我們忘了交換聯絡方式《一站以前》｜Yu Stellar｜星語",
+      "title": "《一站以前》公車偶遇與錯過的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -130,7 +130,7 @@
     },
     {
       "videoId": "Ln7HY6uaRwY",
-      "title": "你也有一個只見過一次，卻記了三年的人嗎？《借來的傘》｜Yu Stellar｜星語",
+      "title": "故事只走了幾百公尺，名字卻留了三年《借來的傘》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "lJZ9RyZMjdY",
-      "title": "我終於把自己的名字，寫在掌聲以前｜把名字寫好｜Yu Stellar｜星語",
+      "title": "這次的成功，不是為了讓遠方的誰看見｜把名字寫好｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.39
     },
