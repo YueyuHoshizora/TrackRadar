@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-14T05:26:23.710+08:00",
+  "updatedAt": "2026-10-14T05:31:30.633+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "DU-leXwtOXg",
-        "title": "把燈開著｜我把燈開著，不是等你，是照顧自己｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=DU-leXwtOXg",
-        "thumbnail": "https://i.ytimg.com/vi/DU-leXwtOXg/maxresdefault.jpg",
-        "durationSeconds": 177,
-        "publishedAt": "2026-10-13T17:30:36.000+08:00",
-        "fetchedAt": "2026-10-13T17:46:02.579+08:00",
+        "videoId": "1HkFnI6qVkA",
+        "title": "你以為他不在意，其實他正扛著沒說出口的重量《你怕冷的原因》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=1HkFnI6qVkA",
+        "thumbnail": "https://i.ytimg.com/vi/1HkFnI6qVkA/maxresdefault.jpg",
+        "durationSeconds": 216,
+        "publishedAt": "2026-10-14T05:30:28.000+08:00",
+        "fetchedAt": "2026-10-14T05:31:10.421+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.87
+        "genreConfidence": 0.96
       }
     },
     {
