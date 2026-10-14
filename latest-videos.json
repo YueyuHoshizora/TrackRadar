@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-14T17:25:58.379+08:00",
+  "updatedAt": "2026-10-14T17:31:08.756+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "1HkFnI6qVkA",
-        "title": "你以為他不在意，其實他正扛著沒說出口的重量《你怕冷的原因》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=1HkFnI6qVkA",
-        "thumbnail": "https://i.ytimg.com/vi/1HkFnI6qVkA/maxresdefault.jpg",
-        "durationSeconds": 216,
-        "publishedAt": "2026-10-14T05:30:28.000+08:00",
-        "fetchedAt": "2026-10-14T05:31:10.421+08:00",
+        "videoId": "hFHS_9DCjVw",
+        "title": "新鞋磨破腳｜長大就是腳磨破了，還要走進明天｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=hFHS_9DCjVw",
+        "thumbnail": "https://i.ytimg.com/vi/hFHS_9DCjVw/maxresdefault.jpg",
+        "durationSeconds": 159,
+        "publishedAt": "2026-10-14T17:30:02.000+08:00",
+        "fetchedAt": "2026-10-14T17:30:43.917+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.96
+        "genreConfidence": 0.78
       }
     },
     {
