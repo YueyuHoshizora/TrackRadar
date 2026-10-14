@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T12:01:01.076+08:00",
+  "updatedAt": "2026-10-14T12:05:52.524+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "IKSgpVN_CvY",
-        "title": "別把今夜忘了《半夕蝶夢》EP 02｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=IKSgpVN_CvY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/IKSgpVN_CvY/maxresdefault.webp?v=6acbe63e",
-        "durationSeconds": 258,
-        "publishedAt": "2026-10-12T12:00:07.000+08:00",
-        "fetchedAt": "2026-10-14T03:46:27.735+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.6
+        "videoId": "XxukYF7kZxg",
+        "title": "我不重要了，我甚麼都不要了《沉淪》｜百合愛情音樂微電影｜霧月詞・Xiaoloulou｜GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=XxukYF7kZxg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XxukYF7kZxg/maxresdefault.webp?v=6ace80fa",
+        "durationSeconds": 212,
+        "publishedAt": "2026-10-14T12:00:08.000+08:00",
+        "fetchedAt": "2026-10-14T12:05:45.146+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.76
       }
     },
     {
