@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-10-12T16:46:11.141+08:00",
+  "lastUpdated": "2026-10-14T10:35:37.378+08:00",
   "latestVideo": {
-    "videoId": "xfjUctkpCAM",
-    "title": "台語大帝國《江湖的雨落袂停》｜角頭大哥想退出江湖，只為和她過平凡生活｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=xfjUctkpCAM",
-    "thumbnail": "https://i.ytimg.com/vi_webp/xfjUctkpCAM/maxresdefault.webp",
-    "durationSeconds": 208,
-    "publishedAt": "2026-10-12T16:40:23.000+08:00",
-    "fetchedAt": "2026-10-12T16:46:09.991+08:00",
+    "videoId": "D3Gw9VwYpeI",
+    "title": "台語大帝國｜Asher 凜《這擺我無袂閣走》｜巷仔口的風 ｜離家20年才返鄉，阿母卻已不在｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=D3Gw9VwYpeI",
+    "thumbnail": "https://i.ytimg.com/vi_webp/D3Gw9VwYpeI/maxresdefault.webp",
+    "durationSeconds": 170,
+    "publishedAt": "2026-10-14T10:30:38.000+08:00",
+    "fetchedAt": "2026-10-14T10:35:36.058+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.73
+    "genreConfidence": 0.85
   },
   "allVideoIds": [
+    {
+      "videoId": "D3Gw9VwYpeI",
+      "title": "台語大帝國｜Asher 凜《這擺我無袂閣走》｜巷仔口的風 ｜離家20年才返鄉，阿母卻已不在｜筠芙得利【Official MV】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
+    },
     {
       "videoId": "xfjUctkpCAM",
       "title": "台語大帝國《江湖的雨落袂停》｜角頭大哥想退出江湖，只為和她過平凡生活｜筠芙得利【Official MV】",
