@@ -1,22 +1,28 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-16T05:30:33.113+08:00",
+  "lastUpdated": "2026-10-16T05:35:31.331+08:00",
   "latestVideo": {
-    "videoId": "okYZQcMqTBI",
-    "title": "午休的風｜我叫不出你的名字，卻記得曾經愛過｜Yu Stellar｜星語",
-    "url": "https://www.youtube.com/watch?v=okYZQcMqTBI",
-    "thumbnail": "https://i.ytimg.com/vi/okYZQcMqTBI/maxresdefault.jpg",
-    "durationSeconds": 180,
-    "publishedAt": "2026-10-15T17:30:16.000+08:00",
-    "fetchedAt": "2026-10-15T18:50:30.861+08:00",
+    "videoId": "3Q7XT8qrHas",
+    "title": "有些關係，散場以後才真正開始《散場後的路》｜Yu Stellar｜星語",
+    "url": "https://www.youtube.com/watch?v=3Q7XT8qrHas",
+    "thumbnail": "https://i.ytimg.com/vi/3Q7XT8qrHas/maxresdefault.jpg",
+    "durationSeconds": 198,
+    "publishedAt": "2026-10-16T05:30:39.000+08:00",
+    "fetchedAt": "2026-10-16T05:35:29.615+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.91
+    "genreConfidence": 0.85
   },
   "allVideoIds": [
     {
+      "videoId": "3Q7XT8qrHas",
+      "title": "專案結束後，他終於問起三年前的那把傘《散場後的路》｜Yu Stellar｜星語",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
+    },
+    {
       "videoId": "okYZQcMqTBI",
-      "title": "午休的風｜前世牽引系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "午休的風｜我叫不出你的名字，卻記得曾經愛過｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -28,7 +34,7 @@
     },
     {
       "videoId": "hFHS_9DCjVw",
-      "title": "新鞋磨破腳｜第一份工作第一天，她忍痛走過天橋｜Yu Stellar｜星語",
+      "title": "新鞋磨破腳｜長大就是腳磨破了，還要走進明天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.78
     },
@@ -82,7 +88,7 @@
     },
     {
       "videoId": "uOHGS7MvPs8",
-      "title": "她獨自搭上海線客運，最後只替自己買了明信片《獨自看海》｜Yu Stellar｜星語",
+      "title": "一個人看海，也可以比有人陪更自由《獨自看海》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -94,7 +100,7 @@
     },
     {
       "videoId": "QEv303T1dZE",
-      "title": "朋友突然提起他轉職，她只回了一個笑臉《他方的消息》｜Yu Stellar｜星語",
+      "title": "《他方的消息》放下執著、好好生活的療癒華語歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -106,7 +112,7 @@
     },
     {
       "videoId": "uZcCI6O6OhM",
-      "title": "一個人把租屋住成家，是長大後最溫柔的勇敢《窗台第二盆花》｜Yu Stellar｜星語",
+      "title": "《窗台第二盆花》一個人生活也能很幸福的療癒華語歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.45
     },
@@ -130,13 +136,13 @@
     },
     {
       "videoId": "vRr0WmS-kTI",
-      "title": "聚會取消後，那個名字永遠停在「確認」以前《沒有加上的人》｜Yu Stellar｜星語",
+      "title": "你通訊錄裡，也有一個始終沒加上的人嗎？《沒有加上的人》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
     {
       "videoId": "JF9Tb-YzoCE",
-      "title": "門縫的光｜分開那晚，門縫裡還亮著最後一盞光｜Yu Stellar｜星語",
+      "title": "門縫的光｜不是不愛了，只是明天不在同一個房間｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -148,13 +154,13 @@
     },
     {
       "videoId": "P7foTF8Z6Q8",
-      "title": "兩人一貓｜寫給不復合卻溫柔圓滿的故事終章｜Yu Stellar｜星語",
+      "title": "多年後在寵物用品店重逢，我們只交換彼此的近況｜兩人一貓｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
     {
       "videoId": "Ln7HY6uaRwY",
-      "title": "故事只走了幾百公尺，名字卻留了三年《借來的傘》｜Yu Stellar｜星語",
+      "title": "你也有一個只見過一次，卻記了三年的人嗎？《借來的傘》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -166,13 +172,13 @@
     },
     {
       "videoId": "xjc4pFdZJfE",
-      "title": "你好，後來的你，謝謝你走成現在的自己｜你好，後來的你｜Yu Stellar｜星語",
+      "title": "你好，後來的你｜寫給成熟重逢與溫柔告別的終章｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "9UAtR4sixu4",
-      "title": "整理舊貓玩具時，我終於明白我們都曾努力生活｜盒底的鈴鐺｜Yu Stellar｜星語",
+      "title": "盒底那枚鈴鐺，搖醒的不是誰，是那時候的我們｜盒底的鈴鐺｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
