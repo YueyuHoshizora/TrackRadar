@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T12:10:53.034+08:00",
+  "updatedAt": "2026-10-15T12:15:54.775+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -65,15 +65,15 @@
       "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
       "channelTitle": "浣月Huanyue",
       "latestVideo": {
-        "videoId": "VyR6qh2qdSA",
-        "title": "我們不是不愛了，只是你從未懂過我｜《你從未懂我》｜華語流行歌曲・原創情歌🎧浣月Huanyue",
-        "url": "https://www.youtube.com/watch?v=VyR6qh2qdSA",
-        "thumbnail": "https://i.ytimg.com/vi/VyR6qh2qdSA/maxresdefault.jpg",
-        "durationSeconds": 218,
-        "publishedAt": "2026-10-11T10:00:30.000+08:00",
-        "fetchedAt": "2026-10-11T10:01:05.029+08:00",
+        "videoId": "ByfZ7a9e69k",
+        "title": "深夜了，才敢承認我還沒放下｜流行華語療傷合輯｜深夜情歌🎧浣月Huanyue",
+        "url": "https://www.youtube.com/watch?v=ByfZ7a9e69k",
+        "thumbnail": "https://i.ytimg.com/vi/ByfZ7a9e69k/maxresdefault.jpg",
+        "durationSeconds": 1783,
+        "publishedAt": "2026-10-15T12:15:27.000+08:00",
+        "fetchedAt": "2026-10-15T12:15:32.154+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.94
+        "genreConfidence": 0.99
       }
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
-      "channelTitle": "Aria",
+      "channelTitle": "Aria艾莉亞",
       "latestVideo": {
         "videoId": "1GnVEVfsJRQ",
         "title": "各取所需，誰也別假裝委屈｜《平替關係》Aria艾莉亞 Official Lyric Video",
