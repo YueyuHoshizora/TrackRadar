@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T06:01:02.836+08:00",
+  "updatedAt": "2026-10-16T06:05:59.285+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "🔥《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-10-16T06:00:48.510+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.32
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-16T06:05:34.585+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.38
       }
     },
     {
@@ -184,15 +184,15 @@
       "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
       "channelTitle": "ChillVibes",
       "latestVideo": {
-        "videoId": "-pQWGJrv5zg",
-        "title": "有人替你扶住了門｜下班後的溫柔 R&B · NIGHT.17",
-        "url": "https://www.youtube.com/watch?v=-pQWGJrv5zg",
-        "thumbnail": "https://i.ytimg.com/vi_webp/-pQWGJrv5zg/maxresdefault.webp",
-        "durationSeconds": 251,
-        "publishedAt": "2026-10-13T21:00:02.000+08:00",
-        "fetchedAt": "2026-10-16T02:20:47.882+08:00",
+        "videoId": "bFCxEpW-Lzw",
+        "title": "清晨六點，只想陪你吃早餐｜寫給還醒著的人 · 放鬆 R&B · NIGHT.16",
+        "url": "https://www.youtube.com/watch?v=bFCxEpW-Lzw",
+        "thumbnail": "https://i.ytimg.com/vi/bFCxEpW-Lzw/maxresdefault.jpg",
+        "durationSeconds": 179,
+        "publishedAt": "2026-10-09T21:15:26.000+08:00",
+        "fetchedAt": "2026-10-16T06:05:52.553+08:00",
         "genre": "R&B/Soul",
-        "genreConfidence": 0.99
+        "genreConfidence": 1
       }
     },
     {
