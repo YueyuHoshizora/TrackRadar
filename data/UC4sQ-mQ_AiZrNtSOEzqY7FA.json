@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-15T18:20:36.831+08:00",
+  "lastUpdated": "2026-10-15T18:25:33.971+08:00",
   "latestVideo": {
     "videoId": "1HkFnI6qVkA",
     "title": "你以為他不在意，其實他正扛著沒說出口的重量《你怕冷的原因》｜Yu Stellar｜星語",
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "oBle1qTszwM",
-      "title": "夜車經過海邊｜前世記憶系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "夜車經過海邊｜我沒來過這裡，為什麼記得那場雨｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.71
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "Mbho2s5i1BM",
-      "title": "那個消失三年的名字，突然出現在工作郵件裡《名字又出現》｜Yu Stellar｜星語",
+      "title": "她在會議名單第三行，看見三年前只見過一次的人《名字又出現》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -130,19 +130,19 @@
     },
     {
       "videoId": "vRr0WmS-kTI",
-      "title": "聚會取消後，那個名字永遠停在「確認」以前《沒有加上的人》｜Yu Stellar｜星語",
+      "title": "《沒有加上的人》錯過聯絡方式的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
     {
       "videoId": "JF9Tb-YzoCE",
-      "title": "門縫的光｜成熟分手系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "門縫的光｜不是不愛了，只是明天不在同一個房間｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "suI7UWsEOcM",
-      "title": "《一站以前》公車偶遇與錯過的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "有些人只同路一站，卻一直留在記憶裡《一站以前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "Ln7HY6uaRwY",
-      "title": "故事只走了幾百公尺，名字卻留了三年《借來的傘》｜Yu Stellar｜星語",
+      "title": "《借來的傘》三年前雨天偶遇的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -178,13 +178,13 @@
     },
     {
       "videoId": "US7L9OBay8U",
-      "title": "回到最初，不是回到從前｜回到最初｜Yu Stellar｜星語",
+      "title": "多年後走回那條街，我看見的已經不是過去｜回到最初｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
     {
       "videoId": "UG1MCjMuGwI",
-      "title": "升遷的好消息，我第一次只留給今晚的自己｜亮著的工作證｜Yu Stellar｜星語",
+      "title": "亮著的工作證，證明我走過那段沒有掌聲的路｜亮著的工作證｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.63
     },
@@ -196,19 +196,19 @@
     },
     {
       "videoId": "7Y1FykKE9FE",
-      "title": "貓跳上窗台後｜一人一貓建立新家的溫暖情歌｜Yu Stellar｜星語",
+      "title": "貓跳上窗台後，我才發現這裡也能叫做家｜貓跳上窗台後｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
     {
       "videoId": "lJZ9RyZMjdY",
-      "title": "這次的成功，不是為了讓遠方的誰看見｜把名字寫好｜Yu Stellar｜星語",
+      "title": "我終於把自己的名字，寫在掌聲以前｜把名字寫好｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.39
     },
     {
       "videoId": "X4F2OBt5ErQ",
-      "title": "週三煮一鍋湯｜寫給慢慢把生活過回來的療癒情歌｜Yu Stellar｜星語",
+      "title": "週三煮一鍋湯，留一碗給明天的我｜週三煮一鍋湯｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.49
     },
@@ -220,7 +220,7 @@
     },
     {
       "videoId": "AJFAh9FaxVY",
-      "title": "影印機卡住的下午｜寫給努力撐過工作與生活的人｜Yu Stellar｜星語",
+      "title": "影印機卡住的下午，我也學會把問題一張張取出｜影印機卡住的下午｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
@@ -232,7 +232,7 @@
     },
     {
       "videoId": "bZETT3MDPpo",
-      "title": "未讀的藍色｜給學會把牽掛放遠一點的深夜情歌｜Yu Stellar｜星語",
+      "title": "未讀的藍色，亮在我不打擾你的夜｜未讀的藍色｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.81
     },
@@ -244,7 +244,7 @@
     },
     {
       "videoId": "L6lxR92AxDo",
-      "title": "牠今天吃得好嗎｜寫給分開後仍默默牽掛的情歌｜Yu Stellar｜星語",
+      "title": "我只問牠今天吃得好嗎，沒問你最近好嗎｜牠今天吃得好嗎｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.48
     },
@@ -262,7 +262,7 @@
     },
     {
       "videoId": "J0Rkv1IHBLk",
-      "title": "搬到新家後，我學會自己修窗、買晚餐｜新地址的雨｜Yu Stellar｜星語",
+      "title": "新地址的雨，沒有人替我關窗了｜新地址的雨｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
