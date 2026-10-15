@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T11:55:40.097+08:00",
+  "updatedAt": "2026-10-15T12:00:49.740+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -379,30 +379,30 @@
       "channelId": "UCAYUu9UHkrIopMgqikI6smw",
       "channelTitle": "空山和尚",
       "latestVideo": {
-        "videoId": "y1FbdmcfDmM",
-        "title": "《洋流匯聚》｜小水滴匯成暖流，讓希望之光照亮台灣｜空山和尚",
-        "url": "https://www.youtube.com/watch?v=y1FbdmcfDmM",
-        "thumbnail": "https://i.ytimg.com/vi/y1FbdmcfDmM/maxresdefault.jpg",
+        "videoId": "UXcDzKebw3I",
+        "title": "《洋流匯聚》｜讓每一滴真誠的小水滴，都匯成溫暖的洋流｜沈伯洋 ｜台北大洋流完整版MV",
+        "url": "https://www.youtube.com/watch?v=UXcDzKebw3I",
+        "thumbnail": "https://i.ytimg.com/vi/UXcDzKebw3I/maxresdefault.jpg",
         "durationSeconds": 282,
-        "publishedAt": "2026-10-06T12:00:12.000+08:00",
-        "fetchedAt": "2026-10-06T12:15:57.021+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.48
+        "publishedAt": "2026-10-15T12:00:35.000+08:00",
+        "fetchedAt": "2026-10-15T12:00:42.411+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.36
       }
     },
     {
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "XxukYF7kZxg",
-        "title": "我不重要了，我甚麼都不要了《沉淪》｜百合愛情音樂微電影｜霧月詞・Xiaoloulou｜GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=XxukYF7kZxg",
-        "thumbnail": "https://i.ytimg.com/vi_webp/XxukYF7kZxg/maxresdefault.webp?v=6ace80fa",
-        "durationSeconds": 212,
-        "publishedAt": "2026-10-14T12:00:08.000+08:00",
-        "fetchedAt": "2026-10-14T12:05:45.146+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.76
+        "videoId": "jbpL0n03rVA",
+        "title": "她要替她穿上嫁衣《半夕蝶夢》續篇｜EP03｜音樂愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=jbpL0n03rVA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/jbpL0n03rVA/maxresdefault.webp",
+        "durationSeconds": 569,
+        "publishedAt": "2026-10-15T12:00:11.000+08:00",
+        "fetchedAt": "2026-10-15T12:00:43.333+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.43
       }
     },
     {
