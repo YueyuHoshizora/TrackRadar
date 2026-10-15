@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-15T18:45:59.660+08:00",
+  "updatedAt": "2026-10-15T18:50:57.211+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "1HkFnI6qVkA",
-        "title": "你以為他不在意，其實他正扛著沒說出口的重量《你怕冷的原因》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=1HkFnI6qVkA",
-        "thumbnail": "https://i.ytimg.com/vi/1HkFnI6qVkA/maxresdefault.jpg",
-        "durationSeconds": 216,
-        "publishedAt": "2026-10-14T05:30:28.000+08:00",
-        "fetchedAt": "2026-10-15T18:05:32.397+08:00",
+        "videoId": "okYZQcMqTBI",
+        "title": "午休的風｜我叫不出你的名字，卻記得曾經愛過｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=okYZQcMqTBI",
+        "thumbnail": "https://i.ytimg.com/vi/okYZQcMqTBI/maxresdefault.jpg",
+        "durationSeconds": 180,
+        "publishedAt": "2026-10-15T17:30:16.000+08:00",
+        "fetchedAt": "2026-10-15T18:50:30.861+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.96
+        "genreConfidence": 0.91
       }
     },
     {
@@ -439,15 +439,15 @@
       "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
       "channelTitle": "璃煙",
       "latestVideo": {
-        "videoId": "9mSNUCdYu14",
-        "title": "《藏紅妝》第31集丨故人？ #藏紅妝 #古裝百合 #百合短劇 #宮廷權謀 #原創故事 #雙女主 #GL",
-        "url": "https://www.youtube.com/watch?v=9mSNUCdYu14",
-        "thumbnail": "https://i.ytimg.com/vi_webp/9mSNUCdYu14/maxresdefault.webp",
-        "durationSeconds": 160,
-        "publishedAt": "2026-10-12T21:00:13.000+08:00",
-        "fetchedAt": "2026-10-12T21:01:51.443+08:00",
+        "videoId": "Uu6q_ZBdf08",
+        "title": "《火曜熒惑》｜敦煌飛天・御龍護法｜敦煌天女 × 絲路戰歌",
+        "url": "https://www.youtube.com/watch?v=Uu6q_ZBdf08",
+        "thumbnail": "https://i.ytimg.com/vi/Uu6q_ZBdf08/maxresdefault.jpg",
+        "durationSeconds": 232,
+        "publishedAt": "2026-10-15T17:16:37.000+08:00",
+        "fetchedAt": "2026-10-15T18:50:49.098+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.64
+        "genreConfidence": 1
       }
     },
     {
