@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T10:15:36.161+08:00",
+  "updatedAt": "2026-10-16T10:20:41.430+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "D3Gw9VwYpeI",
-        "title": "台語大帝國｜Asher 凜《這擺我無袂閣走》｜巷仔口的風 ｜離家20年才返鄉，阿母卻已不在｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=D3Gw9VwYpeI",
-        "thumbnail": "https://i.ytimg.com/vi_webp/D3Gw9VwYpeI/maxresdefault.webp",
-        "durationSeconds": 170,
-        "publishedAt": "2026-10-14T10:30:38.000+08:00",
-        "fetchedAt": "2026-10-14T10:35:36.058+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.85
+        "videoId": "NwXqXQ7eYPA",
+        "title": "台語大帝國｜關聖帝君《我這關，你敢過？》｜忠義不是用嘴講！兄弟有難，你敢挺嗎？做人有守信無？｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=NwXqXQ7eYPA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/NwXqXQ7eYPA/maxresdefault.webp",
+        "durationSeconds": 198,
+        "publishedAt": "2026-10-16T10:15:26.000+08:00",
+        "fetchedAt": "2026-10-16T10:20:13.127+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.48
       }
     },
     {
@@ -184,13 +184,13 @@
       "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
       "channelTitle": "ChillVibes",
       "latestVideo": {
-        "videoId": "1w0JaA9_ueQ",
-        "title": "One Earbud Each｜一人一邊，分享安靜夜晚的溫暖 R&B · 夜行日記11（歌詞版）",
-        "url": "https://www.youtube.com/watch?v=1w0JaA9_ueQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/1w0JaA9_ueQ/maxresdefault.webp",
-        "durationSeconds": 192,
-        "publishedAt": "2026-09-18T21:00:13.000+08:00",
-        "fetchedAt": "2026-10-16T10:15:15.439+08:00",
+        "videoId": "-pQWGJrv5zg",
+        "title": "有人替你扶住了門｜下班後的溫柔 R&B · NIGHT.17",
+        "url": "https://www.youtube.com/watch?v=-pQWGJrv5zg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/-pQWGJrv5zg/maxresdefault.webp",
+        "durationSeconds": 251,
+        "publishedAt": "2026-10-13T21:00:02.000+08:00",
+        "fetchedAt": "2026-10-16T10:20:13.974+08:00",
         "genre": "R&B/Soul",
         "genreConfidence": 1
       }
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "jbpL0n03rVA",
-        "title": "她要替她穿上嫁衣《半夕蝶夢》續篇｜EP03｜音樂愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=jbpL0n03rVA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/jbpL0n03rVA/maxresdefault.webp",
-        "durationSeconds": 569,
-        "publishedAt": "2026-10-15T12:00:11.000+08:00",
-        "fetchedAt": "2026-10-16T10:15:22.926+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.45
+        "videoId": "XxukYF7kZxg",
+        "title": "我不重要了，我甚麼都不要了《沉淪》｜百合愛情音樂微電影｜霧月詞・Xiaoloulou｜GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=XxukYF7kZxg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XxukYF7kZxg/maxresdefault.webp?v=6ace80fa",
+        "durationSeconds": 212,
+        "publishedAt": "2026-10-14T12:00:08.000+08:00",
+        "fetchedAt": "2026-10-16T10:20:28.400+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.79
       }
     },
     {
