@@ -1,19 +1,25 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-10-13T11:31:11.740+08:00",
+  "lastUpdated": "2026-10-16T11:30:22.577+08:00",
   "latestVideo": {
-    "videoId": "PBa-lw-DhUU",
-    "title": "《黑白兄弟》｜七爺 八爺跨越生死、守候千年的兄弟情【原創歌曲】",
-    "url": "https://www.youtube.com/watch?v=PBa-lw-DhUU",
-    "thumbnail": "https://i.ytimg.com/vi/PBa-lw-DhUU/maxresdefault.jpg",
-    "durationSeconds": 211,
-    "publishedAt": "2026-10-13T11:30:31.000+08:00",
-    "fetchedAt": "2026-10-13T11:31:10.677+08:00",
+    "videoId": "wGsOz0hzKv4",
+    "title": "《城隍看人間》｜看盡世間百態，一首唱出人情冷暖的震撼華語原創歌曲【2026 全台城隍大會師】",
+    "url": "https://www.youtube.com/watch?v=wGsOz0hzKv4",
+    "thumbnail": "https://i.ytimg.com/vi/wGsOz0hzKv4/maxresdefault.jpg",
+    "durationSeconds": 252,
+    "publishedAt": "2026-10-16T11:30:03.000+08:00",
+    "fetchedAt": "2026-10-16T11:30:21.517+08:00",
     "genre": "古風/國風 Chinese Style",
-    "genreConfidence": 0.96
+    "genreConfidence": 0.85
   },
   "allVideoIds": [
+    {
+      "videoId": "wGsOz0hzKv4",
+      "title": "《城隍看人間》｜看盡世間百態，一首唱出人情冷暖的震撼華語原創歌曲【2026 全台城隍大會師】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.85
+    },
     {
       "videoId": "PBa-lw-DhUU",
       "title": "《黑白兄弟》｜七爺 八爺跨越生死、守候千年的兄弟情【原創歌曲】",
