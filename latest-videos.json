@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16T21:26:02.899+08:00",
+  "updatedAt": "2026-10-16T21:30:58.635+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "Yu Starry Music",
+      "channelTitle": "語音星空",
       "latestVideo": {
         "videoId": "SaoFghauGOs",
         "title": "一個人的搬家｜這次搬家不是離開誰，是靠近自己｜Yu Stellar｜星語",
@@ -80,28 +80,28 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "BmlXQmz6-AA",
-        "title": "《地母娘娘》｜阿拉丁神燈召喚的不是精靈，竟是大地之母！她能擋下毀滅城市的龍捲風嗎？【華語流行・東方神話・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=BmlXQmz6-AA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/BmlXQmz6-AA/maxresdefault.webp",
-        "durationSeconds": 234,
-        "publishedAt": "2026-10-13T18:00:34.000+08:00",
-        "fetchedAt": "2026-10-16T21:25:21.392+08:00",
+        "videoId": "LuYDDZQz8Ek",
+        "title": "《閃身步》｜浪子踢球、狗熊哆嗦毛，她以為三招就能闖江湖，直到遇見真正的高手【國風歌曲・武俠劇・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=LuYDDZQz8Ek",
+        "thumbnail": "https://i.ytimg.com/vi/LuYDDZQz8Ek/maxresdefault.jpg",
+        "durationSeconds": 180,
+        "publishedAt": "2026-10-03T21:11:06.000+08:00",
+        "fetchedAt": "2026-10-16T21:30:41.037+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.79
+        "genreConfidence": 1
       }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "w9OStc48niU",
-        "title": "2026催淚情歌《別走了》「把我的心帶走，你叫我怎麼活呢」Official MV",
-        "url": "https://www.youtube.com/watch?v=w9OStc48niU",
-        "thumbnail": "https://i.ytimg.com/vi_webp/w9OStc48niU/maxresdefault.webp",
-        "durationSeconds": 262,
-        "publishedAt": "2026-08-24T04:26:35.000+08:00",
-        "fetchedAt": "2026-10-16T21:20:46.111+08:00",
+        "videoId": "E8PK1SITqeg",
+        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+        "durationSeconds": 255,
+        "publishedAt": "2026-09-12T04:57:52.000+08:00",
+        "fetchedAt": "2026-10-16T21:30:24.188+08:00",
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 1
       }
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "🔥《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-10-16T21:25:40.731+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.33
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-16T21:30:21.158+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.32
       }
     },
     {
