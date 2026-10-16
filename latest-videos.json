@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16T13:15:37.081+08:00",
+  "updatedAt": "2026-10-16T13:20:50.012+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "語音星空",
+      "channelTitle": "Yu Starry Music",
       "latestVideo": {
         "videoId": "3Q7XT8qrHas",
         "title": "有些關係，散場以後才真正開始《散場後的路》｜Yu Stellar｜星語",
@@ -95,15 +95,15 @@
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "E8PK1SITqeg",
-        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
-        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
-        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
-        "durationSeconds": 255,
-        "publishedAt": "2026-09-12T04:57:52.000+08:00",
-        "fetchedAt": "2026-10-16T13:10:20.475+08:00",
+        "videoId": "XnLNBPgERI4",
+        "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
+        "url": "https://www.youtube.com/watch?v=XnLNBPgERI4",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XnLNBPgERI4/maxresdefault.webp",
+        "durationSeconds": 206,
+        "publishedAt": "2026-08-20T06:19:21.000+08:00",
+        "fetchedAt": "2026-10-16T13:20:44.641+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.99
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "🔥《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-10-16T13:10:29.294+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.31
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-16T13:20:16.342+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.36
       }
     },
     {
