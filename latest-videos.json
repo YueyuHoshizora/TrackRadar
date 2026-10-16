@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:11:49.168+08:00",
+  "updatedAt": "2026-10-17T04:16:18.647+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "BmlXQmz6-AA",
-        "title": "《地母娘娘》｜阿拉丁神燈召喚的不是精靈，竟是大地之母！她能擋下毀滅城市的龍捲風嗎？【華語流行・東方神話・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=BmlXQmz6-AA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/BmlXQmz6-AA/maxresdefault.webp",
-        "durationSeconds": 234,
-        "publishedAt": "2026-10-13T18:00:34.000+08:00",
-        "fetchedAt": "2026-10-17T04:10:10.131+08:00",
+        "videoId": "TNcozacvD3U",
+        "title": "《齊天大聖》悟空｜五指山脫困後，她最終選擇為唐僧而戰｜孫悟空 × 西遊記【國風搖滾・Official MV・中文原創歌曲】",
+        "url": "https://www.youtube.com/watch?v=TNcozacvD3U",
+        "thumbnail": "https://i.ytimg.com/vi/TNcozacvD3U/maxresdefault.jpg",
+        "durationSeconds": 225,
+        "publishedAt": "2026-09-29T18:00:31.000+08:00",
+        "fetchedAt": "2026-10-17T04:15:56.878+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.8
+        "genreConfidence": 0.84
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "jbpL0n03rVA",
-        "title": "她要替她穿上嫁衣《半夕蝶夢》續篇｜EP03｜音樂愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=jbpL0n03rVA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/jbpL0n03rVA/maxresdefault.webp",
-        "durationSeconds": 569,
-        "publishedAt": "2026-10-15T12:00:11.000+08:00",
-        "fetchedAt": "2026-10-17T04:05:48.437+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.4
+        "videoId": "XxukYF7kZxg",
+        "title": "我不重要了，我甚麼都不要了《沉淪》｜百合愛情音樂微電影｜霧月詞・Xiaoloulou｜GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=XxukYF7kZxg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XxukYF7kZxg/maxresdefault.webp?v=6ace80fa",
+        "durationSeconds": 212,
+        "publishedAt": "2026-10-14T12:00:08.000+08:00",
+        "fetchedAt": "2026-10-17T04:16:07.354+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.8
       }
     },
     {
