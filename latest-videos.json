@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T00:55:49.065+08:00",
+  "updatedAt": "2026-10-17T01:01:34.775+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "BmlXQmz6-AA",
-        "title": "《地母娘娘》｜阿拉丁神燈召喚的不是精靈，竟是大地之母！她能擋下毀滅城市的龍捲風嗎？【華語流行・東方神話・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=BmlXQmz6-AA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/BmlXQmz6-AA/maxresdefault.webp",
-        "durationSeconds": 234,
-        "publishedAt": "2026-10-13T18:00:34.000+08:00",
-        "fetchedAt": "2026-10-17T00:55:10.321+08:00",
+        "videoId": "TNcozacvD3U",
+        "title": "《齊天大聖》悟空｜五指山脫困後，她最終選擇為唐僧而戰｜孫悟空 × 西遊記【國風搖滾・Official MV・中文原創歌曲】",
+        "url": "https://www.youtube.com/watch?v=TNcozacvD3U",
+        "thumbnail": "https://i.ytimg.com/vi/TNcozacvD3U/maxresdefault.jpg",
+        "durationSeconds": 225,
+        "publishedAt": "2026-09-29T18:00:31.000+08:00",
+        "fetchedAt": "2026-10-17T01:00:53.402+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.78
+        "genreConfidence": 0.85
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "🔥《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-10-17T00:50:37.292+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.33
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-17T01:00:27.962+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.41
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "jbpL0n03rVA",
-        "title": "她要替她穿上嫁衣《半夕蝶夢》續篇｜EP03｜音樂愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=jbpL0n03rVA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/jbpL0n03rVA/maxresdefault.webp",
-        "durationSeconds": 569,
-        "publishedAt": "2026-10-15T12:00:11.000+08:00",
-        "fetchedAt": "2026-10-17T00:55:38.544+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.33
+        "videoId": "IKSgpVN_CvY",
+        "title": "別把今夜忘了《半夕蝶夢》EP 02｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=IKSgpVN_CvY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/IKSgpVN_CvY/maxresdefault.webp?v=6acbe63e",
+        "durationSeconds": 258,
+        "publishedAt": "2026-10-12T12:00:07.000+08:00",
+        "fetchedAt": "2026-10-17T01:01:24.852+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.54
       }
     },
     {
