@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:21:58.289+08:00",
+  "updatedAt": "2026-10-17T04:26:27.263+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -95,13 +95,13 @@
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "E8PK1SITqeg",
-        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
-        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
-        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
-        "durationSeconds": 255,
-        "publishedAt": "2026-09-12T04:57:52.000+08:00",
-        "fetchedAt": "2026-10-17T04:00:40.121+08:00",
+        "videoId": "w9OStc48niU",
+        "title": "2026催淚情歌《別走了》「把我的心帶走，你叫我怎麼活呢」Official MV",
+        "url": "https://www.youtube.com/watch?v=w9OStc48niU",
+        "thumbnail": "https://i.ytimg.com/vi_webp/w9OStc48niU/maxresdefault.webp",
+        "durationSeconds": 262,
+        "publishedAt": "2026-08-24T04:26:35.000+08:00",
+        "fetchedAt": "2026-10-17T04:25:59.870+08:00",
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 1
       }
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "XxukYF7kZxg",
-        "title": "我不重要了，我甚麼都不要了《沉淪》｜百合愛情音樂微電影｜霧月詞・Xiaoloulou｜GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=XxukYF7kZxg",
-        "thumbnail": "https://i.ytimg.com/vi_webp/XxukYF7kZxg/maxresdefault.webp?v=6ace80fa",
-        "durationSeconds": 212,
-        "publishedAt": "2026-10-14T12:00:08.000+08:00",
-        "fetchedAt": "2026-10-17T04:16:07.354+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.8
+        "videoId": "IKSgpVN_CvY",
+        "title": "別把今夜忘了《半夕蝶夢》EP 02｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=IKSgpVN_CvY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/IKSgpVN_CvY/maxresdefault.webp?v=6acbe63e",
+        "durationSeconds": 258,
+        "publishedAt": "2026-10-12T12:00:07.000+08:00",
+        "fetchedAt": "2026-10-17T04:26:23.358+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.51
       }
     },
     {
