@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T02:01:11.255+08:00",
+  "updatedAt": "2026-10-17T02:06:07.873+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,28 +80,28 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "2vrEFvNJwPs",
-        "title": "《鍾馗嫁妹》｜想娶她？先過聶小倩、貞子、龍王敖廣三關【國風歌曲・東方神話・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=2vrEFvNJwPs",
-        "thumbnail": "https://i.ytimg.com/vi_webp/2vrEFvNJwPs/maxresdefault.webp",
-        "durationSeconds": 248,
-        "publishedAt": "2026-10-07T17:00:26.000+08:00",
-        "fetchedAt": "2026-10-17T01:50:34.907+08:00",
+        "videoId": "BmlXQmz6-AA",
+        "title": "《地母娘娘》｜阿拉丁神燈召喚的不是精靈，竟是大地之母！她能擋下毀滅城市的龍捲風嗎？【華語流行・東方神話・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=BmlXQmz6-AA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/BmlXQmz6-AA/maxresdefault.webp",
+        "durationSeconds": 234,
+        "publishedAt": "2026-10-13T18:00:34.000+08:00",
+        "fetchedAt": "2026-10-17T02:05:17.886+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 0.8
       }
     },
     {
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "w9OStc48niU",
-        "title": "2026催淚情歌《別走了》「把我的心帶走，你叫我怎麼活呢」Official MV",
-        "url": "https://www.youtube.com/watch?v=w9OStc48niU",
-        "thumbnail": "https://i.ytimg.com/vi_webp/w9OStc48niU/maxresdefault.webp",
-        "durationSeconds": 262,
-        "publishedAt": "2026-08-24T04:26:35.000+08:00",
-        "fetchedAt": "2026-10-17T02:00:54.532+08:00",
+        "videoId": "E8PK1SITqeg",
+        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+        "durationSeconds": 255,
+        "publishedAt": "2026-09-12T04:57:52.000+08:00",
+        "fetchedAt": "2026-10-17T02:05:24.245+08:00",
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 1
       }
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "jbpL0n03rVA",
-        "title": "她要替她穿上嫁衣《半夕蝶夢》續篇｜EP03｜音樂愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=jbpL0n03rVA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/jbpL0n03rVA/maxresdefault.webp",
-        "durationSeconds": 569,
-        "publishedAt": "2026-10-15T12:00:11.000+08:00",
-        "fetchedAt": "2026-10-17T02:01:00.999+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.41
+        "videoId": "XxukYF7kZxg",
+        "title": "我不重要了，我甚麼都不要了《沉淪》｜百合愛情音樂微電影｜霧月詞・Xiaoloulou｜GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=XxukYF7kZxg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XxukYF7kZxg/maxresdefault.webp?v=6ace80fa",
+        "durationSeconds": 212,
+        "publishedAt": "2026-10-14T12:00:08.000+08:00",
+        "fetchedAt": "2026-10-17T02:05:51.872+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.79
       }
     },
     {
