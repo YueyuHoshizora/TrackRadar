@@ -1,19 +1,25 @@
 {
   "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
   "channelTitle": "Sonar.Music.Studio",
-  "lastUpdated": "2026-10-17T04:40:26.319+08:00",
+  "lastUpdated": "2026-10-17T06:10:11.379+08:00",
   "latestVideo": {
-    "videoId": "E8PK1SITqeg",
-    "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
-    "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
-    "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
-    "durationSeconds": 255,
-    "publishedAt": "2026-09-12T04:57:52.000+08:00",
-    "fetchedAt": "2026-10-17T04:40:25.603+08:00",
+    "videoId": "1urxTEUUIDs",
+    "title": "《生命裡的過客》｜明明說好要走到地久天長，最後卻是我一個人走過荒涼【歌詞MV】",
+    "url": "https://www.youtube.com/watch?v=1urxTEUUIDs",
+    "thumbnail": "https://i.ytimg.com/vi/1urxTEUUIDs/maxresdefault.jpg",
+    "durationSeconds": 227,
+    "publishedAt": "2026-10-17T06:09:38.000+08:00",
+    "fetchedAt": "2026-10-17T06:10:10.437+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 1
+    "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "1urxTEUUIDs",
+      "title": "《生命裡的過客》｜明明說好要走到地久天長，最後卻是我一個人走過荒涼【歌詞MV】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
+    },
     {
       "videoId": "77-vdphiFeY",
       "title": "💔「明明那麼深愛，為什麼只能走到這裡……」《只因太愛你》2026 催淚情歌 #shorts",
