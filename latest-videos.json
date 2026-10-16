@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-17T05:30:26.433+08:00",
+  "updatedAt": "2026-10-17T05:35:20.141+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "SaoFghauGOs",
-        "title": "一個人的搬家｜這次搬家不是離開誰，是靠近自己｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=SaoFghauGOs",
-        "thumbnail": "https://i.ytimg.com/vi/SaoFghauGOs/maxresdefault.jpg",
-        "durationSeconds": 185,
-        "publishedAt": "2026-10-16T17:30:23.000+08:00",
-        "fetchedAt": "2026-10-16T19:20:10.736+08:00",
+        "videoId": "8N8EMsh334A",
+        "title": "遇見三年後，我們今天才真正認識彼此《今天才認識你》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=8N8EMsh334A",
+        "thumbnail": "https://i.ytimg.com/vi/8N8EMsh334A/maxresdefault.jpg",
+        "durationSeconds": 183,
+        "publishedAt": "2026-10-17T05:30:30.000+08:00",
+        "fetchedAt": "2026-10-17T05:35:06.338+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.67
+        "genreConfidence": 0.89
       }
     },
     {
