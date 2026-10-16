@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-10-14T10:35:37.378+08:00",
+  "lastUpdated": "2026-10-16T10:20:14.259+08:00",
   "latestVideo": {
-    "videoId": "D3Gw9VwYpeI",
-    "title": "台語大帝國｜Asher 凜《這擺我無袂閣走》｜巷仔口的風 ｜離家20年才返鄉，阿母卻已不在｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=D3Gw9VwYpeI",
-    "thumbnail": "https://i.ytimg.com/vi_webp/D3Gw9VwYpeI/maxresdefault.webp",
-    "durationSeconds": 170,
-    "publishedAt": "2026-10-14T10:30:38.000+08:00",
-    "fetchedAt": "2026-10-14T10:35:36.058+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.85
+    "videoId": "NwXqXQ7eYPA",
+    "title": "台語大帝國｜關聖帝君《我這關，你敢過？》｜忠義不是用嘴講！兄弟有難，你敢挺嗎？做人有守信無？｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=NwXqXQ7eYPA",
+    "thumbnail": "https://i.ytimg.com/vi_webp/NwXqXQ7eYPA/maxresdefault.webp",
+    "durationSeconds": 198,
+    "publishedAt": "2026-10-16T10:15:26.000+08:00",
+    "fetchedAt": "2026-10-16T10:20:13.127+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 0.48
   },
   "allVideoIds": [
+    {
+      "videoId": "NwXqXQ7eYPA",
+      "title": "台語大帝國｜關聖帝君《我這關，你敢過？》｜忠義不是用嘴講！兄弟有難，你敢挺嗎？做人有守信無？｜筠芙得利【Official MV】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.48
+    },
     {
       "videoId": "D3Gw9VwYpeI",
       "title": "台語大帝國｜Asher 凜《這擺我無袂閣走》｜巷仔口的風 ｜離家20年才返鄉，阿母卻已不在｜筠芙得利【Official MV】",
