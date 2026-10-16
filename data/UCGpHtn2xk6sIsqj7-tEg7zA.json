@@ -1,19 +1,25 @@
 {
   "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
   "channelTitle": "ChillVibes",
-  "lastUpdated": "2026-10-16T19:50:27.185+08:00",
+  "lastUpdated": "2026-10-16T21:00:35.110+08:00",
   "latestVideo": {
-    "videoId": "-pQWGJrv5zg",
-    "title": "有人替你扶住了門｜下班後的溫柔 R&B · NIGHT.17",
-    "url": "https://www.youtube.com/watch?v=-pQWGJrv5zg",
-    "thumbnail": "https://i.ytimg.com/vi_webp/-pQWGJrv5zg/maxresdefault.webp",
-    "durationSeconds": 251,
-    "publishedAt": "2026-10-13T21:00:02.000+08:00",
-    "fetchedAt": "2026-10-16T19:45:38.559+08:00",
+    "videoId": "Kp_EWd_et1c",
+    "title": "今天這樣就好 Call It a Day｜適合工作、讀書與夜晚放鬆的柔和 R&B · NIGHT.18",
+    "url": "https://www.youtube.com/watch?v=Kp_EWd_et1c",
+    "thumbnail": "https://i.ytimg.com/vi_webp/Kp_EWd_et1c/maxresdefault.webp",
+    "durationSeconds": 243,
+    "publishedAt": "2026-10-16T21:00:08.000+08:00",
+    "fetchedAt": "2026-10-16T21:00:33.211+08:00",
     "genre": "R&B/Soul",
-    "genreConfidence": 1
+    "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "Kp_EWd_et1c",
+      "title": "今天這樣就好 Call It a Day｜適合工作、讀書與夜晚放鬆的柔和 R&B · NIGHT.18",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.99
+    },
     {
       "videoId": "-pQWGJrv5zg",
       "title": "有人替你扶住了門｜下班後的溫柔 R&B · NIGHT.17",
