@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T11:00:35.771+08:00",
+  "updatedAt": "2026-10-16T11:05:39.698+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -20,15 +20,15 @@
       "channelId": "UCYyzOVPBHzhr_cFFJbGoymQ",
       "channelTitle": "安餒An_Nei",
       "latestVideo": {
-        "videoId": "KeC7NtdmRAw",
-        "title": "【中國風 – 老爺不要】「夫人會看到！若是被她知道，今晚誰都跑不了！」DJ電音效果的歡樂神曲。 🎧 安餒 An_Nei",
-        "url": "https://www.youtube.com/watch?v=KeC7NtdmRAw",
-        "thumbnail": "https://i.ytimg.com/vi_webp/KeC7NtdmRAw/maxresdefault.webp",
-        "durationSeconds": 196,
-        "publishedAt": "2026-10-09T11:00:33.000+08:00",
-        "fetchedAt": "2026-10-09T11:01:05.157+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.61
+        "videoId": "QXopjuxaL2g",
+        "title": "【華語流行 – 好聽的名】「一個把養兒防老說是天經地義，一個把若即若離包裝成生活不易。」唱盡家庭代溝的沉痛大作。 🎧 安餒 An_Nei",
+        "url": "https://www.youtube.com/watch?v=QXopjuxaL2g",
+        "thumbnail": "https://i.ytimg.com/vi_webp/QXopjuxaL2g/maxresdefault.webp",
+        "durationSeconds": 214,
+        "publishedAt": "2026-10-16T11:00:18.000+08:00",
+        "fetchedAt": "2026-10-16T11:05:06.379+08:00",
+        "genre": "流行 Pop",
+        "genreConfidence": 0.48
       }
     },
     {
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "BmlXQmz6-AA",
-        "title": "《地母娘娘》｜阿拉丁神燈召喚的不是精靈，竟是大地之母！她能擋下毀滅城市的龍捲風嗎？【華語流行・東方神話・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=BmlXQmz6-AA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/BmlXQmz6-AA/maxresdefault.webp",
-        "durationSeconds": 234,
-        "publishedAt": "2026-10-13T18:00:34.000+08:00",
-        "fetchedAt": "2026-10-16T10:50:12.143+08:00",
+        "videoId": "n0_GX2o9h4w",
+        "title": "《眾神降臨》｜10首MV合輯｜閃身步、哪吒、月老、孟婆、黑白無常、九尾狐【武俠劇・國風歌曲・中文原創歌曲】",
+        "url": "https://www.youtube.com/watch?v=n0_GX2o9h4w",
+        "thumbnail": "https://i.ytimg.com/vi_webp/n0_GX2o9h4w/maxresdefault.webp",
+        "durationSeconds": 2420,
+        "publishedAt": "2026-10-09T10:55:37.000+08:00",
+        "fetchedAt": "2026-10-16T11:05:15.187+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.8
+        "genreConfidence": 1
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "jbpL0n03rVA",
-        "title": "她要替她穿上嫁衣《半夕蝶夢》續篇｜EP03｜音樂愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=jbpL0n03rVA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/jbpL0n03rVA/maxresdefault.webp",
-        "durationSeconds": 569,
-        "publishedAt": "2026-10-15T12:00:11.000+08:00",
-        "fetchedAt": "2026-10-16T10:45:24.690+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.37
+        "videoId": "XxukYF7kZxg",
+        "title": "我不重要了，我甚麼都不要了《沉淪》｜百合愛情音樂微電影｜霧月詞・Xiaoloulou｜GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=XxukYF7kZxg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XxukYF7kZxg/maxresdefault.webp?v=6ace80fa",
+        "durationSeconds": 212,
+        "publishedAt": "2026-10-14T12:00:08.000+08:00",
+        "fetchedAt": "2026-10-16T11:05:30.020+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.76
       }
     },
     {
