@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:01:41.261+08:00",
+  "updatedAt": "2026-10-17T04:06:04.224+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "BmlXQmz6-AA",
-        "title": "《地母娘娘》｜阿拉丁神燈召喚的不是精靈，竟是大地之母！她能擋下毀滅城市的龍捲風嗎？【華語流行・東方神話・中文原創歌曲・Official MV】",
-        "url": "https://www.youtube.com/watch?v=BmlXQmz6-AA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/BmlXQmz6-AA/maxresdefault.webp",
-        "durationSeconds": 234,
-        "publishedAt": "2026-10-13T18:00:34.000+08:00",
-        "fetchedAt": "2026-10-17T04:00:21.554+08:00",
+        "videoId": "LuYDDZQz8Ek",
+        "title": "《閃身步》｜浪子踢球、狗熊哆嗦毛，她以為三招就能闖江湖，直到遇見真正的高手【國風歌曲・武俠劇・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=LuYDDZQz8Ek",
+        "thumbnail": "https://i.ytimg.com/vi/LuYDDZQz8Ek/maxresdefault.jpg",
+        "durationSeconds": 180,
+        "publishedAt": "2026-10-03T21:11:06.000+08:00",
+        "fetchedAt": "2026-10-17T04:05:48.489+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.81
+        "genreConfidence": 1
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "CsvkFZ57bu8",
-        "title": "🔥《找不回來的你》｜明日邊界2147 Universe｜The One I Couldn't Bring Back |璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=CsvkFZ57bu8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/CsvkFZ57bu8/maxresdefault.webp",
-        "durationSeconds": 252,
-        "publishedAt": "2026-09-06T18:00:32.000+08:00",
-        "fetchedAt": "2026-10-17T03:45:59.666+08:00",
+        "videoId": "9CaWlcB__V0",
+        "title": "🔥《沒有夢的森林》The Forest Without Dreams｜明日邊界 2147｜璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=9CaWlcB__V0",
+        "thumbnail": "https://i.ytimg.com/vi_webp/9CaWlcB__V0/maxresdefault.webp",
+        "durationSeconds": 247,
+        "publishedAt": "2026-08-14T19:30:22.000+08:00",
+        "fetchedAt": "2026-10-17T04:05:51.157+08:00",
         "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.32
+        "genreConfidence": 0.64
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "8FKKm3A1Q_w",
-        "title": "這人生，怎麼都磨不合《磨開》｜失眠情歌・藍調｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
-        "url": "https://www.youtube.com/watch?v=8FKKm3A1Q_w",
-        "thumbnail": "https://i.ytimg.com/vi_webp/8FKKm3A1Q_w/maxresdefault.webp?v=6ac8286e",
-        "durationSeconds": 222,
-        "publishedAt": "2026-10-10T12:00:09.000+08:00",
-        "fetchedAt": "2026-10-17T04:01:28.169+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.74
+        "videoId": "jbpL0n03rVA",
+        "title": "她要替她穿上嫁衣《半夕蝶夢》續篇｜EP03｜音樂愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=jbpL0n03rVA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/jbpL0n03rVA/maxresdefault.webp",
+        "durationSeconds": 569,
+        "publishedAt": "2026-10-15T12:00:11.000+08:00",
+        "fetchedAt": "2026-10-17T04:05:48.437+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.4
       }
     },
     {
@@ -422,7 +422,7 @@
     },
     {
       "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
-      "channelTitle": "RE:IGN",
+      "channelTitle": "RE:IGN(十二弦月 | 舞月)",
       "latestVideo": {
         "videoId": "SQdiIjYbfnk",
         "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
