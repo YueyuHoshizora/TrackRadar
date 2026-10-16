@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T11:25:30.729+08:00",
+  "updatedAt": "2026-10-16T11:30:37.141+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "🔥《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-10-16T11:20:19.436+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.34
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-16T11:30:15.151+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.42
       }
     },
     {
@@ -214,15 +214,15 @@
       "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
       "channelTitle": "EIRYN",
       "latestVideo": {
-        "videoId": "PBa-lw-DhUU",
-        "title": "《黑白兄弟》｜七爺 八爺跨越生死、守候千年的兄弟情【原創歌曲】",
-        "url": "https://www.youtube.com/watch?v=PBa-lw-DhUU",
-        "thumbnail": "https://i.ytimg.com/vi/PBa-lw-DhUU/maxresdefault.jpg",
-        "durationSeconds": 211,
-        "publishedAt": "2026-10-13T11:30:31.000+08:00",
-        "fetchedAt": "2026-10-13T11:31:10.677+08:00",
+        "videoId": "wGsOz0hzKv4",
+        "title": "《城隍看人間》｜看盡世間百態，一首唱出人情冷暖的震撼華語原創歌曲【2026 全台城隍大會師】",
+        "url": "https://www.youtube.com/watch?v=wGsOz0hzKv4",
+        "thumbnail": "https://i.ytimg.com/vi/wGsOz0hzKv4/maxresdefault.jpg",
+        "durationSeconds": 252,
+        "publishedAt": "2026-10-16T11:30:03.000+08:00",
+        "fetchedAt": "2026-10-16T11:30:21.517+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.96
+        "genreConfidence": 0.85
       }
     },
     {
