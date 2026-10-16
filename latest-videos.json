@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T23:06:24.258+08:00",
+  "updatedAt": "2026-10-16T23:11:04.445+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -95,15 +95,15 @@
       "channelId": "UCGq8tBaxuvnnu9dVl5Gxnkg",
       "channelTitle": "Sonar.Music.Studio",
       "latestVideo": {
-        "videoId": "XnLNBPgERI4",
-        "title": "《最甜的承諾》- 2026 最新雙人對唱情歌 |「一生一世溫柔擁抱你的可愛」[Official MV]",
-        "url": "https://www.youtube.com/watch?v=XnLNBPgERI4",
-        "thumbnail": "https://i.ytimg.com/vi_webp/XnLNBPgERI4/maxresdefault.webp",
-        "durationSeconds": 206,
-        "publishedAt": "2026-08-20T06:19:21.000+08:00",
-        "fetchedAt": "2026-10-16T23:01:08.681+08:00",
+        "videoId": "E8PK1SITqeg",
+        "title": "2026催淚情歌《只因太愛你》「醫生，她還剩多久……」催淚音樂MV：獻給所有經歷過失去、依然選擇深愛的人。",
+        "url": "https://www.youtube.com/watch?v=E8PK1SITqeg",
+        "thumbnail": "https://i.ytimg.com/vi/E8PK1SITqeg/maxresdefault.jpg",
+        "durationSeconds": 255,
+        "publishedAt": "2026-09-12T04:57:52.000+08:00",
+        "fetchedAt": "2026-10-16T23:10:18.545+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.99
+        "genreConfidence": 1
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "CsvkFZ57bu8",
-        "title": "🔥《找不回來的你》｜明日邊界2147 Universe｜The One I Couldn't Bring Back |璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=CsvkFZ57bu8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/CsvkFZ57bu8/maxresdefault.webp",
-        "durationSeconds": 252,
-        "publishedAt": "2026-09-06T18:00:32.000+08:00",
-        "fetchedAt": "2026-10-16T22:55:37.005+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.28
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-16T23:10:20.598+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.42
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "jbpL0n03rVA",
-        "title": "她要替她穿上嫁衣《半夕蝶夢》續篇｜EP03｜音樂愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=jbpL0n03rVA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/jbpL0n03rVA/maxresdefault.webp",
-        "durationSeconds": 569,
-        "publishedAt": "2026-10-15T12:00:11.000+08:00",
-        "fetchedAt": "2026-10-16T22:50:48.378+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.4
+        "videoId": "XxukYF7kZxg",
+        "title": "我不重要了，我甚麼都不要了《沉淪》｜百合愛情音樂微電影｜霧月詞・Xiaoloulou｜GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=XxukYF7kZxg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XxukYF7kZxg/maxresdefault.webp?v=6ace80fa",
+        "durationSeconds": 212,
+        "publishedAt": "2026-10-14T12:00:08.000+08:00",
+        "fetchedAt": "2026-10-16T23:10:51.748+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.76
       }
     },
     {
