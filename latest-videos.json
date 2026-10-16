@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16T13:25:46.745+08:00",
+  "updatedAt": "2026-10-16T13:30:35.977+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "Yu Starry Music",
+      "channelTitle": "語音星空",
       "latestVideo": {
         "videoId": "3Q7XT8qrHas",
         "title": "有些關係，散場以後才真正開始《散場後的路》｜Yu Stellar｜星語",
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "TNcozacvD3U",
-        "title": "《齊天大聖》悟空｜五指山脫困後，她最終選擇為唐僧而戰｜孫悟空 × 西遊記【國風搖滾・Official MV・中文原創歌曲】",
-        "url": "https://www.youtube.com/watch?v=TNcozacvD3U",
-        "thumbnail": "https://i.ytimg.com/vi/TNcozacvD3U/maxresdefault.jpg",
-        "durationSeconds": 225,
-        "publishedAt": "2026-09-29T18:00:31.000+08:00",
-        "fetchedAt": "2026-10-16T13:25:44.186+08:00",
+        "videoId": "BmlXQmz6-AA",
+        "title": "《地母娘娘》｜阿拉丁神燈召喚的不是精靈，竟是大地之母！她能擋下毀滅城市的龍捲風嗎？【華語流行・東方神話・中文原創歌曲・Official MV】",
+        "url": "https://www.youtube.com/watch?v=BmlXQmz6-AA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/BmlXQmz6-AA/maxresdefault.webp",
+        "durationSeconds": 234,
+        "publishedAt": "2026-10-13T18:00:34.000+08:00",
+        "fetchedAt": "2026-10-16T13:30:16.195+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.83
+        "genreConfidence": 0.85
       }
     },
     {
