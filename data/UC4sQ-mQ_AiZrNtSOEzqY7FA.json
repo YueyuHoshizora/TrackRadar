@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-17T05:50:09.032+08:00",
+  "lastUpdated": "2026-10-17T05:55:08.699+08:00",
   "latestVideo": {
     "videoId": "8N8EMsh334A",
     "title": "遇見三年後，我們今天才真正認識彼此《今天才認識你》｜Yu Stellar｜星語",
@@ -22,13 +22,13 @@
     },
     {
       "videoId": "SaoFghauGOs",
-      "title": "一個人的搬家｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "一個人的搬家｜這次搬家不是離開誰，是靠近自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
     {
       "videoId": "3Q7XT8qrHas",
-      "title": "《散場後的路》三年後重新靠近的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "專案結束後，他終於問起三年前的那把傘《散場後的路》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
@@ -94,13 +94,13 @@
     },
     {
       "videoId": "5uSV8JwkgGs",
-      "title": "陌生早餐店｜第一次走進早餐店，老闆竟記得她不加糖｜Yu Stellar｜星語",
+      "title": "陌生早餐店｜前世今生系華語女聲宿命歌曲｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.4
     },
     {
       "videoId": "uOHGS7MvPs8",
-      "title": "《獨自看海》寫給一個人旅行的自由系華語抒情歌｜Yu Stellar｜星語",
+      "title": "一個人看海，也可以比有人陪更自由《獨自看海》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -124,13 +124,13 @@
     },
     {
       "videoId": "uZcCI6O6OhM",
-      "title": "一個人把租屋住成家，是長大後最溫柔的勇敢《窗台第二盆花》｜Yu Stellar｜星語",
+      "title": "第二盆花開了，她也終於不再等待誰來訪《窗台第二盆花》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.45
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜異地分離系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "紙上的地址｜地址可以改，想念卻搬不出舊習慣｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
