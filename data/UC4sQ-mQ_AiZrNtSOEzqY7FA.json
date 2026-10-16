@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-16T08:05:31.786+08:00",
+  "lastUpdated": "2026-10-16T08:10:30.318+08:00",
   "latestVideo": {
     "videoId": "3Q7XT8qrHas",
     "title": "有些關係，散場以後才真正開始《散場後的路》｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "3Q7XT8qrHas",
-      "title": "《散場後的路》三年後重新靠近的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "專案結束後，他終於問起三年前的那把傘《散場後的路》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "HcbXCfmK0ZI",
-      "title": "真正認識一個人，是從香菜和熱茶開始《午餐十二點半》｜Yu Stellar｜星語",
+      "title": "一頓工作午餐，讓記了三年的名字終於有了模樣《午餐十二點半》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "5uSV8JwkgGs",
-      "title": "陌生早餐店｜第一次走進早餐店，老闆竟記得她不加糖｜Yu Stellar｜星語",
+      "title": "陌生早餐店｜前世今生系華語女聲宿命歌曲｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.4
     },
@@ -112,7 +112,7 @@
     },
     {
       "videoId": "uZcCI6O6OhM",
-      "title": "一個人把租屋住成家，是長大後最溫柔的勇敢《窗台第二盆花》｜Yu Stellar｜星語",
+      "title": "第二盆花開了，她也終於不再等待誰來訪《窗台第二盆花》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.45
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "P7foTF8Z6Q8",
-      "title": "兩人一貓站在同一盞晚霞裡，已經足夠成為答案｜兩人一貓｜Yu Stellar｜星語",
+      "title": "多年後在寵物用品店重逢，我們只交換彼此的近況｜兩人一貓｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -172,13 +172,13 @@
     },
     {
       "videoId": "xjc4pFdZJfE",
-      "title": "你好，後來的你，謝謝你走成現在的自己｜你好，後來的你｜Yu Stellar｜星語",
+      "title": "多年後在老書店遇見你，我們只說了一句你好｜你好，後來的你｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "9UAtR4sixu4",
-      "title": "整理舊貓玩具時，我終於明白我們都曾努力生活｜盒底的鈴鐺｜Yu Stellar｜星語",
+      "title": "盒底的鈴鐺｜寫給重新理解一段感情的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
