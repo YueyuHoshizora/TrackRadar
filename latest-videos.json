@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-18T05:30:29.435+08:00",
+  "updatedAt": "2026-10-18T05:35:27.774+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "-Fox0IpfS50",
-        "title": "窗台的薄荷｜我不再是前世的影子，也能長出新生活｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=-Fox0IpfS50",
-        "thumbnail": "https://i.ytimg.com/vi/-Fox0IpfS50/maxresdefault.jpg",
-        "durationSeconds": 178,
-        "publishedAt": "2026-10-17T17:30:15.000+08:00",
-        "fetchedAt": "2026-10-17T17:35:07.365+08:00",
+        "videoId": "tRotND7VNnM",
+        "title": "有些相遇沒有早也沒有晚，只是我們終於準備好了《相遇》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=tRotND7VNnM",
+        "thumbnail": "https://i.ytimg.com/vi/tRotND7VNnM/maxresdefault.jpg",
+        "durationSeconds": 198,
+        "publishedAt": "2026-10-18T05:30:20.000+08:00",
+        "fetchedAt": "2026-10-18T05:35:06.745+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.52
+        "genreConfidence": 0.89
       }
     },
     {
