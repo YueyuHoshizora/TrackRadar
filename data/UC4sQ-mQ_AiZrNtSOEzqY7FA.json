@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-17T18:45:08.937+08:00",
+  "lastUpdated": "2026-10-17T18:50:10.108+08:00",
   "latestVideo": {
     "videoId": "-Fox0IpfS50",
     "title": "窗台的薄荷｜我不再是前世的影子，也能長出新生活｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "-Fox0IpfS50",
-      "title": "窗台的薄荷｜薄荷長出新葉後，她終於在今生生根｜Yu Stellar｜星語",
+      "title": "窗台的薄荷｜獨居成長系華語女聲療癒歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "hFHS_9DCjVw",
-      "title": "新鞋磨破腳｜長大就是腳磨破了，還要走進明天｜Yu Stellar｜星語",
+      "title": "新鞋磨破腳｜職場成長系華語女聲勵志歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.78
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "HcbXCfmK0ZI",
-      "title": "一頓工作午餐，讓記了三年的名字終於有了模樣《午餐十二點半》｜Yu Stellar｜星語",
+      "title": "真正認識一個人，是從香菜和熱茶開始《午餐十二點半》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "Mbho2s5i1BM",
-      "title": "《名字又出現》三年後意外重逢的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "她在會議名單第三行，看見三年前只見過一次的人《名字又出現》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -148,13 +148,13 @@
     },
     {
       "videoId": "bT9GwrPkD5c",
-      "title": "最後一班電梯｜體面告別系華語女聲失戀情歌｜Yu Stellar｜星語",
+      "title": "最後一班電梯｜他走進最後一班電梯，我們正式失去彼此｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "vRr0WmS-kTI",
-      "title": "你通訊錄裡，也有一個始終沒加上的人嗎？《沒有加上的人》｜Yu Stellar｜星語",
+      "title": "《沒有加上的人》錯過聯絡方式的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
