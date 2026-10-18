@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-18T17:41:34.476+08:00",
+  "updatedAt": "2026-10-18T17:46:02.553+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "-Fox0IpfS50",
-        "title": "窗台的薄荷｜我不再是前世的影子，也能長出新生活｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=-Fox0IpfS50",
-        "thumbnail": "https://i.ytimg.com/vi/-Fox0IpfS50/maxresdefault.jpg",
-        "durationSeconds": 178,
-        "publishedAt": "2026-10-17T17:30:15.000+08:00",
-        "fetchedAt": "2026-10-18T17:40:22.940+08:00",
+        "videoId": "1ngBWqUEf3M",
+        "title": "名字的重量｜不借誰的故事，我也能用自己的名字發光｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=1ngBWqUEf3M",
+        "thumbnail": "https://i.ytimg.com/vi/1ngBWqUEf3M/maxresdefault.jpg",
+        "durationSeconds": 162,
+        "publishedAt": "2026-10-18T17:30:11.000+08:00",
+        "fetchedAt": "2026-10-18T17:45:04.919+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.57
+        "genreConfidence": 0.47
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "7l7jikX0THQ",
-        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
-        "durationSeconds": 223,
-        "publishedAt": "2026-10-02T18:55:18.000+08:00",
-        "fetchedAt": "2026-10-18T17:40:12.633+08:00",
-        "genre": "動漫/ACG",
-        "genreConfidence": 0.39
+        "videoId": "_qo3tNhFo7I",
+        "title": "🔥《明日邊界2147》平凡的一天｜AN ORDINARY DAY — 新加坡2147 世界氛圍音樂｜Singapore 2147 World Ambience",
+        "url": "https://www.youtube.com/watch?v=_qo3tNhFo7I",
+        "thumbnail": "https://i.ytimg.com/vi_webp/_qo3tNhFo7I/maxresdefault.webp",
+        "durationSeconds": 264,
+        "publishedAt": "2026-08-22T01:00:13.000+08:00",
+        "fetchedAt": "2026-10-18T17:45:43.042+08:00",
+        "genre": "純音樂/器樂 Instrumental",
+        "genreConfidence": 0.8
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "CeVcwXA6VVo",
-        "title": "這一生，偏偏是卿《偏偏是卿》｜一世之外，可還有卿？｜命定之人・古風情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
-        "url": "https://www.youtube.com/watch?v=CeVcwXA6VVo",
-        "thumbnail": "https://i.ytimg.com/vi/CeVcwXA6VVo/maxresdefault.jpg?v=6ac662ce",
-        "durationSeconds": 279,
-        "publishedAt": "2026-10-08T12:00:11.000+08:00",
-        "fetchedAt": "2026-10-18T17:41:21.902+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "XxukYF7kZxg",
+        "title": "我不重要了，我甚麼都不要了《沉淪》｜百合愛情音樂微電影｜霧月詞・Xiaoloulou｜GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=XxukYF7kZxg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XxukYF7kZxg/maxresdefault.webp?v=6ace80fa",
+        "durationSeconds": 212,
+        "publishedAt": "2026-10-14T12:00:08.000+08:00",
+        "fetchedAt": "2026-10-18T17:45:48.557+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.76
       }
     },
     {
