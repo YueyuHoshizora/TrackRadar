@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T21:00:56.418+08:00",
+  "updatedAt": "2026-10-18T21:05:41.570+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "🔥《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-10-18T20:55:15.975+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.33
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-18T21:05:09.244+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.4
       }
     },
     {
@@ -334,15 +334,15 @@
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
       "latestVideo": {
-        "videoId": "Tp0w1Lw-3cM",
-        "title": "《流淚不是為你》【深夜emo必聽】我騙過所有人，卻騙不了自己，心底的裂痕從未癒合｜【YT十二弦月】｜ 弦斷誰聽",
-        "url": "https://www.youtube.com/watch?v=Tp0w1Lw-3cM",
-        "thumbnail": "https://i.ytimg.com/vi_webp/Tp0w1Lw-3cM/maxresdefault.webp",
-        "durationSeconds": 222,
-        "publishedAt": "2026-10-12T18:30:18.000+08:00",
-        "fetchedAt": "2026-10-18T21:00:45.761+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.97
+        "videoId": "0NmWjfjYfEo",
+        "title": "乩身｜鬼童沒有掐住他，卻在借他的肺呼吸…｜借身痛印 EP02 ｜ 弦斷誰聽",
+        "url": "https://www.youtube.com/watch?v=0NmWjfjYfEo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/0NmWjfjYfEo/maxresdefault.webp",
+        "durationSeconds": 174,
+        "publishedAt": "2026-10-18T21:00:15.000+08:00",
+        "fetchedAt": "2026-10-18T21:05:22.763+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.77
       }
     },
     {
