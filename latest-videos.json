@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T16:06:08.053+08:00",
+  "updatedAt": "2026-10-18T16:12:22.414+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "9CaWlcB__V0",
-        "title": "🔥《沒有夢的森林》The Forest Without Dreams｜明日邊界 2147｜璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=9CaWlcB__V0",
-        "thumbnail": "https://i.ytimg.com/vi_webp/9CaWlcB__V0/maxresdefault.webp",
-        "durationSeconds": 247,
-        "publishedAt": "2026-08-14T19:30:22.000+08:00",
-        "fetchedAt": "2026-10-18T16:05:59.346+08:00",
+        "videoId": "_qo3tNhFo7I",
+        "title": "🔥《明日邊界2147》平凡的一天｜AN ORDINARY DAY — 新加坡2147 世界氛圍音樂｜Singapore 2147 World Ambience",
+        "url": "https://www.youtube.com/watch?v=_qo3tNhFo7I",
+        "thumbnail": "https://i.ytimg.com/vi_webp/_qo3tNhFo7I/maxresdefault.webp",
+        "durationSeconds": 264,
+        "publishedAt": "2026-08-22T01:00:13.000+08:00",
+        "fetchedAt": "2026-10-18T16:11:30.529+08:00",
         "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.58
+        "genreConfidence": 0.8
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "jbpL0n03rVA",
-        "title": "她要替她穿上嫁衣《半夕蝶夢》續篇｜EP03｜音樂愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=jbpL0n03rVA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/jbpL0n03rVA/maxresdefault.webp",
-        "durationSeconds": 569,
-        "publishedAt": "2026-10-15T12:00:11.000+08:00",
-        "fetchedAt": "2026-10-18T16:00:43.950+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.43
+        "videoId": "JLna9aXUA7Y",
+        "title": "妳寫給我的歌，會讓我想太多《白雪與影子之間》｜愛情音樂微電影・雙女主 百合 GL｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=JLna9aXUA7Y",
+        "thumbnail": "https://i.ytimg.com/vi_webp/JLna9aXUA7Y/maxresdefault.webp?v=6ad344af",
+        "durationSeconds": 232,
+        "publishedAt": "2026-10-17T12:00:09.000+08:00",
+        "fetchedAt": "2026-10-18T16:12:09.009+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.86
       }
     },
     {
