@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T01:01:03.715+08:00",
+  "updatedAt": "2026-10-19T01:05:48.318+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "IKSgpVN_CvY",
-        "title": "別把今夜忘了《半夕蝶夢》EP 02｜原創愛情微電影｜霧月 Xiaoloulou｜百合 GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=IKSgpVN_CvY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/IKSgpVN_CvY/maxresdefault.webp?v=6acbe63e",
-        "durationSeconds": 258,
-        "publishedAt": "2026-10-12T12:00:07.000+08:00",
-        "fetchedAt": "2026-10-19T01:00:51.605+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.52
+        "videoId": "JLna9aXUA7Y",
+        "title": "妳寫給我的歌，會讓我想太多《白雪與影子之間》｜愛情音樂微電影・雙女主 百合 GL｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=JLna9aXUA7Y",
+        "thumbnail": "https://i.ytimg.com/vi_webp/JLna9aXUA7Y/maxresdefault.webp?v=6ad344af",
+        "durationSeconds": 232,
+        "publishedAt": "2026-10-17T12:00:09.000+08:00",
+        "fetchedAt": "2026-10-19T01:05:36.935+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.88
       }
     },
     {
