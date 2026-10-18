@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:46:02.553+08:00",
+  "updatedAt": "2026-10-18T17:50:50.058+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "_qo3tNhFo7I",
-        "title": "🔥《明日邊界2147》平凡的一天｜AN ORDINARY DAY — 新加坡2147 世界氛圍音樂｜Singapore 2147 World Ambience",
-        "url": "https://www.youtube.com/watch?v=_qo3tNhFo7I",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_qo3tNhFo7I/maxresdefault.webp",
-        "durationSeconds": 264,
-        "publishedAt": "2026-08-22T01:00:13.000+08:00",
-        "fetchedAt": "2026-10-18T17:45:43.042+08:00",
+        "videoId": "CsvkFZ57bu8",
+        "title": "🔥《找不回來的你》｜明日邊界2147 Universe｜The One I Couldn't Bring Back |璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=CsvkFZ57bu8",
+        "thumbnail": "https://i.ytimg.com/vi_webp/CsvkFZ57bu8/maxresdefault.webp",
+        "durationSeconds": 252,
+        "publishedAt": "2026-09-06T18:00:32.000+08:00",
+        "fetchedAt": "2026-10-18T17:50:47.546+08:00",
         "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.8
+        "genreConfidence": 0.33
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "XxukYF7kZxg",
-        "title": "我不重要了，我甚麼都不要了《沉淪》｜百合愛情音樂微電影｜霧月詞・Xiaoloulou｜GL 雙女主",
-        "url": "https://www.youtube.com/watch?v=XxukYF7kZxg",
-        "thumbnail": "https://i.ytimg.com/vi_webp/XxukYF7kZxg/maxresdefault.webp?v=6ace80fa",
-        "durationSeconds": 212,
-        "publishedAt": "2026-10-14T12:00:08.000+08:00",
-        "fetchedAt": "2026-10-18T17:45:48.557+08:00",
+        "videoId": "JLna9aXUA7Y",
+        "title": "妳寫給我的歌，會讓我想太多《白雪與影子之間》｜愛情音樂微電影・雙女主 百合 GL｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=JLna9aXUA7Y",
+        "thumbnail": "https://i.ytimg.com/vi_webp/JLna9aXUA7Y/maxresdefault.webp?v=6ad344af",
+        "durationSeconds": 232,
+        "publishedAt": "2026-10-17T12:00:09.000+08:00",
+        "fetchedAt": "2026-10-18T17:50:30.718+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.76
+        "genreConfidence": 0.88
       }
     },
     {
