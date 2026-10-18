@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T08:30:17.570+08:00",
+  "updatedAt": "2026-10-18T08:35:16.600+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "JLna9aXUA7Y",
-        "title": "妳寫給我的歌，會讓我想太多《白雪與影子之間》｜愛情音樂微電影・雙女主 百合 GL｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=JLna9aXUA7Y",
-        "thumbnail": "https://i.ytimg.com/vi_webp/JLna9aXUA7Y/maxresdefault.webp?v=6ad344af",
-        "durationSeconds": 232,
-        "publishedAt": "2026-10-17T12:00:09.000+08:00",
-        "fetchedAt": "2026-10-18T01:20:24.430+08:00",
+        "videoId": "XxukYF7kZxg",
+        "title": "我不重要了，我甚麼都不要了《沉淪》｜百合愛情音樂微電影｜霧月詞・Xiaoloulou｜GL 雙女主",
+        "url": "https://www.youtube.com/watch?v=XxukYF7kZxg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XxukYF7kZxg/maxresdefault.webp?v=6ace80fa",
+        "durationSeconds": 212,
+        "publishedAt": "2026-10-14T12:00:08.000+08:00",
+        "fetchedAt": "2026-10-18T08:35:11.043+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.88
+        "genreConfidence": 0.79
       }
     },
     {
