@@ -1,19 +1,25 @@
 {
   "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
   "channelTitle": "弦斷誰聽",
-  "lastUpdated": "2026-10-18T21:00:53.712+08:00",
+  "lastUpdated": "2026-10-18T21:05:25.175+08:00",
   "latestVideo": {
-    "videoId": "Tp0w1Lw-3cM",
-    "title": "《流淚不是為你》【深夜emo必聽】我騙過所有人，卻騙不了自己，心底的裂痕從未癒合｜【YT十二弦月】｜ 弦斷誰聽",
-    "url": "https://www.youtube.com/watch?v=Tp0w1Lw-3cM",
-    "thumbnail": "https://i.ytimg.com/vi_webp/Tp0w1Lw-3cM/maxresdefault.webp",
-    "durationSeconds": 222,
-    "publishedAt": "2026-10-12T18:30:18.000+08:00",
-    "fetchedAt": "2026-10-18T21:00:45.761+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.97
+    "videoId": "0NmWjfjYfEo",
+    "title": "乩身｜鬼童沒有掐住他，卻在借他的肺呼吸…｜借身痛印 EP02 ｜ 弦斷誰聽",
+    "url": "https://www.youtube.com/watch?v=0NmWjfjYfEo",
+    "thumbnail": "https://i.ytimg.com/vi_webp/0NmWjfjYfEo/maxresdefault.webp",
+    "durationSeconds": 174,
+    "publishedAt": "2026-10-18T21:00:15.000+08:00",
+    "fetchedAt": "2026-10-18T21:05:22.763+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 0.77
   },
   "allVideoIds": [
+    {
+      "videoId": "0NmWjfjYfEo",
+      "title": "乩身｜同一道壇的平安符，為何接連有人出事？｜借身痛印 EP02 ｜ 弦斷誰聽",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.77
+    },
     {
       "videoId": "VwRsOwSu_DU",
       "title": "《尼羅河女兒》官方高畫質完整版MV｜弦斷誰聽，唱盡古埃及三千年跨時空的無悔愛戀｜YT十二弦｜【弦斷誰聽】",
