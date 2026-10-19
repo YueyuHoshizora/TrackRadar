@@ -1,19 +1,25 @@
 {
   "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
   "channelTitle": "田井魚",
-  "lastUpdated": "2026-10-11T01:51:19.559+08:00",
+  "lastUpdated": "2026-10-19T17:35:11.895+08:00",
   "latestVideo": {
-    "videoId": "p8dl9srBUOw",
-    "title": "我講了半天，你只會嗯喔好《單音節動物》｜俏皮情歌",
-    "url": "https://www.youtube.com/watch?v=p8dl9srBUOw",
-    "thumbnail": "https://i.ytimg.com/vi_webp/p8dl9srBUOw/maxresdefault.webp",
-    "durationSeconds": 192,
-    "publishedAt": "2026-10-09T18:00:35.000+08:00",
-    "fetchedAt": "2026-10-09T18:01:16.426+08:00",
+    "videoId": "lMpMHJZSUtM",
+    "title": "那時候的我們，還不懂怎麼愛《錯位的青春》｜青春回憶",
+    "url": "https://www.youtube.com/watch?v=lMpMHJZSUtM",
+    "thumbnail": "https://i.ytimg.com/vi/lMpMHJZSUtM/maxresdefault.jpg",
+    "durationSeconds": 225,
+    "publishedAt": "2026-10-19T17:30:18.000+08:00",
+    "fetchedAt": "2026-10-19T17:35:11.136+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.73
+    "genreConfidence": 0.43
   },
   "allVideoIds": [
+    {
+      "videoId": "lMpMHJZSUtM",
+      "title": "那時候的我們，還不懂怎麼愛《錯位的青春》｜青春回憶",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.43
+    },
     {
       "videoId": "p8dl9srBUOw",
       "title": "我講了半天，你只會嗯喔好《單音節動物》｜俏皮情歌",
