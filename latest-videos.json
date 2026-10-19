@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-19T17:30:33.717+08:00",
+  "updatedAt": "2026-10-19T17:35:24.658+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "fe0gRQmYamA",
-        "title": "分開後最難的，是重新煮一人份的晚餐《半張餐桌》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=fe0gRQmYamA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/fe0gRQmYamA/maxresdefault.webp",
-        "durationSeconds": 166,
-        "publishedAt": "2026-10-19T05:30:36.000+08:00",
-        "fetchedAt": "2026-10-19T05:35:02.627+08:00",
+        "videoId": "qfTPIkVQZ1A",
+        "title": "晴天寄存處｜我的晴天不必寄給誰，自己也能簽收｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=qfTPIkVQZ1A",
+        "thumbnail": "https://i.ytimg.com/vi/qfTPIkVQZ1A/maxresdefault.jpg",
+        "durationSeconds": 150,
+        "publishedAt": "2026-10-19T17:30:37.000+08:00",
+        "fetchedAt": "2026-10-19T17:35:03.643+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.89
+        "genreConfidence": 0.51
       }
     },
     {
@@ -244,15 +244,15 @@
       "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
       "channelTitle": "田井魚",
       "latestVideo": {
-        "videoId": "p8dl9srBUOw",
-        "title": "我講了半天，你只會嗯喔好《單音節動物》｜俏皮情歌",
-        "url": "https://www.youtube.com/watch?v=p8dl9srBUOw",
-        "thumbnail": "https://i.ytimg.com/vi_webp/p8dl9srBUOw/maxresdefault.webp",
-        "durationSeconds": 192,
-        "publishedAt": "2026-10-09T18:00:35.000+08:00",
-        "fetchedAt": "2026-10-09T18:01:16.426+08:00",
+        "videoId": "lMpMHJZSUtM",
+        "title": "那時候的我們，還不懂怎麼愛《錯位的青春》｜青春回憶",
+        "url": "https://www.youtube.com/watch?v=lMpMHJZSUtM",
+        "thumbnail": "https://i.ytimg.com/vi/lMpMHJZSUtM/maxresdefault.jpg",
+        "durationSeconds": 225,
+        "publishedAt": "2026-10-19T17:30:18.000+08:00",
+        "fetchedAt": "2026-10-19T17:35:11.136+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.73
+        "genreConfidence": 0.43
       }
     },
     {
