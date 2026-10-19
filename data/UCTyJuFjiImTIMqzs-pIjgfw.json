@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-10-18T15:05:17.797+08:00",
+  "lastUpdated": "2026-10-19T15:00:10.901+08:00",
   "latestVideo": {
-    "videoId": "J84azgQ0YLk",
-    "title": "台語大帝國｜李多娜《還好啦》｜台語女聲 Rap 唱出夜班媽媽的心酸｜我毋是勇敢，是無時間流目屎｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=J84azgQ0YLk",
-    "thumbnail": "https://i.ytimg.com/vi_webp/J84azgQ0YLk/maxresdefault.webp",
-    "durationSeconds": 232,
-    "publishedAt": "2026-10-18T14:46:34.000+08:00",
-    "fetchedAt": "2026-10-18T15:05:07.164+08:00",
-    "genre": "嘻哈/饒舌 Hip-Hop/Rap",
-    "genreConfidence": 1
+    "videoId": "aVd9uv8ddK4",
+    "title": "台語大帝國｜《咱攏是為生活的人》｜做工的人 手若烏有啥關係、巷仔口的風 你若閣吹過｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=aVd9uv8ddK4",
+    "thumbnail": "https://i.ytimg.com/vi_webp/aVd9uv8ddK4/maxresdefault.webp",
+    "durationSeconds": 206,
+    "publishedAt": "2026-10-19T14:58:51.000+08:00",
+    "fetchedAt": "2026-10-19T15:00:09.531+08:00",
+    "genre": "流行 Pop",
+    "genreConfidence": 0.24
   },
   "allVideoIds": [
+    {
+      "videoId": "aVd9uv8ddK4",
+      "title": "台語大帝國｜《咱攏是為生活的人》｜做工的人 手若烏有啥關係、巷仔口的風 你若閣吹過｜筠芙得利【Official MV】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.24
+    },
     {
       "videoId": "J84azgQ0YLk",
       "title": "台語大帝國｜李多娜《還好啦》｜台語女聲 Rap 唱出夜班媽媽的心酸｜我毋是勇敢，是無時間流目屎｜筠芙得利【Official MV】",
