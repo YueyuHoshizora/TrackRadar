@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T11:26:20.585+08:00",
+  "updatedAt": "2026-10-19T11:30:38.642+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "_qo3tNhFo7I",
-        "title": "🔥《明日邊界2147》平凡的一天｜AN ORDINARY DAY — 新加坡2147 世界氛圍音樂｜Singapore 2147 World Ambience",
-        "url": "https://www.youtube.com/watch?v=_qo3tNhFo7I",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_qo3tNhFo7I/maxresdefault.webp",
-        "durationSeconds": 264,
-        "publishedAt": "2026-08-22T01:00:13.000+08:00",
-        "fetchedAt": "2026-10-19T11:25:39.900+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.78
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-19T11:30:07.121+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.38
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "CeVcwXA6VVo",
-        "title": "這一生，偏偏是卿《偏偏是卿》｜一世之外，可還有卿？｜命定之人・古風情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
-        "url": "https://www.youtube.com/watch?v=CeVcwXA6VVo",
-        "thumbnail": "https://i.ytimg.com/vi/CeVcwXA6VVo/maxresdefault.jpg?v=6ac662ce",
-        "durationSeconds": 279,
-        "publishedAt": "2026-10-08T12:00:11.000+08:00",
-        "fetchedAt": "2026-10-19T11:26:07.688+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "JLna9aXUA7Y",
+        "title": "妳寫給我的歌，會讓我想太多《白雪與影子之間》｜愛情音樂微電影・雙女主 百合 GL｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=JLna9aXUA7Y",
+        "thumbnail": "https://i.ytimg.com/vi_webp/JLna9aXUA7Y/maxresdefault.webp?v=6ad344af",
+        "durationSeconds": 232,
+        "publishedAt": "2026-10-17T12:00:09.000+08:00",
+        "fetchedAt": "2026-10-19T11:30:28.944+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.88
       }
     },
     {
