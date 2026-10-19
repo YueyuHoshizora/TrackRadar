@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T10:05:32.903+08:00",
+  "updatedAt": "2026-10-19T10:11:20.951+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "7l7jikX0THQ",
-        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
-        "durationSeconds": 223,
-        "publishedAt": "2026-10-02T18:55:18.000+08:00",
-        "fetchedAt": "2026-10-19T10:05:05.259+08:00",
-        "genre": "動漫/ACG",
-        "genreConfidence": 0.4
+        "videoId": "9CaWlcB__V0",
+        "title": "🔥《沒有夢的森林》The Forest Without Dreams｜明日邊界 2147｜璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=9CaWlcB__V0",
+        "thumbnail": "https://i.ytimg.com/vi_webp/9CaWlcB__V0/maxresdefault.webp",
+        "durationSeconds": 247,
+        "publishedAt": "2026-08-14T19:30:22.000+08:00",
+        "fetchedAt": "2026-10-19T10:10:27.399+08:00",
+        "genre": "純音樂/器樂 Instrumental",
+        "genreConfidence": 0.6
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "JLna9aXUA7Y",
-        "title": "妳寫給我的歌，會讓我想太多《白雪與影子之間》｜愛情音樂微電影・雙女主 百合 GL｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=JLna9aXUA7Y",
-        "thumbnail": "https://i.ytimg.com/vi_webp/JLna9aXUA7Y/maxresdefault.webp?v=6ad344af",
-        "durationSeconds": 232,
-        "publishedAt": "2026-10-17T12:00:09.000+08:00",
-        "fetchedAt": "2026-10-19T10:05:24.945+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.87
+        "videoId": "CeVcwXA6VVo",
+        "title": "這一生，偏偏是卿《偏偏是卿》｜一世之外，可還有卿？｜命定之人・古風情歌｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
+        "url": "https://www.youtube.com/watch?v=CeVcwXA6VVo",
+        "thumbnail": "https://i.ytimg.com/vi/CeVcwXA6VVo/maxresdefault.jpg?v=6ac662ce",
+        "durationSeconds": 279,
+        "publishedAt": "2026-10-08T12:00:11.000+08:00",
+        "fetchedAt": "2026-10-19T10:11:09.674+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
