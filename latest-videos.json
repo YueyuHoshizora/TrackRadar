@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T18:25:28.559+08:00",
+  "updatedAt": "2026-10-19T18:30:30.181+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -334,15 +334,15 @@
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
       "latestVideo": {
-        "videoId": "0NmWjfjYfEo",
-        "title": "乩身｜鬼童沒有掐住他，卻在借他的肺呼吸…｜借身痛印 EP02 ｜ 弦斷誰聽",
-        "url": "https://www.youtube.com/watch?v=0NmWjfjYfEo",
-        "thumbnail": "https://i.ytimg.com/vi_webp/0NmWjfjYfEo/maxresdefault.webp",
-        "durationSeconds": 174,
-        "publishedAt": "2026-10-18T21:00:15.000+08:00",
-        "fetchedAt": "2026-10-18T21:05:22.763+08:00",
+        "videoId": "6N9FLPghuTk",
+        "title": "《愛神惹的禍》｜孟婆 VS 邱比特 ｜ 你負責放箭，我負責收爛攤？ ｜ 弦斷誰聽",
+        "url": "https://www.youtube.com/watch?v=6N9FLPghuTk",
+        "thumbnail": "https://i.ytimg.com/vi_webp/6N9FLPghuTk/maxresdefault.webp",
+        "durationSeconds": 160,
+        "publishedAt": "2026-10-19T18:30:02.000+08:00",
+        "fetchedAt": "2026-10-19T18:30:17.951+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.77
+        "genreConfidence": 0.69
       }
     },
     {
@@ -469,15 +469,15 @@
       "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
       "channelTitle": "Moyamina",
       "latestVideo": {
-        "videoId": "qlH0AkOz7rI",
-        "title": "靠得太近，已經捨不得走《Too Close. Too Deep》｜慾望與拉扯",
-        "url": "https://www.youtube.com/watch?v=qlH0AkOz7rI",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qlH0AkOz7rI/maxresdefault.webp",
-        "durationSeconds": 208,
-        "publishedAt": "2026-10-08T18:45:08.000+08:00",
-        "fetchedAt": "2026-10-08T20:26:24.486+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.68
+        "videoId": "XZ6C9E4wyXY",
+        "title": "如果房間裡真的有人呢？《He Sees Me》｜暗黑恐怖搖籃曲",
+        "url": "https://www.youtube.com/watch?v=XZ6C9E4wyXY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/XZ6C9E4wyXY/maxresdefault.webp",
+        "durationSeconds": 182,
+        "publishedAt": "2026-10-19T18:30:00.000+08:00",
+        "fetchedAt": "2026-10-19T18:30:26.019+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.66
       }
     }
   ]
