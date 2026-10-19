@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T07:56:16.572+08:00",
+  "updatedAt": "2026-10-19T08:00:43.687+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "8FKKm3A1Q_w",
-        "title": "這人生，怎麼都磨不合《磨開》｜失眠情歌・藍調｜霧月詞・Xiaoloulou【Official Music Video】｜官方MV",
-        "url": "https://www.youtube.com/watch?v=8FKKm3A1Q_w",
-        "thumbnail": "https://i.ytimg.com/vi_webp/8FKKm3A1Q_w/maxresdefault.webp?v=6ac8286e",
-        "durationSeconds": 222,
-        "publishedAt": "2026-10-10T12:00:09.000+08:00",
-        "fetchedAt": "2026-10-19T07:56:04.645+08:00",
+        "videoId": "JLna9aXUA7Y",
+        "title": "妳寫給我的歌，會讓我想太多《白雪與影子之間》｜愛情音樂微電影・雙女主 百合 GL｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=JLna9aXUA7Y",
+        "thumbnail": "https://i.ytimg.com/vi_webp/JLna9aXUA7Y/maxresdefault.webp?v=6ad344af",
+        "durationSeconds": 232,
+        "publishedAt": "2026-10-17T12:00:09.000+08:00",
+        "fetchedAt": "2026-10-19T08:00:30.924+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.68
+        "genreConfidence": 0.87
       }
     },
     {
