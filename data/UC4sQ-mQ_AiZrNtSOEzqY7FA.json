@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-19T18:50:07.472+08:00",
+  "lastUpdated": "2026-10-19T18:55:07.702+08:00",
   "latestVideo": {
     "videoId": "qfTPIkVQZ1A",
     "title": "晴天寄存處｜我的晴天不必寄給誰，自己也能簽收｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "qfTPIkVQZ1A",
-      "title": "晴天寄存處｜我的晴天不必寄給誰，自己也能簽收｜Yu Stellar｜星語",
+      "title": "晴天寄存處｜走出失戀系華語女聲療癒歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "8N8EMsh334A",
-      "title": "《今天才認識你》成熟相遇與慢慢靠近的華語抒情歌｜Yu Stellar｜星語",
+      "title": "書店裡的第二次相遇，他們終於說出各自走過的三年《今天才認識你》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
@@ -82,13 +82,13 @@
     },
     {
       "videoId": "1HkFnI6qVkA",
-      "title": "《你怕冷的原因》理解一個人背後故事的華語抒情歌｜Yu Stellar｜星語",
+      "title": "你以為他不在意，其實他正扛著沒說出口的重量《你怕冷的原因》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "DU-leXwtOXg",
-      "title": "把燈開著｜獨居療癒系華語女聲歌曲｜Yu Stellar｜星語",
+      "title": "把燈開著｜她不再等誰回家，卻讓燈亮了一整夜｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -112,13 +112,13 @@
     },
     {
       "videoId": "3da8OxYlRvc",
-      "title": "未讀的星期天｜前世夢境系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "未讀的星期天｜沒有寄件人的夢，為何反覆出現同一扇門｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
     {
       "videoId": "Mbho2s5i1BM",
-      "title": "那個消失三年的名字，突然出現在工作郵件裡《名字又出現》｜Yu Stellar｜星語",
+      "title": "《名字又出現》三年後意外重逢的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "uLEX7Y3bvYw",
-      "title": "員工證照片很僵硬，她卻在忙亂裡找回自己《新工作的早晨》｜Yu Stellar｜星語",
+      "title": "剛開始工作的你，也曾努力把自己站穩嗎？《新工作的早晨》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.45
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "vRr0WmS-kTI",
-      "title": "聚會取消後，那個名字永遠停在「確認」以前《沒有加上的人》｜Yu Stellar｜星語",
+      "title": "你通訊錄裡，也有一個始終沒加上的人嗎？《沒有加上的人》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
