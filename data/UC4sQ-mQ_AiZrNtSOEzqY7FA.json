@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-19T18:45:07.402+08:00",
+  "lastUpdated": "2026-10-19T18:50:07.472+08:00",
   "latestVideo": {
     "videoId": "qfTPIkVQZ1A",
     "title": "晴天寄存處｜我的晴天不必寄給誰，自己也能簽收｜Yu Stellar｜星語",
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "1ngBWqUEf3M",
-      "title": "名字的重量｜她完成第一個專案，終於成為今生的自己｜Yu Stellar｜星語",
+      "title": "名字的重量｜女性職場成長系華語女聲勵志歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.47
     },
@@ -52,13 +52,13 @@
     },
     {
       "videoId": "SaoFghauGOs",
-      "title": "一個人的搬家｜這次搬家不是離開誰，是靠近自己｜Yu Stellar｜星語",
+      "title": "一個人的搬家｜前世被迫離城，今生她主動選擇新生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
     {
       "videoId": "3Q7XT8qrHas",
-      "title": "專案結束後，他終於問起三年前的那把傘《散場後的路》｜Yu Stellar｜星語",
+      "title": "《散場後的路》三年後重新靠近的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
@@ -124,13 +124,13 @@
     },
     {
       "videoId": "5uSV8JwkgGs",
-      "title": "陌生早餐店｜有些習慣忘了前世，身體卻還記得｜Yu Stellar｜星語",
+      "title": "陌生早餐店｜第一次走進早餐店，老闆竟記得她不加糖｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.4
     },
     {
       "videoId": "uOHGS7MvPs8",
-      "title": "一個人看海，也可以比有人陪更自由《獨自看海》｜Yu Stellar｜星語",
+      "title": "她獨自搭上海線客運，最後只替自己買了明信片《獨自看海》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜搬到另一座城後，她才開始真正失戀｜Yu Stellar｜星語",
+      "title": "紙上的地址｜異地分離系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "vRr0WmS-kTI",
-      "title": "你通訊錄裡，也有一個始終沒加上的人嗎？《沒有加上的人》｜Yu Stellar｜星語",
+      "title": "聚會取消後，那個名字永遠停在「確認」以前《沒有加上的人》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
