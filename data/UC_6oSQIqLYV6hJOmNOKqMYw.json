@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-10-16T11:30:22.577+08:00",
+  "lastUpdated": "2026-10-20T11:30:39.319+08:00",
   "latestVideo": {
     "videoId": "wGsOz0hzKv4",
     "title": "《城隍看人間》｜看盡世間百態，一首唱出人情冷暖的震撼華語原創歌曲【2026 全台城隍大會師】",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.85
   },
   "allVideoIds": [
+    {
+      "videoId": "iuSbqnnPBcc",
+      "title": "玄天上帝《玄天》｜放下屠刀、龜蛇護法與七星寶劍｜台灣民俗原創歌曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.99
+    },
     {
       "videoId": "wGsOz0hzKv4",
       "title": "《城隍看人間》｜看盡世間百態，一首唱出人情冷暖的震撼華語原創歌曲【2026 全台城隍大會師】",
