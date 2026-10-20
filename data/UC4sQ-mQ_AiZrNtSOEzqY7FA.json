@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-21T06:35:31.182+08:00",
+  "lastUpdated": "2026-10-21T06:40:30.857+08:00",
   "latestVideo": {
     "videoId": "zRtAOjRKs8g",
     "title": "有些孤獨，只是生活陪你熬到太晚《凌晨洗衣店》｜Yu Stellar｜星語",
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "8N8EMsh334A",
-      "title": "《今天才認識你》成熟相遇與慢慢靠近的華語抒情歌｜Yu Stellar｜星語",
+      "title": "書店裡的第二次相遇，他們終於說出各自走過的三年《今天才認識你》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "okYZQcMqTBI",
-      "title": "午休的風｜我叫不出你的名字，卻記得曾經愛過｜Yu Stellar｜星語",
+      "title": "午休的風｜天台一陣風，吹回她沒有經歷過的愛｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -118,19 +118,19 @@
     },
     {
       "videoId": "oBle1qTszwM",
-      "title": "夜車經過海邊｜前世記憶系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "夜車經過海邊｜夜車經過陌生海岸，她突然想起前世｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.71
     },
     {
       "videoId": "gEG2PlPG9Cs",
-      "title": "《第一次會議》職場重逢的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "視訊第四格亮起時，他問：還記得三年前的雨嗎？《第一次會議》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.43
     },
     {
       "videoId": "3da8OxYlRvc",
-      "title": "未讀的星期天｜前世夢境系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "未讀的星期天｜有些夢醒了，卻像一封沒讀完的信｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "6VX_MsMFFJE",
-      "title": "雨衣掛在門後｜多年後她等到的，不是重逢而是死訊｜Yu Stellar｜星語",
+      "title": "雨衣掛在門後｜前世死別系華語女聲宿命情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜搬到另一座城後，她才開始真正失戀｜Yu Stellar｜星語",
+      "title": "紙上的地址｜異地分離系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -190,7 +190,7 @@
     },
     {
       "videoId": "bT9GwrPkD5c",
-      "title": "最後一班電梯｜最難的告別，是電梯門關上也沒人挽留｜Yu Stellar｜星語",
+      "title": "最後一班電梯｜他走進最後一班電梯，我們正式失去彼此｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -208,7 +208,7 @@
     },
     {
       "videoId": "suI7UWsEOcM",
-      "title": "《一站以前》公車偶遇與錯過的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "按錯下車鈴的那幾秒，我們忘了交換聯絡方式《一站以前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -244,7 +244,7 @@
     },
     {
       "videoId": "US7L9OBay8U",
-      "title": "回到最初，不是回到從前｜回到最初｜Yu Stellar｜星語",
+      "title": "回到最初｜一首重返故城卻不再回頭的情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -256,7 +256,7 @@
     },
     {
       "videoId": "waD4ZMRNZa8",
-      "title": "原來那段路沒有白走，答案是各自成為自己｜舊城的答案｜Yu Stellar｜星語",
+      "title": "舊城的答案｜寫給走過遺憾後終於釋懷的人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
