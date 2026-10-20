@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:45:45.110+08:00",
+  "updatedAt": "2026-10-20T20:50:54.141+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,20 +394,20 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "JLna9aXUA7Y",
-        "title": "妳寫給我的歌，會讓我想太多《白雪與影子之間》｜愛情音樂微電影・雙女主 百合 GL｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=JLna9aXUA7Y",
-        "thumbnail": "https://i.ytimg.com/vi_webp/JLna9aXUA7Y/maxresdefault.webp?v=6ad344af",
-        "durationSeconds": 232,
-        "publishedAt": "2026-10-17T12:00:09.000+08:00",
-        "fetchedAt": "2026-10-20T19:55:42.099+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.87
+        "videoId": "9S15iZ3KvGI",
+        "title": "等一下，這句是我寫的《妳落在我的留白裡》EP01｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=9S15iZ3KvGI",
+        "thumbnail": "https://i.ytimg.com/vi/9S15iZ3KvGI/maxresdefault.jpg?v=6ad5c7c2",
+        "durationSeconds": 143,
+        "publishedAt": "2026-10-19T16:00:07.000+08:00",
+        "fetchedAt": "2026-10-20T20:50:42.666+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.85
       }
     },
     {
       "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
-      "channelTitle": "九黎月",
+      "channelTitle": "jiuliyue",
       "latestVideo": {
         "videoId": "Xs8CBMhIEdM",
         "title": "【中國風 - 偶爾的曾經】若我只是途中一席，何必許我　此生不離 🎧 －九黎月｜潮流R&B原創【Official Lyric Video】",
@@ -439,15 +439,15 @@
       "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
       "channelTitle": "璃煙",
       "latestVideo": {
-        "videoId": "yDpsrvz_D8k",
-        "title": "《藏紅妝》番外七夕篇：人間共朝夕丨【PixAI 第一屆動畫創作大賽】",
-        "url": "https://www.youtube.com/watch?v=yDpsrvz_D8k",
-        "thumbnail": "https://i.ytimg.com/vi/yDpsrvz_D8k/maxresdefault.jpg",
-        "durationSeconds": 121,
-        "publishedAt": "2026-09-15T18:11:36.000+08:00",
-        "fetchedAt": "2026-10-20T19:40:43.958+08:00",
+        "videoId": "QqVor_jBaI4",
+        "title": "《藏紅妝》31–35集合集｜餘生之後？將軍府的甜蜜日常｜古裝百合短劇",
+        "url": "https://www.youtube.com/watch?v=QqVor_jBaI4",
+        "thumbnail": "https://i.ytimg.com/vi_webp/QqVor_jBaI4/maxresdefault.webp",
+        "durationSeconds": 731,
+        "publishedAt": "2026-10-20T19:20:16.000+08:00",
+        "fetchedAt": "2026-10-20T20:50:42.159+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.47
+        "genreConfidence": 0.78
       }
     },
     {
