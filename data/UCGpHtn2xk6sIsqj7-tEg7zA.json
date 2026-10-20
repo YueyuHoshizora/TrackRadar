@@ -1,19 +1,25 @@
 {
   "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
   "channelTitle": "ChillVibes",
-  "lastUpdated": "2026-10-16T21:00:35.110+08:00",
+  "lastUpdated": "2026-10-20T21:00:45.992+08:00",
   "latestVideo": {
-    "videoId": "Kp_EWd_et1c",
-    "title": "今天這樣就好 Call It a Day｜適合工作、讀書與夜晚放鬆的柔和 R&B · NIGHT.18",
-    "url": "https://www.youtube.com/watch?v=Kp_EWd_et1c",
-    "thumbnail": "https://i.ytimg.com/vi_webp/Kp_EWd_et1c/maxresdefault.webp",
-    "durationSeconds": 243,
-    "publishedAt": "2026-10-16T21:00:08.000+08:00",
-    "fetchedAt": "2026-10-16T21:00:33.211+08:00",
+    "videoId": "XBcm3x63p4E",
+    "title": "今天不趕時間，這首歌陪你慢慢回家｜適合工作、讀書與夜間通勤的柔和 R&B · NIGHT.19",
+    "url": "https://www.youtube.com/watch?v=XBcm3x63p4E",
+    "thumbnail": "https://i.ytimg.com/vi_webp/XBcm3x63p4E/maxresdefault.webp",
+    "durationSeconds": 254,
+    "publishedAt": "2026-10-20T21:00:15.000+08:00",
+    "fetchedAt": "2026-10-20T21:00:45.227+08:00",
     "genre": "R&B/Soul",
     "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "XBcm3x63p4E",
+      "title": "今天不趕時間，這首歌陪你慢慢回家｜適合工作、讀書與夜間通勤的柔和 R&B · NIGHT.19",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.99
+    },
     {
       "videoId": "Kp_EWd_et1c",
       "title": "今天這樣就好 Call It a Day｜適合工作、讀書與夜晚放鬆的柔和 R&B · NIGHT.18",
