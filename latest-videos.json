@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-21T05:30:43.179+08:00",
+  "updatedAt": "2026-10-21T05:35:45.415+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "T7p6rXMv6es",
-        "title": "回憶的背面｜有些記憶不屬於今生，卻寫著我的地址｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=T7p6rXMv6es",
-        "thumbnail": "https://i.ytimg.com/vi/T7p6rXMv6es/maxresdefault.jpg",
-        "durationSeconds": 172,
-        "publishedAt": "2026-10-20T17:30:22.000+08:00",
-        "fetchedAt": "2026-10-20T17:50:31.034+08:00",
+        "videoId": "zRtAOjRKs8g",
+        "title": "有些孤獨，只是生活陪你熬到太晚《凌晨洗衣店》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=zRtAOjRKs8g",
+        "thumbnail": "https://i.ytimg.com/vi/zRtAOjRKs8g/maxresdefault.jpg",
+        "durationSeconds": 170,
+        "publishedAt": "2026-10-21T05:30:33.000+08:00",
+        "fetchedAt": "2026-10-21T05:35:31.105+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.82
+        "genreConfidence": 0.92
       }
     },
     {
