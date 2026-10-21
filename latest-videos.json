@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-21T18:15:45.422+08:00",
+  "updatedAt": "2026-10-21T18:20:44.393+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "zRtAOjRKs8g",
-        "title": "有些孤獨，只是生活陪你熬到太晚《凌晨洗衣店》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=zRtAOjRKs8g",
-        "thumbnail": "https://i.ytimg.com/vi/zRtAOjRKs8g/maxresdefault.jpg",
-        "durationSeconds": 170,
-        "publishedAt": "2026-10-21T05:30:33.000+08:00",
-        "fetchedAt": "2026-10-21T05:35:31.105+08:00",
+        "videoId": "gWv0mzqz6CI",
+        "title": "約定的另一種說法｜真正的約定，不是等你，是活成自己｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=gWv0mzqz6CI",
+        "thumbnail": "https://i.ytimg.com/vi/gWv0mzqz6CI/maxresdefault.jpg",
+        "durationSeconds": 190,
+        "publishedAt": "2026-10-21T17:30:17.000+08:00",
+        "fetchedAt": "2026-10-21T18:20:31.099+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.92
+        "genreConfidence": 0.86
       }
     },
     {
