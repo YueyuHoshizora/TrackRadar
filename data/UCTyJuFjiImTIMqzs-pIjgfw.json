@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-10-19T15:00:10.901+08:00",
+  "lastUpdated": "2026-10-21T15:45:38.180+08:00",
   "latestVideo": {
-    "videoId": "aVd9uv8ddK4",
-    "title": "台語大帝國｜《咱攏是為生活的人》｜做工的人 手若烏有啥關係、巷仔口的風 你若閣吹過｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=aVd9uv8ddK4",
-    "thumbnail": "https://i.ytimg.com/vi_webp/aVd9uv8ddK4/maxresdefault.webp",
-    "durationSeconds": 206,
-    "publishedAt": "2026-10-19T14:58:51.000+08:00",
-    "fetchedAt": "2026-10-19T15:00:09.531+08:00",
-    "genre": "流行 Pop",
-    "genreConfidence": 0.24
+    "videoId": "uukcOZ9J-qk",
+    "title": "台語大帝國｜王爺《有我佇遮》(台語史詩搖滾)｜代天巡狩，護你平安到天光｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=uukcOZ9J-qk",
+    "thumbnail": "https://i.ytimg.com/vi/uukcOZ9J-qk/maxresdefault.jpg",
+    "durationSeconds": 214,
+    "publishedAt": "2026-10-21T15:45:07.000+08:00",
+    "fetchedAt": "2026-10-21T15:45:37.052+08:00",
+    "genre": "搖滾 Rock",
+    "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "uukcOZ9J-qk",
+      "title": "台語大帝國｜王爺《有我佇遮》(台語史詩搖滾)｜代天巡狩，護你平安到天光｜筠芙得利【Official MV】",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 1
+    },
     {
       "videoId": "aVd9uv8ddK4",
       "title": "台語大帝國｜《咱攏是為生活的人》｜做工的人 手若烏有啥關係、巷仔口的風 你若閣吹過｜筠芙得利【Official MV】",
