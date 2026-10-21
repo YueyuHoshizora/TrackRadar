@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-22T05:26:04.415+08:00",
+  "updatedAt": "2026-10-22T05:31:10.791+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "gWv0mzqz6CI",
-        "title": "約定的另一種說法｜真正的約定，不是等你，是活成自己｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=gWv0mzqz6CI",
-        "thumbnail": "https://i.ytimg.com/vi/gWv0mzqz6CI/maxresdefault.jpg",
-        "durationSeconds": 190,
-        "publishedAt": "2026-10-21T17:30:17.000+08:00",
-        "fetchedAt": "2026-10-21T18:20:31.099+08:00",
+        "videoId": "Hjo-XpqOHS4",
+        "title": "想念一個人，也可以選擇不再打擾《未送出的票》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=Hjo-XpqOHS4",
+        "thumbnail": "https://i.ytimg.com/vi/Hjo-XpqOHS4/maxresdefault.jpg",
+        "durationSeconds": 187,
+        "publishedAt": "2026-10-22T05:30:25.000+08:00",
+        "fetchedAt": "2026-10-22T05:30:58.686+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.86
+        "genreConfidence": 0.96
       }
     },
     {
