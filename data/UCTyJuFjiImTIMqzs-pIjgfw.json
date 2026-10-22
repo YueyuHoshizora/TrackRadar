@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-10-21T15:45:38.180+08:00",
+  "lastUpdated": "2026-10-22T14:30:57.427+08:00",
   "latestVideo": {
-    "videoId": "uukcOZ9J-qk",
-    "title": "台語大帝國｜王爺《有我佇遮》(台語史詩搖滾)｜代天巡狩，護你平安到天光｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=uukcOZ9J-qk",
-    "thumbnail": "https://i.ytimg.com/vi/uukcOZ9J-qk/maxresdefault.jpg",
-    "durationSeconds": 214,
-    "publishedAt": "2026-10-21T15:45:07.000+08:00",
-    "fetchedAt": "2026-10-21T15:45:37.052+08:00",
-    "genre": "搖滾 Rock",
-    "genreConfidence": 1
+    "videoId": "x6JgJunissQ",
+    "title": "台語大帝國｜李多娜《我無欠你啥》｜沒錢時陪你吃麵，出頭後卻嫌我愛唸｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=x6JgJunissQ",
+    "thumbnail": "https://i.ytimg.com/vi/x6JgJunissQ/maxresdefault.jpg",
+    "durationSeconds": 172,
+    "publishedAt": "2026-10-22T14:30:02.000+08:00",
+    "fetchedAt": "2026-10-22T14:30:56.464+08:00",
+    "genre": "抒情/情歌 Ballad",
+    "genreConfidence": 0.4
   },
   "allVideoIds": [
+    {
+      "videoId": "x6JgJunissQ",
+      "title": "台語大帝國｜李多娜《我無欠你啥》｜沒錢時陪你吃麵，出頭後卻嫌我愛唸｜筠芙得利【Official MV】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.4
+    },
     {
       "videoId": "uukcOZ9J-qk",
       "title": "台語大帝國｜王爺《有我佇遮》(台語史詩搖滾)｜代天巡狩，護你平安到天光｜筠芙得利【Official MV】",
