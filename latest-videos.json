@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-22T18:46:17.448+08:00",
+  "updatedAt": "2026-10-22T18:51:05.548+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "Hjo-XpqOHS4",
-        "title": "想念一個人，也可以選擇不再打擾《未送出的票》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=Hjo-XpqOHS4",
-        "thumbnail": "https://i.ytimg.com/vi/Hjo-XpqOHS4/maxresdefault.jpg",
-        "durationSeconds": 187,
-        "publishedAt": "2026-10-22T05:30:25.000+08:00",
-        "fetchedAt": "2026-10-22T05:30:58.686+08:00",
+        "videoId": "YgExFBz5rCg",
+        "title": "返鄉前的清單｜清單沒有你的名字，我還是決定回去｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=YgExFBz5rCg",
+        "thumbnail": "https://i.ytimg.com/vi/YgExFBz5rCg/maxresdefault.jpg",
+        "durationSeconds": 184,
+        "publishedAt": "2026-10-22T17:30:13.000+08:00",
+        "fetchedAt": "2026-10-22T18:50:52.321+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.96
+        "genreConfidence": 0.56
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "🔥《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-10-22T18:46:03.737+08:00",
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-22T18:50:53.715+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.33
+        "genreConfidence": 0.34
       }
     },
     {
