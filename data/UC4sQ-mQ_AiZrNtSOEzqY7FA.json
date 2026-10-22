@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-22T09:35:58.155+08:00",
+  "lastUpdated": "2026-10-22T09:40:53.250+08:00",
   "latestVideo": {
     "videoId": "Hjo-XpqOHS4",
     "title": "想念一個人，也可以選擇不再打擾《未送出的票》｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "Hjo-XpqOHS4",
-      "title": "她打好「週六有空嗎」，最後只買了一張票《未送出的票》｜Yu Stellar｜星語",
+      "title": "想念一個人，也可以選擇不再打擾《未送出的票》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "gWv0mzqz6CI",
-      "title": "約定的另一種說法｜前世今生系華語女聲療癒情歌｜Yu Stellar｜星語",
+      "title": "約定的另一種說法｜查到前世舊城後，她終於讀懂那場分離｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -34,7 +34,7 @@
     },
     {
       "videoId": "T7p6rXMv6es",
-      "title": "回憶的背面｜她買下陌生街景照，背面竟是夢裡的家｜Yu Stellar｜星語",
+      "title": "回憶的背面｜前世記憶系華語女聲宿命情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.44
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "qfTPIkVQZ1A",
-      "title": "晴天寄存處｜走出失戀系華語女聲療癒歌｜Yu Stellar｜星語",
+      "title": "晴天寄存處｜我的晴天不必寄給誰，自己也能簽收｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
@@ -58,19 +58,19 @@
     },
     {
       "videoId": "1ngBWqUEf3M",
-      "title": "名字的重量｜女性職場成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "名字的重量｜她完成第一個專案，終於成為今生的自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.47
     },
     {
       "videoId": "tRotND7VNnM",
-      "title": "三年前只交換姓名，三年後他問：下週還有空嗎？《相遇》｜Yu Stellar｜星語",
+      "title": "《相遇》三年後再次走近彼此的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
     {
       "videoId": "-Fox0IpfS50",
-      "title": "窗台的薄荷｜我不再是前世的影子，也能長出新生活｜Yu Stellar｜星語",
+      "title": "窗台的薄荷｜薄荷長出新葉後，她終於在今生生根｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "hFHS_9DCjVw",
-      "title": "新鞋磨破腳｜職場成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "新鞋磨破腳｜長大就是腳磨破了，還要走進明天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.78
     },
@@ -118,13 +118,13 @@
     },
     {
       "videoId": "DU-leXwtOXg",
-      "title": "把燈開著｜她不再等誰回家，卻讓燈亮了一整夜｜Yu Stellar｜星語",
+      "title": "把燈開著｜獨居療癒系華語女聲歌曲｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
     {
       "videoId": "HcbXCfmK0ZI",
-      "title": "一頓工作午餐，讓記了三年的名字終於有了模樣《午餐十二點半》｜Yu Stellar｜星語",
+      "title": "《午餐十二點半》從日常細節開始靠近的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -142,7 +142,7 @@
     },
     {
       "videoId": "3da8OxYlRvc",
-      "title": "未讀的星期天｜沒有寄件人的夢，為何反覆出現同一扇門｜Yu Stellar｜星語",
+      "title": "未讀的星期天｜前世夢境系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "6VX_MsMFFJE",
-      "title": "雨衣掛在門後｜最遺憾的重逢，是你已走完這一生｜Yu Stellar｜星語",
+      "title": "雨衣掛在門後｜多年後她等到的，不是重逢而是死訊｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -178,25 +178,25 @@
     },
     {
       "videoId": "ZoI-_lEZkww",
-      "title": "沒有寄出的信｜想說的話寫了很多，最後一封也沒寄出｜Yu Stellar｜星語",
+      "title": "沒有寄出的信｜得知他換了工作，她把信投給了風｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "uZcCI6O6OhM",
-      "title": "一個人把租屋住成家，是長大後最溫柔的勇敢《窗台第二盆花》｜Yu Stellar｜星語",
+      "title": "第二盆花開了，她也終於不再等待誰來訪《窗台第二盆花》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.45
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜地址可以改，想念卻搬不出舊習慣｜Yu Stellar｜星語",
+      "title": "紙上的地址｜搬到另一座城後，她才開始真正失戀｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "uLEX7Y3bvYw",
-      "title": "剛開始工作的你，也曾努力把自己站穩嗎？《新工作的早晨》｜Yu Stellar｜星語",
+      "title": "員工證照片很僵硬，她卻在忙亂裡找回自己《新工作的早晨》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.45
     },
@@ -226,7 +226,7 @@
     },
     {
       "videoId": "P7foTF8Z6Q8",
-      "title": "兩人一貓站在同一盞晚霞裡，已經足夠成為答案｜兩人一貓｜Yu Stellar｜星語",
+      "title": "多年後在寵物用品店重逢，我們只交換彼此的近況｜兩人一貓｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
     },
@@ -238,13 +238,13 @@
     },
     {
       "videoId": "qjL13tkSgOk",
-      "title": "回程票根夾在書裡，原來回去不是回到從前｜回程票根｜Yu Stellar｜星語",
+      "title": "帶著貓回到舊城，卻在街口看見了那個熟悉身影｜回程票根｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
     {
       "videoId": "xjc4pFdZJfE",
-      "title": "你好，後來的你，謝謝你走成現在的自己｜你好，後來的你｜Yu Stellar｜星語",
+      "title": "你好，後來的你｜寫給成熟重逢與溫柔告別的終章｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -256,7 +256,7 @@
     },
     {
       "videoId": "US7L9OBay8U",
-      "title": "回到最初，不是回到從前｜回到最初｜Yu Stellar｜星語",
+      "title": "多年後走回那條街，我看見的已經不是過去｜回到最初｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
