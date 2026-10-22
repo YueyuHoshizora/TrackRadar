@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T13:16:13.669+08:00",
+  "updatedAt": "2026-10-22T13:21:09.413+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "9CaWlcB__V0",
-        "title": "🔥《沒有夢的森林》The Forest Without Dreams｜明日邊界 2147｜璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=9CaWlcB__V0",
-        "thumbnail": "https://i.ytimg.com/vi_webp/9CaWlcB__V0/maxresdefault.webp",
-        "durationSeconds": 247,
-        "publishedAt": "2026-08-14T19:30:22.000+08:00",
-        "fetchedAt": "2026-10-22T11:55:56.511+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.55
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-22T13:20:53.972+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.31
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "u5aL1KxBHZU",
-        "title": "今天先別趕我走《妳落在我的留白裡》 EP02｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=u5aL1KxBHZU",
-        "thumbnail": "https://i.ytimg.com/vi_webp/u5aL1KxBHZU/maxresdefault.webp?v=6ad7ae92",
-        "durationSeconds": 116,
-        "publishedAt": "2026-10-21T12:00:10.000+08:00",
-        "fetchedAt": "2026-10-22T10:51:05.232+08:00",
+        "videoId": "ZJnM-JzQEnI",
+        "title": "先讀到妳，才遇到妳《妳落在我的留白裡》 EP03｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=ZJnM-JzQEnI",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ZJnM-JzQEnI/maxresdefault.webp?v=6ad8c2c5",
+        "durationSeconds": 131,
+        "publishedAt": "2026-10-22T12:00:06.000+08:00",
+        "fetchedAt": "2026-10-22T13:21:02.224+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.96
+        "genreConfidence": 0.89
       }
     },
     {
