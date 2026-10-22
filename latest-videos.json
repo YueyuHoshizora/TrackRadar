@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-23T05:46:11.015+08:00",
+  "updatedAt": "2026-10-23T05:51:04.222+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "YgExFBz5rCg",
-        "title": "返鄉前的清單｜清單沒有你的名字，我還是決定回去｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=YgExFBz5rCg",
-        "thumbnail": "https://i.ytimg.com/vi/YgExFBz5rCg/maxresdefault.jpg",
-        "durationSeconds": 184,
-        "publishedAt": "2026-10-22T17:30:13.000+08:00",
-        "fetchedAt": "2026-10-22T18:50:52.321+08:00",
+        "videoId": "DtGTWRorQXQ",
+        "title": "當人生不再說「我們」，我終於把自己說得響亮《工牌上的名字》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=DtGTWRorQXQ",
+        "thumbnail": "https://i.ytimg.com/vi/DtGTWRorQXQ/maxresdefault.jpg",
+        "durationSeconds": 179,
+        "publishedAt": "2026-10-23T05:30:03.000+08:00",
+        "fetchedAt": "2026-10-23T05:50:53.923+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.56
+        "genreConfidence": 0.53
       }
     },
     {
