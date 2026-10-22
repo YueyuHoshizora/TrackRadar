@@ -1,17 +1,17 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-22T18:46:04.572+08:00",
+  "lastUpdated": "2026-10-22T18:50:53.801+08:00",
   "latestVideo": {
-    "videoId": "Hjo-XpqOHS4",
-    "title": "想念一個人，也可以選擇不再打擾《未送出的票》｜Yu Stellar｜星語",
-    "url": "https://www.youtube.com/watch?v=Hjo-XpqOHS4",
-    "thumbnail": "https://i.ytimg.com/vi/Hjo-XpqOHS4/maxresdefault.jpg",
-    "durationSeconds": 187,
-    "publishedAt": "2026-10-22T05:30:25.000+08:00",
-    "fetchedAt": "2026-10-22T05:30:58.686+08:00",
+    "videoId": "YgExFBz5rCg",
+    "title": "返鄉前的清單｜清單沒有你的名字，我還是決定回去｜Yu Stellar｜星語",
+    "url": "https://www.youtube.com/watch?v=YgExFBz5rCg",
+    "thumbnail": "https://i.ytimg.com/vi/YgExFBz5rCg/maxresdefault.jpg",
+    "durationSeconds": 184,
+    "publishedAt": "2026-10-22T17:30:13.000+08:00",
+    "fetchedAt": "2026-10-22T18:50:52.321+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.96
+    "genreConfidence": 0.56
   },
   "allVideoIds": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "qfTPIkVQZ1A",
-      "title": "晴天寄存處｜我的晴天不必寄給誰，自己也能簽收｜Yu Stellar｜星語",
+      "title": "晴天寄存處｜成果展那天，她第一次獨自慶祝成功｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "8N8EMsh334A",
-      "title": "《今天才認識你》成熟相遇與慢慢靠近的華語抒情歌｜Yu Stellar｜星語",
+      "title": "遇見三年後，我們今天才真正認識彼此《今天才認識你》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "Xn2-rAEtTew",
-      "title": "真正的信任，是你撐不住時有人接過最後兩頁《改過三次的簡報》｜Yu Stellar｜星語",
+      "title": "凌晨改稿第三次，他的一句話改變了她看他的方式《改過三次的簡報》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.78
     },
@@ -124,7 +124,7 @@
     },
     {
       "videoId": "DU-leXwtOXg",
-      "title": "把燈開著｜獨居療癒系華語女聲歌曲｜Yu Stellar｜星語",
+      "title": "把燈開著｜我把燈開著，不是等你，是照顧自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
