@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-23T19:20:55.358+08:00",
+  "lastUpdated": "2026-10-23T19:25:58.555+08:00",
   "latestVideo": {
     "videoId": "jq2NirvHESI",
     "title": "老巷換了招牌｜回到夢裡的老巷，才發現一切都變了｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "jq2NirvHESI",
-      "title": "老巷換了招牌｜前世舊城系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "老巷換了招牌｜招牌全換了，只有風還認得她的腳步｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.34
     },
     {
       "videoId": "DtGTWRorQXQ",
-      "title": "《工牌上的名字》職場成長與找回自信的華語歌｜Yu Stellar｜星語",
+      "title": "投影失靈、手心冒汗，她卻獨自讓專案通過《工牌上的名字》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -34,19 +34,19 @@
     },
     {
       "videoId": "Hjo-XpqOHS4",
-      "title": "想念一個人，也可以選擇不再打擾《未送出的票》｜Yu Stellar｜星語",
+      "title": "《未送出的票》放下牽掛、尊重界線的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "gWv0mzqz6CI",
-      "title": "約定的另一種說法｜查到前世舊城後，她終於讀懂那場分離｜Yu Stellar｜星語",
+      "title": "約定的另一種說法｜真正的約定，不是等你，是活成自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "zRtAOjRKs8g",
-      "title": "凌晨只剩洗衣店亮著，她把疲憊洗成了明天《凌晨洗衣店》｜Yu Stellar｜星語",
+      "title": "有些孤獨，只是生活陪你熬到太晚《凌晨洗衣店》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -76,13 +76,13 @@
     },
     {
       "videoId": "1ngBWqUEf3M",
-      "title": "名字的重量｜她完成第一個專案，終於成為今生的自己｜Yu Stellar｜星語",
+      "title": "名字的重量｜不借誰的故事，我也能用自己的名字發光｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.47
     },
     {
       "videoId": "tRotND7VNnM",
-      "title": "《相遇》三年後再次走近彼此的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "三年前只交換姓名，三年後他問：下週還有空嗎？《相遇》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "3Q7XT8qrHas",
-      "title": "有些關係，散場以後才真正開始《散場後的路》｜Yu Stellar｜星語",
+      "title": "《散場後的路》三年後重新靠近的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
@@ -130,13 +130,13 @@
     },
     {
       "videoId": "1HkFnI6qVkA",
-      "title": "三年後她才知道，他那天匆忙離開是為了住院的父親《你怕冷的原因》｜Yu Stellar｜星語",
+      "title": "你以為他不在意，其實他正扛著沒說出口的重量《你怕冷的原因》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "DU-leXwtOXg",
-      "title": "把燈開著｜她不再等誰回家，卻讓燈亮了一整夜｜Yu Stellar｜星語",
+      "title": "把燈開著｜我把燈開著，不是等你，是照顧自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -166,13 +166,13 @@
     },
     {
       "videoId": "Mbho2s5i1BM",
-      "title": "《名字又出現》三年後意外重逢的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "她在會議名單第三行，看見三年前只見過一次的人《名字又出現》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "5uSV8JwkgGs",
-      "title": "陌生早餐店｜前世今生系華語女聲宿命歌曲｜Yu Stellar｜星語",
+      "title": "陌生早餐店｜第一次走進早餐店，老闆竟記得她不加糖｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.4
     },
