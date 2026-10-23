@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-24T06:16:22.963+08:00",
+  "updatedAt": "2026-10-24T06:20:56.385+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "jq2NirvHESI",
-        "title": "老巷換了招牌｜回到夢裡的老巷，才發現一切都變了｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=jq2NirvHESI",
-        "thumbnail": "https://i.ytimg.com/vi/jq2NirvHESI/maxresdefault.jpg",
-        "durationSeconds": 178,
-        "publishedAt": "2026-10-23T17:30:06.000+08:00",
-        "fetchedAt": "2026-10-23T17:30:55.307+08:00",
+        "videoId": "T_FFoSoI1YU",
+        "title": "後來我買花，不再為了等誰回家《週五買花》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=T_FFoSoI1YU",
+        "thumbnail": "https://i.ytimg.com/vi/T_FFoSoI1YU/maxresdefault.jpg",
+        "durationSeconds": 151,
+        "publishedAt": "2026-10-24T05:30:05.000+08:00",
+        "fetchedAt": "2026-10-24T06:20:39.987+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.34
+        "genreConfidence": 0.73
       }
     },
     {
