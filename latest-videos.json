@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T23:01:29.387+08:00",
+  "updatedAt": "2026-10-23T23:06:22.948+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "IJ_7CcpPkeo",
-        "title": "🔥《非你不可》｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=IJ_7CcpPkeo",
-        "thumbnail": "https://i.ytimg.com/vi_webp/IJ_7CcpPkeo/maxresdefault.webp",
-        "durationSeconds": 292,
-        "publishedAt": "2026-10-22T22:50:05.000+08:00",
-        "fetchedAt": "2026-10-23T23:01:02.343+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.33
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-23T23:06:12.152+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.26
       }
     },
     {
@@ -184,13 +184,13 @@
       "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
       "channelTitle": "ChillVibes",
       "latestVideo": {
-        "videoId": "XBcm3x63p4E",
-        "title": "今天不趕時間，這首歌陪你慢慢回家｜適合工作、讀書與夜間通勤的柔和 R&B · NIGHT.19",
-        "url": "https://www.youtube.com/watch?v=XBcm3x63p4E",
-        "thumbnail": "https://i.ytimg.com/vi_webp/XBcm3x63p4E/maxresdefault.webp",
-        "durationSeconds": 254,
-        "publishedAt": "2026-10-20T21:00:15.000+08:00",
-        "fetchedAt": "2026-10-23T22:45:59.871+08:00",
+        "videoId": "-hAwmUCI3WU",
+        "title": "今晚沒有安排，安靜待著就好｜適合工作、讀書與居家放鬆的 R&B · NIGHT.20",
+        "url": "https://www.youtube.com/watch?v=-hAwmUCI3WU",
+        "thumbnail": "https://i.ytimg.com/vi_webp/-hAwmUCI3WU/maxresdefault.webp",
+        "durationSeconds": 187,
+        "publishedAt": "2026-10-23T21:00:39.000+08:00",
+        "fetchedAt": "2026-10-23T23:06:01.907+08:00",
         "genre": "R&B/Soul",
         "genreConfidence": 0.99
       }
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "ZJnM-JzQEnI",
-        "title": "先讀到妳，才遇到妳《妳落在我的留白裡》 EP03｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=ZJnM-JzQEnI",
-        "thumbnail": "https://i.ytimg.com/vi_webp/ZJnM-JzQEnI/maxresdefault.webp?v=6ad8c2c5",
-        "durationSeconds": 131,
-        "publishedAt": "2026-10-22T12:00:06.000+08:00",
-        "fetchedAt": "2026-10-23T23:01:22.317+08:00",
+        "videoId": "D_eYthsB1xs",
+        "title": "約會，還是畫我？｜妳落在我的留白裡 EP04｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=D_eYthsB1xs",
+        "thumbnail": "https://i.ytimg.com/vi_webp/D_eYthsB1xs/maxresdefault.webp?v=6adab18d",
+        "durationSeconds": 165,
+        "publishedAt": "2026-10-23T12:00:08.000+08:00",
+        "fetchedAt": "2026-10-23T23:06:12.486+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.92
+        "genreConfidence": 0.93
       }
     },
     {
