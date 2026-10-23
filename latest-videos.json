@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T19:16:15.447+08:00",
+  "updatedAt": "2026-10-23T19:21:13.151+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -334,14 +334,14 @@
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
       "latestVideo": {
-        "videoId": "6N9FLPghuTk",
-        "title": "《愛神惹的禍》｜孟婆 VS 邱比特 ｜ 你負責放箭，我負責收爛攤？ ｜ 弦斷誰聽",
-        "url": "https://www.youtube.com/watch?v=6N9FLPghuTk",
-        "thumbnail": "https://i.ytimg.com/vi_webp/6N9FLPghuTk/maxresdefault.webp",
-        "durationSeconds": 160,
-        "publishedAt": "2026-10-19T18:30:02.000+08:00",
-        "fetchedAt": "2026-10-19T18:30:17.951+08:00",
-        "genre": "古風/國風 Chinese Style",
+        "videoId": "cfnfTKX53KQ",
+        "title": "《下雨天我好想你》那件披上的外衣直到今天依然溫暖著我生命 ｜YT十二弦月｜弦斷誰聽",
+        "url": "https://www.youtube.com/watch?v=cfnfTKX53KQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/cfnfTKX53KQ/maxresdefault.webp",
+        "durationSeconds": 277,
+        "publishedAt": "2026-10-23T18:30:25.000+08:00",
+        "fetchedAt": "2026-10-23T19:21:01.062+08:00",
+        "genre": "抒情/情歌 Ballad",
         "genreConfidence": 0.69
       }
     },
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "u5aL1KxBHZU",
-        "title": "今天先別趕我走《妳落在我的留白裡》 EP02｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=u5aL1KxBHZU",
-        "thumbnail": "https://i.ytimg.com/vi_webp/u5aL1KxBHZU/maxresdefault.webp?v=6ad7ae92",
-        "durationSeconds": 116,
-        "publishedAt": "2026-10-21T12:00:10.000+08:00",
-        "fetchedAt": "2026-10-23T18:26:07.492+08:00",
+        "videoId": "D_eYthsB1xs",
+        "title": "約會，還是畫我？｜妳落在我的留白裡 EP04｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=D_eYthsB1xs",
+        "thumbnail": "https://i.ytimg.com/vi_webp/D_eYthsB1xs/maxresdefault.webp?v=6adab18d",
+        "durationSeconds": 165,
+        "publishedAt": "2026-10-23T12:00:08.000+08:00",
+        "fetchedAt": "2026-10-23T19:21:03.011+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.95
+        "genreConfidence": 0.93
       }
     },
     {
