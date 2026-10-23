@@ -1,7 +1,7 @@
 {
   "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
   "channelTitle": "ChillVibes",
-  "lastUpdated": "2026-10-20T21:00:45.992+08:00",
+  "lastUpdated": "2026-10-23T21:01:03.296+08:00",
   "latestVideo": {
     "videoId": "XBcm3x63p4E",
     "title": "今天不趕時間，這首歌陪你慢慢回家｜適合工作、讀書與夜間通勤的柔和 R&B · NIGHT.19",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "-hAwmUCI3WU",
+      "title": "今晚沒有安排，安靜待著就好｜適合工作、讀書與居家放鬆的 R&B · NIGHT.20",
+      "genre": "R&B/Soul",
+      "genreConfidence": 1
+    },
     {
       "videoId": "XBcm3x63p4E",
       "title": "今天不趕時間，這首歌陪你慢慢回家｜適合工作、讀書與夜間通勤的柔和 R&B · NIGHT.19",
