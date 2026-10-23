@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-23T18:35:54.846+08:00",
+  "lastUpdated": "2026-10-23T18:40:53.030+08:00",
   "latestVideo": {
     "videoId": "jq2NirvHESI",
     "title": "老巷換了招牌｜回到夢裡的老巷，才發現一切都變了｜Yu Stellar｜星語",
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "YgExFBz5rCg",
-      "title": "返鄉前的清單｜她因工作回到夢中舊城，卻不是為了找誰｜Yu Stellar｜星語",
+      "title": "返鄉前的清單｜清單沒有你的名字，我還是決定回去｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -52,25 +52,25 @@
     },
     {
       "videoId": "T7p6rXMv6es",
-      "title": "回憶的背面｜她買下陌生街景照，背面竟是夢裡的家｜Yu Stellar｜星語",
+      "title": "回憶的背面｜有些記憶不屬於今生，卻寫著我的地址｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.44
     },
     {
       "videoId": "s-A3ciJCfyA",
-      "title": "門牌先記住她的名字，心卻比家具晚一點抵達《新的門牌》｜Yu Stellar｜星語",
+      "title": "搬離有你的家後，我花了多久才住進新生活《新的門牌》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
     {
       "videoId": "qfTPIkVQZ1A",
-      "title": "晴天寄存處｜走出失戀系華語女聲療癒歌｜Yu Stellar｜星語",
+      "title": "晴天寄存處｜成果展那天，她第一次獨自慶祝成功｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
     {
       "videoId": "fe0gRQmYamA",
-      "title": "她第一次只煮一人份，卻學會替自己盛湯《半張餐桌》｜Yu Stellar｜星語",
+      "title": "分開後最難的，是重新煮一人份的晚餐《半張餐桌》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
@@ -100,13 +100,13 @@
     },
     {
       "videoId": "SaoFghauGOs",
-      "title": "一個人的搬家｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "一個人的搬家｜這次搬家不是離開誰，是靠近自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
     {
       "videoId": "3Q7XT8qrHas",
-      "title": "有些關係，散場以後才真正開始《散場後的路》｜Yu Stellar｜星語",
+      "title": "專案結束後，他終於問起三年前的那把傘《散場後的路》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
@@ -142,7 +142,7 @@
     },
     {
       "videoId": "HcbXCfmK0ZI",
-      "title": "一頓工作午餐，讓記了三年的名字終於有了模樣《午餐十二點半》｜Yu Stellar｜星語",
+      "title": "真正認識一個人，是從香菜和熱茶開始《午餐十二點半》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -154,19 +154,19 @@
     },
     {
       "videoId": "gEG2PlPG9Cs",
-      "title": "《第一次會議》職場重逢的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "三年後再見，我們卻先從一場會議開始《第一次會議》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.43
     },
     {
       "videoId": "3da8OxYlRvc",
-      "title": "未讀的星期天｜沒有寄件人的夢，為何反覆出現同一扇門｜Yu Stellar｜星語",
+      "title": "未讀的星期天｜有些夢醒了，卻像一封沒讀完的信｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
     {
       "videoId": "Mbho2s5i1BM",
-      "title": "《名字又出現》三年後意外重逢的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "她在會議名單第三行，看見三年前只見過一次的人《名字又出現》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "uOHGS7MvPs8",
-      "title": "《獨自看海》寫給一個人旅行的自由系華語抒情歌｜Yu Stellar｜星語",
+      "title": "一個人看海，也可以比有人陪更自由《獨自看海》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.98
     },
