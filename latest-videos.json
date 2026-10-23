@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T11:46:09.307+08:00",
+  "updatedAt": "2026-10-23T11:51:14.250+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -35,13 +35,13 @@
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
       "channelTitle": "COYA可夜",
       "latestVideo": {
-        "videoId": "mjtypemkqns",
-        "title": "「生前弄舌織圈套，死後黑繩縛自身。」⚖️｜《宋帝王》｜可夜｜新國風｜Official MV｜十殿閻羅・第三殿｜神鬼誌",
-        "url": "https://www.youtube.com/watch?v=mjtypemkqns",
-        "thumbnail": "https://i.ytimg.com/vi_webp/mjtypemkqns/maxresdefault.webp",
-        "durationSeconds": 208,
-        "publishedAt": "2026-10-19T10:15:39.000+08:00",
-        "fetchedAt": "2026-10-19T10:25:03.970+08:00",
+        "videoId": "CAejqofvylE",
+        "title": "「人間算盤珠落盡，陰司業秤不差分。」⚖️｜《五官王》｜可夜｜新國風｜Official MV｜十殿閻羅・四門量罪｜神鬼誌EP2・第四殿",
+        "url": "https://www.youtube.com/watch?v=CAejqofvylE",
+        "thumbnail": "https://i.ytimg.com/vi/CAejqofvylE/maxresdefault.jpg",
+        "durationSeconds": 212,
+        "publishedAt": "2026-10-23T10:30:38.000+08:00",
+        "fetchedAt": "2026-10-23T11:50:57.726+08:00",
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 1
       }
@@ -214,15 +214,15 @@
       "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
       "channelTitle": "EIRYN",
       "latestVideo": {
-        "videoId": "iuSbqnnPBcc",
-        "title": "玄天上帝《玄天》｜放下屠刀、龜蛇護法與七星寶劍｜台灣民俗原創歌曲",
-        "url": "https://www.youtube.com/watch?v=iuSbqnnPBcc",
-        "thumbnail": "https://i.ytimg.com/vi/iuSbqnnPBcc/maxresdefault.jpg",
-        "durationSeconds": 272,
-        "publishedAt": "2026-10-20T11:30:30.000+08:00",
-        "fetchedAt": "2026-10-20T12:55:36.082+08:00",
+        "videoId": "O-Upg5ZrReA",
+        "title": "《太子爺》哪吒三太子｜感恩一路守護我的你 🙏 感動人心的原創歌曲｜予安YUAN",
+        "url": "https://www.youtube.com/watch?v=O-Upg5ZrReA",
+        "thumbnail": "https://i.ytimg.com/vi/O-Upg5ZrReA/maxresdefault.jpg",
+        "durationSeconds": 247,
+        "publishedAt": "2026-10-23T11:30:10.000+08:00",
+        "fetchedAt": "2026-10-23T11:51:01.942+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.99
+        "genreConfidence": 0.82
       }
     },
     {
