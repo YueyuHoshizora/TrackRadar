@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-23T17:26:14.565+08:00",
+  "updatedAt": "2026-10-23T17:31:08.093+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "DtGTWRorQXQ",
-        "title": "當人生不再說「我們」，我終於把自己說得響亮《工牌上的名字》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=DtGTWRorQXQ",
-        "thumbnail": "https://i.ytimg.com/vi/DtGTWRorQXQ/maxresdefault.jpg",
-        "durationSeconds": 179,
-        "publishedAt": "2026-10-23T05:30:03.000+08:00",
-        "fetchedAt": "2026-10-23T05:50:53.923+08:00",
+        "videoId": "jq2NirvHESI",
+        "title": "老巷換了招牌｜回到夢裡的老巷，才發現一切都變了｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=jq2NirvHESI",
+        "thumbnail": "https://i.ytimg.com/vi/jq2NirvHESI/maxresdefault.jpg",
+        "durationSeconds": 178,
+        "publishedAt": "2026-10-23T17:30:06.000+08:00",
+        "fetchedAt": "2026-10-23T17:30:55.307+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.53
+        "genreConfidence": 0.34
       }
     },
     {
