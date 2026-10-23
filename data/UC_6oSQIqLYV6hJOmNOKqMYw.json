@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-10-20T12:55:36.961+08:00",
+  "lastUpdated": "2026-10-23T11:31:11.619+08:00",
   "latestVideo": {
     "videoId": "iuSbqnnPBcc",
     "title": "玄天上帝《玄天》｜放下屠刀、龜蛇護法與七星寶劍｜台灣民俗原創歌曲",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "O-Upg5ZrReA",
+      "title": "《太子爺》哪吒三太子｜感恩一路守護我的你 🙏 感動人心的原創歌曲｜予安YUAN",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.8
+    },
     {
       "videoId": "iuSbqnnPBcc",
       "title": "玄天上帝《玄天》｜放下屠刀、龜蛇護法與七星寶劍｜台灣民俗原創歌曲",
