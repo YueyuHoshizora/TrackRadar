@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-24T17:26:09.530+08:00",
+  "updatedAt": "2026-10-24T17:30:58.839+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "T_FFoSoI1YU",
-        "title": "後來我買花，不再為了等誰回家《週五買花》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=T_FFoSoI1YU",
-        "thumbnail": "https://i.ytimg.com/vi/T_FFoSoI1YU/maxresdefault.jpg",
-        "durationSeconds": 151,
-        "publishedAt": "2026-10-24T05:30:05.000+08:00",
-        "fetchedAt": "2026-10-24T06:20:39.987+08:00",
+        "videoId": "GrnaN0uzUfk",
+        "title": "黃昏書店｜如果命運要重逢，會讓兩人翻到同一頁｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=GrnaN0uzUfk",
+        "thumbnail": "https://i.ytimg.com/vi/GrnaN0uzUfk/maxresdefault.jpg",
+        "durationSeconds": 179,
+        "publishedAt": "2026-10-24T17:30:07.000+08:00",
+        "fetchedAt": "2026-10-24T17:30:43.952+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.73
+        "genreConfidence": 0.67
       }
     },
     {
