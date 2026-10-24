@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T20:56:04.119+08:00",
+  "updatedAt": "2026-10-24T21:01:16.535+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -334,15 +334,15 @@
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
       "latestVideo": {
-        "videoId": "cfnfTKX53KQ",
-        "title": "《下雨天我好想你》那件披上的外衣直到今天依然溫暖著我生命 ｜YT十二弦月｜弦斷誰聽",
-        "url": "https://www.youtube.com/watch?v=cfnfTKX53KQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/cfnfTKX53KQ/maxresdefault.webp",
-        "durationSeconds": 277,
-        "publishedAt": "2026-10-23T18:30:25.000+08:00",
-        "fetchedAt": "2026-10-23T19:21:01.062+08:00",
+        "videoId": "ktuHKHikV44",
+        "title": "《該不該》梁靜茹 給的勇氣｜怕一開口連朋友都不是，這一次我不再躲開 ｜弦斷誰聽",
+        "url": "https://www.youtube.com/watch?v=ktuHKHikV44",
+        "thumbnail": "https://i.ytimg.com/vi/ktuHKHikV44/maxresdefault.jpg",
+        "durationSeconds": 240,
+        "publishedAt": "2026-10-24T21:00:02.000+08:00",
+        "fetchedAt": "2026-10-24T21:01:05.574+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.69
+        "genreConfidence": 0.78
       }
     },
     {
