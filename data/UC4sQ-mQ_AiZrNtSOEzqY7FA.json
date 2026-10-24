@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-24T21:15:55.092+08:00",
+  "lastUpdated": "2026-10-24T21:20:42.038+08:00",
   "latestVideo": {
     "videoId": "GrnaN0uzUfk",
     "title": "黃昏書店｜如果命運要重逢，會讓兩人翻到同一頁｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "GrnaN0uzUfk",
-      "title": "黃昏書店｜書店裡兩隻手伸向同一本前世舊城報導｜Yu Stellar｜星語",
+      "title": "黃昏書店｜命運重逢系華語女聲宿命情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "zRtAOjRKs8g",
-      "title": "凌晨只剩洗衣店亮著，她把疲憊洗成了明天《凌晨洗衣店》｜Yu Stellar｜星語",
+      "title": "《凌晨洗衣店》加班與孤獨裡找回自己的華語歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -100,7 +100,7 @@
     },
     {
       "videoId": "-Fox0IpfS50",
-      "title": "窗台的薄荷｜薄荷長出新葉後，她終於在今生生根｜Yu Stellar｜星語",
+      "title": "窗台的薄荷｜我不再是前世的影子，也能長出新生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -130,7 +130,7 @@
     },
     {
       "videoId": "Xn2-rAEtTew",
-      "title": "凌晨改稿第三次，他的一句話改變了她看他的方式《改過三次的簡報》｜Yu Stellar｜星語",
+      "title": "《改過三次的簡報》職場合作與信任的華語敘事歌｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.78
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "HcbXCfmK0ZI",
-      "title": "《午餐十二點半》從日常細節開始靠近的華語抒情歌｜Yu Stellar｜星語",
+      "title": "一頓工作午餐，讓記了三年的名字終於有了模樣《午餐十二點半》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
