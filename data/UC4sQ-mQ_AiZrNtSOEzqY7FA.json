@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-25T03:20:42.669+08:00",
+  "lastUpdated": "2026-10-25T03:25:45.908+08:00",
   "latestVideo": {
     "videoId": "GrnaN0uzUfk",
     "title": "黃昏書店｜如果命運要重逢，會讓兩人翻到同一頁｜Yu Stellar｜星語",
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "YgExFBz5rCg",
-      "title": "返鄉前的清單｜她因工作回到夢中舊城，卻不是為了找誰｜Yu Stellar｜星語",
+      "title": "返鄉前的清單｜清單沒有你的名字，我還是決定回去｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -112,13 +112,13 @@
     },
     {
       "videoId": "SaoFghauGOs",
-      "title": "一個人的搬家｜這次搬家不是離開誰，是靠近自己｜Yu Stellar｜星語",
+      "title": "一個人的搬家｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
     {
       "videoId": "3Q7XT8qrHas",
-      "title": "專案結束後，他終於問起三年前的那把傘《散場後的路》｜Yu Stellar｜星語",
+      "title": "有些關係，散場以後才真正開始《散場後的路》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
@@ -166,13 +166,13 @@
     },
     {
       "videoId": "gEG2PlPG9Cs",
-      "title": "三年後再見，我們卻先從一場會議開始《第一次會議》｜Yu Stellar｜星語",
+      "title": "《第一次會議》職場重逢的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.43
     },
     {
       "videoId": "3da8OxYlRvc",
-      "title": "未讀的星期天｜沒有寄件人的夢，為何反覆出現同一扇門｜Yu Stellar｜星語",
+      "title": "未讀的星期天｜有些夢醒了，卻像一封沒讀完的信｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
