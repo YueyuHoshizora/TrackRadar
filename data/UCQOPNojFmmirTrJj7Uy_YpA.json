@@ -1,19 +1,25 @@
 {
   "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
   "channelTitle": "浣月Huanyue",
-  "lastUpdated": "2026-10-18T12:40:05.562+08:00",
+  "lastUpdated": "2026-10-24T19:30:54.243+08:00",
   "latestVideo": {
-    "videoId": "mEk4rE2VmPg",
-    "title": "長生萬載，也抵不過一寸相思｜《天若有情天亦老》｜古風・中國風歌曲🎧浣月Huanyue",
-    "url": "https://www.youtube.com/watch?v=mEk4rE2VmPg",
-    "thumbnail": "https://i.ytimg.com/vi_webp/mEk4rE2VmPg/maxresdefault.webp",
-    "durationSeconds": 243,
-    "publishedAt": "2026-10-18T12:30:04.000+08:00",
-    "fetchedAt": "2026-10-18T12:35:04.551+08:00",
+    "videoId": "LIiJ9BWCHCA",
+    "title": "有些人，走散半生，名字卻仍刻在心上｜《半世情緣》｜古風・中國風原創歌曲🎧浣月Huanyue",
+    "url": "https://www.youtube.com/watch?v=LIiJ9BWCHCA",
+    "thumbnail": "https://i.ytimg.com/vi/LIiJ9BWCHCA/maxresdefault.jpg",
+    "durationSeconds": 247,
+    "publishedAt": "2026-10-24T19:30:27.000+08:00",
+    "fetchedAt": "2026-10-24T19:30:53.262+08:00",
     "genre": "古風/國風 Chinese Style",
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "LIiJ9BWCHCA",
+      "title": "有些人，走散半生，名字卻仍刻在心上｜《半世情緣》｜古風・中國風原創歌曲🎧浣月Huanyue",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
+    },
     {
       "videoId": "mEk4rE2VmPg",
       "title": "長生萬載，也抵不過一寸相思｜《天若有情天亦老》｜古風・中國風歌曲🎧浣月Huanyue",
