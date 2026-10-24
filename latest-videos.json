@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-25T05:35:57.384+08:00",
+  "updatedAt": "2026-10-25T05:40:55.703+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "GrnaN0uzUfk",
-        "title": "黃昏書店｜如果命運要重逢，會讓兩人翻到同一頁｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=GrnaN0uzUfk",
-        "thumbnail": "https://i.ytimg.com/vi/GrnaN0uzUfk/maxresdefault.jpg",
-        "durationSeconds": 179,
-        "publishedAt": "2026-10-24T17:30:07.000+08:00",
-        "fetchedAt": "2026-10-24T17:30:43.952+08:00",
+        "videoId": "x7RrK0NDKCE",
+        "title": "一個人的週末不是空白，是終於能聽見自己《一人的週末》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=x7RrK0NDKCE",
+        "thumbnail": "https://i.ytimg.com/vi/x7RrK0NDKCE/maxresdefault.jpg",
+        "durationSeconds": 146,
+        "publishedAt": "2026-10-25T05:30:11.000+08:00",
+        "fetchedAt": "2026-10-25T05:40:42.269+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.67
+        "genreConfidence": 0.43
       }
     },
     {
