@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-26T05:46:09.911+08:00",
+  "updatedAt": "2026-10-26T05:51:09.829+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "dUA26d20eK8",
-        "title": "那聲熟悉的名字｜忘了前世所有事，卻忘不了你叫我的聲音｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=dUA26d20eK8",
-        "thumbnail": "https://i.ytimg.com/vi/dUA26d20eK8/maxresdefault.jpg",
-        "durationSeconds": 164,
-        "publishedAt": "2026-10-25T17:30:26.000+08:00",
-        "fetchedAt": "2026-10-25T17:30:44.540+08:00",
+        "videoId": "Hn2y6ASnY3Q",
+        "title": "聽見我們的歌，我終於沒有再回頭《舊歌經過》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=Hn2y6ASnY3Q",
+        "thumbnail": "https://i.ytimg.com/vi/Hn2y6ASnY3Q/maxresdefault.jpg",
+        "durationSeconds": 193,
+        "publishedAt": "2026-10-26T05:30:21.000+08:00",
+        "fetchedAt": "2026-10-26T05:50:58.632+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.78
+        "genreConfidence": 0.43
       }
     },
     {
