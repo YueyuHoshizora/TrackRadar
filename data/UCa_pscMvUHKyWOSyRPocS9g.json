@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-10-25T16:20:51.844+08:00",
+  "lastUpdated": "2026-10-25T18:00:49.160+08:00",
   "latestVideo": {
     "videoId": "5PXB_rPaibM",
     "title": "《死神請假中》｜死神罷工了！撿到鐮刀的女孩，竟成了新任死神？【AI真人化・萬聖節MV】",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.47
   },
   "allVideoIds": [
+    {
+      "videoId": "q1uC8gpJdEk",
+      "title": "《死神請假中》💀｜死神罷工了！撿到鐮刀的女孩，竟成了新任死神？",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.71
+    },
     {
       "videoId": "SnS4LGVOxCw",
       "title": "《天下第二》⚔️｜天下第一女劍客只想退休，賣麵婆婆竟是絕世高手！",
