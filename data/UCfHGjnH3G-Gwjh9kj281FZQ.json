@@ -1,19 +1,25 @@
 {
   "channelId": "UCfHGjnH3G-Gwjh9kj281FZQ",
   "channelTitle": "Nova Bird",
-  "lastUpdated": "2026-10-19T22:25:21.685+08:00",
+  "lastUpdated": "2026-10-25T13:25:53.327+08:00",
   "latestVideo": {
-    "videoId": "yxgnxCPXVdg",
-    "title": "2026年10月19日",
-    "url": "https://www.youtube.com/watch?v=yxgnxCPXVdg",
-    "thumbnail": "https://i.ytimg.com/vi/yxgnxCPXVdg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpNXAYqpDUduNcTd2U01sodmvazw",
-    "durationSeconds": 108,
-    "publishedAt": "2026-10-19T22:24:37.000+08:00",
-    "fetchedAt": "2026-10-19T22:25:20.687+08:00",
-    "genre": "其他/無法判斷 Other",
-    "genreConfidence": 0.98
+    "videoId": "HaMTqRfGb5o",
+    "title": "「我要找的，從來不是英雄。」🐺🌙｜《銀月傳（下）》影渡町起源・銀月傳終章｜原創武俠音樂MV",
+    "url": "https://www.youtube.com/watch?v=HaMTqRfGb5o",
+    "thumbnail": "https://i.ytimg.com/vi/HaMTqRfGb5o/maxresdefault.jpg",
+    "durationSeconds": 358,
+    "publishedAt": "2026-10-25T13:24:52.000+08:00",
+    "fetchedAt": "2026-10-25T13:25:52.981+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "HaMTqRfGb5o",
+      "title": "「我要找的，從來不是英雄。」🐺🌙｜《銀月傳（下）》影渡町起源・銀月傳終章｜原創武俠音樂MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
+    },
     {
       "videoId": "yxgnxCPXVdg",
       "title": "2026年10月19日",
