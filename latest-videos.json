@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:15:58.499+08:00",
+  "updatedAt": "2026-10-25T23:21:06.604+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -379,15 +379,15 @@
       "channelId": "UCAYUu9UHkrIopMgqikI6smw",
       "channelTitle": "空山和尚",
       "latestVideo": {
-        "videoId": "UXcDzKebw3I",
-        "title": "《洋流匯聚》｜讓每一滴真誠的小水滴，都匯成溫暖的洋流｜沈伯洋 ｜台北大洋流完整版MV",
-        "url": "https://www.youtube.com/watch?v=UXcDzKebw3I",
-        "thumbnail": "https://i.ytimg.com/vi/UXcDzKebw3I/maxresdefault.jpg",
+        "videoId": "y1FbdmcfDmM",
+        "title": "《洋流匯聚》｜小水滴匯成暖流，讓希望之光照亮台灣｜空山和尚",
+        "url": "https://www.youtube.com/watch?v=y1FbdmcfDmM",
+        "thumbnail": "https://i.ytimg.com/vi/y1FbdmcfDmM/maxresdefault.jpg",
         "durationSeconds": 282,
-        "publishedAt": "2026-10-15T12:00:35.000+08:00",
-        "fetchedAt": "2026-10-15T12:00:42.411+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.36
+        "publishedAt": "2026-10-06T12:00:12.000+08:00",
+        "fetchedAt": "2026-10-25T23:20:59.361+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.64
       }
     },
     {
