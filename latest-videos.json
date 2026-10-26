@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-26T17:26:15.792+08:00",
+  "updatedAt": "2026-10-26T17:31:20.254+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "Hn2y6ASnY3Q",
-        "title": "聽見我們的歌，我終於沒有再回頭《舊歌經過》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=Hn2y6ASnY3Q",
-        "thumbnail": "https://i.ytimg.com/vi/Hn2y6ASnY3Q/maxresdefault.jpg",
-        "durationSeconds": 193,
-        "publishedAt": "2026-10-26T05:30:21.000+08:00",
-        "fetchedAt": "2026-10-26T05:50:58.632+08:00",
+        "videoId": "H0P-8JOSG6s",
+        "title": "近況像一封信｜重逢後最溫柔的事，是從今天認識你｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=H0P-8JOSG6s",
+        "thumbnail": "https://i.ytimg.com/vi/H0P-8JOSG6s/maxresdefault.jpg",
+        "durationSeconds": 162,
+        "publishedAt": "2026-10-26T17:30:11.000+08:00",
+        "fetchedAt": "2026-10-26T17:31:02.414+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.43
+        "genreConfidence": 0.92
       }
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
-      "channelTitle": "COYA",
+      "channelTitle": "COYA可夜",
       "latestVideo": {
         "videoId": "CAejqofvylE",
         "title": "「人間算盤珠落盡，陰司業秤不差分。」⚖️｜《五官王》｜可夜｜新國風｜Official MV｜十殿閻羅・四門量罪｜神鬼誌EP2・第四殿",
@@ -407,7 +407,7 @@
     },
     {
       "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
-      "channelTitle": "jiuliyue",
+      "channelTitle": "九黎月",
       "latestVideo": {
         "videoId": "Xs8CBMhIEdM",
         "title": "【中國風 - 偶爾的曾經】若我只是途中一席，何必許我　此生不離 🎧 －九黎月｜潮流R&B原創【Official Lyric Video】",
