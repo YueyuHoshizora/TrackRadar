@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-26T16:36:01.628+08:00",
+  "lastUpdated": "2026-10-26T16:41:06.530+08:00",
   "latestVideo": {
     "videoId": "Hn2y6ASnY3Q",
     "title": "聽見我們的歌，我終於沒有再回頭《舊歌經過》｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "Hn2y6ASnY3Q",
-      "title": "咖啡館播起那首舊歌，她卻搭車回了新的家《舊歌經過》｜Yu Stellar｜星語",
+      "title": "聽見我們的歌，我終於沒有再回頭《舊歌經過》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -46,13 +46,13 @@
     },
     {
       "videoId": "jq2NirvHESI",
-      "title": "老巷換了招牌｜前世舊城系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "老巷換了招牌｜招牌全換了，只有風還認得她的腳步｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.34
     },
     {
       "videoId": "DtGTWRorQXQ",
-      "title": "《工牌上的名字》職場成長與找回自信的華語歌｜Yu Stellar｜星語",
+      "title": "投影失靈、手心冒汗，她卻獨自讓專案通過《工牌上的名字》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -64,13 +64,13 @@
     },
     {
       "videoId": "Hjo-XpqOHS4",
-      "title": "想念一個人，也可以選擇不再打擾《未送出的票》｜Yu Stellar｜星語",
+      "title": "《未送出的票》放下牽掛、尊重界線的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "gWv0mzqz6CI",
-      "title": "約定的另一種說法｜查到前世舊城後，她終於讀懂那場分離｜Yu Stellar｜星語",
+      "title": "約定的另一種說法｜真正的約定，不是等你，是活成自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -106,19 +106,19 @@
     },
     {
       "videoId": "1ngBWqUEf3M",
-      "title": "名字的重量｜她完成第一個專案，終於成為今生的自己｜Yu Stellar｜星語",
+      "title": "名字的重量｜不借誰的故事，我也能用自己的名字發光｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.47
     },
     {
       "videoId": "tRotND7VNnM",
-      "title": "《相遇》三年後再次走近彼此的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "三年前只交換姓名，三年後他問：下週還有空嗎？《相遇》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
     {
       "videoId": "-Fox0IpfS50",
-      "title": "窗台的薄荷｜獨居成長系華語女聲療癒歌｜Yu Stellar｜星語",
+      "title": "窗台的薄荷｜我不再是前世的影子，也能長出新生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "3Q7XT8qrHas",
-      "title": "有些關係，散場以後才真正開始《散場後的路》｜Yu Stellar｜星語",
+      "title": "專案結束後，他終於問起三年前的那把傘《散場後的路》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
@@ -160,13 +160,13 @@
     },
     {
       "videoId": "1HkFnI6qVkA",
-      "title": "三年後她才知道，他那天匆忙離開是為了住院的父親《你怕冷的原因》｜Yu Stellar｜星語",
+      "title": "你以為他不在意，其實他正扛著沒說出口的重量《你怕冷的原因》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "DU-leXwtOXg",
-      "title": "把燈開著｜她不再等誰回家，卻讓燈亮了一整夜｜Yu Stellar｜星語",
+      "title": "把燈開著｜我把燈開著，不是等你，是照顧自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
