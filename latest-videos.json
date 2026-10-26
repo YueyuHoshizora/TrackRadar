@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-27T06:46:12.753+08:00",
+  "updatedAt": "2026-10-27T06:51:10.057+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "H0P-8JOSG6s",
-        "title": "近況像一封信｜重逢後最溫柔的事，是從今天認識你｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=H0P-8JOSG6s",
-        "thumbnail": "https://i.ytimg.com/vi/H0P-8JOSG6s/maxresdefault.jpg",
-        "durationSeconds": 162,
-        "publishedAt": "2026-10-26T17:30:11.000+08:00",
-        "fetchedAt": "2026-10-26T17:31:02.414+08:00",
+        "videoId": "wXw-sm7ibHA",
+        "title": "可能會遇見前任的舞會，你還會赴約嗎？《舞會請柬》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=wXw-sm7ibHA",
+        "thumbnail": "https://i.ytimg.com/vi/wXw-sm7ibHA/maxresdefault.jpg",
+        "durationSeconds": 185,
+        "publishedAt": "2026-10-27T05:30:31.000+08:00",
+        "fetchedAt": "2026-10-27T06:50:59.991+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.92
+        "genreConfidence": 0.61
       }
     },
     {
