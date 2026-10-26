@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-27T06:41:00.723+08:00",
+  "lastUpdated": "2026-10-27T06:46:01.229+08:00",
   "latestVideo": {
     "videoId": "H0P-8JOSG6s",
     "title": "近況像一封信｜重逢後最溫柔的事，是從今天認識你｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "wXw-sm7ibHA",
-      "title": "《舞會請柬》分開三年後可能重逢的華語敘事歌｜Yu Stellar｜星語",
+      "title": "請柬沒寫他的名字，她卻穿上新裙子走進舞會《舞會請柬》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -58,13 +58,13 @@
     },
     {
       "videoId": "jq2NirvHESI",
-      "title": "老巷換了招牌｜前世舊城系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "老巷換了招牌｜招牌全換了，只有風還認得她的腳步｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.34
     },
     {
       "videoId": "DtGTWRorQXQ",
-      "title": "《工牌上的名字》職場成長與找回自信的華語歌｜Yu Stellar｜星語",
+      "title": "投影失靈、手心冒汗，她卻獨自讓專案通過《工牌上的名字》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -148,13 +148,13 @@
     },
     {
       "videoId": "3Q7XT8qrHas",
-      "title": "有些關係，散場以後才真正開始《散場後的路》｜Yu Stellar｜星語",
+      "title": "專案結束後，他終於問起三年前的那把傘《散場後的路》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
     {
       "videoId": "okYZQcMqTBI",
-      "title": "午休的風｜前世牽引系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "午休的風｜天台一陣風，吹回她沒有經歷過的愛｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -226,13 +226,13 @@
     },
     {
       "videoId": "6VX_MsMFFJE",
-      "title": "雨衣掛在門後｜最遺憾的重逢，是你已走完這一生｜Yu Stellar｜星語",
+      "title": "雨衣掛在門後｜前世死別系華語女聲宿命情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "QEv303T1dZE",
-      "title": "朋友突然提起他轉職，她只回了一個笑臉《他方的消息》｜Yu Stellar｜星語",
+      "title": "聽見你的近況，我卻不再急著追問了《他方的消息》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -250,7 +250,7 @@
     },
     {
       "videoId": "1TY37nPugGk",
-      "title": "紙上的地址｜搬到另一座城後，她才開始真正失戀｜Yu Stellar｜星語",
+      "title": "紙上的地址｜地址可以改，想念卻搬不出舊習慣｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
