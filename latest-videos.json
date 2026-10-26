@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T19:46:26.129+08:00",
+  "updatedAt": "2026-10-26T19:51:16.080+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -334,15 +334,15 @@
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
       "latestVideo": {
-        "videoId": "ktuHKHikV44",
-        "title": "《該不該》梁靜茹 給的勇氣｜怕一開口連朋友都不是，這一次我不再躲開 ｜弦斷誰聽",
-        "url": "https://www.youtube.com/watch?v=ktuHKHikV44",
-        "thumbnail": "https://i.ytimg.com/vi/ktuHKHikV44/maxresdefault.jpg",
-        "durationSeconds": 240,
-        "publishedAt": "2026-10-24T21:00:02.000+08:00",
-        "fetchedAt": "2026-10-24T21:01:05.574+08:00",
+        "videoId": "qE30W2FtKXU",
+        "title": "《我不想愛你了》【深夜催淚】不再為一句晚安失眠到天亮｜給所有決定放手的深情！不是因為遺忘，而是學會把心碎珍藏 ｜ 弦斷誰聽",
+        "url": "https://www.youtube.com/watch?v=qE30W2FtKXU",
+        "thumbnail": "https://i.ytimg.com/vi_webp/qE30W2FtKXU/maxresdefault.webp",
+        "durationSeconds": 185,
+        "publishedAt": "2026-10-26T18:30:39.000+08:00",
+        "fetchedAt": "2026-10-26T19:51:09.337+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.78
+        "genreConfidence": 0.99
       }
     },
     {
