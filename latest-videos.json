@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T21:26:25.425+08:00",
+  "updatedAt": "2026-10-26T21:31:20.833+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "n0_GX2o9h4w",
-        "title": "《眾神降臨》｜10首MV合輯｜閃身步、哪吒、月老、孟婆、黑白無常、九尾狐【武俠劇・國風歌曲・中文原創歌曲】",
-        "url": "https://www.youtube.com/watch?v=n0_GX2o9h4w",
-        "thumbnail": "https://i.ytimg.com/vi_webp/n0_GX2o9h4w/maxresdefault.webp",
-        "durationSeconds": 2420,
-        "publishedAt": "2026-10-09T10:55:37.000+08:00",
-        "fetchedAt": "2026-10-26T21:11:14.686+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "5PXB_rPaibM",
+        "title": "《死神請假中》｜死神罷工了！撿到鐮刀的女孩，竟成了新任死神？【AI真人化・萬聖節MV】",
+        "url": "https://www.youtube.com/watch?v=5PXB_rPaibM",
+        "thumbnail": "https://i.ytimg.com/vi/5PXB_rPaibM/maxresdefault.jpg",
+        "durationSeconds": 244,
+        "publishedAt": "2026-10-23T09:06:33.000+08:00",
+        "fetchedAt": "2026-10-26T21:31:02.966+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.47
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "IJ_7CcpPkeo",
-        "title": "🔥《非你不可》｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=IJ_7CcpPkeo",
-        "thumbnail": "https://i.ytimg.com/vi_webp/IJ_7CcpPkeo/maxresdefault.webp",
-        "durationSeconds": 292,
-        "publishedAt": "2026-10-22T22:50:05.000+08:00",
-        "fetchedAt": "2026-10-25T20:20:49.192+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.36
+        "videoId": "7l7jikX0THQ",
+        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-02T18:55:18.000+08:00",
+        "fetchedAt": "2026-10-26T21:31:04.660+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.29
       }
     },
     {
