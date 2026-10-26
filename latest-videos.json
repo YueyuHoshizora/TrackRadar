@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T12:16:16.700+08:00",
+  "updatedAt": "2026-10-26T12:21:23.718+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "OLguM8g1or4",
-        "title": "台語大帝國｜李多娜《我嘛想欲有人疼》｜一個人也能好好生活，卻還是想有人陪｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=OLguM8g1or4",
-        "thumbnail": "https://i.ytimg.com/vi_webp/OLguM8g1or4/maxresdefault.webp",
-        "durationSeconds": 206,
-        "publishedAt": "2026-10-25T12:15:14.000+08:00",
-        "fetchedAt": "2026-10-25T12:50:46.343+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.78
+        "videoId": "ufIYfTf5wzk",
+        "title": "台語大帝國｜紀時宇《鬼來矣！萬聖節Party》｜鬼怪一起跳到天亮的台語Disco｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=ufIYfTf5wzk",
+        "thumbnail": "https://i.ytimg.com/vi/ufIYfTf5wzk/maxresdefault.jpg",
+        "durationSeconds": 191,
+        "publishedAt": "2026-10-26T12:15:02.000+08:00",
+        "fetchedAt": "2026-10-26T12:21:08.482+08:00",
+        "genre": "電子 Electronic",
+        "genreConfidence": 0.72
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "B_UDhoNXXkk",
-        "title": "我想留下，妳願不願意？《半夕蝶夢》完結篇｜百合・雙女主・GL・愛情微電影｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=B_UDhoNXXkk",
-        "thumbnail": "https://i.ytimg.com/vi_webp/B_UDhoNXXkk/maxresdefault.webp?v=6adb2c19",
-        "durationSeconds": 538,
-        "publishedAt": "2026-10-24T12:00:10.000+08:00",
-        "fetchedAt": "2026-10-24T12:20:53.483+08:00",
+        "videoId": "zJGcFEJJoII",
+        "title": "別替我放棄｜妳落在我的留白裡 EP05｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=zJGcFEJJoII",
+        "thumbnail": "https://i.ytimg.com/vi/zJGcFEJJoII/maxresdefault.jpg?v=6ade149f",
+        "durationSeconds": 141,
+        "publishedAt": "2026-10-26T12:00:07.000+08:00",
+        "fetchedAt": "2026-10-26T12:21:15.975+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.6
+        "genreConfidence": 0.89
       }
     },
     {
