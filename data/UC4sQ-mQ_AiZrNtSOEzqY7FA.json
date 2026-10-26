@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-26T17:16:03.244+08:00",
+  "lastUpdated": "2026-10-26T17:21:15.131+08:00",
   "latestVideo": {
     "videoId": "Hn2y6ASnY3Q",
     "title": "聽見我們的歌，我終於沒有再回頭《舊歌經過》｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "Hn2y6ASnY3Q",
-      "title": "咖啡館播起那首舊歌，她卻搭車回了新的家《舊歌經過》｜Yu Stellar｜星語",
+      "title": "《舊歌經過》聽見回憶卻不再回頭的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "dUA26d20eK8",
-      "title": "那聲熟悉的名字｜忘了前世所有事，卻忘不了你叫我的聲音｜Yu Stellar｜星語",
+      "title": "那聲熟悉的名字｜書店門口他叫住她，一場長夢突然醒了｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.78
     },
@@ -34,7 +34,7 @@
     },
     {
       "videoId": "GrnaN0uzUfk",
-      "title": "黃昏書店｜書店裡兩隻手伸向同一本前世舊城報導｜Yu Stellar｜星語",
+      "title": "黃昏書店｜命運重逢系華語女聲宿命情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "qfTPIkVQZ1A",
-      "title": "晴天寄存處｜走出失戀系華語女聲療癒歌｜Yu Stellar｜星語",
+      "title": "晴天寄存處｜我的晴天不必寄給誰，自己也能簽收｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
@@ -148,7 +148,7 @@
     },
     {
       "videoId": "Xn2-rAEtTew",
-      "title": "《改過三次的簡報》職場合作與信任的華語敘事歌｜Yu Stellar｜星語",
+      "title": "真正的信任，是你撐不住時有人接過最後兩頁《改過三次的簡報》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.78
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "DU-leXwtOXg",
-      "title": "把燈開著｜她不再等誰回家，卻讓燈亮了一整夜｜Yu Stellar｜星語",
+      "title": "把燈開著｜獨居療癒系華語女聲歌曲｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
