@@ -1,19 +1,25 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-26T17:26:00.547+08:00",
+  "lastUpdated": "2026-10-26T17:31:04.314+08:00",
   "latestVideo": {
-    "videoId": "Hn2y6ASnY3Q",
-    "title": "聽見我們的歌，我終於沒有再回頭《舊歌經過》｜Yu Stellar｜星語",
-    "url": "https://www.youtube.com/watch?v=Hn2y6ASnY3Q",
-    "thumbnail": "https://i.ytimg.com/vi/Hn2y6ASnY3Q/maxresdefault.jpg",
-    "durationSeconds": 193,
-    "publishedAt": "2026-10-26T05:30:21.000+08:00",
-    "fetchedAt": "2026-10-26T05:50:58.632+08:00",
+    "videoId": "H0P-8JOSG6s",
+    "title": "近況像一封信｜重逢後最溫柔的事，是從今天認識你｜Yu Stellar｜星語",
+    "url": "https://www.youtube.com/watch?v=H0P-8JOSG6s",
+    "thumbnail": "https://i.ytimg.com/vi/H0P-8JOSG6s/maxresdefault.jpg",
+    "durationSeconds": 162,
+    "publishedAt": "2026-10-26T17:30:11.000+08:00",
+    "fetchedAt": "2026-10-26T17:31:02.414+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.43
+    "genreConfidence": 0.92
   },
   "allVideoIds": [
+    {
+      "videoId": "H0P-8JOSG6s",
+      "title": "近況像一封信｜他們沒有談前世，只交換今生的近況｜Yu Stellar｜星語",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
+    },
     {
       "videoId": "Hn2y6ASnY3Q",
       "title": "《舊歌經過》聽見回憶卻不再回頭的華語抒情歌｜Yu Stellar｜星語",
@@ -28,7 +34,7 @@
     },
     {
       "videoId": "x7RrK0NDKCE",
-      "title": "《一人的週末》獨旅、自由與自我成長的華語抒情歌｜Yu Stellar｜星語",
+      "title": "一個人的週末不是空白，是終於能聽見自己《一人的週末》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -100,7 +106,7 @@
     },
     {
       "videoId": "fe0gRQmYamA",
-      "title": "她第一次只煮一人份，卻學會替自己盛湯《半張餐桌》｜Yu Stellar｜星語",
+      "title": "《半張餐桌》分手後重新生活的療癒華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
@@ -112,13 +118,13 @@
     },
     {
       "videoId": "tRotND7VNnM",
-      "title": "有些相遇沒有早也沒有晚，只是我們終於準備好了《相遇》｜Yu Stellar｜星語",
+      "title": "《相遇》三年後再次走近彼此的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
     {
       "videoId": "-Fox0IpfS50",
-      "title": "窗台的薄荷｜我不再是前世的影子，也能長出新生活｜Yu Stellar｜星語",
+      "title": "窗台的薄荷｜薄荷長出新葉後，她終於在今生生根｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -154,7 +160,7 @@
     },
     {
       "videoId": "hFHS_9DCjVw",
-      "title": "新鞋磨破腳｜第一份工作第一天，她忍痛走過天橋｜Yu Stellar｜星語",
+      "title": "新鞋磨破腳｜長大就是腳磨破了，還要走進明天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.78
     },
@@ -172,7 +178,7 @@
     },
     {
       "videoId": "HcbXCfmK0ZI",
-      "title": "一頓工作午餐，讓記了三年的名字終於有了模樣《午餐十二點半》｜Yu Stellar｜星語",
+      "title": "《午餐十二點半》從日常細節開始靠近的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
