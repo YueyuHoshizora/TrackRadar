@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-27T11:36:04.938+08:00",
+  "lastUpdated": "2026-10-27T11:41:02.985+08:00",
   "latestVideo": {
     "videoId": "wXw-sm7ibHA",
     "title": "可能會遇見前任的舞會，你還會赴約嗎？《舞會請柬》｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "wXw-sm7ibHA",
-      "title": "《舞會請柬》分開三年後可能重逢的華語敘事歌｜Yu Stellar｜星語",
+      "title": "可能會遇見前任的舞會，你還會赴約嗎？《舞會請柬》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "Hn2y6ASnY3Q",
-      "title": "《舊歌經過》聽見回憶卻不再回頭的華語抒情歌｜Yu Stellar｜星語",
+      "title": "聽見我們的歌，我終於沒有再回頭《舊歌經過》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "GrnaN0uzUfk",
-      "title": "黃昏書店｜命運重逢系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "黃昏書店｜如果命運要重逢，會讓兩人翻到同一頁｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
@@ -58,13 +58,13 @@
     },
     {
       "videoId": "jq2NirvHESI",
-      "title": "老巷換了招牌｜回到夢裡的老巷，才發現一切都變了｜Yu Stellar｜星語",
+      "title": "老巷換了招牌｜招牌全換了，只有風還認得她的腳步｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.34
     },
     {
       "videoId": "DtGTWRorQXQ",
-      "title": "當人生不再說「我們」，我終於把自己說得響亮《工牌上的名字》｜Yu Stellar｜星語",
+      "title": "投影失靈、手心冒汗，她卻獨自讓專案通過《工牌上的名字》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "qfTPIkVQZ1A",
-      "title": "晴天寄存處｜我的晴天不必寄給誰，自己也能簽收｜Yu Stellar｜星語",
+      "title": "晴天寄存處｜成果展那天，她第一次獨自慶祝成功｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "DU-leXwtOXg",
-      "title": "把燈開著｜獨居療癒系華語女聲歌曲｜Yu Stellar｜星語",
+      "title": "把燈開著｜我把燈開著，不是等你，是照顧自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
