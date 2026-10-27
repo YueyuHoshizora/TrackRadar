@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-27T17:26:14.841+08:00",
+  "updatedAt": "2026-10-27T17:31:22.984+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "wXw-sm7ibHA",
-        "title": "可能會遇見前任的舞會，你還會赴約嗎？《舞會請柬》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=wXw-sm7ibHA",
-        "thumbnail": "https://i.ytimg.com/vi/wXw-sm7ibHA/maxresdefault.jpg",
-        "durationSeconds": 185,
-        "publishedAt": "2026-10-27T05:30:31.000+08:00",
-        "fetchedAt": "2026-10-27T06:50:59.991+08:00",
+        "videoId": "TvGiT1Xzp0o",
+        "title": "各自的明天｜真正的重逢，不是復合，是尊重彼此的人生｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=TvGiT1Xzp0o",
+        "thumbnail": "https://i.ytimg.com/vi/TvGiT1Xzp0o/maxresdefault.jpg",
+        "durationSeconds": 232,
+        "publishedAt": "2026-10-27T17:30:02.000+08:00",
+        "fetchedAt": "2026-10-27T17:31:08.840+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.61
+        "genreConfidence": 0.73
       }
     },
     {
