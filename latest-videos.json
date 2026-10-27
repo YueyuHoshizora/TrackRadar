@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T12:16:24.846+08:00",
+  "updatedAt": "2026-10-27T12:21:21.822+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -214,28 +214,28 @@
       "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
       "channelTitle": "EIRYN",
       "latestVideo": {
-        "videoId": "O-Upg5ZrReA",
-        "title": "《太子爺》哪吒三太子｜感恩一路守護我的你 🙏 感動人心的原創歌曲｜予安YUAN",
-        "url": "https://www.youtube.com/watch?v=O-Upg5ZrReA",
-        "thumbnail": "https://i.ytimg.com/vi/O-Upg5ZrReA/maxresdefault.jpg",
-        "durationSeconds": 247,
-        "publishedAt": "2026-10-23T11:30:10.000+08:00",
-        "fetchedAt": "2026-10-23T11:51:01.942+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.82
+        "videoId": "PgEObxyLruo",
+        "title": "《愛的例外》｜原來我也會為一個人改變 ❤️｜好聽的華語浪漫情歌・EIRYN 原創歌曲",
+        "url": "https://www.youtube.com/watch?v=PgEObxyLruo",
+        "thumbnail": "https://i.ytimg.com/vi/PgEObxyLruo/maxresdefault.jpg",
+        "durationSeconds": 268,
+        "publishedAt": "2026-10-27T11:30:04.000+08:00",
+        "fetchedAt": "2026-10-27T12:21:08.877+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.99
       }
     },
     {
       "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
       "channelTitle": "予安YUAN",
       "latestVideo": {
-        "videoId": "X6TQ3s8oYPc",
-        "title": "《千年前的我們》｜原來我們都一樣，這一生辛苦了｜予安YUAN × Cat'sMelody｜原創男女對唱・滄桑抒情情歌",
-        "url": "https://www.youtube.com/watch?v=X6TQ3s8oYPc",
-        "thumbnail": "https://i.ytimg.com/vi/X6TQ3s8oYPc/maxresdefault.jpg",
-        "durationSeconds": 273,
-        "publishedAt": "2026-10-23T15:00:10.000+08:00",
-        "fetchedAt": "2026-10-23T15:01:06.410+08:00",
+        "videoId": "6wJU-I4W2DM",
+        "title": "《愛怎麼了》｜明明還相愛，怎麼最後卻走散了？💔｜予安YUAN 原創華語情歌",
+        "url": "https://www.youtube.com/watch?v=6wJU-I4W2DM",
+        "thumbnail": "https://i.ytimg.com/vi/6wJU-I4W2DM/maxresdefault.jpg",
+        "durationSeconds": 223,
+        "publishedAt": "2026-10-27T11:00:15.000+08:00",
+        "fetchedAt": "2026-10-27T12:21:09.576+08:00",
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 0.99
       }
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "B_UDhoNXXkk",
-        "title": "我想留下，妳願不願意？《半夕蝶夢》完結篇｜百合・雙女主・GL・愛情微電影｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=B_UDhoNXXkk",
-        "thumbnail": "https://i.ytimg.com/vi_webp/B_UDhoNXXkk/maxresdefault.webp?v=6adb2c19",
-        "durationSeconds": 538,
-        "publishedAt": "2026-10-24T12:00:10.000+08:00",
-        "fetchedAt": "2026-10-27T11:21:12.892+08:00",
+        "videoId": "zJGcFEJJoII",
+        "title": "別替我放棄｜妳落在我的留白裡 EP05｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=zJGcFEJJoII",
+        "thumbnail": "https://i.ytimg.com/vi/zJGcFEJJoII/maxresdefault.jpg?v=6ade149f",
+        "durationSeconds": 141,
+        "publishedAt": "2026-10-26T12:00:07.000+08:00",
+        "fetchedAt": "2026-10-27T12:21:15.108+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.63
+        "genreConfidence": 0.86
       }
     },
     {
