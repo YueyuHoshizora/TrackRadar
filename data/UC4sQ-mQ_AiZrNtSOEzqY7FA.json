@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-28T17:26:03.817+08:00",
+  "lastUpdated": "2026-10-28T17:31:05.601+08:00",
   "latestVideo": {
     "videoId": "ZSdTZ7rLFMc",
     "title": "真正要練習的不是舞步，是再見你時不逃跑《練習不躲開》｜Yu Stellar｜星語",
@@ -15,26 +15,32 @@
   },
   "allVideoIds": [
     {
+      "videoId": "1kO631xyIQQ",
+      "title": "不必回到原位｜前世今生釋懷系華語女聲情歌｜Yu Stellar｜星語",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
+    },
+    {
       "videoId": "ZSdTZ7rLFMc",
-      "title": "《練習不躲開》面對前任與找回勇氣的華語抒情歌｜Yu Stellar｜星語",
+      "title": "她總在右轉時踩錯，卻終於敢抬頭看著舞伴《練習不躲開》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
     {
       "videoId": "TvGiT1Xzp0o",
-      "title": "各自的明天｜他們沿河散步，承認彼此早已有了明天｜Yu Stellar｜星語",
+      "title": "各自的明天｜成熟重逢系華語女聲療癒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "wXw-sm7ibHA",
-      "title": "可能會遇見前任的舞會，你還會赴約嗎？《舞會請柬》｜Yu Stellar｜星語",
+      "title": "《舞會請柬》分開三年後可能重逢的華語敘事歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "H0P-8JOSG6s",
-      "title": "近況像一封信｜久別重逢系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "近況像一封信｜他們沒有談前世，只交換今生的近況｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -52,7 +58,7 @@
     },
     {
       "videoId": "x7RrK0NDKCE",
-      "title": "一個人的週末不是空白，是終於能聽見自己《一人的週末》｜Yu Stellar｜星語",
+      "title": "《一人的週末》獨旅、自由與自我成長的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -64,7 +70,7 @@
     },
     {
       "videoId": "T_FFoSoI1YU",
-      "title": "後來我買花，不再為了等誰回家《週五買花》｜Yu Stellar｜星語",
+      "title": "《週五買花》一個人也能過得幸福的療癒華語歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.84
     },
@@ -82,7 +88,7 @@
     },
     {
       "videoId": "YgExFBz5rCg",
-      "title": "返鄉前的清單｜返鄉尋根系華語女聲敘事歌｜Yu Stellar｜星語",
+      "title": "返鄉前的清單｜她因工作回到夢中舊城，卻不是為了找誰｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -100,7 +106,7 @@
     },
     {
       "videoId": "zRtAOjRKs8g",
-      "title": "《凌晨洗衣店》加班與孤獨裡找回自己的華語歌｜Yu Stellar｜星語",
+      "title": "有些孤獨，只是生活陪你熬到太晚《凌晨洗衣店》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -118,7 +124,7 @@
     },
     {
       "videoId": "qfTPIkVQZ1A",
-      "title": "晴天寄存處｜我的晴天不必寄給誰，自己也能簽收｜Yu Stellar｜星語",
+      "title": "晴天寄存處｜走出失戀系華語女聲療癒歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
@@ -148,7 +154,7 @@
     },
     {
       "videoId": "8N8EMsh334A",
-      "title": "《今天才認識你》成熟相遇與慢慢靠近的華語抒情歌｜Yu Stellar｜星語",
+      "title": "書店裡的第二次相遇，他們終於說出各自走過的三年《今天才認識你》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
@@ -160,13 +166,13 @@
     },
     {
       "videoId": "3Q7XT8qrHas",
-      "title": "專案結束後，他終於問起三年前的那把傘《散場後的路》｜Yu Stellar｜星語",
+      "title": "《散場後的路》三年後重新靠近的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.85
     },
     {
       "videoId": "okYZQcMqTBI",
-      "title": "午休的風｜我叫不出你的名字，卻記得曾經愛過｜Yu Stellar｜星語",
+      "title": "午休的風｜前世牽引系華語女聲宿命情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
