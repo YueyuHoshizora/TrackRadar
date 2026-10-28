@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-29T05:36:09.344+08:00",
+  "updatedAt": "2026-10-29T05:41:11.057+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "1kO631xyIQQ",
-        "title": "不必回到原位｜我們不必重新相愛，才能證明曾經愛過｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=1kO631xyIQQ",
-        "thumbnail": "https://i.ytimg.com/vi/1kO631xyIQQ/maxresdefault.jpg",
-        "durationSeconds": 181,
-        "publishedAt": "2026-10-28T17:30:14.000+08:00",
-        "fetchedAt": "2026-10-28T18:51:07.947+08:00",
+        "videoId": "McRDtOY4EaM",
+        "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=McRDtOY4EaM",
+        "thumbnail": "https://i.ytimg.com/vi/McRDtOY4EaM/maxresdefault.jpg",
+        "durationSeconds": 190,
+        "publishedAt": "2026-10-29T05:30:21.000+08:00",
+        "fetchedAt": "2026-10-29T05:41:01.350+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.83
+        "genreConfidence": 0.72
       }
     },
     {
