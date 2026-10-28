@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T00:16:18.516+08:00",
+  "updatedAt": "2026-10-29T00:21:17.828+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "7l7jikX0THQ",
-        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
-        "durationSeconds": 223,
-        "publishedAt": "2026-10-02T18:55:18.000+08:00",
-        "fetchedAt": "2026-10-28T23:26:03.625+08:00",
-        "genre": "動漫/ACG",
-        "genreConfidence": 0.27
+        "videoId": "IJ_7CcpPkeo",
+        "title": "🔥《非你不可》｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=IJ_7CcpPkeo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/IJ_7CcpPkeo/maxresdefault.webp",
+        "durationSeconds": 292,
+        "publishedAt": "2026-10-22T22:50:05.000+08:00",
+        "fetchedAt": "2026-10-29T00:21:03.253+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.34
       }
     },
     {
@@ -244,15 +244,15 @@
       "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
       "channelTitle": "田井魚",
       "latestVideo": {
-        "videoId": "lMpMHJZSUtM",
-        "title": "那時候的我們，還不懂怎麼愛《錯位的青春》｜青春回憶",
-        "url": "https://www.youtube.com/watch?v=lMpMHJZSUtM",
-        "thumbnail": "https://i.ytimg.com/vi/lMpMHJZSUtM/maxresdefault.jpg",
-        "durationSeconds": 225,
-        "publishedAt": "2026-10-19T17:30:18.000+08:00",
-        "fetchedAt": "2026-10-19T17:35:11.136+08:00",
+        "videoId": "mYSZrB4YBmc",
+        "title": "那晚如果有人先低頭，我們會不會還在一起《錯過的珍愛》｜男女對唱情歌",
+        "url": "https://www.youtube.com/watch?v=mYSZrB4YBmc",
+        "thumbnail": "https://i.ytimg.com/vi_webp/mYSZrB4YBmc/maxresdefault.webp",
+        "durationSeconds": 240,
+        "publishedAt": "2026-10-29T00:00:35.000+08:00",
+        "fetchedAt": "2026-10-29T00:21:06.382+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.43
+        "genreConfidence": 1
       }
     },
     {
