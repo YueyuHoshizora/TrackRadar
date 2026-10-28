@@ -1,7 +1,7 @@
 {
   "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
   "channelTitle": "田井魚",
-  "lastUpdated": "2026-10-19T17:35:11.895+08:00",
+  "lastUpdated": "2026-10-29T00:01:10.559+08:00",
   "latestVideo": {
     "videoId": "lMpMHJZSUtM",
     "title": "那時候的我們，還不懂怎麼愛《錯位的青春》｜青春回憶",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.43
   },
   "allVideoIds": [
+    {
+      "videoId": "mYSZrB4YBmc",
+      "title": "那晚如果有人先低頭，我們會不會還在一起《錯過的珍愛》｜男女對唱情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
+    },
     {
       "videoId": "lMpMHJZSUtM",
       "title": "那時候的我們，還不懂怎麼愛《錯位的青春》｜青春回憶",
