@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T18:01:36.885+08:00",
+  "updatedAt": "2026-10-28T18:06:16.597+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "ZSdTZ7rLFMc",
-        "title": "真正要練習的不是舞步，是再見你時不逃跑《練習不躲開》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=ZSdTZ7rLFMc",
-        "thumbnail": "https://i.ytimg.com/vi/ZSdTZ7rLFMc/maxresdefault.jpg",
-        "durationSeconds": 170,
-        "publishedAt": "2026-10-28T05:30:18.000+08:00",
-        "fetchedAt": "2026-10-28T06:21:00.994+08:00",
+        "videoId": "GrnaN0uzUfk",
+        "title": "黃昏書店｜如果命運要重逢，會讓兩人翻到同一頁｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=GrnaN0uzUfk",
+        "thumbnail": "https://i.ytimg.com/vi/GrnaN0uzUfk/maxresdefault.jpg",
+        "durationSeconds": 179,
+        "publishedAt": "2026-10-24T17:30:07.000+08:00",
+        "fetchedAt": "2026-10-28T18:06:00.833+08:00",
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 0.69
       }
