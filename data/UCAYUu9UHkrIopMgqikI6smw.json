@@ -1,19 +1,25 @@
 {
   "channelId": "UCAYUu9UHkrIopMgqikI6smw",
   "channelTitle": "空山和尚",
-  "lastUpdated": "2026-10-25T23:20:59.920+08:00",
+  "lastUpdated": "2026-10-29T12:00:48.486+08:00",
   "latestVideo": {
-    "videoId": "y1FbdmcfDmM",
-    "title": "《洋流匯聚》｜小水滴匯成暖流，讓希望之光照亮台灣｜空山和尚",
-    "url": "https://www.youtube.com/watch?v=y1FbdmcfDmM",
-    "thumbnail": "https://i.ytimg.com/vi/y1FbdmcfDmM/maxresdefault.jpg",
-    "durationSeconds": 282,
-    "publishedAt": "2026-10-06T12:00:12.000+08:00",
-    "fetchedAt": "2026-10-25T23:20:59.361+08:00",
-    "genre": "其他/無法判斷 Other",
-    "genreConfidence": 0.64
+    "videoId": "L2EN_dZCJDM",
+    "title": "《不染》見過人心的惡，仍願守住心中的善｜空山和尚",
+    "url": "https://www.youtube.com/watch?v=L2EN_dZCJDM",
+    "thumbnail": "https://i.ytimg.com/vi/L2EN_dZCJDM/maxresdefault.jpg",
+    "durationSeconds": 318,
+    "publishedAt": "2026-10-29T12:00:01.000+08:00",
+    "fetchedAt": "2026-10-29T12:00:48.182+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 0.93
   },
   "allVideoIds": [
+    {
+      "videoId": "L2EN_dZCJDM",
+      "title": "《不染》見過人心的惡，仍願守住心中的善｜空山和尚",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.93
+    },
     {
       "videoId": "y1FbdmcfDmM",
       "title": "《洋流匯聚》｜小水滴匯成暖流，讓希望之光照亮台灣｜空山和尚",
