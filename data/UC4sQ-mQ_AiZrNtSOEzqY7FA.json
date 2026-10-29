@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-29T13:35:36.371+08:00",
+  "lastUpdated": "2026-10-29T13:40:39.583+08:00",
   "latestVideo": {
     "videoId": "McRDtOY4EaM",
     "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "McRDtOY4EaM",
-      "title": "《鏡面那一端》舞會重逢前任的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "1kO631xyIQQ",
-      "title": "不必回到原位｜前世今生釋懷系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "不必回到原位｜我們不必重新相愛，才能證明曾經愛過｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -112,13 +112,13 @@
     },
     {
       "videoId": "zRtAOjRKs8g",
-      "title": "《凌晨洗衣店》加班與孤獨裡找回自己的華語歌｜Yu Stellar｜星語",
+      "title": "有些孤獨，只是生活陪你熬到太晚《凌晨洗衣店》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "T7p6rXMv6es",
-      "title": "回憶的背面｜前世記憶系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "回憶的背面｜有些記憶不屬於今生，卻寫著我的地址｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.44
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "-Fox0IpfS50",
-      "title": "窗台的薄荷｜薄荷長出新葉後，她終於在今生生根｜Yu Stellar｜星語",
+      "title": "窗台的薄荷｜獨居成長系華語女聲療癒歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
