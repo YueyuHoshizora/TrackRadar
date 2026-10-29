@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-30T05:25:44.073+08:00",
+  "updatedAt": "2026-10-30T05:30:45.136+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "gmBkCUk7VYE",
-        "title": "熟悉的陌生人｜最熟悉的陌生人，也值得重新問一次名字｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=gmBkCUk7VYE",
-        "thumbnail": "https://i.ytimg.com/vi/gmBkCUk7VYE/maxresdefault.jpg",
-        "durationSeconds": 215,
-        "publishedAt": "2026-10-29T17:30:23.000+08:00",
-        "fetchedAt": "2026-10-29T17:50:35.086+08:00",
+        "videoId": "cx0QSY9cv5w",
+        "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=cx0QSY9cv5w",
+        "thumbnail": "https://i.ytimg.com/vi/cx0QSY9cv5w/maxresdefault.jpg",
+        "durationSeconds": 190,
+        "publishedAt": "2026-10-30T05:30:13.000+08:00",
+        "fetchedAt": "2026-10-30T05:30:34.218+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.64
+        "genreConfidence": 0.74
       }
     },
     {
