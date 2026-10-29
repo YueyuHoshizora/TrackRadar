@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-10-26T15:31:07.888+08:00",
+  "lastUpdated": "2026-10-29T15:30:49.713+08:00",
   "latestVideo": {
     "videoId": "bmldk3jtZs8",
     "title": "🌱《失去知覺》｜原以為不會過去的，最後只像一段過境的陰天｜Official Music Video",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.62
   },
   "allVideoIds": [
+    {
+      "videoId": "SRZItTxb-aw",
+      "title": "🌧️《借來的重逢》｜夢裡我們從未走散，天亮後我又回到沒有你的今天｜Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.94
+    },
     {
       "videoId": "bmldk3jtZs8",
       "title": "🌱《失去知覺》｜原以為不會過去的，最後只像一段過境的陰天｜Official Music Video",
