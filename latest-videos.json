@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T23:40:53.515+08:00",
+  "updatedAt": "2026-10-29T23:45:59.053+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "9S15iZ3KvGI",
-        "title": "等一下，這句是我寫的《妳落在我的留白裡》EP01｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=9S15iZ3KvGI",
-        "thumbnail": "https://i.ytimg.com/vi/9S15iZ3KvGI/maxresdefault.jpg?v=6ad5c7c2",
-        "durationSeconds": 143,
-        "publishedAt": "2026-10-19T16:00:07.000+08:00",
-        "fetchedAt": "2026-10-29T22:30:46.094+08:00",
+        "videoId": "B_UDhoNXXkk",
+        "title": "我想留下，妳願不願意？《半夕蝶夢》完結篇｜百合・雙女主・GL・愛情微電影｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=B_UDhoNXXkk",
+        "thumbnail": "https://i.ytimg.com/vi_webp/B_UDhoNXXkk/maxresdefault.webp?v=6adb2c19",
+        "durationSeconds": 538,
+        "publishedAt": "2026-10-24T12:00:10.000+08:00",
+        "fetchedAt": "2026-10-29T23:45:51.225+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.92
+        "genreConfidence": 0.58
       }
     },
     {
