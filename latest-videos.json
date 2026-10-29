@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T17:30:55.254+08:00",
+  "updatedAt": "2026-10-29T17:35:55.765+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "ufIYfTf5wzk",
-        "title": "台語大帝國｜紀時宇《鬼來矣！萬聖節Party》｜鬼怪一起跳到天亮的台語Disco｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=ufIYfTf5wzk",
-        "thumbnail": "https://i.ytimg.com/vi/ufIYfTf5wzk/maxresdefault.jpg",
-        "durationSeconds": 191,
-        "publishedAt": "2026-10-26T12:15:02.000+08:00",
-        "fetchedAt": "2026-10-29T16:45:40.656+08:00",
-        "genre": "電子 Electronic",
-        "genreConfidence": 0.72
+        "videoId": "1JQMl0dGFls",
+        "title": "台語大帝國｜《王爺降臨：吳府千歲》｜吳府千歲聖誕千秋！台語搖滾祝壽歌｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=1JQMl0dGFls",
+        "thumbnail": "https://i.ytimg.com/vi/1JQMl0dGFls/maxresdefault.jpg",
+        "durationSeconds": 183,
+        "publishedAt": "2026-10-24T11:11:09.000+08:00",
+        "fetchedAt": "2026-10-29T17:35:43.264+08:00",
+        "genre": "搖滾 Rock",
+        "genreConfidence": 0.98
       }
     },
     {
