@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:00:53.253+08:00",
+  "updatedAt": "2026-10-29T16:05:47.905+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -319,15 +319,15 @@
       "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
       "channelTitle": "Vera Studio",
       "latestVideo": {
-        "videoId": "cunmSA0N9O8",
-        "title": "🌧️花信未至｜有些相逢不是沒有心動，只是錯過了彼此最好的花期｜Official Music Video",
-        "url": "https://www.youtube.com/watch?v=cunmSA0N9O8",
-        "thumbnail": "https://i.ytimg.com/vi/cunmSA0N9O8/maxresdefault.jpg",
-        "durationSeconds": 204,
-        "publishedAt": "2026-10-15T15:00:00.000+08:00",
-        "fetchedAt": "2026-10-29T15:45:45.179+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.68
+        "videoId": "bmldk3jtZs8",
+        "title": "🌱《失去知覺》｜原以為不會過去的，最後只像一段過境的陰天｜Official Music Video",
+        "url": "https://www.youtube.com/watch?v=bmldk3jtZs8",
+        "thumbnail": "https://i.ytimg.com/vi/bmldk3jtZs8/maxresdefault.jpg",
+        "durationSeconds": 207,
+        "publishedAt": "2026-10-26T15:30:20.000+08:00",
+        "fetchedAt": "2026-10-29T16:05:39.232+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.67
       }
     },
     {
