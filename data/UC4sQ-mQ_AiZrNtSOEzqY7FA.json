@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-30T17:15:42.038+08:00",
+  "lastUpdated": "2026-10-30T17:20:41.022+08:00",
   "latestVideo": {
     "videoId": "cx0QSY9cv5w",
     "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "cx0QSY9cv5w",
-      "title": "《走到你面前》分開三年後主動靠近的華語抒情歌｜Yu Stellar｜星語",
+      "title": "她穿過整個舞會人群，只為主動說一句好久不見《走到你面前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "TvGiT1Xzp0o",
-      "title": "各自的明天｜成熟重逢系華語女聲療癒情歌｜Yu Stellar｜星語",
+      "title": "各自的明天｜他們沿河散步，承認彼此早已有了明天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -76,13 +76,13 @@
     },
     {
       "videoId": "x7RrK0NDKCE",
-      "title": "一個人的週末不是空白，是終於能聽見自己《一人的週末》｜Yu Stellar｜星語",
+      "title": "《一人的週末》獨旅、自由與自我成長的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "GrnaN0uzUfk",
-      "title": "黃昏書店｜如果命運要重逢，會讓兩人翻到同一頁｜Yu Stellar｜星語",
+      "title": "黃昏書店｜命運重逢系華語女聲宿命情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "jq2NirvHESI",
-      "title": "老巷換了招牌｜招牌全換了，只有風還認得她的腳步｜Yu Stellar｜星語",
+      "title": "老巷換了招牌｜回到夢裡的老巷，才發現一切都變了｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.34
     },
@@ -106,19 +106,19 @@
     },
     {
       "videoId": "YgExFBz5rCg",
-      "title": "返鄉前的清單｜返鄉尋根系華語女聲敘事歌｜Yu Stellar｜星語",
+      "title": "返鄉前的清單｜她因工作回到夢中舊城，卻不是為了找誰｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
     {
       "videoId": "Hjo-XpqOHS4",
-      "title": "《未送出的票》放下牽掛、尊重界線的華語抒情歌｜Yu Stellar｜星語",
+      "title": "想念一個人，也可以選擇不再打擾《未送出的票》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "gWv0mzqz6CI",
-      "title": "約定的另一種說法｜真正的約定，不是等你，是活成自己｜Yu Stellar｜星語",
+      "title": "約定的另一種說法｜查到前世舊城後，她終於讀懂那場分離｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "s-A3ciJCfyA",
-      "title": "《新的門牌》寫給重新開始生活的療癒華語歌｜Yu Stellar｜星語",
+      "title": "門牌先記住她的名字，心卻比家具晚一點抵達《新的門牌》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -148,13 +148,13 @@
     },
     {
       "videoId": "fe0gRQmYamA",
-      "title": "《半張餐桌》分手後重新生活的療癒華語抒情歌｜Yu Stellar｜星語",
+      "title": "她第一次只煮一人份，卻學會替自己盛湯《半張餐桌》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
     {
       "videoId": "1ngBWqUEf3M",
-      "title": "名字的重量｜女性職場成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "名字的重量｜她完成第一個專案，終於成為今生的自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.47
     },
