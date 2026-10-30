@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-10-30T11:20:39.144+08:00",
+  "lastUpdated": "2026-10-30T20:00:42.588+08:00",
   "latestVideo": {
     "videoId": "ByFZisX39aE",
     "title": "《嫁金釵》｜替千金出嫁的貧女，原來她才是真千金【古風歌曲・真假千金・Official MV】",
@@ -14,6 +14,12 @@
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "8GwtAId__Kc",
+      "title": "《嫁金釵》💍｜替千金出嫁的貧女，沒想到她才是真正的千金！",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.88
+    },
     {
       "videoId": "ByFZisX39aE",
       "title": "《嫁金釵》｜替千金出嫁的貧女，原來她才是真千金【古風歌曲・真假千金・Official MV】",
