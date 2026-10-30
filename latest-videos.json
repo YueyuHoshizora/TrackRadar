@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T15:15:50.428+08:00",
+  "updatedAt": "2026-10-30T15:20:50.677+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -229,15 +229,15 @@
       "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
       "channelTitle": "予安YUAN",
       "latestVideo": {
-        "videoId": "6wJU-I4W2DM",
-        "title": "《愛怎麼了》｜明明還相愛，怎麼最後卻走散了？💔｜予安YUAN 原創華語情歌",
-        "url": "https://www.youtube.com/watch?v=6wJU-I4W2DM",
-        "thumbnail": "https://i.ytimg.com/vi/6wJU-I4W2DM/maxresdefault.jpg",
-        "durationSeconds": 223,
-        "publishedAt": "2026-10-27T11:00:15.000+08:00",
-        "fetchedAt": "2026-10-27T12:21:09.576+08:00",
+        "videoId": "y2pgyHxU7Yg",
+        "title": "《你走以後》｜這首歌的最後一句，留給再也見不到的人｜傷感女聲情歌｜予安YUAN Official  Music  Video",
+        "url": "https://www.youtube.com/watch?v=y2pgyHxU7Yg",
+        "thumbnail": "https://i.ytimg.com/vi/y2pgyHxU7Yg/maxresdefault.jpg",
+        "durationSeconds": 262,
+        "publishedAt": "2026-10-30T15:00:01.000+08:00",
+        "fetchedAt": "2026-10-30T15:20:42.167+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.99
+        "genreConfidence": 1
       }
     },
     {
