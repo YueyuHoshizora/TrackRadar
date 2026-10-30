@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-30T17:30:40.733+08:00",
+  "lastUpdated": "2026-10-30T17:35:42.256+08:00",
   "latestVideo": {
     "videoId": "cx0QSY9cv5w",
     "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.74
   },
   "allVideoIds": [
+    {
+      "videoId": "TRnKY2VyDEM",
+      "title": "兩種季節｜遠距重逢系華語女聲療癒情歌｜Yu Stellar｜星語",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
+    },
     {
       "videoId": "cx0QSY9cv5w",
       "title": "她穿過整個舞會人群，只為主動說一句好久不見《走到你面前》｜Yu Stellar｜星語",
@@ -46,7 +52,7 @@
     },
     {
       "videoId": "TvGiT1Xzp0o",
-      "title": "各自的明天｜真正的重逢，不是復合，是尊重彼此的人生｜Yu Stellar｜星語",
+      "title": "各自的明天｜他們沿河散步，承認彼此早已有了明天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -136,7 +142,7 @@
     },
     {
       "videoId": "s-A3ciJCfyA",
-      "title": "搬離有你的家後，我花了多久才住進新生活《新的門牌》｜Yu Stellar｜星語",
+      "title": "門牌先記住她的名字，心卻比家具晚一點抵達《新的門牌》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -148,7 +154,7 @@
     },
     {
       "videoId": "fe0gRQmYamA",
-      "title": "分開後最難的，是重新煮一人份的晚餐《半張餐桌》｜Yu Stellar｜星語",
+      "title": "她第一次只煮一人份，卻學會替自己盛湯《半張餐桌》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
