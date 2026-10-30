@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-30T18:10:55.311+08:00",
+  "updatedAt": "2026-10-30T18:15:53.657+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "McRDtOY4EaM",
-        "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=McRDtOY4EaM",
-        "thumbnail": "https://i.ytimg.com/vi/McRDtOY4EaM/maxresdefault.jpg",
+        "videoId": "cx0QSY9cv5w",
+        "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=cx0QSY9cv5w",
+        "thumbnail": "https://i.ytimg.com/vi/cx0QSY9cv5w/maxresdefault.jpg",
         "durationSeconds": 190,
-        "publishedAt": "2026-10-29T05:30:21.000+08:00",
-        "fetchedAt": "2026-10-30T18:05:39.331+08:00",
+        "publishedAt": "2026-10-30T05:30:13.000+08:00",
+        "fetchedAt": "2026-10-30T18:15:39.136+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.62
+        "genreConfidence": 0.75
       }
     },
     {
