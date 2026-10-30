@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-30T17:00:41.781+08:00",
+  "lastUpdated": "2026-10-30T17:05:40.940+08:00",
   "latestVideo": {
     "videoId": "cx0QSY9cv5w",
     "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "cx0QSY9cv5w",
-      "title": "她穿過整個舞會人群，只為主動說一句好久不見《走到你面前》｜Yu Stellar｜星語",
+      "title": "《走到你面前》分開三年後主動靠近的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
     {
       "videoId": "gmBkCUk7VYE",
-      "title": "熟悉的陌生人｜他們一起查前世，卻不替今生預設答案｜Yu Stellar｜星語",
+      "title": "熟悉的陌生人｜宿命重逢系華語女聲敘事情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -34,7 +34,7 @@
     },
     {
       "videoId": "1kO631xyIQQ",
-      "title": "不必回到原位｜前世今生釋懷系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "不必回到原位｜我們不必重新相愛，才能證明曾經愛過｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "wXw-sm7ibHA",
-      "title": "《舞會請柬》分開三年後可能重逢的華語敘事歌｜Yu Stellar｜星語",
+      "title": "可能會遇見前任的舞會，你還會赴約嗎？《舞會請柬》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "GrnaN0uzUfk",
-      "title": "黃昏書店｜命運重逢系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "黃昏書店｜如果命運要重逢，會讓兩人翻到同一頁｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
@@ -94,13 +94,13 @@
     },
     {
       "videoId": "jq2NirvHESI",
-      "title": "老巷換了招牌｜回到夢裡的老巷，才發現一切都變了｜Yu Stellar｜星語",
+      "title": "老巷換了招牌｜招牌全換了，只有風還認得她的腳步｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.34
     },
     {
       "videoId": "DtGTWRorQXQ",
-      "title": "當人生不再說「我們」，我終於把自己說得響亮《工牌上的名字》｜Yu Stellar｜星語",
+      "title": "投影失靈、手心冒汗，她卻獨自讓專案通過《工牌上的名字》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -124,13 +124,13 @@
     },
     {
       "videoId": "zRtAOjRKs8g",
-      "title": "《凌晨洗衣店》加班與孤獨裡找回自己的華語歌｜Yu Stellar｜星語",
+      "title": "有些孤獨，只是生活陪你熬到太晚《凌晨洗衣店》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "T7p6rXMv6es",
-      "title": "回憶的背面｜前世記憶系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "回憶的背面｜有些記憶不屬於今生，卻寫著我的地址｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.44
     },
