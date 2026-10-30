@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-10-30T23:50:39.595+08:00",
+  "lastUpdated": "2026-10-30T23:55:39.949+08:00",
   "latestVideo": {
     "videoId": "TRnKY2VyDEM",
     "title": "兩種季節｜你那裡下雨，我這裡晴，也能慢慢靠近｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "TRnKY2VyDEM",
-      "title": "兩種季節｜你那裡下雨，我這裡晴，也能慢慢靠近｜Yu Stellar｜星語",
+      "title": "兩種季節｜遠距重逢系華語女聲療癒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "cx0QSY9cv5w",
-      "title": "《走到你面前》分開三年後主動靠近的華語抒情歌｜Yu Stellar｜星語",
+      "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
@@ -82,19 +82,19 @@
     },
     {
       "videoId": "x7RrK0NDKCE",
-      "title": "一個人的週末不是空白，是終於能聽見自己《一人的週末》｜Yu Stellar｜星語",
+      "title": "她獨自騎到海邊，把手機收起來記住整片海《一人的週末》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "GrnaN0uzUfk",
-      "title": "黃昏書店｜書店裡兩隻手伸向同一本前世舊城報導｜Yu Stellar｜星語",
+      "title": "黃昏書店｜如果命運要重逢，會讓兩人翻到同一頁｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
     {
       "videoId": "T_FFoSoI1YU",
-      "title": "後來我買花，不再為了等誰回家《週五買花》｜Yu Stellar｜星語",
+      "title": "花店老闆問送誰，她說：只是想讓房間開花《週五買花》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.84
     },
@@ -130,7 +130,7 @@
     },
     {
       "videoId": "zRtAOjRKs8g",
-      "title": "凌晨只剩洗衣店亮著，她把疲憊洗成了明天《凌晨洗衣店》｜Yu Stellar｜星語",
+      "title": "有些孤獨，只是生活陪你熬到太晚《凌晨洗衣店》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -148,7 +148,7 @@
     },
     {
       "videoId": "qfTPIkVQZ1A",
-      "title": "晴天寄存處｜我的晴天不必寄給誰，自己也能簽收｜Yu Stellar｜星語",
+      "title": "晴天寄存處｜成果展那天，她第一次獨自慶祝成功｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "8N8EMsh334A",
-      "title": "《今天才認識你》成熟相遇與慢慢靠近的華語抒情歌｜Yu Stellar｜星語",
+      "title": "遇見三年後，我們今天才真正認識彼此《今天才認識你》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
