@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:15:48.015+08:00",
+  "updatedAt": "2026-10-30T11:20:49.006+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -20,15 +20,15 @@
       "channelId": "UCYyzOVPBHzhr_cFFJbGoymQ",
       "channelTitle": "安餒An_Nei",
       "latestVideo": {
-        "videoId": "fTb3Uyo8j_I",
-        "title": "【台語搖滾 – 撿角】「卡早聽人講只要認真打拚，總有一天會出頭天。」深沉無奈的草根命運詠歎。 🎧 安餒 An_Nei",
-        "url": "https://www.youtube.com/watch?v=fTb3Uyo8j_I",
-        "thumbnail": "https://i.ytimg.com/vi_webp/fTb3Uyo8j_I/maxresdefault.webp",
-        "durationSeconds": 184,
-        "publishedAt": "2026-10-24T10:00:35.000+08:00",
-        "fetchedAt": "2026-10-24T10:00:55.324+08:00",
-        "genre": "搖滾 Rock",
-        "genreConfidence": 0.99
+        "videoId": "DN-EC3Kzdcs",
+        "title": "【中國風 – 今天不想當好人】「今天不想當好人，天王老子都要滾！」看破世俗客套、狂放霸氣的洗腦神曲。 🎧 安餒 An_Nei",
+        "url": "https://www.youtube.com/watch?v=DN-EC3Kzdcs",
+        "thumbnail": "https://i.ytimg.com/vi_webp/DN-EC3Kzdcs/maxresdefault.webp",
+        "durationSeconds": 180,
+        "publishedAt": "2026-10-30T11:00:17.000+08:00",
+        "fetchedAt": "2026-10-30T11:20:38.335+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
@@ -80,15 +80,15 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "5PXB_rPaibM",
-        "title": "《死神請假中》｜死神罷工了！撿到鐮刀的女孩，竟成了新任死神？【AI真人化・萬聖節MV】",
-        "url": "https://www.youtube.com/watch?v=5PXB_rPaibM",
-        "thumbnail": "https://i.ytimg.com/vi/5PXB_rPaibM/maxresdefault.jpg",
-        "durationSeconds": 244,
-        "publishedAt": "2026-10-23T09:06:33.000+08:00",
-        "fetchedAt": "2026-10-29T23:50:37.204+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.49
+        "videoId": "ByFZisX39aE",
+        "title": "《嫁金釵》｜替千金出嫁的貧女，原來她才是真千金【古風歌曲・真假千金・Official MV】",
+        "url": "https://www.youtube.com/watch?v=ByFZisX39aE",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ByFZisX39aE/maxresdefault.webp",
+        "durationSeconds": 218,
+        "publishedAt": "2026-10-30T10:48:33.000+08:00",
+        "fetchedAt": "2026-10-30T11:20:38.670+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
