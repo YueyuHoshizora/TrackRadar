@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-10-31T12:20:25.914+08:00",
+  "lastUpdated": "2026-10-31T15:25:26.650+08:00",
   "latestVideo": {
     "videoId": "L8p6ZL7p8M8",
     "title": "這次，換我去找妳｜道是無晴卻有晴｜百合・雙女主・GL・音樂短劇｜霧月 Xiaoloulou",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.4
   },
   "allVideoIds": [
+    {
+      "videoId": "nkPh_0ihezY",
+      "title": "妳心裡牽掛的，也是我嗎？｜道是無晴卻有晴｜露兒 × 霧月 #gl #百合 #雙女主",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.53
+    },
     {
       "videoId": "L8p6ZL7p8M8",
       "title": "這次，換我去找妳｜道是無晴卻有晴｜百合・雙女主・GL・音樂微電影｜霧月 Xiaoloulou",
