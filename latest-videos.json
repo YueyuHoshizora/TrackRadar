@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T20:20:31.448+08:00",
+  "updatedAt": "2026-10-31T20:25:29.781+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -140,13 +140,13 @@
       "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
       "channelTitle": "迷子 Maigo",
       "latestVideo": {
-        "videoId": "43IcDK9qpp0",
-        "title": "完璧な嘘 / 迷子 feat. 重音テト【歌詞付き】",
-        "url": "https://www.youtube.com/watch?v=43IcDK9qpp0",
-        "thumbnail": "https://i.ytimg.com/vi/43IcDK9qpp0/maxresdefault.jpg",
-        "durationSeconds": 188,
-        "publishedAt": "2026-10-07T20:05:02.000+08:00",
-        "fetchedAt": "2026-10-07T20:16:15.298+08:00",
+        "videoId": "gX1zD3_b0PU",
+        "title": "くれてもいたずら / 迷子 feat. 重音テト【歌詞付き】",
+        "url": "https://www.youtube.com/watch?v=gX1zD3_b0PU",
+        "thumbnail": "https://i.ytimg.com/vi/gX1zD3_b0PU/maxresdefault.jpg",
+        "durationSeconds": 203,
+        "publishedAt": "2026-10-31T18:50:54.000+08:00",
+        "fetchedAt": "2026-10-31T20:25:18.408+08:00",
         "genre": "Vocaloid"
       }
     },
