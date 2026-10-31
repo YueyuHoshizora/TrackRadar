@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-10-30T18:20:42.031+08:00",
+  "lastUpdated": "2026-10-31T12:10:19.382+08:00",
   "latestVideo": {
-    "videoId": "Px7uUbDYPHg",
-    "title": "台語大帝國｜紀時宇《你敢有想我》｜青春暗戀一直不敢說出口的告白｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=Px7uUbDYPHg",
-    "thumbnail": "https://i.ytimg.com/vi/Px7uUbDYPHg/maxresdefault.jpg",
-    "durationSeconds": 162,
-    "publishedAt": "2026-10-30T17:00:34.000+08:00",
-    "fetchedAt": "2026-10-30T18:20:41.149+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.78
+    "videoId": "ftVQQfAIvsY",
+    "title": "台語大帝國｜Asher 凜 x 李多娜《同一秒出世(80億分之1)》｜同一秒出生，卻活在不同世界｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=ftVQQfAIvsY",
+    "thumbnail": "https://i.ytimg.com/vi/ftVQQfAIvsY/maxresdefault.jpg",
+    "durationSeconds": 198,
+    "publishedAt": "2026-10-31T12:08:35.000+08:00",
+    "fetchedAt": "2026-10-31T12:10:18.476+08:00",
+    "genre": "流行 Pop",
+    "genreConfidence": 0.36
   },
   "allVideoIds": [
+    {
+      "videoId": "ftVQQfAIvsY",
+      "title": "台語大帝國｜Asher 凜 x 李多娜《同一秒出世(80億分之1)》｜同一秒出生，卻活在不同世界｜筠芙得利【Official MV】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.36
+    },
     {
       "videoId": "Px7uUbDYPHg",
       "title": "台語大帝國｜紀時宇《你敢有想我》｜青春暗戀一直不敢說出口的告白｜筠芙得利【Official MV】",
