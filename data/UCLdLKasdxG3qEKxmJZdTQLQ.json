@@ -1,19 +1,25 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-10-27T16:21:08.741+08:00",
+  "lastUpdated": "2026-10-31T09:25:45.420+08:00",
   "latestVideo": {
-    "videoId": "J7ufeem1CCs",
-    "title": "《藏紅妝》第37集｜心動",
-    "url": "https://www.youtube.com/watch?v=J7ufeem1CCs",
-    "thumbnail": "https://i.ytimg.com/vi/J7ufeem1CCs/maxresdefault.jpg",
-    "durationSeconds": 150,
-    "publishedAt": "2026-10-27T15:32:58.000+08:00",
-    "fetchedAt": "2026-10-27T16:21:07.684+08:00",
+    "videoId": "_VeaBA6pAVM",
+    "title": "《紅顏劫》｜忽聞有人哭君名｜古風悲歌 × 中式恐怖MV｜萬聖節特輯",
+    "url": "https://www.youtube.com/watch?v=_VeaBA6pAVM",
+    "thumbnail": "https://i.ytimg.com/vi_webp/_VeaBA6pAVM/maxresdefault.webp",
+    "durationSeconds": 247,
+    "publishedAt": "2026-10-31T09:23:24.000+08:00",
+    "fetchedAt": "2026-10-31T09:25:44.833+08:00",
     "genre": "古風/國風 Chinese Style",
-    "genreConfidence": 0.8
+    "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "_VeaBA6pAVM",
+      "title": "《紅顏劫》｜忽聞有人哭君名｜古風悲歌 × 中式恐怖MV｜萬聖節特輯",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
+    },
     {
       "videoId": "J7ufeem1CCs",
       "title": "《藏紅妝》第37集｜心動",
