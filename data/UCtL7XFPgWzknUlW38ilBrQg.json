@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-10-31T00:20:49.027+08:00",
+  "lastUpdated": "2026-10-31T12:00:29.915+08:00",
   "latestVideo": {
     "videoId": "AZs4m4g_RAQ",
     "title": "先讀到妳，才遇到妳｜妳落在我的留白裡 E01–E05 合集｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
@@ -15,6 +15,12 @@
   },
   "allVideoIds": [
     {
+      "videoId": "L8p6ZL7p8M8",
+      "title": "這次，換我去找妳｜道是無晴卻有晴｜百合・雙女主・GL・音樂短劇｜霧月 Xiaoloulou",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.38
+    },
+    {
       "videoId": "DFKmzrQdKIc",
       "title": "還不想睡，就再聽一首｜原創歌曲隨機連播・陪伴音樂｜未盡之歌・霧月 Xiaoloulou",
       "genre": "其他/無法判斷 Other",
@@ -25,12 +31,6 @@
       "title": "《影之刃零》初見｜來陪露露玩遊戲",
       "genre": "遊戲音樂 Game Music",
       "genreConfidence": 0.46
-    },
-    {
-      "videoId": "L8p6ZL7p8M8",
-      "title": "這次，換我去找妳｜道是無晴卻有晴｜百合・雙女主・GL・音樂短劇｜霧月 Xiaoloulou",
-      "genre": "古風/國風 Chinese Style",
-      "genreConfidence": 0.38
     },
     {
       "videoId": "AZs4m4g_RAQ",
