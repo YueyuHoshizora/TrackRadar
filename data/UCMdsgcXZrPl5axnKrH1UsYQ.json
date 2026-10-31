@@ -1,7 +1,7 @@
 {
   "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
   "channelTitle": "修卡迪特AI_創作",
-  "lastUpdated": "2026-10-25T02:50:41.008+08:00",
+  "lastUpdated": "2026-10-31T23:45:21.823+08:00",
   "latestVideo": {
     "videoId": "N0cx06d8f4I",
     "title": "能量水晶之戰EP05｜色彩節奏與封印｜歌曲:Color Rhythm",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.64
   },
   "allVideoIds": [
+    {
+      "videoId": "MAKABGTS1SA",
+      "title": "能量水晶之戰EP05｜色彩節奏與封印｜ #ai歌手 #kpop  #a4ura #aivideo",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.48
+    },
     {
       "videoId": "N0cx06d8f4I",
       "title": "能量水晶之戰EP05｜色彩節奏與封印｜歌曲:Color Rhythm",
