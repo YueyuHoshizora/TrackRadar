@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-10-14T11:25:47.617+08:00",
+  "lastUpdated": "2026-10-31T16:30:29.259+08:00",
   "latestVideo": {
     "videoId": "-XNQYYydYPE",
     "title": "沒有人救我，我就救自己《我就是彼岸》｜我不等天亮了——我自己，就是火焰｜自我救贖・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "48OT8Vq6J3s",
+      "title": "等妳一個回應｜道是無晴卻有晴｜霧月演唱片段",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.56
+    },
     {
       "videoId": "-XNQYYydYPE",
       "title": "沒有人救我，我就救自己《我就是彼岸》｜我不等天亮了——我自己，就是火焰｜自我救贖・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
