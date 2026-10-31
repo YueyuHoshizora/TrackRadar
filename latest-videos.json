@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-31T17:30:30.992+08:00",
+  "updatedAt": "2026-10-31T17:35:29.616+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "TW2R0xUk5cU",
-        "title": "如果再見前任，你敢主動邀他跳一支舞嗎？《與我共舞》｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=TW2R0xUk5cU",
-        "thumbnail": "https://i.ytimg.com/vi/TW2R0xUk5cU/maxresdefault.jpg",
-        "durationSeconds": 197,
-        "publishedAt": "2026-10-31T05:30:18.000+08:00",
-        "fetchedAt": "2026-10-31T05:50:38.679+08:00",
+        "videoId": "-sWurK6GiQE",
+        "title": "路過同一場雨｜再遇見你時，我們不再把傘偏向昨天｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=-sWurK6GiQE",
+        "thumbnail": "https://i.ytimg.com/vi/-sWurK6GiQE/maxresdefault.jpg",
+        "durationSeconds": 202,
+        "publishedAt": "2026-10-31T17:30:18.000+08:00",
+        "fetchedAt": "2026-10-31T17:35:16.108+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.66
+        "genreConfidence": 0.88
       }
     },
     {
