@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T12:05:26.533+08:00",
+  "updatedAt": "2026-10-31T12:10:29.617+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "Px7uUbDYPHg",
-        "title": "台語大帝國｜紀時宇《你敢有想我》｜青春暗戀一直不敢說出口的告白｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=Px7uUbDYPHg",
-        "thumbnail": "https://i.ytimg.com/vi/Px7uUbDYPHg/maxresdefault.jpg",
-        "durationSeconds": 162,
-        "publishedAt": "2026-10-30T17:00:34.000+08:00",
-        "fetchedAt": "2026-10-30T18:20:41.149+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.78
+        "videoId": "ftVQQfAIvsY",
+        "title": "台語大帝國｜Asher 凜 x 李多娜《同一秒出世(80億分之1)》｜同一秒出生，卻活在不同世界｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=ftVQQfAIvsY",
+        "thumbnail": "https://i.ytimg.com/vi/ftVQQfAIvsY/maxresdefault.jpg",
+        "durationSeconds": 198,
+        "publishedAt": "2026-10-31T12:08:35.000+08:00",
+        "fetchedAt": "2026-10-31T12:10:18.476+08:00",
+        "genre": "流行 Pop",
+        "genreConfidence": 0.36
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "AZs4m4g_RAQ",
-        "title": "先讀到妳，才遇到妳｜妳落在我的留白裡 E01–E05 合集｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=AZs4m4g_RAQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/AZs4m4g_RAQ/maxresdefault.webp?v=6ae1d830",
-        "durationSeconds": 671,
-        "publishedAt": "2026-10-29T12:00:10.000+08:00",
-        "fetchedAt": "2026-10-31T00:20:46.055+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.94
+        "videoId": "L8p6ZL7p8M8",
+        "title": "這次，換我去找妳｜道是無晴卻有晴｜百合・雙女主・GL・音樂短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=L8p6ZL7p8M8",
+        "thumbnail": "https://i.ytimg.com/vi/L8p6ZL7p8M8/maxresdefault.jpg?v=6ae34aa0",
+        "durationSeconds": 273,
+        "publishedAt": "2026-10-31T12:00:09.000+08:00",
+        "fetchedAt": "2026-10-31T12:10:23.730+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.4
       }
     },
     {
