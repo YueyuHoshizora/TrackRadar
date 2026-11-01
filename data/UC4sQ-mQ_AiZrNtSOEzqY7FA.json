@@ -1,22 +1,28 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-01T17:30:21.242+08:00",
+  "lastUpdated": "2026-11-01T17:35:18.706+08:00",
   "latestVideo": {
-    "videoId": "_rBkst6tRIw",
-    "title": "長大後的重逢，是能平靜說完彼此錯過的三年《一曲之後》｜Yu Stellar｜星語",
-    "url": "https://www.youtube.com/watch?v=_rBkst6tRIw",
-    "thumbnail": "https://i.ytimg.com/vi/_rBkst6tRIw/maxresdefault.jpg",
-    "durationSeconds": 191,
-    "publishedAt": "2026-11-01T05:30:38.000+08:00",
-    "fetchedAt": "2026-11-01T05:55:19.339+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.72
+    "videoId": "yzrnbs5efHw",
+    "title": "把故事說完整｜說出共同的前世，不代表要重寫結局｜Yu Stellar｜星語",
+    "url": "https://www.youtube.com/watch?v=yzrnbs5efHw",
+    "thumbnail": "https://i.ytimg.com/vi/yzrnbs5efHw/maxresdefault.jpg",
+    "durationSeconds": 223,
+    "publishedAt": "2026-11-01T17:30:13.000+08:00",
+    "fetchedAt": "2026-11-01T17:35:16.880+08:00",
+    "genre": "其他/無法判斷 Other",
+    "genreConfidence": 0.75
   },
   "allVideoIds": [
     {
+      "videoId": "yzrnbs5efHw",
+      "title": "把故事說完整｜閉館後的長椅上，他們承認做過同一場夢｜Yu Stellar｜星語",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.75
+    },
+    {
       "videoId": "_rBkst6tRIw",
-      "title": "長大後的重逢，是能平靜說完彼此錯過的三年《一曲之後》｜Yu Stellar｜星語",
+      "title": "《一曲之後》前任重逢、和解與釋然的華語抒情歌｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.55
     },
@@ -28,19 +34,19 @@
     },
     {
       "videoId": "TW2R0xUk5cU",
-      "title": "分開三年後，她伸出手說：只陪我跳完今夜《與我共舞》｜Yu Stellar｜星語",
+      "title": "如果再見前任，你敢主動邀他跳一支舞嗎？《與我共舞》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
     {
       "videoId": "TRnKY2VyDEM",
-      "title": "兩種季節｜重逢後他們相隔兩地，沒有承諾也沒走散｜Yu Stellar｜星語",
+      "title": "兩種季節｜你那裡下雨，我這裡晴，也能慢慢靠近｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "cx0QSY9cv5w",
-      "title": "她穿過整個舞會人群，只為主動說一句好久不見《走到你面前》｜Yu Stellar｜星語",
+      "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
@@ -100,7 +106,7 @@
     },
     {
       "videoId": "x7RrK0NDKCE",
-      "title": "《一人的週末》獨旅、自由與自我成長的華語抒情歌｜Yu Stellar｜星語",
+      "title": "她獨自騎到海邊，把手機收起來記住整片海《一人的週末》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -112,7 +118,7 @@
     },
     {
       "videoId": "T_FFoSoI1YU",
-      "title": "《週五買花》一個人也能過得幸福的療癒華語歌｜Yu Stellar｜星語",
+      "title": "花店老闆問送誰，她說：只是想讓房間開花《週五買花》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.84
     },
@@ -130,19 +136,19 @@
     },
     {
       "videoId": "YgExFBz5rCg",
-      "title": "返鄉前的清單｜她因工作回到夢中舊城，卻不是為了找誰｜Yu Stellar｜星語",
+      "title": "返鄉前的清單｜清單沒有你的名字，我還是決定回去｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
     {
       "videoId": "Hjo-XpqOHS4",
-      "title": "想念一個人，也可以選擇不再打擾《未送出的票》｜Yu Stellar｜星語",
+      "title": "《未送出的票》放下牽掛、尊重界線的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "gWv0mzqz6CI",
-      "title": "約定的另一種說法｜查到前世舊城後，她終於讀懂那場分離｜Yu Stellar｜星語",
+      "title": "約定的另一種說法｜真正的約定，不是等你，是活成自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -166,7 +172,7 @@
     },
     {
       "videoId": "qfTPIkVQZ1A",
-      "title": "晴天寄存處｜走出失戀系華語女聲療癒歌｜Yu Stellar｜星語",
+      "title": "晴天寄存處｜成果展那天，她第一次獨自慶祝成功｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
@@ -178,7 +184,7 @@
     },
     {
       "videoId": "1ngBWqUEf3M",
-      "title": "名字的重量｜她完成第一個專案，終於成為今生的自己｜Yu Stellar｜星語",
+      "title": "名字的重量｜不借誰的故事，我也能用自己的名字發光｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.47
     },
