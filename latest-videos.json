@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T02:15:35.114+08:00",
+  "updatedAt": "2026-11-02T02:20:35.119+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "N0cx06d8f4I",
-        "title": "能量水晶之戰EP05｜色彩節奏與封印｜歌曲:Color Rhythm",
-        "url": "https://www.youtube.com/watch?v=N0cx06d8f4I",
-        "thumbnail": "https://i.ytimg.com/vi_webp/N0cx06d8f4I/maxresdefault.webp",
-        "durationSeconds": 638,
-        "publishedAt": "2026-10-25T01:39:30.000+08:00",
-        "fetchedAt": "2026-11-01T23:25:17.152+08:00",
+        "videoId": "CgJR4I8MNiE",
+        "title": "《A4URA滅夢師》｜EP00序章｜夢獸開端",
+        "url": "https://www.youtube.com/watch?v=CgJR4I8MNiE",
+        "thumbnail": "https://i.ytimg.com/vi/CgJR4I8MNiE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFEgTChlMA8=&rs=AOn4CLAOZoLesXamOmNS_uukPoQ7SkzibA",
+        "durationSeconds": 226,
+        "publishedAt": "2026-09-27T23:14:18.000+08:00",
+        "fetchedAt": "2026-11-02T02:20:17.032+08:00",
         "genre": "動漫/ACG",
-        "genreConfidence": 0.62
+        "genreConfidence": 0.53
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "B_UDhoNXXkk",
-        "title": "我想留下，妳願不願意？《半夕蝶夢》完結篇｜百合・雙女主・GL・愛情微電影｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=B_UDhoNXXkk",
-        "thumbnail": "https://i.ytimg.com/vi_webp/B_UDhoNXXkk/maxresdefault.webp?v=6adb2c19",
-        "durationSeconds": 538,
-        "publishedAt": "2026-10-24T12:00:10.000+08:00",
-        "fetchedAt": "2026-11-02T01:45:27.727+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.6
+        "videoId": "9v2heBzGkKQ",
+        "title": "妳知道我在等，為什麼不見我？｜別讓她看見我流淚 E01｜百合・雙女主・GL・音樂短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=9v2heBzGkKQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/9v2heBzGkKQ/maxresdefault.webp?v=6ae62587",
+        "durationSeconds": 171,
+        "publishedAt": "2026-11-01T12:00:10.000+08:00",
+        "fetchedAt": "2026-11-02T02:20:26.691+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.48
       }
     },
     {
@@ -454,15 +454,15 @@
       "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
       "channelTitle": "沐霧月",
       "latestVideo": {
-        "videoId": "EK7CkCZa-do",
-        "title": "我們最大的問題，是從來沒有問題《溫柔溺斃》｜沒傷口的痛，最深｜冷暴力・窒息式關係｜沐霧月【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=EK7CkCZa-do",
-        "thumbnail": "https://i.ytimg.com/vi/EK7CkCZa-do/maxresdefault.jpg?v=6aa0dc34",
+        "videoId": "-XNQYYydYPE",
+        "title": "沒有人救我，我就救自己《我就是彼岸》｜我不等天亮了——我自己，就是火焰｜自我救贖・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=-XNQYYydYPE",
+        "thumbnail": "https://i.ytimg.com/vi_webp/-XNQYYydYPE/maxresdefault.webp",
         "durationSeconds": 215,
-        "publishedAt": "2026-08-19T12:00:06.000+08:00",
-        "fetchedAt": "2026-11-02T00:20:29.159+08:00",
+        "publishedAt": "2026-09-23T12:00:23.000+08:00",
+        "fetchedAt": "2026-11-02T02:20:28.899+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.87
+        "genreConfidence": 0.99
       }
     },
     {
