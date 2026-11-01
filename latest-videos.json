@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-02T05:50:33.318+08:00",
+  "updatedAt": "2026-11-02T05:55:29.414+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "yzrnbs5efHw",
-        "title": "把故事說完整｜說出共同的前世，不代表要重寫結局｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=yzrnbs5efHw",
-        "thumbnail": "https://i.ytimg.com/vi/yzrnbs5efHw/maxresdefault.jpg",
-        "durationSeconds": 223,
-        "publishedAt": "2026-11-01T17:30:13.000+08:00",
-        "fetchedAt": "2026-11-01T17:35:16.880+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.75
+        "videoId": "X9VxzJORS3w",
+        "title": "成熟的喜歡，是靠近以後也不急著要答案《不急著定義》｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=X9VxzJORS3w",
+        "thumbnail": "https://i.ytimg.com/vi/X9VxzJORS3w/maxresdefault.jpg",
+        "durationSeconds": 160,
+        "publishedAt": "2026-11-02T05:30:16.000+08:00",
+        "fetchedAt": "2026-11-02T05:55:16.458+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.56
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "_qo3tNhFo7I",
-        "title": "🔥《明日邊界2147》平凡的一天｜AN ORDINARY DAY — 新加坡2147 世界氛圍音樂｜Singapore 2147 World Ambience",
-        "url": "https://www.youtube.com/watch?v=_qo3tNhFo7I",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_qo3tNhFo7I/maxresdefault.webp",
-        "durationSeconds": 264,
-        "publishedAt": "2026-08-22T01:00:13.000+08:00",
-        "fetchedAt": "2026-11-02T05:50:20.483+08:00",
-        "genre": "純音樂/器樂 Instrumental",
-        "genreConfidence": 0.71
+        "videoId": "IJ_7CcpPkeo",
+        "title": "🔥《非你不可》｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=IJ_7CcpPkeo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/IJ_7CcpPkeo/maxresdefault.webp",
+        "durationSeconds": 292,
+        "publishedAt": "2026-10-22T22:50:05.000+08:00",
+        "fetchedAt": "2026-11-02T05:55:18.638+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.36
       }
     },
     {
