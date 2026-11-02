@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-02T08:00:23.627+08:00",
+  "lastUpdated": "2026-11-02T08:05:16.495+08:00",
   "latestVideo": {
     "videoId": "X9VxzJORS3w",
     "title": "成熟的喜歡，是靠近以後也不急著要答案《不急著定義》｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "X9VxzJORS3w",
-      "title": "共舞隔天，他只傳一句「昨晚謝謝」《不急著定義》｜Yu Stellar｜星語",
+      "title": "《不急著定義》重新認識前任的成熟系華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
     {
       "videoId": "yzrnbs5efHw",
-      "title": "把故事說完整｜說出共同的前世，不代表要重寫結局｜Yu Stellar｜星語",
+      "title": "把故事說完整｜閉館後的長椅上，他們承認做過同一場夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.75
     },
@@ -34,13 +34,13 @@
     },
     {
       "videoId": "-sWurK6GiQE",
-      "title": "路過同一場雨｜半年後同場雨裡，他們第二次自然相遇｜Yu Stellar｜星語",
+      "title": "路過同一場雨｜雨天重逢系華語女聲宿命情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.88
     },
     {
       "videoId": "TW2R0xUk5cU",
-      "title": "如果再見前任，你敢主動邀他跳一支舞嗎？《與我共舞》｜Yu Stellar｜星語",
+      "title": "分開三年後，她伸出手說：只陪我跳完今夜《與我共舞》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "cx0QSY9cv5w",
-      "title": "《走到你面前》分開三年後主動靠近的華語抒情歌｜Yu Stellar｜星語",
+      "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "ZSdTZ7rLFMc",
-      "title": "《練習不躲開》面對前任與找回勇氣的華語抒情歌｜Yu Stellar｜星語",
+      "title": "真正要練習的不是舞步，是再見你時不逃跑《練習不躲開》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
@@ -94,13 +94,13 @@
     },
     {
       "videoId": "H0P-8JOSG6s",
-      "title": "近況像一封信｜重逢後最溫柔的事，是從今天認識你｜Yu Stellar｜星語",
+      "title": "近況像一封信｜他們沒有談前世，只交換今生的近況｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "Hn2y6ASnY3Q",
-      "title": "聽見我們的歌，我終於沒有再回頭《舊歌經過》｜Yu Stellar｜星語",
+      "title": "咖啡館播起那首舊歌，她卻搭車回了新的家《舊歌經過》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "qfTPIkVQZ1A",
-      "title": "晴天寄存處｜成果展那天，她第一次獨自慶祝成功｜Yu Stellar｜星語",
+      "title": "晴天寄存處｜走出失戀系華語女聲療癒歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
