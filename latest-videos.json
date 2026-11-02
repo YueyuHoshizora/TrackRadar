@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T23:55:35.403+08:00",
+  "updatedAt": "2026-11-03T00:00:34.421+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "B_UDhoNXXkk",
-        "title": "我想留下，妳願不願意？《半夕蝶夢》完結篇｜百合・雙女主・GL・愛情微電影｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=B_UDhoNXXkk",
-        "thumbnail": "https://i.ytimg.com/vi_webp/B_UDhoNXXkk/maxresdefault.webp?v=6adb2c19",
-        "durationSeconds": 538,
-        "publishedAt": "2026-10-24T12:00:10.000+08:00",
-        "fetchedAt": "2026-11-02T22:55:28.244+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.59
+        "videoId": "L8p6ZL7p8M8",
+        "title": "告訴我，妳會捨不得嗎？｜道是無晴卻有晴｜百合・雙女主・GL・音樂短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=L8p6ZL7p8M8",
+        "thumbnail": "https://i.ytimg.com/vi/L8p6ZL7p8M8/maxresdefault.jpg?v=6ae595ad",
+        "durationSeconds": 273,
+        "publishedAt": "2026-10-31T12:00:09.000+08:00",
+        "fetchedAt": "2026-11-03T00:00:28.414+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.4
       }
     },
     {
