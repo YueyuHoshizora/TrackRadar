@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-03T05:25:27.646+08:00",
+  "updatedAt": "2026-11-03T05:30:26.070+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "2MiNzv8sZp0",
-        "title": "記得但不回頭｜我記得你，卻不必回頭證明愛過｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=2MiNzv8sZp0",
-        "thumbnail": "https://i.ytimg.com/vi/2MiNzv8sZp0/maxresdefault.jpg",
-        "durationSeconds": 173,
-        "publishedAt": "2026-11-02T17:30:14.000+08:00",
-        "fetchedAt": "2026-11-02T17:35:15.636+08:00",
+        "videoId": "2B1jY2Wjv0g",
+        "title": "凌晨四點｜明明醒著，卻聽見夢在叫我回去｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=2B1jY2Wjv0g",
+        "thumbnail": "https://i.ytimg.com/vi/2B1jY2Wjv0g/maxresdefault.jpg",
+        "durationSeconds": 254,
+        "publishedAt": "2026-11-03T05:30:07.000+08:00",
+        "fetchedAt": "2026-11-03T05:30:15.000+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.93
+        "genreConfidence": 0.63
       }
     },
     {
