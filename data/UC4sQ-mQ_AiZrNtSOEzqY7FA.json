@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-02T22:25:17.814+08:00",
+  "lastUpdated": "2026-11-02T22:30:18.343+08:00",
   "latestVideo": {
     "videoId": "2MiNzv8sZp0",
     "title": "記得但不回頭｜我記得你，卻不必回頭證明愛過｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "2MiNzv8sZp0",
-      "title": "記得但不回頭｜成熟告別系華語女聲療癒情歌｜Yu Stellar｜星語",
+      "title": "記得但不回頭｜我記得你，卻不必回頭證明愛過｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "yzrnbs5efHw",
-      "title": "把故事說完整｜前世今生坦白系華語女聲敘事情歌｜Yu Stellar｜星語",
+      "title": "把故事說完整｜說出共同的前世，不代表要重寫結局｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.75
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "wXw-sm7ibHA",
-      "title": "可能會遇見前任的舞會，你還會赴約嗎？《舞會請柬》｜Yu Stellar｜星語",
+      "title": "請柬沒寫他的名字，她卻穿上新裙子走進舞會《舞會請柬》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -166,13 +166,13 @@
     },
     {
       "videoId": "zRtAOjRKs8g",
-      "title": "《凌晨洗衣店》加班與孤獨裡找回自己的華語歌｜Yu Stellar｜星語",
+      "title": "凌晨只剩洗衣店亮著，她把疲憊洗成了明天《凌晨洗衣店》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "T7p6rXMv6es",
-      "title": "回憶的背面｜前世記憶系華語女聲宿命情歌｜Yu Stellar｜星語",
+      "title": "回憶的背面｜有些記憶不屬於今生，卻寫著我的地址｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.44
     },
