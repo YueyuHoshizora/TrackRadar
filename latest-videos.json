@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T17:20:31.059+08:00",
+  "updatedAt": "2026-11-02T17:25:34.367+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "RzSMvxK_q1Q",
-        "title": "台語大帝國｜Asher 凜《阿爸，你嘛捌少年》｜一張舊照片，才知道爸爸也曾是愛唱歌的少年｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=RzSMvxK_q1Q",
-        "thumbnail": "https://i.ytimg.com/vi_webp/RzSMvxK_q1Q/maxresdefault.webp",
-        "durationSeconds": 177,
-        "publishedAt": "2026-11-01T12:15:25.000+08:00",
-        "fetchedAt": "2026-11-01T12:20:19.141+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.64
+        "videoId": "oJMeMWvhnW0",
+        "title": "台語大帝國｜李多娜《我無欲假少年》｜不必假裝年輕，我只想做自己｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=oJMeMWvhnW0",
+        "thumbnail": "https://i.ytimg.com/vi/oJMeMWvhnW0/maxresdefault.jpg",
+        "durationSeconds": 148,
+        "publishedAt": "2026-11-02T16:30:03.000+08:00",
+        "fetchedAt": "2026-11-02T17:25:18.675+08:00",
+        "genre": "流行 Pop",
+        "genreConfidence": 0.42
       }
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
-      "channelTitle": "Aria艾莉亞",
+      "channelTitle": "Aria",
       "latestVideo": {
         "videoId": "1GnVEVfsJRQ",
         "title": "各取所需，誰也別假裝委屈｜《平替關係》Aria艾莉亞 Official Lyric Video",
@@ -319,15 +319,15 @@
       "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
       "channelTitle": "Vera Studio",
       "latestVideo": {
-        "videoId": "SRZItTxb-aw",
-        "title": "🌧️《借來的重逢》｜夢裡我們從未走散，天亮後我又回到沒有你的今天｜Official Music Video",
-        "url": "https://www.youtube.com/watch?v=SRZItTxb-aw",
-        "thumbnail": "https://i.ytimg.com/vi/SRZItTxb-aw/maxresdefault.jpg",
-        "durationSeconds": 228,
-        "publishedAt": "2026-10-29T15:30:03.000+08:00",
-        "fetchedAt": "2026-10-29T17:50:42.138+08:00",
+        "videoId": "tyKjenIR0e8",
+        "title": "🌧️《只剩你清晰》｜等所有記憶都褪色，我還是能一眼認出你｜Official Music Video",
+        "url": "https://www.youtube.com/watch?v=tyKjenIR0e8",
+        "thumbnail": "https://i.ytimg.com/vi/tyKjenIR0e8/maxresdefault.jpg",
+        "durationSeconds": 165,
+        "publishedAt": "2026-11-02T15:30:16.000+08:00",
+        "fetchedAt": "2026-11-02T17:25:22.774+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.94
+        "genreConfidence": 0.92
       }
     },
     {
