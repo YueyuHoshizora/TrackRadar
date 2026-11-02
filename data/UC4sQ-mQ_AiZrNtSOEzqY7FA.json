@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-02T23:40:18.994+08:00",
+  "lastUpdated": "2026-11-02T23:45:18.116+08:00",
   "latestVideo": {
     "videoId": "2MiNzv8sZp0",
     "title": "記得但不回頭｜我記得你，卻不必回頭證明愛過｜Yu Stellar｜星語",
@@ -52,13 +52,13 @@
     },
     {
       "videoId": "TRnKY2VyDEM",
-      "title": "兩種季節｜遠距重逢系華語女聲療癒情歌｜Yu Stellar｜星語",
+      "title": "兩種季節｜重逢後他們相隔兩地，沒有承諾也沒走散｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "cx0QSY9cv5w",
-      "title": "她穿過整個舞會人群，只為主動說一句好久不見《走到你面前》｜Yu Stellar｜星語",
+      "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "1kO631xyIQQ",
-      "title": "不必回到原位｜重逢隔天，她拒絕讓前世決定今生｜Yu Stellar｜星語",
+      "title": "不必回到原位｜前世今生釋懷系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -100,7 +100,7 @@
     },
     {
       "videoId": "H0P-8JOSG6s",
-      "title": "近況像一封信｜他們沒有談前世，只交換今生的近況｜Yu Stellar｜星語",
+      "title": "近況像一封信｜久別重逢系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -154,13 +154,13 @@
     },
     {
       "videoId": "Hjo-XpqOHS4",
-      "title": "她打好「週六有空嗎」，最後只買了一張票《未送出的票》｜Yu Stellar｜星語",
+      "title": "想念一個人，也可以選擇不再打擾《未送出的票》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
     {
       "videoId": "gWv0mzqz6CI",
-      "title": "約定的另一種說法｜前世今生系華語女聲療癒情歌｜Yu Stellar｜星語",
+      "title": "約定的另一種說法｜查到前世舊城後，她終於讀懂那場分離｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "s-A3ciJCfyA",
-      "title": "搬離有你的家後，我花了多久才住進新生活《新的門牌》｜Yu Stellar｜星語",
+      "title": "門牌先記住她的名字，心卻比家具晚一點抵達《新的門牌》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
