@@ -1,7 +1,7 @@
 {
   "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
   "channelTitle": "田井魚",
-  "lastUpdated": "2026-10-29T00:21:07.093+08:00",
+  "lastUpdated": "2026-11-02T12:05:22.801+08:00",
   "latestVideo": {
     "videoId": "mYSZrB4YBmc",
     "title": "那晚如果有人先低頭，我們會不會還在一起《錯過的珍愛》｜男女對唱情歌",
@@ -14,6 +14,12 @@
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "vVzqUKH6Z4c",
+      "title": "一滴水，也能匯成洋流《小水滴》｜台灣加油！🇹🇼",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.74
+    },
     {
       "videoId": "mYSZrB4YBmc",
       "title": "那晚如果有人先低頭，我們會不會還在一起《錯過的珍愛》｜男女對唱情歌",
