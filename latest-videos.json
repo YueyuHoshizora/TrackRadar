@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T04:20:27.224+08:00",
+  "updatedAt": "2026-11-03T04:25:31.360+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -80,13 +80,13 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "RFLLIe2Rz8Q",
-        "title": "《天下第二》｜天下第一女劍客只想退休，沒想到賣麵老婆婆竟是絕世高手！【國風歌曲・武俠劇・Official MV】",
-        "url": "https://www.youtube.com/watch?v=RFLLIe2Rz8Q",
-        "thumbnail": "https://i.ytimg.com/vi_webp/RFLLIe2Rz8Q/maxresdefault.webp",
-        "durationSeconds": 214,
-        "publishedAt": "2026-10-17T10:00:11.000+08:00",
-        "fetchedAt": "2026-11-03T04:05:18.314+08:00",
+        "videoId": "ByFZisX39aE",
+        "title": "《嫁金釵》｜替千金出嫁的貧女，原來她才是真千金【古風歌曲・真假千金・Official MV】",
+        "url": "https://www.youtube.com/watch?v=ByFZisX39aE",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ByFZisX39aE/maxresdefault.webp",
+        "durationSeconds": 218,
+        "publishedAt": "2026-10-30T10:48:33.000+08:00",
+        "fetchedAt": "2026-11-03T04:25:17.434+08:00",
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 1
       }
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "zJGcFEJJoII",
-        "title": "別替我放棄｜妳落在我的留白裡 EP05｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=zJGcFEJJoII",
-        "thumbnail": "https://i.ytimg.com/vi/zJGcFEJJoII/maxresdefault.jpg?v=6ade149f",
-        "durationSeconds": 141,
-        "publishedAt": "2026-10-26T12:00:07.000+08:00",
-        "fetchedAt": "2026-11-03T03:35:24.777+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.88
+        "videoId": "9v2heBzGkKQ",
+        "title": "妳知道我在等，為什麼不見我？｜別讓她看見我流淚 E01｜百合・雙女主・GL・音樂短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=9v2heBzGkKQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/9v2heBzGkKQ/maxresdefault.webp?v=6ae62587",
+        "durationSeconds": 171,
+        "publishedAt": "2026-11-01T12:00:10.000+08:00",
+        "fetchedAt": "2026-11-03T04:25:25.175+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.48
       }
     },
     {
