@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T01:00:29.918+08:00",
+  "updatedAt": "2026-11-03T01:05:32.333+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -454,15 +454,15 @@
       "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
       "channelTitle": "沐霧月",
       "latestVideo": {
-        "videoId": "oF9Q0Yk4m3I",
-        "title": "接不住妳，就淋成妳的模樣《淋成妳的雨》｜既然愛已化成雨，我就維持濕透｜拒絕釋懷・深夜emo｜沐霧月【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=oF9Q0Yk4m3I",
-        "thumbnail": "https://i.ytimg.com/vi/oF9Q0Yk4m3I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVqpQVwHACCKzdX77u1BO37jbU1Q",
-        "durationSeconds": 200,
-        "publishedAt": "2026-08-14T12:00:06.000+08:00",
-        "fetchedAt": "2026-11-03T00:25:29.711+08:00",
+        "videoId": "h_URQVcR2rA",
+        "title": "連難過，我都感覺不到了｜精神內耗・一小時連播合輯｜13首，替說不出口的你說完｜窒。心意集・沐霧月",
+        "url": "https://www.youtube.com/watch?v=h_URQVcR2rA",
+        "thumbnail": "https://i.ytimg.com/vi/h_URQVcR2rA/maxresdefault.jpg",
+        "durationSeconds": 2855,
+        "publishedAt": "2026-08-08T13:00:07.000+08:00",
+        "fetchedAt": "2026-11-03T01:05:28.615+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.95
+        "genreConfidence": 0.57
       }
     },
     {
