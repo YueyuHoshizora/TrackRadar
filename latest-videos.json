@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:50:27.397+08:00",
+  "updatedAt": "2026-11-03T12:55:28.018+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "9v2heBzGkKQ",
-        "title": "妳知道我在等，為什麼不見我？｜別讓她看見我流淚 E01｜百合・雙女主・GL・音樂短劇｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=9v2heBzGkKQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/9v2heBzGkKQ/maxresdefault.webp?v=6ae62587",
-        "durationSeconds": 171,
-        "publishedAt": "2026-11-01T12:00:10.000+08:00",
-        "fetchedAt": "2026-11-03T04:25:25.175+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.48
+        "videoId": "fof7AQXZfdg",
+        "title": "借我靠一下｜妳落在我的留白裡 EP06｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=fof7AQXZfdg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/fof7AQXZfdg/maxresdefault.webp?v=6ae95c17",
+        "durationSeconds": 143,
+        "publishedAt": "2026-11-03T12:00:10.000+08:00",
+        "fetchedAt": "2026-11-03T12:55:21.444+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.94
       }
     },
     {
