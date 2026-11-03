@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-11-04T03:20:22.942+08:00",
+  "lastUpdated": "2026-11-04T03:55:23.055+08:00",
   "latestVideo": {
     "videoId": "fof7AQXZfdg",
     "title": "借我靠一下｜妳落在我的留白裡 EP06｜百合・雙女主・GL・短劇｜霧月 Xiaoloulou",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.94
   },
   "allVideoIds": [
+    {
+      "videoId": "jvxksuYIvIs",
+      "title": "還不想睡，就再聽一首｜原創歌曲隨機連播・陪伴音樂｜未盡之歌・霧月 Xiaoloulou",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.55
+    },
     {
       "videoId": "wmdRa1WBKHU",
       "title": "想妳，跟等妳，是兩件事｜別讓她看見我流淚 E02｜百合・雙女主・GL・音樂短劇｜霧月 Xiaoloulou",
