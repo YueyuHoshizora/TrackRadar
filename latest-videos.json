@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-04T05:30:22.720+08:00",
+  "updatedAt": "2026-11-04T05:35:23.264+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "6gwANabEg6U",
-        "title": "前世來生｜前世錯過的人，來生一定要再愛一次嗎｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=6gwANabEg6U",
-        "thumbnail": "https://i.ytimg.com/vi/6gwANabEg6U/maxresdefault.jpg",
-        "durationSeconds": 188,
-        "publishedAt": "2026-11-03T17:30:16.000+08:00",
-        "fetchedAt": "2026-11-03T17:35:12.033+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.56
+        "videoId": "qfh-r8MoOiA",
+        "title": "枕邊地圖｜醒來後，我畫出不存在卻熟悉的城市｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=qfh-r8MoOiA",
+        "thumbnail": "https://i.ytimg.com/vi/qfh-r8MoOiA/maxresdefault.jpg",
+        "durationSeconds": 250,
+        "publishedAt": "2026-11-04T05:30:29.000+08:00",
+        "fetchedAt": "2026-11-04T05:35:12.199+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.69
       }
     },
     {
