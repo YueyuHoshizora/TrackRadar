@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-04T10:35:13.463+08:00",
+  "lastUpdated": "2026-11-04T10:40:12.860+08:00",
   "latestVideo": {
     "videoId": "qfh-r8MoOiA",
     "title": "枕邊地圖｜醒來後，我畫出不存在卻熟悉的城市｜Yu Stellar｜星語",
@@ -22,13 +22,13 @@
     },
     {
       "videoId": "6gwANabEg6U",
-      "title": "前世來生｜找回共同記憶後，他們選擇重新認識彼此｜Yu Stellar｜星語",
+      "title": "前世來生｜前世今生系華語女聲宿命敘事情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
     {
       "videoId": "2B1jY2Wjv0g",
-      "title": "凌晨四點｜明明醒著，卻聽見夢在叫我回去｜Yu Stellar｜星語",
+      "title": "凌晨四點｜失眠夜必聽華語療癒情歌・夢迴夢序章｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.63
     },
@@ -40,13 +40,13 @@
     },
     {
       "videoId": "X9VxzJORS3w",
-      "title": "成熟的喜歡，是靠近以後也不急著要答案《不急著定義》｜Yu Stellar｜星語",
+      "title": "共舞隔天，他只傳一句「昨晚謝謝」《不急著定義》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
     {
       "videoId": "yzrnbs5efHw",
-      "title": "把故事說完整｜前世今生坦白系華語女聲敘事情歌｜Yu Stellar｜星語",
+      "title": "把故事說完整｜閉館後的長椅上，他們承認做過同一場夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.75
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "TW2R0xUk5cU",
-      "title": "《與我共舞》分開三年後成熟重逢的華語抒情歌｜Yu Stellar｜星語",
+      "title": "分開三年後，她伸出手說：只陪我跳完今夜《與我共舞》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "cx0QSY9cv5w",
-      "title": "她穿過整個舞會人群，只為主動說一句好久不見《走到你面前》｜Yu Stellar｜星語",
+      "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
