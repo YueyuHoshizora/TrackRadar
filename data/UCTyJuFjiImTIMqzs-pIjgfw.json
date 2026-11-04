@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-11-03T16:30:16.080+08:00",
+  "lastUpdated": "2026-11-04T15:35:15.743+08:00",
   "latestVideo": {
-    "videoId": "eDr-zMoLkec",
-    "title": "台語大帝國｜貂蟬《莫問阮愛啥人》｜三國紅顏傳｜你們爭天下，誰問過她願不願意？｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=eDr-zMoLkec",
-    "thumbnail": "https://i.ytimg.com/vi/eDr-zMoLkec/maxresdefault.jpg",
-    "durationSeconds": 230,
-    "publishedAt": "2026-11-03T16:30:10.000+08:00",
-    "fetchedAt": "2026-11-03T16:30:14.874+08:00",
-    "genre": "古風/國風 Chinese Style",
-    "genreConfidence": 0.67
+    "videoId": "aKWfXxkd3TU",
+    "title": "台語大帝國｜紀時宇《阿母，今仔日換我》｜媽媽忘了我是誰，卻還記得問我吃飽沒｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=aKWfXxkd3TU",
+    "thumbnail": "https://i.ytimg.com/vi/aKWfXxkd3TU/maxresdefault.jpg",
+    "durationSeconds": 171,
+    "publishedAt": "2026-11-04T15:30:39.000+08:00",
+    "fetchedAt": "2026-11-04T15:35:14.586+08:00",
+    "genre": "抒情/情歌 Ballad",
+    "genreConfidence": 0.84
   },
   "allVideoIds": [
+    {
+      "videoId": "aKWfXxkd3TU",
+      "title": "台語大帝國｜紀時宇《阿母，今仔日換我》｜媽媽忘了我是誰，卻還記得問我吃飽沒｜筠芙得利【Official MV】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.84
+    },
     {
       "videoId": "eDr-zMoLkec",
       "title": "台語大帝國｜貂蟬《莫問阮愛啥人》｜三國紅顏傳｜你們爭天下，誰問過她願不願意？｜筠芙得利【Official MV】",
