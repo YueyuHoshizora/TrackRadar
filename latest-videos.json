@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-04T17:30:23.022+08:00",
+  "updatedAt": "2026-11-04T17:35:23.116+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "qfh-r8MoOiA",
-        "title": "枕邊地圖｜醒來後，我畫出不存在卻熟悉的城市｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=qfh-r8MoOiA",
-        "thumbnail": "https://i.ytimg.com/vi/qfh-r8MoOiA/maxresdefault.jpg",
-        "durationSeconds": 250,
-        "publishedAt": "2026-11-04T05:30:29.000+08:00",
-        "fetchedAt": "2026-11-04T05:35:12.199+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.69
+        "videoId": "DjPid_4O2wI",
+        "title": "紙鳶未收線｜原來心動，是兩個人都故意放慢腳步｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=DjPid_4O2wI",
+        "thumbnail": "https://i.ytimg.com/vi/DjPid_4O2wI/maxresdefault.jpg",
+        "durationSeconds": 221,
+        "publishedAt": "2026-11-04T17:30:32.000+08:00",
+        "fetchedAt": "2026-11-04T17:35:12.023+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.61
       }
     },
     {
