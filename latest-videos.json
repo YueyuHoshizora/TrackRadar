@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T20:40:28.202+08:00",
+  "updatedAt": "2026-11-05T20:45:24.849+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "uS0mue9cs6k",
-        "title": "女團A4URA第六支MV｜《Don't Wake Yet》｜Official Music Video",
-        "url": "https://www.youtube.com/watch?v=uS0mue9cs6k",
-        "thumbnail": "https://i.ytimg.com/vi_webp/uS0mue9cs6k/maxresdefault.webp",
-        "durationSeconds": 248,
-        "publishedAt": "2026-09-30T23:36:39.000+08:00",
-        "fetchedAt": "2026-11-05T20:40:12.509+08:00",
+        "videoId": "-De-KYQh5bE",
+        "title": "A4URA各式舞蹈+場景+位置移動練習",
+        "url": "https://www.youtube.com/watch?v=-De-KYQh5bE",
+        "thumbnail": "https://i.ytimg.com/vi/-De-KYQh5bE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUShPMA8=&rs=AOn4CLCAUMLSBSjS2jH_fzYDia5wKEQN4w",
+        "durationSeconds": 232,
+        "publishedAt": "2026-10-10T01:58:13.000+08:00",
+        "fetchedAt": "2026-11-05T20:45:12.328+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.6
+        "genreConfidence": 0.89
       }
     },
     {
@@ -80,13 +80,13 @@
       "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
       "channelTitle": "予棠 Lumiora",
       "latestVideo": {
-        "videoId": "RFLLIe2Rz8Q",
-        "title": "《天下第二》｜天下第一女劍客只想退休，沒想到賣麵老婆婆竟是絕世高手！【國風歌曲・武俠劇・Official MV】",
-        "url": "https://www.youtube.com/watch?v=RFLLIe2Rz8Q",
-        "thumbnail": "https://i.ytimg.com/vi_webp/RFLLIe2Rz8Q/maxresdefault.webp",
-        "durationSeconds": 214,
-        "publishedAt": "2026-10-17T10:00:11.000+08:00",
-        "fetchedAt": "2026-11-05T20:40:14.025+08:00",
+        "videoId": "G4KUIp4Ef4E",
+        "title": "《天下第二2・人間有甜》｜她單挑唐門全派，只為一顆糖【武俠劇・MV】",
+        "url": "https://www.youtube.com/watch?v=G4KUIp4Ef4E",
+        "thumbnail": "https://i.ytimg.com/vi/G4KUIp4Ef4E/maxresdefault.jpg",
+        "durationSeconds": 225,
+        "publishedAt": "2026-11-04T19:31:21.000+08:00",
+        "fetchedAt": "2026-11-05T20:45:13.335+08:00",
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 1
       }
