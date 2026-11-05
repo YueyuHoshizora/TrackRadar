@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-  "channelTitle": "Yu Starry Music",
-  "lastUpdated": "2026-11-05T08:05:12.371+08:00",
+  "channelTitle": "語音星空",
+  "lastUpdated": "2026-11-05T08:10:13.434+08:00",
   "latestVideo": {
     "videoId": "c284npUDLuE",
     "title": "霧裡鐘聲｜路都被霧藏起來，鐘聲卻記得我｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "c284npUDLuE",
-      "title": "霧裡鐘聲｜路都被霧藏起來，鐘聲卻記得我｜Yu Stellar｜星語",
+      "title": "霧裡鐘聲｜氛圍系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "qfh-r8MoOiA",
-      "title": "枕邊地圖｜醒來後，我畫出不存在卻熟悉的城市｜Yu Stellar｜星語",
+      "title": "枕邊地圖｜夢境系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.69
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "TRnKY2VyDEM",
-      "title": "兩種季節｜重逢後他們相隔兩地，沒有承諾也沒走散｜Yu Stellar｜星語",
+      "title": "兩種季節｜你那裡下雨，我這裡晴，也能慢慢靠近｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -94,13 +94,13 @@
     },
     {
       "videoId": "gmBkCUk7VYE",
-      "title": "熟悉的陌生人｜最熟悉的陌生人，也值得重新問一次名字｜Yu Stellar｜星語",
+      "title": "熟悉的陌生人｜宿命重逢系華語女聲敘事情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "McRDtOY4EaM",
-      "title": "舞會鏡中，她先看見了三年未見的那個人《鏡面那一端》｜Yu Stellar｜星語",
+      "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -184,7 +184,7 @@
     },
     {
       "videoId": "Hjo-XpqOHS4",
-      "title": "想念一個人，也可以選擇不再打擾《未送出的票》｜Yu Stellar｜星語",
+      "title": "《未送出的票》放下牽掛、尊重界線的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.96
     },
@@ -214,7 +214,7 @@
     },
     {
       "videoId": "qfTPIkVQZ1A",
-      "title": "晴天寄存處｜我的晴天不必寄給誰，自己也能簽收｜Yu Stellar｜星語",
+      "title": "晴天寄存處｜成果展那天，她第一次獨自慶祝成功｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.51
     },
@@ -232,13 +232,13 @@
     },
     {
       "videoId": "tRotND7VNnM",
-      "title": "有些相遇沒有早也沒有晚，只是我們終於準備好了《相遇》｜Yu Stellar｜星語",
+      "title": "三年前只交換姓名，三年後他問：下週還有空嗎？《相遇》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.89
     },
     {
       "videoId": "-Fox0IpfS50",
-      "title": "窗台的薄荷｜我不再是前世的影子，也能長出新生活｜Yu Stellar｜星語",
+      "title": "窗台的薄荷｜獨居成長系華語女聲療癒歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.52
     },
@@ -250,7 +250,7 @@
     },
     {
       "videoId": "SaoFghauGOs",
-      "title": "一個人的搬家｜這次搬家不是離開誰，是靠近自己｜Yu Stellar｜星語",
+      "title": "一個人的搬家｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
@@ -262,7 +262,7 @@
     },
     {
       "videoId": "okYZQcMqTBI",
-      "title": "午休的風｜我叫不出你的名字，卻記得曾經愛過｜Yu Stellar｜星語",
+      "title": "午休的風｜天台一陣風，吹回她沒有經歷過的愛｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
