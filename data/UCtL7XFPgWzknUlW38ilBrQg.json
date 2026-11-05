@@ -1,19 +1,25 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-11-04T19:35:23.213+08:00",
+  "lastUpdated": "2026-11-05T19:35:23.860+08:00",
   "latestVideo": {
-    "videoId": "wmdRa1WBKHU",
-    "title": "想妳，跟等妳，是兩件事｜別讓她看見我流淚 E02｜百合・雙女主・GL・音樂短劇｜霧月 Xiaoloulou",
-    "url": "https://www.youtube.com/watch?v=wmdRa1WBKHU",
-    "thumbnail": "https://i.ytimg.com/vi_webp/wmdRa1WBKHU/maxresdefault.webp?v=6ae9f0fd",
-    "durationSeconds": 145,
-    "publishedAt": "2026-11-04T12:00:07.000+08:00",
-    "fetchedAt": "2026-11-04T12:05:18.929+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.65
+    "videoId": "y2FK9YuPdE8",
+    "title": "只剩六十六日，也要洗清冤名《破陣子。影刃未雪》｜誰替無言死者言｜武俠戰歌｜霧月詞・Xiaoloulou【Official Lyric Video】",
+    "url": "https://www.youtube.com/watch?v=y2FK9YuPdE8",
+    "thumbnail": "https://i.ytimg.com/vi/y2FK9YuPdE8/maxresdefault.jpg",
+    "durationSeconds": 173,
+    "publishedAt": "2026-11-05T19:30:34.000+08:00",
+    "fetchedAt": "2026-11-05T19:35:20.536+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "y2FK9YuPdE8",
+      "title": "只剩六十六日，也要洗清冤名《破陣子。影刃未雪》｜誰替無言死者言｜武俠戰歌｜霧月詞・Xiaoloulou【Official Lyric Video】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
+    },
     {
       "videoId": "m0BrPsJU44M",
       "title": "還不想睡，就再聽一首｜原創歌曲隨機連播・陪伴音樂｜未盡之歌・霧月 Xiaoloulou",
