@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-11-04T19:35:13.532+08:00",
+  "lastUpdated": "2026-11-05T20:30:15.076+08:00",
   "latestVideo": {
     "videoId": "G4KUIp4Ef4E",
     "title": "《天下第二2・人間有甜》｜她單挑唐門全派，只為一顆糖【武俠劇・MV】",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "sumzRh9qu3M",
+      "title": "《天下第二2》🍜｜她一個人殺上唐門，解藥竟然是一顆糖？",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.55
+    },
     {
       "videoId": "G4KUIp4Ef4E",
       "title": "《天下第二2・人間有甜》｜她單挑唐門全派，只為一顆糖【武俠劇・MV】",
