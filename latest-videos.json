@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T19:35:27.170+08:00",
+  "updatedAt": "2026-11-05T19:40:25.970+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "-De-KYQh5bE",
-        "title": "A4URA各式舞蹈+場景+位置移動練習",
-        "url": "https://www.youtube.com/watch?v=-De-KYQh5bE",
-        "thumbnail": "https://i.ytimg.com/vi/-De-KYQh5bE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUShPMA8=&rs=AOn4CLCAUMLSBSjS2jH_fzYDia5wKEQN4w",
-        "durationSeconds": 232,
-        "publishedAt": "2026-10-10T01:58:13.000+08:00",
-        "fetchedAt": "2026-11-05T19:35:12.257+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.88
+        "videoId": "CgJR4I8MNiE",
+        "title": "《A4URA滅夢師》｜EP00序章｜夢獸開端",
+        "url": "https://www.youtube.com/watch?v=CgJR4I8MNiE",
+        "thumbnail": "https://i.ytimg.com/vi/CgJR4I8MNiE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFEgTChlMA-i85f_Aw4I7OTk1QYY4OoEIOCoAQ==&rs=AOn4CLCIZaW0hTAE3whKJXbWtm9S4DQVkQ&usqp=CBU",
+        "durationSeconds": 226,
+        "publishedAt": "2026-09-27T23:14:18.000+08:00",
+        "fetchedAt": "2026-11-05T19:40:12.418+08:00",
+        "genre": "動漫/ACG",
+        "genreConfidence": 0.55
       }
     },
     {
@@ -454,15 +454,15 @@
       "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
       "channelTitle": "沐霧月",
       "latestVideo": {
-        "videoId": "EK7CkCZa-do",
-        "title": "我們最大的問題，是從來沒有問題《溫柔溺斃》｜沒傷口的痛，最深｜冷暴力・窒息式關係｜沐霧月【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=EK7CkCZa-do",
-        "thumbnail": "https://i.ytimg.com/vi/EK7CkCZa-do/maxresdefault.jpg?v=6aa0dc34",
-        "durationSeconds": 215,
-        "publishedAt": "2026-08-19T12:00:06.000+08:00",
-        "fetchedAt": "2026-11-05T19:35:22.809+08:00",
+        "videoId": "3-rbqUxskJM",
+        "title": "連擁抱，都像在對著屍體敘舊《借來的皮膚》｜這場完美的窒息，我不想再承受｜假性親密・窒息式關係｜沐霧月【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=3-rbqUxskJM",
+        "thumbnail": "https://i.ytimg.com/vi/3-rbqUxskJM/maxresdefault.jpg",
+        "durationSeconds": 225,
+        "publishedAt": "2026-08-11T12:00:06.000+08:00",
+        "fetchedAt": "2026-11-05T19:40:22.786+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.89
+        "genreConfidence": 0.76
       }
     },
     {
