@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T20:30:26.302+08:00",
+  "updatedAt": "2026-11-05T20:35:25.860+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "N0cx06d8f4I",
-        "title": "能量水晶之戰EP05｜色彩節奏與封印｜歌曲:Color Rhythm",
-        "url": "https://www.youtube.com/watch?v=N0cx06d8f4I",
-        "thumbnail": "https://i.ytimg.com/vi_webp/N0cx06d8f4I/maxresdefault.webp",
-        "durationSeconds": 638,
-        "publishedAt": "2026-10-25T01:39:30.000+08:00",
-        "fetchedAt": "2026-11-05T20:00:12.127+08:00",
-        "genre": "動漫/ACG",
-        "genreConfidence": 0.61
+        "videoId": "-De-KYQh5bE",
+        "title": "A4URA各式舞蹈+場景+位置移動練習",
+        "url": "https://www.youtube.com/watch?v=-De-KYQh5bE",
+        "thumbnail": "https://i.ytimg.com/vi/-De-KYQh5bE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUShPMA8=&rs=AOn4CLCAUMLSBSjS2jH_fzYDia5wKEQN4w",
+        "durationSeconds": 232,
+        "publishedAt": "2026-10-10T01:58:13.000+08:00",
+        "fetchedAt": "2026-11-05T20:35:12.227+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.89
       }
     },
     {
@@ -454,15 +454,15 @@
       "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
       "channelTitle": "沐霧月",
       "latestVideo": {
-        "videoId": "7Ts7GH8FBMQ",
-        "title": "「無端」這二字，是我最後的謊言《無端》｜我沒有回頭，也不敢回頭｜不敢說的暗戀・古風虐心｜沐霧月【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=7Ts7GH8FBMQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/7Ts7GH8FBMQ/maxresdefault.webp?v=6a9572bb",
-        "durationSeconds": 213,
-        "publishedAt": "2026-09-01T12:00:06.000+08:00",
-        "fetchedAt": "2026-11-05T20:30:22.673+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "EK7CkCZa-do",
+        "title": "我們最大的問題，是從來沒有問題《溫柔溺斃》｜沒傷口的痛，最深｜冷暴力・窒息式關係｜沐霧月【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=EK7CkCZa-do",
+        "thumbnail": "https://i.ytimg.com/vi/EK7CkCZa-do/maxresdefault.jpg?v=6aa0dc34",
+        "durationSeconds": 215,
+        "publishedAt": "2026-08-19T12:00:06.000+08:00",
+        "fetchedAt": "2026-11-05T20:35:22.621+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.87
       }
     },
     {
