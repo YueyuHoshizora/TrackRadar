@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-05T17:25:24.675+08:00",
+  "updatedAt": "2026-11-05T17:30:24.686+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "Yu Starry Music",
+      "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "c284npUDLuE",
-        "title": "霧裡鐘聲｜路都被霧藏起來，鐘聲卻記得我｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=c284npUDLuE",
-        "thumbnail": "https://i.ytimg.com/vi/c284npUDLuE/maxresdefault.jpg",
-        "durationSeconds": 277,
-        "publishedAt": "2026-11-05T05:30:15.000+08:00",
-        "fetchedAt": "2026-11-05T05:35:12.367+08:00",
+        "videoId": "ayz-ELM_gBk",
+        "title": "雨停以前｜如果你也捨不得，就陪我把腳步放慢｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=ayz-ELM_gBk",
+        "thumbnail": "https://i.ytimg.com/vi/ayz-ELM_gBk/maxresdefault.jpg",
+        "durationSeconds": 213,
+        "publishedAt": "2026-11-05T17:30:06.000+08:00",
+        "fetchedAt": "2026-11-05T17:30:12.102+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.42
+        "genreConfidence": 0.87
       }
     },
     {
