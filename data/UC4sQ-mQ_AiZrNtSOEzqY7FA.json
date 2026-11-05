@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-05T07:55:13.478+08:00",
+  "lastUpdated": "2026-11-05T08:00:13.507+08:00",
   "latestVideo": {
     "videoId": "c284npUDLuE",
     "title": "霧裡鐘聲｜路都被霧藏起來，鐘聲卻記得我｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "c284npUDLuE",
-      "title": "霧裡鐘聲｜氛圍系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "霧裡鐘聲｜路都被霧藏起來，鐘聲卻記得我｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "qfh-r8MoOiA",
-      "title": "枕邊地圖｜夢境系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "枕邊地圖｜醒來後，我畫出不存在卻熟悉的城市｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.69
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "TRnKY2VyDEM",
-      "title": "兩種季節｜你那裡下雨，我這裡晴，也能慢慢靠近｜Yu Stellar｜星語",
+      "title": "兩種季節｜重逢後他們相隔兩地，沒有承諾也沒走散｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
