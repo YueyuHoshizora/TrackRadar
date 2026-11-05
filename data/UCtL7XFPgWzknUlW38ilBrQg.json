@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-11-06T00:30:51.918+08:00",
+  "lastUpdated": "2026-11-06T05:10:53.857+08:00",
   "latestVideo": {
     "videoId": "y2FK9YuPdE8",
     "title": "只剩六十六日，也要洗清冤名《破陣子。影刃未雪》｜誰替無言死者言｜武俠戰歌｜霧月詞・Xiaoloulou【Official Lyric Video】",
@@ -15,6 +15,12 @@
   },
   "allVideoIds": [
     {
+      "videoId": "kJa6RoVOnz0",
+      "title": "還不想睡，就再聽一首｜原創歌曲隨機連播・陪伴音樂｜未盡之歌・霧月 Xiaoloulou",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.53
+    },
+    {
       "videoId": "7n4BQiuVEKk",
       "title": "奉命來殺我的人吻了我｜破陣子・影刃未雪｜百合・雙女主・GL・音樂微電影｜霧月 Xiaoloulou",
       "genre": "古風/國風 Chinese Style",
@@ -25,12 +31,6 @@
       "title": "只剩六十六日，也要洗清冤名《破陣子。影刃未雪》｜誰替無言死者言｜武俠戰歌｜霧月詞・Xiaoloulou【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
-    },
-    {
-      "videoId": "m0BrPsJU44M",
-      "title": "還不想睡，就再聽一首｜原創歌曲隨機連播・陪伴音樂｜未盡之歌・霧月 Xiaoloulou",
-      "genre": "其他/無法判斷 Other",
-      "genreConfidence": 0.59
     },
     {
       "videoId": "wmdRa1WBKHU",
