@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-05T08:45:13.112+08:00",
+  "lastUpdated": "2026-11-05T08:50:13.353+08:00",
   "latestVideo": {
     "videoId": "c284npUDLuE",
     "title": "霧裡鐘聲｜路都被霧藏起來，鐘聲卻記得我｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "c284npUDLuE",
-      "title": "霧裡鐘聲｜沒有指針的鐘，響起後竟出現熟悉背影｜Yu Stellar｜星語",
+      "title": "霧裡鐘聲｜氛圍系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "qfh-r8MoOiA",
-      "title": "枕邊地圖｜一張舊收據，為何畫著夢裡的路？｜Yu Stellar｜星語",
+      "title": "枕邊地圖｜夢境系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.69
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "TRnKY2VyDEM",
-      "title": "兩種季節｜遠距重逢系華語女聲療癒情歌｜Yu Stellar｜星語",
+      "title": "兩種季節｜你那裡下雨，我這裡晴，也能慢慢靠近｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -100,7 +100,7 @@
     },
     {
       "videoId": "McRDtOY4EaM",
-      "title": "《鏡面那一端》舞會重逢前任的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -112,19 +112,19 @@
     },
     {
       "videoId": "ZSdTZ7rLFMc",
-      "title": "她總在右轉時踩錯，卻終於敢抬頭看著舞伴《練習不躲開》｜Yu Stellar｜星語",
+      "title": "《練習不躲開》面對前任與找回勇氣的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
     {
       "videoId": "TvGiT1Xzp0o",
-      "title": "各自的明天｜他們沿河散步，承認彼此早已有了明天｜Yu Stellar｜星語",
+      "title": "各自的明天｜成熟重逢系華語女聲療癒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "wXw-sm7ibHA",
-      "title": "《舞會請柬》分開三年後可能重逢的華語敘事歌｜Yu Stellar｜星語",
+      "title": "可能會遇見前任的舞會，你還會赴約嗎？《舞會請柬》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -142,7 +142,7 @@
     },
     {
       "videoId": "dUA26d20eK8",
-      "title": "那聲熟悉的名字｜忘了前世所有事，卻忘不了你叫我的聲音｜Yu Stellar｜星語",
+      "title": "那聲熟悉的名字｜前世今生重逢系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.78
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "T_FFoSoI1YU",
-      "title": "《週五買花》一個人也能過得幸福的療癒華語歌｜Yu Stellar｜星語",
+      "title": "後來我買花，不再為了等誰回家《週五買花》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.84
     },
