@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-10-31T14:50:25.360+08:00",
+  "lastUpdated": "2026-11-06T03:30:51.642+08:00",
   "latestVideo": {
     "videoId": "_VeaBA6pAVM",
     "title": "《紅顏劫》｜忽聞有人哭君名｜古風悲歌 × 中式恐怖MV｜萬聖節特輯",
@@ -14,6 +14,12 @@
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "mpT-Swusj6g",
+      "title": "《藏紅妝》36–40集合集｜相守有情，故人蝶舞歸來｜古裝百合短劇",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.82
+    },
     {
       "videoId": "_VeaBA6pAVM",
       "title": "《紅顏劫》鬼嫁衣與月夜送葬｜原創音樂動畫劇・中式恐怖｜萬聖節特輯",
