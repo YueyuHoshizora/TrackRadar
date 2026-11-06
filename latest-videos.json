@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-06T17:35:55.227+08:00",
+  "updatedAt": "2026-11-06T17:40:55.701+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "HKvjJiZQoYM",
-        "title": "不存在的街｜每扇陌生的窗，都亮著我忘掉的從前｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=HKvjJiZQoYM",
-        "thumbnail": "https://i.ytimg.com/vi/HKvjJiZQoYM/maxresdefault.jpg",
-        "durationSeconds": 241,
-        "publishedAt": "2026-11-06T05:30:32.000+08:00",
-        "fetchedAt": "2026-11-06T07:10:42.149+08:00",
+        "videoId": "h6wyXbFZDZM",
+        "title": "兩杯熱茶｜最讓人想念的愛，是有人等你下班｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=h6wyXbFZDZM",
+        "thumbnail": "https://i.ytimg.com/vi/h6wyXbFZDZM/maxresdefault.jpg",
+        "durationSeconds": 229,
+        "publishedAt": "2026-11-06T17:30:28.000+08:00",
+        "fetchedAt": "2026-11-06T17:40:42.654+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.83
+        "genreConfidence": 0.93
       }
     },
     {
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "IjCfQvJAYXo",
-        "title": "台語大帝國｜李多娜《阮毋是你的江山》｜孫尚香對劉備喊話：想娶我，先問過這支劍！｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=IjCfQvJAYXo",
-        "thumbnail": "https://i.ytimg.com/vi_webp/IjCfQvJAYXo/maxresdefault.webp",
-        "durationSeconds": 170,
-        "publishedAt": "2026-11-05T16:15:24.000+08:00",
-        "fetchedAt": "2026-11-05T16:20:16.197+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.62
+        "videoId": "z3O7qlX9Z24",
+        "title": "台語大帝國｜孫悟空《七十二變，這粒心袂變》｜台語搖滾｜從大鬧天宮到守護師父｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=z3O7qlX9Z24",
+        "thumbnail": "https://i.ytimg.com/vi/z3O7qlX9Z24/maxresdefault.jpg",
+        "durationSeconds": 217,
+        "publishedAt": "2026-11-06T15:15:38.000+08:00",
+        "fetchedAt": "2026-11-06T17:40:45.406+08:00",
+        "genre": "搖滾 Rock",
+        "genreConfidence": 1
       }
     },
     {
@@ -244,15 +244,15 @@
       "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
       "channelTitle": "田井魚",
       "latestVideo": {
-        "videoId": "vVzqUKH6Z4c",
-        "title": "一滴水，也能匯成洋流《小水滴》｜台灣加油！🇹🇼",
-        "url": "https://www.youtube.com/watch?v=vVzqUKH6Z4c",
-        "thumbnail": "https://i.ytimg.com/vi_webp/vVzqUKH6Z4c/maxresdefault.webp",
-        "durationSeconds": 224,
-        "publishedAt": "2026-11-02T12:00:23.000+08:00",
-        "fetchedAt": "2026-11-02T13:55:19.990+08:00",
+        "videoId": "vUD5_RD0huI",
+        "title": "超人拯救世界，操人毀了我的週末《超人與操人》｜職場吐槽歌",
+        "url": "https://www.youtube.com/watch?v=vUD5_RD0huI",
+        "thumbnail": "https://i.ytimg.com/vi_webp/vUD5_RD0huI/maxresdefault.webp",
+        "durationSeconds": 199,
+        "publishedAt": "2026-11-06T17:00:36.000+08:00",
+        "fetchedAt": "2026-11-06T17:40:47.680+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.64
+        "genreConfidence": 0.28
       }
     },
     {
