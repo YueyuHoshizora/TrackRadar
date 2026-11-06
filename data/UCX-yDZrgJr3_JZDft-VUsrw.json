@@ -1,7 +1,7 @@
 {
   "channelId": "UCX-yDZrgJr3_JZDft-VUsrw",
   "channelTitle": "田井魚",
-  "lastUpdated": "2026-11-02T13:55:20.334+08:00",
+  "lastUpdated": "2026-11-06T17:00:50.930+08:00",
   "latestVideo": {
     "videoId": "vVzqUKH6Z4c",
     "title": "一滴水，也能匯成洋流《小水滴》｜台灣加油！🇹🇼",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.64
   },
   "allVideoIds": [
+    {
+      "videoId": "vUD5_RD0huI",
+      "title": "超人拯救世界，操人毀了我的週末《超人與操人》｜職場吐槽歌",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.29
+    },
     {
       "videoId": "vVzqUKH6Z4c",
       "title": "一滴水，也能匯成洋流《小水滴》｜台灣加油！🇹🇼",
