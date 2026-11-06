@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T08:10:51.816+08:00",
+  "updatedAt": "2026-11-06T08:15:52.415+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -439,15 +439,15 @@
       "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
       "channelTitle": "璃煙",
       "latestVideo": {
-        "videoId": "_VeaBA6pAVM",
-        "title": "《紅顏劫》｜忽聞有人哭君名｜古風悲歌 × 中式恐怖MV｜萬聖節特輯",
-        "url": "https://www.youtube.com/watch?v=_VeaBA6pAVM",
-        "thumbnail": "https://i.ytimg.com/vi_webp/_VeaBA6pAVM/maxresdefault.webp",
-        "durationSeconds": 247,
-        "publishedAt": "2026-10-31T09:23:24.000+08:00",
-        "fetchedAt": "2026-10-31T09:25:44.833+08:00",
+        "videoId": "mpT-Swusj6g",
+        "title": "《藏紅妝》36–40集合集｜相守有情，故人蝶舞歸來｜古裝百合短劇",
+        "url": "https://www.youtube.com/watch?v=mpT-Swusj6g",
+        "thumbnail": "https://i.ytimg.com/vi_webp/mpT-Swusj6g/maxresdefault.webp?v=6aed1bdf",
+        "durationSeconds": 798,
+        "publishedAt": "2026-11-06T08:00:07.000+08:00",
+        "fetchedAt": "2026-11-06T08:15:48.606+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 0.84
       }
     },
     {
