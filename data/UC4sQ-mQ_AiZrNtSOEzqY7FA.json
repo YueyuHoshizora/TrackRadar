@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-06T12:30:43.550+08:00",
+  "lastUpdated": "2026-11-06T12:35:43.362+08:00",
   "latestVideo": {
     "videoId": "HKvjJiZQoYM",
     "title": "不存在的街｜每扇陌生的窗，都亮著我忘掉的從前｜Yu Stellar｜星語",
@@ -22,7 +22,7 @@
     },
     {
       "videoId": "ayz-ELM_gBk",
-      "title": "雨停以前｜共撐一把傘的傍晚，我們終於說出承諾｜Yu Stellar｜星語",
+      "title": "雨停以前｜如果你也捨不得，就陪我把腳步放慢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -112,7 +112,7 @@
     },
     {
       "videoId": "McRDtOY4EaM",
-      "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
+      "title": "《鏡面那一端》舞會重逢前任的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -124,7 +124,7 @@
     },
     {
       "videoId": "ZSdTZ7rLFMc",
-      "title": "《練習不躲開》面對前任與找回勇氣的華語抒情歌｜Yu Stellar｜星語",
+      "title": "她總在右轉時踩錯，卻終於敢抬頭看著舞伴《練習不躲開》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "dUA26d20eK8",
-      "title": "那聲熟悉的名字｜書店門口他叫住她，一場長夢突然醒了｜Yu Stellar｜星語",
+      "title": "那聲熟悉的名字｜忘了前世所有事，卻忘不了你叫我的聲音｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.78
     },
@@ -172,7 +172,7 @@
     },
     {
       "videoId": "T_FFoSoI1YU",
-      "title": "後來我買花，不再為了等誰回家《週五買花》｜Yu Stellar｜星語",
+      "title": "《週五買花》一個人也能過得幸福的療癒華語歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.84
     },
