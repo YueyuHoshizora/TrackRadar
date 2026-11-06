@@ -1,7 +1,7 @@
 {
   "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
   "channelTitle": "Moyamina",
-  "lastUpdated": "2026-10-29T18:35:50.894+08:00",
+  "lastUpdated": "2026-11-06T20:30:56.143+08:00",
   "latestVideo": {
     "videoId": "_CEbKsUkeWc",
     "title": "知道是謊話，還是想聽你說愛我《Lie Like You Mean It》｜暗黑流行・另類搖滾",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.64
   },
   "allVideoIds": [
+    {
+      "videoId": "iBvRzYbOblE",
+      "title": "他還記得舞步，卻忘了我的名字《When You Forget My Name》｜探戈",
+      "genre": "拉丁 Latin",
+      "genreConfidence": 0.87
+    },
     {
       "videoId": "_CEbKsUkeWc",
       "title": "知道是謊話，還是想聽你說愛我《Lie Like You Mean It》｜暗黑流行・另類搖滾",
