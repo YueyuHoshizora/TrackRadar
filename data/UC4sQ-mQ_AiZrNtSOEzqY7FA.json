@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-08T02:30:43.425+08:00",
+  "lastUpdated": "2026-11-08T02:35:43.893+08:00",
   "latestVideo": {
     "videoId": "8VWd18B68mM",
     "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
+      "title": "門牌之間｜同居生活系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "h6wyXbFZDZM",
-      "title": "兩杯熱茶｜茶還沒涼，我們已把明天說成日常｜Yu Stellar｜星語",
+      "title": "兩杯熱茶｜最讓人想念的愛，是有人等你下班｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "ayz-ELM_gBk",
-      "title": "雨停以前｜如果你也捨不得，就陪我把腳步放慢｜Yu Stellar｜星語",
+      "title": "雨停以前｜初夏雨夜告白系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "6gwANabEg6U",
-      "title": "前世來生｜前世錯過的人，來生一定要再愛一次嗎｜Yu Stellar｜星語",
+      "title": "前世來生｜前世今生系華語女聲宿命敘事情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
@@ -82,13 +82,13 @@
     },
     {
       "videoId": "X9VxzJORS3w",
-      "title": "《不急著定義》重新認識前任的成熟系華語抒情歌｜Yu Stellar｜星語",
+      "title": "共舞隔天，他只傳一句「昨晚謝謝」《不急著定義》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
     {
       "videoId": "yzrnbs5efHw",
-      "title": "把故事說完整｜閉館後的長椅上，他們承認做過同一場夢｜Yu Stellar｜星語",
+      "title": "把故事說完整｜說出共同的前世，不代表要重寫結局｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.75
     },
@@ -118,7 +118,7 @@
     },
     {
       "videoId": "cx0QSY9cv5w",
-      "title": "她穿過整個舞會人群，只為主動說一句好久不見《走到你面前》｜Yu Stellar｜星語",
+      "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
@@ -130,19 +130,19 @@
     },
     {
       "videoId": "McRDtOY4EaM",
-      "title": "《鏡面那一端》舞會重逢前任的華語敘事抒情歌｜Yu Stellar｜星語",
+      "title": "舞會鏡中，她先看見了三年未見的那個人《鏡面那一端》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "1kO631xyIQQ",
-      "title": "不必回到原位｜前世今生釋懷系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "不必回到原位｜重逢隔天，她拒絕讓前世決定今生｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "ZSdTZ7rLFMc",
-      "title": "她總在右轉時踩錯，卻終於敢抬頭看著舞伴《練習不躲開》｜Yu Stellar｜星語",
+      "title": "真正要練習的不是舞步，是再見你時不逃跑《練習不躲開》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "H0P-8JOSG6s",
-      "title": "近況像一封信｜他們沒有談前世，只交換今生的近況｜Yu Stellar｜星語",
+      "title": "近況像一封信｜重逢後最溫柔的事，是從今天認識你｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
