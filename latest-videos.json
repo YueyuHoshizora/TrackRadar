@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-07T17:25:54.181+08:00",
+  "updatedAt": "2026-11-07T17:30:54.807+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "lK47and2XiI",
-        "title": "你先認出我｜記憶還沒想起你，心卻先承認沒忘記｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=lK47and2XiI",
-        "thumbnail": "https://i.ytimg.com/vi/lK47and2XiI/maxresdefault.jpg",
-        "durationSeconds": 278,
-        "publishedAt": "2026-11-07T05:30:09.000+08:00",
-        "fetchedAt": "2026-11-07T05:30:42.482+08:00",
+        "videoId": "8VWd18B68mM",
+        "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=8VWd18B68mM",
+        "thumbnail": "https://i.ytimg.com/vi/8VWd18B68mM/maxresdefault.jpg",
+        "durationSeconds": 187,
+        "publishedAt": "2026-11-07T17:30:14.000+08:00",
+        "fetchedAt": "2026-11-07T17:30:42.263+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.95
+        "genreConfidence": 0.93
       }
     },
     {
