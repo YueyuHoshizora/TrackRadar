@@ -1,18 +1,23 @@
 {
   "channelId": "UC4fB8_KdPGBk1bI2DeNKb4w",
   "channelTitle": "迷子 Maigo",
-  "lastUpdated": "2026-10-31T20:25:18.545+08:00",
+  "lastUpdated": "2026-11-07T19:30:44.431+08:00",
   "latestVideo": {
-    "videoId": "gX1zD3_b0PU",
-    "title": "くれてもいたずら / 迷子 feat. 重音テト【歌詞付き】",
-    "url": "https://www.youtube.com/watch?v=gX1zD3_b0PU",
-    "thumbnail": "https://i.ytimg.com/vi/gX1zD3_b0PU/maxresdefault.jpg",
-    "durationSeconds": 203,
-    "publishedAt": "2026-10-31T18:50:54.000+08:00",
-    "fetchedAt": "2026-10-31T20:25:18.408+08:00",
+    "videoId": "ejEg9GXzEqE",
+    "title": "返らないこだま / 迷子 feat. 重音テト【歌詞付き】",
+    "url": "https://www.youtube.com/watch?v=ejEg9GXzEqE",
+    "thumbnail": "https://i.ytimg.com/vi_webp/ejEg9GXzEqE/maxresdefault.webp",
+    "durationSeconds": 212,
+    "publishedAt": "2026-11-07T19:27:37.000+08:00",
+    "fetchedAt": "2026-11-07T19:30:44.141+08:00",
     "genre": "Vocaloid"
   },
   "allVideoIds": [
+    {
+      "videoId": "ejEg9GXzEqE",
+      "title": "返らないこだま / 迷子 feat. 重音テト【歌詞付き】",
+      "genre": "Vocaloid"
+    },
     {
       "videoId": "gX1zD3_b0PU",
       "title": "くれてもいたずら / 迷子 feat. 重音テト【歌詞付き】",
