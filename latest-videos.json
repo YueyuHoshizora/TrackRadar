@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T00:35:52.903+08:00",
+  "updatedAt": "2026-11-08T00:40:53.037+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -50,15 +50,15 @@
       "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
       "channelTitle": "修卡迪特AI_創作",
       "latestVideo": {
-        "videoId": "CgJR4I8MNiE",
-        "title": "《A4URA滅夢師》｜EP00序章｜夢獸開端",
-        "url": "https://www.youtube.com/watch?v=CgJR4I8MNiE",
-        "thumbnail": "https://i.ytimg.com/vi/CgJR4I8MNiE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFEgTChlMA8=&rs=AOn4CLAOZoLesXamOmNS_uukPoQ7SkzibA",
-        "durationSeconds": 226,
-        "publishedAt": "2026-09-27T23:14:18.000+08:00",
-        "fetchedAt": "2026-11-07T22:25:42.547+08:00",
+        "videoId": "N0cx06d8f4I",
+        "title": "能量水晶之戰EP05｜色彩節奏與封印｜歌曲:Color Rhythm",
+        "url": "https://www.youtube.com/watch?v=N0cx06d8f4I",
+        "thumbnail": "https://i.ytimg.com/vi_webp/N0cx06d8f4I/maxresdefault.webp",
+        "durationSeconds": 638,
+        "publishedAt": "2026-10-25T01:39:30.000+08:00",
+        "fetchedAt": "2026-11-08T00:40:42.075+08:00",
         "genre": "動漫/ACG",
-        "genreConfidence": 0.51
+        "genreConfidence": 0.6
       }
     },
     {
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "7l7jikX0THQ",
-        "title": "🔥《背靠背的誓言》｜明日邊界2147 Universe｜BACK TO BACK予安 × 璃沫｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=7l7jikX0THQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/7l7jikX0THQ/maxresdefault.webp",
-        "durationSeconds": 223,
-        "publishedAt": "2026-10-02T18:55:18.000+08:00",
-        "fetchedAt": "2026-11-07T21:15:47.225+08:00",
+        "videoId": "IJ_7CcpPkeo",
+        "title": "🔥《非你不可》｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=IJ_7CcpPkeo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/IJ_7CcpPkeo/maxresdefault.webp",
+        "durationSeconds": 292,
+        "publishedAt": "2026-10-22T22:50:05.000+08:00",
+        "fetchedAt": "2026-11-08T00:40:44.127+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.28
+        "genreConfidence": 0.33
       }
     },
     {
