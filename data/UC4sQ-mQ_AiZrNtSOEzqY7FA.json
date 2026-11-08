@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-09T07:10:30.432+08:00",
+  "lastUpdated": "2026-11-09T07:15:30.483+08:00",
   "latestVideo": {
     "videoId": "74qi8zBk__E",
     "title": "藍窗麵包店｜你還記得少糖，我卻忘了我們來過｜Yu Stellar｜星語",
@@ -22,7 +22,7 @@
     },
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
+      "title": "未寄的信｜雨夜失戀系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -34,25 +34,25 @@
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜兩個門牌，如何變成我們的家｜Yu Stellar｜星語",
+      "title": "門牌之間｜同居生活系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
     {
       "videoId": "lK47and2XiI",
-      "title": "你先認出我｜記憶還沒想起你，心卻先承認沒忘記｜Yu Stellar｜星語",
+      "title": "你先認出我｜陌生人叫出舊稱呼，她的心先認出他｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "h6wyXbFZDZM",
-      "title": "兩杯熱茶｜同居日常系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "兩杯熱茶｜最讓人想念的愛，是有人等你下班｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "HKvjJiZQoYM",
-      "title": "不存在的街｜每扇陌生的窗，都亮著我忘掉的從前｜Yu Stellar｜星語",
+      "title": "不存在的街｜這條街為何放滿她用過的東西？｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.54
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "2MiNzv8sZp0",
-      "title": "記得但不回頭｜我記得你，卻不必回頭證明愛過｜Yu Stellar｜星語",
+      "title": "記得但不回頭｜兩張不同月台的車票，沒有結束新的可能｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -112,7 +112,7 @@
     },
     {
       "videoId": "_rBkst6tRIw",
-      "title": "《一曲之後》前任重逢、和解與釋然的華語抒情歌｜Yu Stellar｜星語",
+      "title": "一支舞結束後，他們終於承認彼此都變了《一曲之後》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.55
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "cx0QSY9cv5w",
-      "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
+      "title": "《走到你面前》分開三年後主動靠近的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
