@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-09T05:00:32.613+08:00",
+  "lastUpdated": "2026-11-09T05:05:32.254+08:00",
   "latestVideo": {
     "videoId": "22eYZJPkosk",
     "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
@@ -16,25 +16,25 @@
   "allVideoIds": [
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
+      "title": "未寄的信｜那封停在「都怪我」以前的信｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "CxJ2V-t-96I",
-      "title": "借來的黃昏｜久別重逢系華語抒情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "借來的黃昏｜夕陽停在5:37，他卻知道她變了｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜同居生活系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
     {
       "videoId": "lK47and2XiI",
-      "title": "你先認出我｜久別重逢華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "你先認出我｜陌生人叫出舊稱呼，她的心先認出他｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -64,19 +64,19 @@
     },
     {
       "videoId": "DjPid_4O2wI",
-      "title": "紙鳶未收線｜原來心動，是兩個人都故意放慢腳步｜Yu Stellar｜星語",
+      "title": "紙鳶未收線｜前世初遇系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.61
     },
     {
       "videoId": "qfh-r8MoOiA",
-      "title": "枕邊地圖｜夢境系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "枕邊地圖｜醒來後，我畫出不存在卻熟悉的城市｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.69
     },
     {
       "videoId": "6gwANabEg6U",
-      "title": "前世來生｜前世錯過的人，來生一定要再愛一次嗎｜Yu Stellar｜星語",
+      "title": "前世來生｜前世今生系華語女聲宿命敘事情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
@@ -94,13 +94,13 @@
     },
     {
       "videoId": "X9VxzJORS3w",
-      "title": "《不急著定義》重新認識前任的成熟系華語抒情歌｜Yu Stellar｜星語",
+      "title": "共舞隔天，他只傳一句「昨晚謝謝」《不急著定義》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
     {
       "videoId": "yzrnbs5efHw",
-      "title": "把故事說完整｜閉館後的長椅上，他們承認做過同一場夢｜Yu Stellar｜星語",
+      "title": "把故事說完整｜說出共同的前世，不代表要重寫結局｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.75
     },
@@ -142,37 +142,37 @@
     },
     {
       "videoId": "McRDtOY4EaM",
-      "title": "舞會鏡中，她先看見了三年未見的那個人《鏡面那一端》｜Yu Stellar｜星語",
+      "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "1kO631xyIQQ",
-      "title": "不必回到原位｜重逢隔天，她拒絕讓前世決定今生｜Yu Stellar｜星語",
+      "title": "不必回到原位｜我們不必重新相愛，才能證明曾經愛過｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "ZSdTZ7rLFMc",
-      "title": "她總在右轉時踩錯，卻終於敢抬頭看著舞伴《練習不躲開》｜Yu Stellar｜星語",
+      "title": "真正要練習的不是舞步，是再見你時不逃跑《練習不躲開》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
     {
       "videoId": "TvGiT1Xzp0o",
-      "title": "各自的明天｜真正的重逢，不是復合，是尊重彼此的人生｜Yu Stellar｜星語",
+      "title": "各自的明天｜他們沿河散步，承認彼此早已有了明天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "wXw-sm7ibHA",
-      "title": "《舞會請柬》分開三年後可能重逢的華語敘事歌｜Yu Stellar｜星語",
+      "title": "請柬沒寫他的名字，她卻穿上新裙子走進舞會《舞會請柬》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "H0P-8JOSG6s",
-      "title": "近況像一封信｜他們沒有談前世，只交換今生的近況｜Yu Stellar｜星語",
+      "title": "近況像一封信｜重逢後最溫柔的事，是從今天認識你｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
