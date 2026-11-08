@@ -1,19 +1,25 @@
 {
   "channelId": "UCdgoj5KsyZVDQt0Z1_ONz-g",
   "channelTitle": "迷路的宇宙人",
-  "lastUpdated": "2026-09-30T08:55:44.049+08:00",
+  "lastUpdated": "2026-11-08T18:15:40.808+08:00",
   "latestVideo": {
-    "videoId": "82QgWZVN3dQ",
-    "title": "你說愛就像迷宮，我卻學會安靜地錯過｜迷宇 Lost Alien《線索》Official Video",
-    "url": "https://www.youtube.com/watch?v=82QgWZVN3dQ",
-    "thumbnail": "https://i.ytimg.com/vi/82QgWZVN3dQ/maxresdefault.jpg",
-    "durationSeconds": 209,
-    "publishedAt": "2026-09-09T16:01:23.000+08:00",
-    "fetchedAt": "2026-09-20T12:29:04.845+08:00",
+    "videoId": "eThegsgcWkE",
+    "title": "像從沒被愛｜迷宇 Lost Alien《等你一句話》Official Video",
+    "url": "https://www.youtube.com/watch?v=eThegsgcWkE",
+    "thumbnail": "https://i.ytimg.com/vi/eThegsgcWkE/maxresdefault.jpg",
+    "durationSeconds": 230,
+    "publishedAt": "2026-11-08T18:14:45.000+08:00",
+    "fetchedAt": "2026-11-08T18:15:40.201+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.72
+    "genreConfidence": 0.69
   },
   "allVideoIds": [
+    {
+      "videoId": "eThegsgcWkE",
+      "title": "像從沒被愛｜迷宇 Lost Alien《等你一句話》Official Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.69
+    },
     {
       "videoId": "82QgWZVN3dQ",
       "title": "你說愛就像迷宮，我卻學會安靜地錯過｜迷宇 Lost Alien《線索》Official Video",
