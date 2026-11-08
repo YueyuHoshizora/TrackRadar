@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-09T04:15:34.301+08:00",
+  "lastUpdated": "2026-11-09T04:20:32.271+08:00",
   "latestVideo": {
     "videoId": "22eYZJPkosk",
     "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
+      "title": "未寄的信｜那封停在「都怪我」以前的信｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜同居生活系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -52,13 +52,13 @@
     },
     {
       "videoId": "ayz-ELM_gBk",
-      "title": "雨停以前｜初夏雨夜告白系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "雨停以前｜如果你也捨不得，就陪我把腳步放慢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
     {
       "videoId": "c284npUDLuE",
-      "title": "霧裡鐘聲｜氛圍系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "霧裡鐘聲｜路都被霧藏起來，鐘聲卻記得我｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "qfh-r8MoOiA",
-      "title": "枕邊地圖｜夢境系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "枕邊地圖｜醒來後，我畫出不存在卻熟悉的城市｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.69
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "_rBkst6tRIw",
-      "title": "《一曲之後》前任重逢、和解與釋然的華語抒情歌｜Yu Stellar｜星語",
+      "title": "長大後的重逢，是能平靜說完彼此錯過的三年《一曲之後》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.55
     },
@@ -124,7 +124,7 @@
     },
     {
       "videoId": "TRnKY2VyDEM",
-      "title": "兩種季節｜你那裡下雨，我這裡晴，也能慢慢靠近｜Yu Stellar｜星語",
+      "title": "兩種季節｜重逢後他們相隔兩地，沒有承諾也沒走散｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -154,19 +154,19 @@
     },
     {
       "videoId": "ZSdTZ7rLFMc",
-      "title": "她總在右轉時踩錯，卻終於敢抬頭看著舞伴《練習不躲開》｜Yu Stellar｜星語",
+      "title": "真正要練習的不是舞步，是再見你時不逃跑《練習不躲開》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.76
     },
     {
       "videoId": "TvGiT1Xzp0o",
-      "title": "各自的明天｜真正的重逢，不是復合，是尊重彼此的人生｜Yu Stellar｜星語",
+      "title": "各自的明天｜他們沿河散步，承認彼此早已有了明天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "wXw-sm7ibHA",
-      "title": "《舞會請柬》分開三年後可能重逢的華語敘事歌｜Yu Stellar｜星語",
+      "title": "請柬沒寫他的名字，她卻穿上新裙子走進舞會《舞會請柬》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
