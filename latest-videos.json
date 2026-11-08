@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-08T17:25:50.509+08:00",
+  "updatedAt": "2026-11-08T17:30:48.489+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "CxJ2V-t-96I",
-        "title": "借來的黃昏｜我們隔了一生，仍把沉默坐成溫柔｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=CxJ2V-t-96I",
-        "thumbnail": "https://i.ytimg.com/vi/CxJ2V-t-96I/maxresdefault.jpg",
-        "durationSeconds": 254,
-        "publishedAt": "2026-11-08T05:30:20.000+08:00",
-        "fetchedAt": "2026-11-08T05:30:42.483+08:00",
+        "videoId": "22eYZJPkosk",
+        "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=22eYZJPkosk",
+        "thumbnail": "https://i.ytimg.com/vi/22eYZJPkosk/maxresdefault.jpg",
+        "durationSeconds": 188,
+        "publishedAt": "2026-11-08T17:30:10.000+08:00",
+        "fetchedAt": "2026-11-08T17:30:29.769+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.75
+        "genreConfidence": 0.95
       }
     },
     {
