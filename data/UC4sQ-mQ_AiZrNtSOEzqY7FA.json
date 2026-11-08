@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-08T11:40:31.224+08:00",
+  "lastUpdated": "2026-11-08T11:45:31.004+08:00",
   "latestVideo": {
     "videoId": "CxJ2V-t-96I",
     "title": "借來的黃昏｜我們隔了一生，仍把沉默坐成溫柔｜Yu Stellar｜星語",
@@ -28,13 +28,13 @@
     },
     {
       "videoId": "lK47and2XiI",
-      "title": "你先認出我｜陌生人叫出舊稱呼，她的心先認出他｜Yu Stellar｜星語",
+      "title": "你先認出我｜記憶還沒想起你，心卻先承認沒忘記｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "h6wyXbFZDZM",
-      "title": "兩杯熱茶｜最讓人想念的愛，是有人等你下班｜Yu Stellar｜星語",
+      "title": "兩杯熱茶｜同居日常系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "6gwANabEg6U",
-      "title": "前世來生｜前世今生系華語女聲宿命敘事情歌｜Yu Stellar｜星語",
+      "title": "前世來生｜找回共同記憶後，他們選擇重新認識彼此｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "yzrnbs5efHw",
-      "title": "把故事說完整｜說出共同的前世，不代表要重寫結局｜Yu Stellar｜星語",
+      "title": "把故事說完整｜前世今生坦白系華語女聲敘事情歌｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.75
     },
@@ -136,13 +136,13 @@
     },
     {
       "videoId": "McRDtOY4EaM",
-      "title": "舞會鏡中，她先看見了三年未見的那個人《鏡面那一端》｜Yu Stellar｜星語",
+      "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "1kO631xyIQQ",
-      "title": "不必回到原位｜重逢隔天，她拒絕讓前世決定今生｜Yu Stellar｜星語",
+      "title": "不必回到原位｜我們不必重新相愛，才能證明曾經愛過｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "wXw-sm7ibHA",
-      "title": "請柬沒寫他的名字，她卻穿上新裙子走進舞會《舞會請柬》｜Yu Stellar｜星語",
+      "title": "可能會遇見前任的舞會，你還會赴約嗎？《舞會請柬》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
