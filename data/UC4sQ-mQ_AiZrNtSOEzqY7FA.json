@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-09T04:50:33.098+08:00",
+  "lastUpdated": "2026-11-09T04:55:33.267+08:00",
   "latestVideo": {
     "videoId": "22eYZJPkosk",
     "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
@@ -16,43 +16,43 @@
   "allVideoIds": [
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜雨夜失戀系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "未寄的信｜那封停在「都怪我」以前的信｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "CxJ2V-t-96I",
-      "title": "借來的黃昏｜夕陽停在5:37，他卻知道她變了｜Yu Stellar｜星語",
+      "title": "借來的黃昏｜久別重逢系華語抒情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜兩個門牌，如何變成我們的家｜Yu Stellar｜星語",
+      "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
     {
       "videoId": "lK47and2XiI",
-      "title": "你先認出我｜記憶還沒想起你，心卻先承認沒忘記｜Yu Stellar｜星語",
+      "title": "你先認出我｜久別重逢華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "h6wyXbFZDZM",
-      "title": "兩杯熱茶｜同居日常系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "兩杯熱茶｜最讓人想念的愛，是有人等你下班｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "HKvjJiZQoYM",
-      "title": "不存在的街｜每扇陌生的窗，都亮著我忘掉的從前｜Yu Stellar｜星語",
+      "title": "不存在的街｜這條街為何放滿她用過的東西？｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.54
     },
     {
       "videoId": "ayz-ELM_gBk",
-      "title": "雨停以前｜共撐一把傘的傍晚，我們終於說出承諾｜Yu Stellar｜星語",
+      "title": "雨停以前｜如果你也捨不得，就陪我把腳步放慢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "DjPid_4O2wI",
-      "title": "紙鳶未收線｜前世初遇系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "紙鳶未收線｜原來心動，是兩個人都故意放慢腳步｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.61
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "6gwANabEg6U",
-      "title": "前世來生｜找回共同記憶後，他們選擇重新認識彼此｜Yu Stellar｜星語",
+      "title": "前世來生｜前世錯過的人，來生一定要再愛一次嗎｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
@@ -88,25 +88,25 @@
     },
     {
       "videoId": "2MiNzv8sZp0",
-      "title": "記得但不回頭｜我記得你，卻不必回頭證明愛過｜Yu Stellar｜星語",
+      "title": "記得但不回頭｜兩張不同月台的車票，沒有結束新的可能｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "X9VxzJORS3w",
-      "title": "成熟的喜歡，是靠近以後也不急著要答案《不急著定義》｜Yu Stellar｜星語",
+      "title": "《不急著定義》重新認識前任的成熟系華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
     {
       "videoId": "yzrnbs5efHw",
-      "title": "把故事說完整｜說出共同的前世，不代表要重寫結局｜Yu Stellar｜星語",
+      "title": "把故事說完整｜閉館後的長椅上，他們承認做過同一場夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.75
     },
     {
       "videoId": "_rBkst6tRIw",
-      "title": "一支舞結束後，他們終於承認彼此都變了《一曲之後》｜Yu Stellar｜星語",
+      "title": "長大後的重逢，是能平靜說完彼此錯過的三年《一曲之後》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.55
     },
@@ -118,7 +118,7 @@
     },
     {
       "videoId": "TW2R0xUk5cU",
-      "title": "《與我共舞》分開三年後成熟重逢的華語抒情歌｜Yu Stellar｜星語",
+      "title": "分開三年後，她伸出手說：只陪我跳完今夜《與我共舞》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
@@ -142,13 +142,13 @@
     },
     {
       "videoId": "McRDtOY4EaM",
-      "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
+      "title": "舞會鏡中，她先看見了三年未見的那個人《鏡面那一端》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "1kO631xyIQQ",
-      "title": "不必回到原位｜我們不必重新相愛，才能證明曾經愛過｜Yu Stellar｜星語",
+      "title": "不必回到原位｜重逢隔天，她拒絕讓前世決定今生｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -160,25 +160,25 @@
     },
     {
       "videoId": "TvGiT1Xzp0o",
-      "title": "各自的明天｜成熟重逢系華語女聲療癒情歌｜Yu Stellar｜星語",
+      "title": "各自的明天｜他們沿河散步，承認彼此早已有了明天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "wXw-sm7ibHA",
-      "title": "可能會遇見前任的舞會，你還會赴約嗎？《舞會請柬》｜Yu Stellar｜星語",
+      "title": "《舞會請柬》分開三年後可能重逢的華語敘事歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "H0P-8JOSG6s",
-      "title": "近況像一封信｜久別重逢系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "近況像一封信｜他們沒有談前世，只交換今生的近況｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "Hn2y6ASnY3Q",
-      "title": "《舊歌經過》聽見回憶卻不再回頭的華語抒情歌｜Yu Stellar｜星語",
+      "title": "咖啡館播起那首舊歌，她卻搭車回了新的家《舊歌經過》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
