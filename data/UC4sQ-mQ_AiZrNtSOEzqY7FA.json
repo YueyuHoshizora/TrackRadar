@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-09T23:55:36.366+08:00",
+  "lastUpdated": "2026-11-10T00:00:34.284+08:00",
   "latestVideo": {
     "videoId": "_2PGzG80TEs",
     "title": "各自的明天｜不是不愛了，只是我們走向不同方向｜Yu Stellar｜星語",
@@ -22,7 +22,7 @@
     },
     {
       "videoId": "74qi8zBk__E",
-      "title": "藍窗麵包店｜日常系懷舊華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "藍窗麵包店｜你還記得少糖，我卻忘了我們來過｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.68
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "qfh-r8MoOiA",
-      "title": "枕邊地圖｜醒來後，我畫出不存在卻熟悉的城市｜Yu Stellar｜星語",
+      "title": "枕邊地圖｜一張舊收據，為何畫著夢裡的路？｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.69
     },
@@ -112,13 +112,13 @@
     },
     {
       "videoId": "yzrnbs5efHw",
-      "title": "把故事說完整｜閉館後的長椅上，他們承認做過同一場夢｜Yu Stellar｜星語",
+      "title": "把故事說完整｜前世今生坦白系華語女聲敘事情歌｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.75
     },
     {
       "videoId": "_rBkst6tRIw",
-      "title": "長大後的重逢，是能平靜說完彼此錯過的三年《一曲之後》｜Yu Stellar｜星語",
+      "title": "一支舞結束後，他們終於承認彼此都變了《一曲之後》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.55
     },
@@ -136,13 +136,13 @@
     },
     {
       "videoId": "TRnKY2VyDEM",
-      "title": "兩種季節｜重逢後他們相隔兩地，沒有承諾也沒走散｜Yu Stellar｜星語",
+      "title": "兩種季節｜遠距重逢系華語女聲療癒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "cx0QSY9cv5w",
-      "title": "她穿過整個舞會人群，只為主動說一句好久不見《走到你面前》｜Yu Stellar｜星語",
+      "title": "《走到你面前》分開三年後主動靠近的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
