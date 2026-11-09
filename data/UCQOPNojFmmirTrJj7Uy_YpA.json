@@ -1,22 +1,28 @@
 {
   "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
   "channelTitle": "浣月Huanyue",
-  "lastUpdated": "2026-11-09T11:55:30.398+08:00",
+  "lastUpdated": "2026-11-09T12:00:31.053+08:00",
   "latestVideo": {
-    "videoId": "eiSH65Y54Vg",
-    "title": "天下都已輸盡，唯獨不悔與你這一醉｜《東風醉》｜🎧浣月Huanyue—古風原創歌曲【Official Lyric Video】",
-    "url": "https://www.youtube.com/watch?v=eiSH65Y54Vg",
-    "thumbnail": "https://i.ytimg.com/vi_webp/eiSH65Y54Vg/maxresdefault.webp",
-    "durationSeconds": 248,
-    "publishedAt": "2026-11-04T19:00:12.000+08:00",
-    "fetchedAt": "2026-11-04T19:05:12.285+08:00",
+    "videoId": "fD6QU1aWKHg",
+    "title": "月滿西樓，人未歸｜《月滿西樓》才下眉頭，卻上心頭｜🎧浣月Huanyue—宋詞意境・中國風歌曲",
+    "url": "https://www.youtube.com/watch?v=fD6QU1aWKHg",
+    "thumbnail": "https://i.ytimg.com/vi_webp/fD6QU1aWKHg/maxresdefault.webp",
+    "durationSeconds": 234,
+    "publishedAt": "2026-11-09T11:55:31.000+08:00",
+    "fetchedAt": "2026-11-09T12:00:29.654+08:00",
     "genre": "古風/國風 Chinese Style",
     "genreConfidence": 1
   },
   "allVideoIds": [
     {
+      "videoId": "fD6QU1aWKHg",
+      "title": "月滿西樓，人未歸｜《月滿西樓》才下眉頭，卻上心頭｜🎧浣月Huanyue—宋詞意境・中國風歌曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 1
+    },
+    {
       "videoId": "eiSH65Y54Vg",
-      "title": "《中國風 - 東風醉》杯中酒已冷，東風卻不肯退｜🎧浣月Huanyue—古風・中國風原創歌曲",
+      "title": "天下都已輸盡，唯獨不悔與你這一醉｜《東風醉》｜🎧浣月Huanyue—古風原創歌曲【Official Lyric Video】",
       "genre": "古風/國風 Chinese Style",
       "genreConfidence": 1
     },
