@@ -1,7 +1,7 @@
 {
   "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
   "channelTitle": "Vera Studio",
-  "lastUpdated": "2026-11-05T15:35:17.826+08:00",
+  "lastUpdated": "2026-11-09T17:00:42.463+08:00",
   "latestVideo": {
     "videoId": "ea1N4yhqZP4",
     "title": "🌱《舊時區》｜世界早已往前走，我終於也跨過那段漫長時差｜Official Music Video",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.55
   },
   "allVideoIds": [
+    {
+      "videoId": "diuMtBM_VnA",
+      "title": "🌱《愛情不值一提》｜我不會再為誰委屈自己，深情只留給值得的人｜Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.87
+    },
     {
       "videoId": "ea1N4yhqZP4",
       "title": "🌱《舊時區》｜世界早已往前走，我終於也跨過那段漫長時差｜Official Music Video",
