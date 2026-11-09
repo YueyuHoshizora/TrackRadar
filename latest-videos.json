@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T16:55:49.617+08:00",
+  "updatedAt": "2026-11-09T17:00:50.154+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -409,15 +409,15 @@
       "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
       "channelTitle": "九黎月",
       "latestVideo": {
-        "videoId": "VsdqsYro3sE",
-        "title": "【中國風 - 忘了遠方】怕一覺醒來，把重逢也當尋常 🎧 －九黎月｜古風抒情原創【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=VsdqsYro3sE",
-        "thumbnail": "https://i.ytimg.com/vi/VsdqsYro3sE/maxresdefault.jpg",
-        "durationSeconds": 158,
-        "publishedAt": "2026-11-02T17:00:03.000+08:00",
-        "fetchedAt": "2026-11-02T17:20:26.135+08:00",
+        "videoId": "n8g_R_PUGEA",
+        "title": "【中國風 - 算命】他說我今生難逃一劫，我笑著掀了他的攤 🎧 －九黎月｜古風Trap原創【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=n8g_R_PUGEA",
+        "thumbnail": "https://i.ytimg.com/vi_webp/n8g_R_PUGEA/maxresdefault.webp",
+        "durationSeconds": 161,
+        "publishedAt": "2026-11-09T17:00:30.000+08:00",
+        "fetchedAt": "2026-11-09T17:00:44.264+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 0.94
       }
     },
     {
