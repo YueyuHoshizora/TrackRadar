@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-09T22:15:32.742+08:00",
+  "lastUpdated": "2026-11-09T22:20:33.374+08:00",
   "latestVideo": {
     "videoId": "_2PGzG80TEs",
     "title": "各自的明天｜不是不愛了，只是我們走向不同方向｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "_2PGzG80TEs",
-      "title": "各自的明天｜成熟分手系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "各自的明天｜搬空房間那天，我們把昨天留給彼此｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
+      "title": "門牌之間｜同居生活系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -118,7 +118,7 @@
     },
     {
       "videoId": "_rBkst6tRIw",
-      "title": "《一曲之後》前任重逢、和解與釋然的華語抒情歌｜Yu Stellar｜星語",
+      "title": "長大後的重逢，是能平靜說完彼此錯過的三年《一曲之後》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.55
     },
@@ -136,13 +136,13 @@
     },
     {
       "videoId": "TRnKY2VyDEM",
-      "title": "兩種季節｜重逢後他們相隔兩地，沒有承諾也沒走散｜Yu Stellar｜星語",
+      "title": "兩種季節｜遠距重逢系華語女聲療癒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "cx0QSY9cv5w",
-      "title": "這一次，我不等命運替我說「好久不見」《走到你面前》｜Yu Stellar｜星語",
+      "title": "她穿過整個舞會人群，只為主動說一句好久不見《走到你面前》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
@@ -172,7 +172,7 @@
     },
     {
       "videoId": "TvGiT1Xzp0o",
-      "title": "各自的明天｜他們沿河散步，承認彼此早已有了明天｜Yu Stellar｜星語",
+      "title": "各自的明天｜真正的重逢，不是復合，是尊重彼此的人生｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
