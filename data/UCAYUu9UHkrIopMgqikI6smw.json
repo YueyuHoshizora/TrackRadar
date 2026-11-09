@@ -1,19 +1,25 @@
 {
   "channelId": "UCAYUu9UHkrIopMgqikI6smw",
   "channelTitle": "空山和尚",
-  "lastUpdated": "2026-10-29T12:00:48.486+08:00",
+  "lastUpdated": "2026-11-09T12:00:39.748+08:00",
   "latestVideo": {
-    "videoId": "L2EN_dZCJDM",
-    "title": "《不染》見過人心的惡，仍願守住心中的善｜空山和尚",
-    "url": "https://www.youtube.com/watch?v=L2EN_dZCJDM",
-    "thumbnail": "https://i.ytimg.com/vi/L2EN_dZCJDM/maxresdefault.jpg",
-    "durationSeconds": 318,
-    "publishedAt": "2026-10-29T12:00:01.000+08:00",
-    "fetchedAt": "2026-10-29T12:00:48.182+08:00",
-    "genre": "古風/國風 Chinese Style",
-    "genreConfidence": 0.93
+    "videoId": "Nu4hBmFPo24",
+    "title": "《洋流匯聚》正式MV｜當微小的我們匯聚，就能成為改變世界的力量｜空山和尚",
+    "url": "https://www.youtube.com/watch?v=Nu4hBmFPo24",
+    "thumbnail": "https://i.ytimg.com/vi_webp/Nu4hBmFPo24/maxresdefault.webp",
+    "durationSeconds": 282,
+    "publishedAt": "2026-11-09T12:00:35.000+08:00",
+    "fetchedAt": "2026-11-09T12:00:39.095+08:00",
+    "genre": "其他/無法判斷 Other",
+    "genreConfidence": 0.4
   },
   "allVideoIds": [
+    {
+      "videoId": "Nu4hBmFPo24",
+      "title": "《洋流匯聚》正式MV｜當微小的我們匯聚，就能成為改變世界的力量｜空山和尚",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.4
+    },
     {
       "videoId": "L2EN_dZCJDM",
       "title": "《不染》見過人心的惡，仍願守住心中的善｜空山和尚",
