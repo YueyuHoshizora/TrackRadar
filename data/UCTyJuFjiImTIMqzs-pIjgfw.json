@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-11-08T13:50:36.009+08:00",
+  "lastUpdated": "2026-11-09T16:30:35.876+08:00",
   "latestVideo": {
-    "videoId": "OuQq5sk5uA0",
-    "title": "台語大帝國｜李多娜《恁講恁的》｜最傷人的不是流言，是連你也在講｜聽懂這首歌的人，心裡都有故事｜筠芙得利【Official MV】｜",
-    "url": "https://www.youtube.com/watch?v=OuQq5sk5uA0",
-    "thumbnail": "https://i.ytimg.com/vi_webp/OuQq5sk5uA0/maxresdefault.webp",
-    "durationSeconds": 206,
-    "publishedAt": "2026-11-08T13:15:25.000+08:00",
-    "fetchedAt": "2026-11-08T13:50:34.484+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.46
+    "videoId": "2ebGeXug7ow",
+    "title": "台語大帝國｜Asher 凜《少年啊，少年啊》｜年少拚輸贏，中年只想平安回家｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=2ebGeXug7ow",
+    "thumbnail": "https://i.ytimg.com/vi/2ebGeXug7ow/maxresdefault.jpg",
+    "durationSeconds": 157,
+    "publishedAt": "2026-11-09T16:30:01.000+08:00",
+    "fetchedAt": "2026-11-09T16:30:34.155+08:00",
+    "genre": "流行 Pop",
+    "genreConfidence": 0.4
   },
   "allVideoIds": [
+    {
+      "videoId": "2ebGeXug7ow",
+      "title": "台語大帝國｜Asher 凜《少年啊，少年啊》｜年少拚輸贏，中年只想平安回家｜筠芙得利【Official MV】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.4
+    },
     {
       "videoId": "OuQq5sk5uA0",
       "title": "台語大帝國｜李多娜《恁講恁的》｜最傷人的不是流言，是連你也在講｜聽懂這首歌的人，心裡都有故事｜筠芙得利【Official MV】｜",
