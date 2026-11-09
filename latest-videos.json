@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-10T02:25:47.585+08:00",
+  "updatedAt": "2026-11-10T02:30:49.345+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "語音星空",
+      "channelTitle": "Yu Starry Music",
       "latestVideo": {
         "videoId": "_2PGzG80TEs",
         "title": "各自的明天｜不是不愛了，只是我們走向不同方向｜Yu Stellar｜星語",
@@ -439,15 +439,15 @@
       "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
       "channelTitle": "璃煙",
       "latestVideo": {
-        "videoId": "HuNnzNPXjZo",
-        "title": "《願作一蝶飛》蝶舞念君，夢回當年｜【藏紅妝原創古風音樂劇】",
-        "url": "https://www.youtube.com/watch?v=HuNnzNPXjZo",
-        "thumbnail": "https://i.ytimg.com/vi_webp/HuNnzNPXjZo/maxresdefault.webp",
-        "durationSeconds": 248,
-        "publishedAt": "2026-11-08T09:00:08.000+08:00",
-        "fetchedAt": "2026-11-08T09:00:37.932+08:00",
+        "videoId": "azsfNg_YaNY",
+        "title": "《藏紅妝》第四十一集｜出事了",
+        "url": "https://www.youtube.com/watch?v=azsfNg_YaNY",
+        "thumbnail": "https://i.ytimg.com/vi_webp/azsfNg_YaNY/maxresdefault.webp",
+        "durationSeconds": 150,
+        "publishedAt": "2026-11-10T02:28:35.000+08:00",
+        "fetchedAt": "2026-11-10T02:30:44.307+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "genreConfidence": 0.49
       }
     },
     {
