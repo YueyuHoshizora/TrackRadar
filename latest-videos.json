@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-09T17:25:49.183+08:00",
+  "updatedAt": "2026-11-09T17:30:49.773+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "74qi8zBk__E",
-        "title": "藍窗麵包店｜你還記得少糖，我卻忘了我們來過｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=74qi8zBk__E",
-        "thumbnail": "https://i.ytimg.com/vi/74qi8zBk__E/maxresdefault.jpg",
-        "durationSeconds": 237,
-        "publishedAt": "2026-11-09T05:30:16.000+08:00",
-        "fetchedAt": "2026-11-09T05:30:29.339+08:00",
+        "videoId": "_2PGzG80TEs",
+        "title": "各自的明天｜不是不愛了，只是我們走向不同方向｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=_2PGzG80TEs",
+        "thumbnail": "https://i.ytimg.com/vi/_2PGzG80TEs/maxresdefault.jpg",
+        "durationSeconds": 223,
+        "publishedAt": "2026-11-09T17:30:21.000+08:00",
+        "fetchedAt": "2026-11-09T17:30:29.611+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.68
+        "genreConfidence": 0.95
       }
     },
     {
