@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T10:25:44.421+08:00",
+  "updatedAt": "2026-11-10T10:30:45.889+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -214,15 +214,15 @@
       "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
       "channelTitle": "EIRYN",
       "latestVideo": {
-        "videoId": "l6Ve3qjQaOQ",
-        "title": "《忘了怎麼愛》｜原來失去你以後，連幸福都變得陌生了… 💔｜EIRYN",
-        "url": "https://www.youtube.com/watch?v=l6Ve3qjQaOQ",
-        "thumbnail": "https://i.ytimg.com/vi/l6Ve3qjQaOQ/maxresdefault.jpg",
-        "durationSeconds": 238,
-        "publishedAt": "2026-11-06T10:30:37.000+08:00",
-        "fetchedAt": "2026-11-06T10:30:45.497+08:00",
+        "videoId": "5IqwAfIvDeI",
+        "title": "《後來才明白》｜走過半生才懂，有些事只能自己承受，有些路只能自己走完。｜EIRYN",
+        "url": "https://www.youtube.com/watch?v=5IqwAfIvDeI",
+        "thumbnail": "https://i.ytimg.com/vi/5IqwAfIvDeI/maxresdefault.jpg",
+        "durationSeconds": 263,
+        "publishedAt": "2026-11-10T10:30:03.000+08:00",
+        "fetchedAt": "2026-11-10T10:30:36.042+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.98
+        "genreConfidence": 0.92
       }
     },
     {
