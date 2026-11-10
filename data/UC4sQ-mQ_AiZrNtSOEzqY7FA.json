@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-10T10:45:30.941+08:00",
+  "lastUpdated": "2026-11-10T10:50:31.231+08:00",
   "latestVideo": {
     "videoId": "cOOoMebe-8M",
     "title": "口袋裡的票｜票留著兩個座位，故事卻少了散場以後｜Yu Stellar｜星語",
@@ -28,13 +28,13 @@
     },
     {
       "videoId": "74qi8zBk__E",
-      "title": "藍窗麵包店｜日常系懷舊華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "藍窗麵包店｜你還記得少糖，我卻忘了我們來過｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.68
     },
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜那封停在「都怪我」以前的信｜Yu Stellar｜星語",
+      "title": "未寄的信｜雨夜失戀系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "h6wyXbFZDZM",
-      "title": "兩杯熱茶｜茶還沒涼，我們已把明天說成日常｜Yu Stellar｜星語",
+      "title": "兩杯熱茶｜同居日常系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -160,13 +160,13 @@
     },
     {
       "videoId": "McRDtOY4EaM",
-      "title": "舞會鏡中，她先看見了三年未見的那個人《鏡面那一端》｜Yu Stellar｜星語",
+      "title": "《鏡面那一端》舞會重逢前任的華語敘事抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "1kO631xyIQQ",
-      "title": "不必回到原位｜重逢隔天，她拒絕讓前世決定今生｜Yu Stellar｜星語",
+      "title": "不必回到原位｜前世今生釋懷系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
