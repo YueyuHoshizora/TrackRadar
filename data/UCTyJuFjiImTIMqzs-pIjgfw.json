@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-11-09T16:30:35.876+08:00",
+  "lastUpdated": "2026-11-10T16:46:02.311+08:00",
   "latestVideo": {
-    "videoId": "2ebGeXug7ow",
-    "title": "台語大帝國｜Asher 凜《少年啊，少年啊》｜年少拚輸贏，中年只想平安回家｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=2ebGeXug7ow",
-    "thumbnail": "https://i.ytimg.com/vi/2ebGeXug7ow/maxresdefault.jpg",
-    "durationSeconds": 157,
-    "publishedAt": "2026-11-09T16:30:01.000+08:00",
-    "fetchedAt": "2026-11-09T16:30:34.155+08:00",
-    "genre": "流行 Pop",
-    "genreConfidence": 0.4
+    "videoId": "Ilsgy_DjIw0",
+    "title": "台語大帝國｜《慢慢行嘛會到》｜台語演歌融合 City Pop 的溫暖親情歌｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=Ilsgy_DjIw0",
+    "thumbnail": "https://i.ytimg.com/vi/Ilsgy_DjIw0/maxresdefault.jpg",
+    "durationSeconds": 200,
+    "publishedAt": "2026-11-10T16:45:21.000+08:00",
+    "fetchedAt": "2026-11-10T16:46:00.060+08:00",
+    "genre": "抒情/情歌 Ballad",
+    "genreConfidence": 0.61
   },
   "allVideoIds": [
+    {
+      "videoId": "Ilsgy_DjIw0",
+      "title": "台語大帝國｜《慢慢行嘛會到》｜台語演歌融合 City Pop 的溫暖親情歌｜筠芙得利【Official MV】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.61
+    },
     {
       "videoId": "2ebGeXug7ow",
       "title": "台語大帝國｜Asher 凜《少年啊，少年啊》｜年少拚輸贏，中年只想平安回家｜筠芙得利【Official MV】",
