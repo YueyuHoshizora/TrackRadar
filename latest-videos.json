@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-10T17:26:10.073+08:00",
+  "updatedAt": "2026-11-10T17:31:09.951+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "cOOoMebe-8M",
-        "title": "口袋裡的票｜票留著兩個座位，故事卻少了散場以後｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=cOOoMebe-8M",
-        "thumbnail": "https://i.ytimg.com/vi/cOOoMebe-8M/maxresdefault.jpg",
-        "durationSeconds": 204,
-        "publishedAt": "2026-11-10T05:30:29.000+08:00",
-        "fetchedAt": "2026-11-10T05:35:29.377+08:00",
+        "videoId": "mEEww_jffB8",
+        "title": "最後一盞燈｜真正的告別，是離開後仍盼你天亮｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=mEEww_jffB8",
+        "thumbnail": "https://i.ytimg.com/vi/mEEww_jffB8/maxresdefault.jpg",
+        "durationSeconds": 202,
+        "publishedAt": "2026-11-10T17:30:24.000+08:00",
+        "fetchedAt": "2026-11-10T17:30:58.351+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.77
+        "genreConfidence": 0.91
       }
     },
     {
