@@ -1,19 +1,25 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-11-05T21:35:13.402+08:00",
+  "lastUpdated": "2026-11-10T17:00:59.561+08:00",
   "latestVideo": {
-    "videoId": "G4KUIp4Ef4E",
-    "title": "《天下第二2・人間有甜》｜她單挑唐門全派，只為一顆糖【武俠劇・MV】",
-    "url": "https://www.youtube.com/watch?v=G4KUIp4Ef4E",
-    "thumbnail": "https://i.ytimg.com/vi/G4KUIp4Ef4E/maxresdefault.jpg",
-    "durationSeconds": 225,
-    "publishedAt": "2026-11-04T19:31:21.000+08:00",
-    "fetchedAt": "2026-11-05T21:05:13.190+08:00",
-    "genre": "古風/國風 Chinese Style",
-    "genreConfidence": 0.99
+    "videoId": "8bNctTtPF2c",
+    "title": "媽祖 × 八家將《開臉》｜女生不能當八家將？鬼王來的那晚她偏要開臉【神性電音・國風電音・Official MV】",
+    "url": "https://www.youtube.com/watch?v=8bNctTtPF2c",
+    "thumbnail": "https://i.ytimg.com/vi_webp/8bNctTtPF2c/maxresdefault.webp",
+    "durationSeconds": 222,
+    "publishedAt": "2026-11-10T17:00:29.000+08:00",
+    "fetchedAt": "2026-11-10T17:00:59.170+08:00",
+    "genre": "電子 Electronic",
+    "genreConfidence": 0.59
   },
   "allVideoIds": [
+    {
+      "videoId": "8bNctTtPF2c",
+      "title": "媽祖 × 八家將《開臉》｜女生不能當八家將？鬼王來的那晚她偏要開臉【神性電音・國風電音・Official MV】",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.59
+    },
     {
       "videoId": "G4KUIp4Ef4E",
       "title": "《天下第二2・人間有甜》｜她單挑唐門全派，只為一顆糖【武俠劇・MV】",
