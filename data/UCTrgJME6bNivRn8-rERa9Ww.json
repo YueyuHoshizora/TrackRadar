@@ -1,19 +1,25 @@
 {
   "channelId": "UCTrgJME6bNivRn8-rERa9Ww",
   "channelTitle": "Zoe. G",
-  "lastUpdated": "2026-11-04T01:05:14.820+08:00",
+  "lastUpdated": "2026-11-10T15:45:32.493+08:00",
   "latestVideo": {
-    "videoId": "dUQB1SgCwtc",
-    "title": "凌晨兩點，不想就這樣回家｜《Perfect Night》｜ Zoe. G - 我是ZOE｜【Official Music Video】｜Zoe.G 中文原創單曲",
-    "url": "https://www.youtube.com/watch?v=dUQB1SgCwtc",
-    "thumbnail": "https://i.ytimg.com/vi_webp/dUQB1SgCwtc/maxresdefault.webp",
-    "durationSeconds": 220,
-    "publishedAt": "2026-11-02T17:44:26.000+08:00",
-    "fetchedAt": "2026-11-02T17:45:19.885+08:00",
-    "genre": "流行 Pop",
-    "genreConfidence": 0.37
+    "videoId": "auXupMsx8DE",
+    "title": "御座之上，只有月光敢坦蕩。｜《王、世間》｜ Zoe. G - 我是ZOE｜【Official Music Video】｜Zoe.G 中文原創單曲",
+    "url": "https://www.youtube.com/watch?v=auXupMsx8DE",
+    "thumbnail": "https://i.ytimg.com/vi/auXupMsx8DE/maxresdefault.jpg",
+    "durationSeconds": 174,
+    "publishedAt": "2026-11-10T15:41:19.000+08:00",
+    "fetchedAt": "2026-11-10T15:45:31.428+08:00",
+    "genre": "古風/國風 Chinese Style",
+    "genreConfidence": 0.83
   },
   "allVideoIds": [
+    {
+      "videoId": "auXupMsx8DE",
+      "title": "御座之上，只有月光敢坦蕩。｜《王、世間》｜ Zoe. G - 我是ZOE｜【Official Music Video】｜Zoe.G 中文原創單曲",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.83
+    },
     {
       "videoId": "dUQB1SgCwtc",
       "title": "凌晨兩點，不想就這樣回家｜《Perfect Night》｜ Zoe. G - 我是ZOE｜【Official Music Video】｜Zoe.G 中文原創單曲",
