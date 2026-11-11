@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-12T01:36:02.067+08:00",
+  "lastUpdated": "2026-11-12T01:41:00.710+08:00",
   "latestVideo": {
     "videoId": "LdB1GPUUpaU",
     "title": "醒來的名字｜有些人忘了，心卻還記得他的名字｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "LdB1GPUUpaU",
-      "title": "醒來的名字｜有些人忘了，心卻還記得他的名字｜Yu Stellar｜星語",
+      "title": "醒來的名字｜前世記憶系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.71
     },
     {
       "videoId": "KIEnCXnKOvo",
-      "title": "昨天的電車｜電車開向昨天，我卻坐著今天的自己｜Yu Stellar｜星語",
+      "title": "昨天的電車｜時間旅行系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.59
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "_2PGzG80TEs",
-      "title": "各自的明天｜搬空房間那天，我們把昨天留給彼此｜Yu Stellar｜星語",
+      "title": "各自的明天｜成熟分手系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜同居生活系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "門牌之間｜兩個門牌，如何變成我們的家｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -124,13 +124,13 @@
     },
     {
       "videoId": "2MiNzv8sZp0",
-      "title": "記得但不回頭｜兩張不同月台的車票，沒有結束新的可能｜Yu Stellar｜星語",
+      "title": "記得但不回頭｜我記得你，卻不必回頭證明愛過｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "X9VxzJORS3w",
-      "title": "共舞隔天，他只傳一句「昨晚謝謝」《不急著定義》｜Yu Stellar｜星語",
+      "title": "成熟的喜歡，是靠近以後也不急著要答案《不急著定義》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "TW2R0xUk5cU",
-      "title": "如果再見前任，你敢主動邀他跳一支舞嗎？《與我共舞》｜Yu Stellar｜星語",
+      "title": "《與我共舞》分開三年後成熟重逢的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
