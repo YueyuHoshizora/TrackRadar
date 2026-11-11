@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:46:10.054+08:00",
+  "updatedAt": "2026-11-11T18:51:11.980+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "XjVH23JCr3Y",
-        "title": "我今天不想再說沒關係了《別讓她看見我流淚》｜雙女主。GL。百合。音樂微電影・霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=XjVH23JCr3Y",
-        "thumbnail": "https://i.ytimg.com/vi/XjVH23JCr3Y/maxresdefault.jpg?v=6af17b4e",
-        "durationSeconds": 501,
-        "publishedAt": "2026-11-09T12:00:09.000+08:00",
-        "fetchedAt": "2026-11-11T10:01:09.619+08:00",
+        "videoId": "wmdRa1WBKHU",
+        "title": "每次妳說等一下，都是我在等｜別讓她看見我流淚 EP02｜百合・雙女主・GL・音樂短劇｜霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=wmdRa1WBKHU",
+        "thumbnail": "https://i.ytimg.com/vi_webp/wmdRa1WBKHU/maxresdefault.webp?v=6aeb191e",
+        "durationSeconds": 145,
+        "publishedAt": "2026-11-04T12:00:07.000+08:00",
+        "fetchedAt": "2026-11-11T18:51:06.043+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.67
+        "genreConfidence": 0.46
       }
     },
     {
