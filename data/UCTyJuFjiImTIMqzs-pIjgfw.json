@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-11-10T16:46:02.311+08:00",
+  "lastUpdated": "2026-11-11T16:46:02.178+08:00",
   "latestVideo": {
-    "videoId": "Ilsgy_DjIw0",
-    "title": "台語大帝國｜《慢慢行嘛會到》｜台語演歌融合 City Pop 的溫暖親情歌｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=Ilsgy_DjIw0",
-    "thumbnail": "https://i.ytimg.com/vi/Ilsgy_DjIw0/maxresdefault.jpg",
-    "durationSeconds": 200,
-    "publishedAt": "2026-11-10T16:45:21.000+08:00",
-    "fetchedAt": "2026-11-10T16:46:00.060+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.61
+    "videoId": "wzJj0x71quE",
+    "title": "台語大帝國｜紀時宇《無你攬我嘛會好》｜台語 K-pop 失戀舞曲｜寒流來了，你沒來接我，這次換我先走｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=wzJj0x71quE",
+    "thumbnail": "https://i.ytimg.com/vi/wzJj0x71quE/maxresdefault.jpg",
+    "durationSeconds": 181,
+    "publishedAt": "2026-11-11T16:45:19.000+08:00",
+    "fetchedAt": "2026-11-11T16:46:00.245+08:00",
+    "genre": "流行 Pop",
+    "genreConfidence": 0.75
   },
   "allVideoIds": [
+    {
+      "videoId": "wzJj0x71quE",
+      "title": "台語大帝國｜紀時宇《無你攬我嘛會好》｜台語 K-pop 失戀舞曲｜寒流來了，你沒來接我，這次換我先走｜筠芙得利【Official MV】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.75
+    },
     {
       "videoId": "Ilsgy_DjIw0",
       "title": "台語大帝國｜《慢慢行嘛會到》｜台語演歌融合 City Pop 的溫暖親情歌｜筠芙得利【Official MV】",
