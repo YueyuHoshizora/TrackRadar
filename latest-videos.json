@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T09:56:15.149+08:00",
+  "updatedAt": "2026-11-11T10:01:18.044+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -197,7 +197,7 @@
     },
     {
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
-      "channelTitle": "Aria",
+      "channelTitle": "Aria艾莉亞",
       "latestVideo": {
         "videoId": "1GnVEVfsJRQ",
         "title": "各取所需，誰也別假裝委屈｜《平替關係》Aria艾莉亞 Official Lyric Video",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "YFAfEEB4GT0",
-        "title": "妳還願意回頭等我嗎《逆流》｜深夜療癒華語原創抒情曲・雙女主百合故事曲｜霧月 Xiaoloulou【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=YFAfEEB4GT0",
-        "thumbnail": "https://i.ytimg.com/vi_webp/YFAfEEB4GT0/maxresdefault.webp?v=6af1812e",
-        "durationSeconds": 218,
-        "publishedAt": "2026-11-08T12:00:07.000+08:00",
-        "fetchedAt": "2026-11-11T09:56:07.708+08:00",
+        "videoId": "XjVH23JCr3Y",
+        "title": "我今天不想再說沒關係了《別讓她看見我流淚》｜雙女主。GL。百合。音樂微電影・霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=XjVH23JCr3Y",
+        "thumbnail": "https://i.ytimg.com/vi/XjVH23JCr3Y/maxresdefault.jpg?v=6af17b4e",
+        "durationSeconds": 501,
+        "publishedAt": "2026-11-09T12:00:09.000+08:00",
+        "fetchedAt": "2026-11-11T10:01:09.619+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.67
       }
     },
     {
@@ -454,14 +454,14 @@
       "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
       "channelTitle": "沐霧月",
       "latestVideo": {
-        "videoId": "7Ts7GH8FBMQ",
-        "title": "「無端」這二字，是我最後的謊言《無端》｜我沒有回頭，也不敢回頭｜不敢說的暗戀・古風虐心｜沐霧月【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=7Ts7GH8FBMQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/7Ts7GH8FBMQ/maxresdefault.webp?v=6a9572bb",
-        "durationSeconds": 213,
-        "publishedAt": "2026-09-01T12:00:06.000+08:00",
-        "fetchedAt": "2026-11-11T09:51:10.840+08:00",
-        "genre": "古風/國風 Chinese Style",
+        "videoId": "rzPOmBk9Ybk",
+        "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=rzPOmBk9Ybk",
+        "thumbnail": "https://i.ytimg.com/vi_webp/rzPOmBk9Ybk/maxresdefault.webp",
+        "durationSeconds": 223,
+        "publishedAt": "2026-09-18T12:00:02.000+08:00",
+        "fetchedAt": "2026-11-11T10:01:10.849+08:00",
+        "genre": "抒情/情歌 Ballad",
         "genreConfidence": 1
       }
     },
