@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-11T18:26:10.420+08:00",
+  "updatedAt": "2026-11-11T18:31:10.635+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "KIEnCXnKOvo",
-        "title": "昨天的電車｜電車開向昨天，我卻坐著今天的自己｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=KIEnCXnKOvo",
-        "thumbnail": "https://i.ytimg.com/vi/KIEnCXnKOvo/maxresdefault.jpg",
-        "durationSeconds": 250,
-        "publishedAt": "2026-11-11T05:30:06.000+08:00",
-        "fetchedAt": "2026-11-11T05:30:58.292+08:00",
+        "videoId": "LdB1GPUUpaU",
+        "title": "醒來的名字｜有些人忘了，心卻還記得他的名字｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=LdB1GPUUpaU",
+        "thumbnail": "https://i.ytimg.com/vi/LdB1GPUUpaU/maxresdefault.jpg",
+        "durationSeconds": 220,
+        "publishedAt": "2026-11-11T17:30:24.000+08:00",
+        "fetchedAt": "2026-11-11T18:30:58.243+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.59
+        "genreConfidence": 0.71
       }
     },
     {
