@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-11T14:05:59.009+08:00",
+  "lastUpdated": "2026-11-11T14:10:59.653+08:00",
   "latestVideo": {
     "videoId": "KIEnCXnKOvo",
     "title": "昨天的電車｜電車開向昨天，我卻坐著今天的自己｜Yu Stellar｜星語",
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
+      "title": "未寄的信｜那封停在「都怪我」以前的信｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -88,19 +88,19 @@
     },
     {
       "videoId": "c284npUDLuE",
-      "title": "霧裡鐘聲｜氛圍系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "霧裡鐘聲｜路都被霧藏起來，鐘聲卻記得我｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
     {
       "videoId": "DjPid_4O2wI",
-      "title": "紙鳶未收線｜原來心動，是兩個人都故意放慢腳步｜Yu Stellar｜星語",
+      "title": "紙鳶未收線｜前世初遇系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.61
     },
     {
       "videoId": "qfh-r8MoOiA",
-      "title": "枕邊地圖｜夢境系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "枕邊地圖｜醒來後，我畫出不存在卻熟悉的城市｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.69
     },
@@ -172,7 +172,7 @@
     },
     {
       "videoId": "McRDtOY4EaM",
-      "title": "舞會鏡中，她先看見了三年未見的那個人《鏡面那一端》｜Yu Stellar｜星語",
+      "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
