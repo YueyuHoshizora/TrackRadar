@@ -1,7 +1,7 @@
 {
   "channelId": "UCMnJRS4rX8Hc5c5zZETWOfw",
   "channelTitle": "達絲琪 Dasuki",
-  "lastUpdated": "2026-11-11T23:11:19.612+08:00",
+  "lastUpdated": "2026-11-11T23:16:19.580+08:00",
   "latestVideo": {
     "videoId": "YHJuPhDTLME",
     "title": "《奇怪少女日記》我怪得很合理，你不懂也沒關係😝💗 達絲琪｜原創音樂【Official Music Video】",
@@ -202,27 +202,39 @@
     },
     {
       "videoId": "Kg6LbPvYdGg",
-      "title": "《心動》認識你之後，我的世界亂了節拍 🎧 達絲琪｜原創音樂【Official Music Video】"
+      "title": "《心動》認識你之後，我的世界亂了節拍 🎧 達絲琪｜原創音樂【Official Music Video】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "dIUCmUlVXQk",
-      "title": "你的名字還留在記憶，卻不再決定我的天氣《今天不等你》🎧 達絲琪 #CityPop #RnB #原創音樂"
+      "title": "你的名字還留在記憶，卻不再決定我的天氣《今天不等你》🎧 達絲琪 #CityPop #RnB #原創音樂",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "GYAc_5tObxE",
-      "title": "《失重以後》在沒有地心引力的宇宙，希望你能接住我 🚀 達絲琪｜City Pop × R&B 原創音樂【Official Music Video】"
+      "title": "《失重以後》在沒有地心引力的宇宙，希望你能接住我 🚀 達絲琪｜City Pop × R&B 原創音樂【Official Music Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "dgmi6e-7E1Y",
-      "title": "《今天不等你》你的名字還留在記憶，卻不再決定我的天氣 🎧 達絲琪｜City Pop × R&B 原創音樂【Official Music Video】"
+      "title": "《今天不等你》你的名字還留在記憶，卻不再決定我的天氣 🎧 達絲琪｜City Pop × R&B 原創音樂【Official Music Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.89
     },
     {
       "videoId": "3J_ZHILluek",
-      "title": "偶爾慢一點，也是一種前進《低速飛行》🎧 達絲琪 #CityPop #RnB #原創音樂"
+      "title": "偶爾慢一點，也是一種前進《低速飛行》🎧 達絲琪 #CityPop #RnB #原創音樂",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "NnS3ykRUYeo",
-      "title": "《低速飛行》偶爾慢一點，也是一種前進 🎧 達絲琪｜City Pop × R&B 原創音樂【Official Music Video】"
+      "title": "《低速飛行》偶爾慢一點，也是一種前進 🎧 達絲琪｜City Pop × R&B 原創音樂【Official Music Video】",
+      "genre": "R&B/Soul",
+      "genreConfidence": 0.88
     }
   ]
 }
