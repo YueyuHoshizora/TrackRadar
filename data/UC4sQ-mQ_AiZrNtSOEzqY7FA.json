@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-12T10:11:00.872+08:00",
+  "lastUpdated": "2026-11-12T10:16:01.325+08:00",
   "latestVideo": {
     "videoId": "-3C7ereuiVk",
     "title": "沒有日期｜沒有日期的夢，也藏不住走過的年紀｜Yu Stellar｜星語",
@@ -16,25 +16,25 @@
   "allVideoIds": [
     {
       "videoId": "-3C7ereuiVk",
-      "title": "沒有日期｜沒有日期的夢，也藏不住走過的年紀｜Yu Stellar｜星語",
+      "title": "沒有日期｜鏡子裡的他，竟有她沒見過的白髮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
     {
       "videoId": "LdB1GPUUpaU",
-      "title": "醒來的名字｜她在陌生房間醒來，聽見夢裡有人叫她｜Yu Stellar｜星語",
+      "title": "醒來的名字｜前世記憶系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.71
     },
     {
       "videoId": "KIEnCXnKOvo",
-      "title": "昨天的電車｜每一站上車的，都是不同年紀的她｜Yu Stellar｜星語",
+      "title": "昨天的電車｜時間旅行系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.59
     },
     {
       "videoId": "mEEww_jffB8",
-      "title": "最後一盞燈｜體面告別系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "最後一盞燈｜真正的告別，是離開後仍盼你天亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "_2PGzG80TEs",
-      "title": "各自的明天｜搬空房間那天，我們把昨天留給彼此｜Yu Stellar｜星語",
+      "title": "各自的明天｜成熟分手系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
+      "title": "門牌之間｜兩個門牌，如何變成我們的家｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -82,13 +82,13 @@
     },
     {
       "videoId": "h6wyXbFZDZM",
-      "title": "兩杯熱茶｜最讓人想念的愛，是有人等你下班｜Yu Stellar｜星語",
+      "title": "兩杯熱茶｜同居日常系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "HKvjJiZQoYM",
-      "title": "不存在的街｜這條街為何放滿她用過的東西？｜Yu Stellar｜星語",
+      "title": "不存在的街｜記憶系華語敘事情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.54
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "TW2R0xUk5cU",
-      "title": "分開三年後，她伸出手說：只陪我跳完今夜《與我共舞》｜Yu Stellar｜星語",
+      "title": "《與我共舞》分開三年後成熟重逢的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
