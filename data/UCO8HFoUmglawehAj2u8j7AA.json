@@ -1,7 +1,7 @@
 {
   "channelId": "UCO8HFoUmglawehAj2u8j7AA",
   "channelTitle": "玥小岑Yueh-tsen",
-  "lastUpdated": "2026-11-12T23:21:21.597+08:00",
+  "lastUpdated": "2026-11-12T23:26:18.763+08:00",
   "latestVideo": {
     "videoId": "nxGlbh2N8eM",
     "title": "兩句話的遺憾(玥小岑Yueh-tsen)#華語抒情 #失戀抒情 #心碎情歌 #真摯女聲 #必聽抒情 #超好聽",
@@ -202,43 +202,63 @@
     },
     {
       "videoId": "8BAfFodNglk",
-      "title": "歌名：Crush The Love (玥小岑Yueh-tsen) #英文歌曲 #暗黑流行 #搖滾音樂 #清脆女聲 #抒情搖滾 #抒情歌曲"
+      "title": "歌名：Crush The Love (玥小岑Yueh-tsen) #英文歌曲 #暗黑流行 #搖滾音樂 #清脆女聲 #抒情搖滾 #抒情歌曲",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "k68hGcjNhsM",
-      "title": "新歌小預告#玥小岑Yuehtsen"
+      "title": "新歌小預告#玥小岑Yuehtsen",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "hJUhYALd5RA",
-      "title": "玥小岑本人原聲宣傳| 10/6 7:00PM | LUNARIA"
+      "title": "玥小岑本人原聲宣傳| 10/6 7:00PM | LUNARIA",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.82
     },
     {
       "videoId": "-_CsfD-u4-Y",
-      "title": "姐姐妳不會介意的吧～(Green Tea get out)#搞笑小短片#岳玥CP"
+      "title": "姐姐妳不會介意的吧～(Green Tea get out)#搞笑小短片#岳玥CP",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "9rHVqwiv-so",
-      "title": "【完整版】愛之入骨(玥小岑Yueh-tsen）#華語流行 #抒情搖滾 #強制愛 #病嬌 #深情歌曲 #溫暖男聲 #必聽熱門歌曲 #失真電子搖滾"
+      "title": "【完整版】愛之入骨(玥小岑Yueh-tsen）#華語流行 #抒情搖滾 #強制愛 #病嬌 #深情歌曲 #溫暖男聲 #必聽熱門歌曲 #失真電子搖滾",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.63
     },
     {
       "videoId": "5s59aeJkfY4",
-      "title": "愛之入骨(玥小岑Yueh-tsen) #華語流行 #抒情搖滾 #強制愛 #病嬌 #深情歌曲 #溫暖男聲 #必聽熱門歌曲 #失真電子搖滾"
+      "title": "愛之入骨(玥小岑Yueh-tsen) #華語流行 #抒情搖滾 #強制愛 #病嬌 #深情歌曲 #溫暖男聲 #必聽熱門歌曲 #失真電子搖滾",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.71
     },
     {
       "videoId": "Ype5OslVqlc",
-      "title": "新歌預告｜華語流行抒情x失真電子搖滾x溫暖男聲獨唱x暗黑風電影感#今晚發佈"
+      "title": "新歌預告｜華語流行抒情x失真電子搖滾x溫暖男聲獨唱x暗黑風電影感#今晚發佈",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "WCmOBY2BelM",
-      "title": "為下週的新作品練習中#爵士鼓"
+      "title": "為下週的新作品練習中#爵士鼓",
+      "genre": "爵士 Jazz",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "gblt8ZeCz5w",
-      "title": "【完整版】金色旋律(玥小岑Yueh-tsen)｜你值得被愛，我也值得被珍惜#華語抒情 #異國曲風 #愛情抒情 #空靈女聲 #金字塔 #古埃及 #尼羅河"
+      "title": "【完整版】金色旋律(玥小岑Yueh-tsen)｜你值得被愛，我也值得被珍惜#華語抒情 #異國曲風 #愛情抒情 #空靈女聲 #金字塔 #古埃及 #尼羅河",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "AE-_6mZDvdg",
-      "title": "金色旋律作(玥小岑Yueh-tsen)#華語抒情 #異國曲風 #愛情抒情 #空靈女聲 #金字塔 #古埃及 #尼羅河"
+      "title": "金色旋律作(玥小岑Yueh-tsen)#華語抒情 #異國曲風 #愛情抒情 #空靈女聲 #金字塔 #古埃及 #尼羅河",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "zcHmLu1nqr4",
