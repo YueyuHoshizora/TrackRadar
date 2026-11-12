@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T23:06:21.848+08:00",
+  "updatedAt": "2026-11-12T23:11:27.912+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -493,6 +493,21 @@
         "fetchedAt": "2026-11-11T23:01:19.720+08:00",
         "genre": "流行 Pop",
         "genreConfidence": 0.36
+      }
+    },
+    {
+      "channelId": "UCO8HFoUmglawehAj2u8j7AA",
+      "channelTitle": "玥小岑Yueh-tsen",
+      "latestVideo": {
+        "videoId": "nxGlbh2N8eM",
+        "title": "兩句話的遺憾(玥小岑Yueh-tsen)#華語抒情 #失戀抒情 #心碎情歌 #真摯女聲 #必聽抒情 #超好聽",
+        "url": "https://www.youtube.com/watch?v=nxGlbh2N8eM",
+        "thumbnail": "https://i.ytimg.com/vi/nxGlbh2N8eM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgUShRMA8=&rs=AOn4CLDWYKaNw9Kjo2ysL-QO11dZBLYDbQ",
+        "durationSeconds": 80,
+        "publishedAt": "2026-11-12T20:37:56.000+08:00",
+        "fetchedAt": "2026-11-12T23:11:18.653+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
       }
     }
   ]
