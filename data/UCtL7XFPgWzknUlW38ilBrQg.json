@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-11-12T12:21:17.791+08:00",
+  "lastUpdated": "2026-11-12T21:01:22.192+08:00",
   "latestVideo": {
     "videoId": "BzOiVl_70vw",
     "title": "妳緊抱著我，像怕我明天就消失《溫柔的雨》｜雨天療癒抒情・細膩女聲｜霧月 Xiaoloulou【Lyric Video】",
@@ -14,6 +14,12 @@
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "d3t2gOankdM",
+      "title": "「我只是想找個安靜的地方。好吧，不只是。」《未曾抵達的我們》露兒×霧月｜雙女主百合短劇・霧月 Xiaoloulou",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.71
+    },
     {
       "videoId": "BzOiVl_70vw",
       "title": "妳緊抱著我，像怕我明天就消失《溫柔的雨》｜雨天療癒抒情・細膩女聲｜霧月 Xiaoloulou【Lyric Video】",
