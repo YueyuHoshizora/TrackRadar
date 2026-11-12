@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:46:21.321+08:00",
+  "updatedAt": "2026-11-12T22:51:24.658+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "XjVH23JCr3Y",
-        "title": "我今天不想再說沒關係了《別讓她看見我流淚》｜雙女主。GL。百合。音樂微電影・霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=XjVH23JCr3Y",
-        "thumbnail": "https://i.ytimg.com/vi/XjVH23JCr3Y/maxresdefault.jpg?v=6af17b4e",
-        "durationSeconds": 501,
-        "publishedAt": "2026-11-09T12:00:09.000+08:00",
-        "fetchedAt": "2026-11-12T22:06:18.325+08:00",
+        "videoId": "BzOiVl_70vw",
+        "title": "妳緊抱著我，像怕我明天就消失《溫柔的雨》｜雨天療癒抒情・細膩女聲｜霧月 Xiaoloulou【Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=BzOiVl_70vw",
+        "thumbnail": "https://i.ytimg.com/vi/BzOiVl_70vw/maxresdefault.jpg?v=6af48275",
+        "durationSeconds": 239,
+        "publishedAt": "2026-11-12T12:00:07.000+08:00",
+        "fetchedAt": "2026-11-12T22:51:15.559+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.67
+        "genreConfidence": 1
       }
     },
     {
@@ -439,15 +439,15 @@
       "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
       "channelTitle": "璃煙",
       "latestVideo": {
-        "videoId": "mpT-Swusj6g",
-        "title": "《藏紅妝》36–40集合集｜相守有情，故人蝶舞歸來｜古裝百合短劇",
-        "url": "https://www.youtube.com/watch?v=mpT-Swusj6g",
-        "thumbnail": "https://i.ytimg.com/vi_webp/mpT-Swusj6g/maxresdefault.webp?v=6aef4edd",
-        "durationSeconds": 798,
-        "publishedAt": "2026-11-06T08:00:07.000+08:00",
-        "fetchedAt": "2026-11-12T22:46:13.565+08:00",
+        "videoId": "CuNr0cV5rVQ",
+        "title": "藏紅妝｜第42集：她是我的，別碰",
+        "url": "https://www.youtube.com/watch?v=CuNr0cV5rVQ",
+        "thumbnail": "https://i.ytimg.com/vi_webp/CuNr0cV5rVQ/maxresdefault.webp",
+        "durationSeconds": 150,
+        "publishedAt": "2026-11-12T21:33:57.000+08:00",
+        "fetchedAt": "2026-11-12T22:51:15.958+08:00",
         "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.82
+        "genreConfidence": 0.69
       }
     },
     {
