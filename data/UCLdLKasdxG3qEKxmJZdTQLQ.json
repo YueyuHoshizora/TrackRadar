@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-11-10T02:30:45.111+08:00",
+  "lastUpdated": "2026-11-12T21:36:17.873+08:00",
   "latestVideo": {
     "videoId": "azsfNg_YaNY",
     "title": "《藏紅妝》第四十一集｜出事了",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.49
   },
   "allVideoIds": [
+    {
+      "videoId": "CuNr0cV5rVQ",
+      "title": "藏紅妝｜第42集：她是我的，別碰",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.78
+    },
     {
       "videoId": "azsfNg_YaNY",
       "title": "《藏紅妝》第四十一集｜出事了",
