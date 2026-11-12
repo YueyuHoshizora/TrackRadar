@@ -1,7 +1,7 @@
 {
   "channelId": "UCO8HFoUmglawehAj2u8j7AA",
   "channelTitle": "玥小岑Yueh-tsen",
-  "lastUpdated": "2026-11-12T23:11:23.544+08:00",
+  "lastUpdated": "2026-11-12T23:16:22.363+08:00",
   "latestVideo": {
     "videoId": "nxGlbh2N8eM",
     "title": "兩句話的遺憾(玥小岑Yueh-tsen)#華語抒情 #失戀抒情 #心碎情歌 #真摯女聲 #必聽抒情 #超好聽",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "UeWr7rW1370",
-      "title": "女賽車手跳一小段舞(還慢拍🤣）#舞蹈 #即興 #一日女賽車手 #玥小岑Yuehtsen"
+      "title": "女賽車手跳一小段舞(還慢拍🤣）#舞蹈 #即興 #一日女賽車手 #玥小岑Yuehtsen",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "OPFGWVYcTFQ",
-      "title": "🌙LUNARIA之微醺篇🍻 #原創 #搞笑 #LUNARIA #微醺 #很鬧系列"
+      "title": "🌙LUNARIA之微醺篇🍻 #原創 #搞笑 #LUNARIA #微醺 #很鬧系列",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.75
     },
     {
       "videoId": "qRp1BHlUUSA",
-      "title": "妳也曾是我的公主(玥小岑Yueh-tsen)#華語抒情 #失戀歌曲 #失戀必聽 #深情男聲 #drums #bass"
+      "title": "妳也曾是我的公主(玥小岑Yueh-tsen)#華語抒情 #失戀歌曲 #失戀必聽 #深情男聲 #drums #bass",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "5EiInoJU20I",
-      "title": "【完整版】妳也曾是我的公主(玥小岑Yueh-tsen)｜愛情也曾是我們的來時路，現在只剩我一個人在路上躊躇 #華語抒情 #失戀歌曲 #失戀必聽 #深情男聲 #drums #bass"
+      "title": "【完整版】妳也曾是我的公主(玥小岑Yueh-tsen)｜愛情也曾是我們的來時路，現在只剩我一個人在路上躊躇 #華語抒情 #失戀歌曲 #失戀必聽 #深情男聲 #drums #bass",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
     },
     {
       "videoId": "MXLdgAKGhTk",
-      "title": "𝓗𝓪𝓹𝓹𝔂 𝓗𝓪𝓵𝓵𝓸𝔀𝓮𝓮𝓷👻feat. 𝕃𝕌ℕ𝔸ℝ𝕀𝔸🍬"
+      "title": "𝓗𝓪𝓹𝓹𝔂 𝓗𝓪𝓵𝓵𝓸𝔀𝓮𝓮𝓷👻feat. 𝕃𝕌ℕ𝔸ℝ𝕀𝔸🍬",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "Al4le0SCCys",
-      "title": "萬聖節早晨🩷來點不一樣的登場模式👻"
+      "title": "萬聖節早晨🩷來點不一樣的登場模式👻",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "rOY0X7rsaZU",
-      "title": "LUNARIA《月影行動》前導預告"
+      "title": "LUNARIA《月影行動》前導預告",
+      "genre": "遊戲音樂 Game Music",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "1tbItUhej-E",
-      "title": "你們今天喝飲料了嗎🧋? #珍珠奶茶 #甜度 #午安"
+      "title": "你們今天喝飲料了嗎🧋? #珍珠奶茶 #甜度 #午安",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "mt2kjkqczCE",
-      "title": "眼神離不開你(玥小岑Yueh-tsen)#華語流行 #華語抒情 #男女對唱 #曖昧 #心動 #必聽情歌 #戀愛"
+      "title": "眼神離不開你(玥小岑Yueh-tsen)#華語流行 #華語抒情 #男女對唱 #曖昧 #心動 #必聽情歌 #戀愛",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "7lFgBAWvfw4",
-      "title": "【完整版】眼神離不開你(玥小岑Yueh-tsen)｜如果我們都有一點在意，何必讓心動矜持演著客氣 #華語流行 #華語抒情 #男女對唱 #曖昧 #心動 #必聽情歌 #戀愛"
+      "title": "【完整版】眼神離不開你(玥小岑Yueh-tsen)｜如果我們都有一點在意，何必讓心動矜持演著客氣 #華語流行 #華語抒情 #男女對唱 #曖昧 #心動 #必聽情歌 #戀愛",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "WNexnLKNdvs",
