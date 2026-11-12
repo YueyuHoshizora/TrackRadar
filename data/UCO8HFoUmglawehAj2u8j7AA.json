@@ -1,7 +1,7 @@
 {
   "channelId": "UCO8HFoUmglawehAj2u8j7AA",
   "channelTitle": "玥小岑Yueh-tsen",
-  "lastUpdated": "2026-11-12T23:26:18.763+08:00",
+  "lastUpdated": "2026-11-12T23:31:21.650+08:00",
   "latestVideo": {
     "videoId": "nxGlbh2N8eM",
     "title": "兩句話的遺憾(玥小岑Yueh-tsen)#華語抒情 #失戀抒情 #心碎情歌 #真摯女聲 #必聽抒情 #超好聽",
@@ -262,43 +262,63 @@
     },
     {
       "videoId": "zcHmLu1nqr4",
-      "title": "下首新歌挑戰異域風情🇪🇬#新曲風"
+      "title": "下首新歌挑戰異域風情🇪🇬#新曲風",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "6kyvYWA3lmE",
-      "title": "連假最後一天不想收心😆"
+      "title": "連假最後一天不想收心😆",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "yqcLe59Qmxw",
-      "title": "中秋節快樂#岳玥CP"
+      "title": "中秋節快樂#岳玥CP",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "1ja4iNnPA_c",
-      "title": "首次本人原聲清唱❣️"
+      "title": "首次本人原聲清唱❣️",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "NwOpQgj6or8",
-      "title": "首次街訪岳玥CP🎬"
+      "title": "首次街訪岳玥CP🎬",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "DxsDvhDVPGk",
-      "title": "【完整版】朝夕相處卻總見不到你(玥小岑Yueh-tsen)｜兩個人的日子，過得像一個人呼吸#華語抒情 #電子舞曲 #JerseyClub #空靈女聲 #現代都市疏離感"
+      "title": "【完整版】朝夕相處卻總見不到你(玥小岑Yueh-tsen)｜兩個人的日子，過得像一個人呼吸#華語抒情 #電子舞曲 #JerseyClub #空靈女聲 #現代都市疏離感",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "o0zrbupQzrU",
-      "title": "朝夕相處卻總見不到你(玥小岑Yueh-tsen) #華語抒情 #電子舞曲 #JerseyClub #空靈女聲 #現代都市疏離感"
+      "title": "朝夕相處卻總見不到你(玥小岑Yueh-tsen) #華語抒情 #電子舞曲 #JerseyClub #空靈女聲 #現代都市疏離感",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "jtUHmra1E1o",
-      "title": "【彩蛋在最後】如果是遊戲角色！？(玥小岑Yueh-Tsen)"
+      "title": "【彩蛋在最後】如果是遊戲角色！？(玥小岑Yueh-Tsen)",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "4AnqJb0LuaQ",
-      "title": "【完整版】天使與魔鬼(玥小岑Yueh-tsen)｜善與惡就在一念之間，天使與魔鬼住在我心裡面#華語流行 #暗黑流行搖滾 #CinematicPop #真摯女聲 #歌德元素 #撕裂唱腔"
+      "title": "【完整版】天使與魔鬼(玥小岑Yueh-tsen)｜善與惡就在一念之間，天使與魔鬼住在我心裡面#華語流行 #暗黑流行搖滾 #CinematicPop #真摯女聲 #歌德元素 #撕裂唱腔",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "j-4NxBgP1_k",
-      "title": "天使與魔鬼(玥小岑Yueh-tsen) #華語流行 #暗黑流行搖滾 #CinematicPop #真摯女聲 #歌德元素 #撕裂唱腔"
+      "title": "天使與魔鬼(玥小岑Yueh-tsen) #華語流行 #暗黑流行搖滾 #CinematicPop #真摯女聲 #歌德元素 #撕裂唱腔",
+      "genre": "搖滾 Rock",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "4j7ASuL3EaU",
