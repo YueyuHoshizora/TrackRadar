@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-13T03:01:01.372+08:00",
+  "lastUpdated": "2026-11-13T03:06:01.617+08:00",
   "latestVideo": {
     "videoId": "jiFzJMuGZSI",
     "title": "新地址｜地址換了，心卻還住在舊房間｜Yu Stellar｜星語",
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "LdB1GPUUpaU",
-      "title": "醒來的名字｜前世記憶系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "醒來的名字｜她在陌生房間醒來，聽見夢裡有人叫她｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.71
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "mEEww_jffB8",
-      "title": "最後一盞燈｜真正的告別，是離開後仍盼你天亮｜Yu Stellar｜星語",
+      "title": "最後一盞燈｜體面告別系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "CxJ2V-t-96I",
-      "title": "借來的黃昏｜我們隔了一生，仍把沉默坐成溫柔｜Yu Stellar｜星語",
+      "title": "借來的黃昏｜久別重逢系華語抒情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
@@ -124,7 +124,7 @@
     },
     {
       "videoId": "6gwANabEg6U",
-      "title": "前世來生｜找回共同記憶後，他們選擇重新認識彼此｜Yu Stellar｜星語",
+      "title": "前世來生｜前世今生系華語女聲宿命敘事情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
@@ -142,7 +142,7 @@
     },
     {
       "videoId": "X9VxzJORS3w",
-      "title": "成熟的喜歡，是靠近以後也不急著要答案《不急著定義》｜Yu Stellar｜星語",
+      "title": "共舞隔天，他只傳一句「昨晚謝謝」《不急著定義》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "TW2R0xUk5cU",
-      "title": "《與我共舞》分開三年後成熟重逢的華語抒情歌｜Yu Stellar｜星語",
+      "title": "分開三年後，她伸出手說：只陪我跳完今夜《與我共舞》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
