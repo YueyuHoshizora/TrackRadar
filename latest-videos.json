@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-12T17:26:18.379+08:00",
+  "updatedAt": "2026-11-12T17:31:21.080+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "-3C7ereuiVk",
-        "title": "沒有日期｜沒有日期的夢，也藏不住走過的年紀｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=-3C7ereuiVk",
-        "thumbnail": "https://i.ytimg.com/vi/-3C7ereuiVk/maxresdefault.jpg",
-        "durationSeconds": 273,
-        "publishedAt": "2026-11-12T05:30:16.000+08:00",
-        "fetchedAt": "2026-11-12T05:30:59.335+08:00",
+        "videoId": "jiFzJMuGZSI",
+        "title": "新地址｜地址換了，心卻還住在舊房間｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=jiFzJMuGZSI",
+        "thumbnail": "https://i.ytimg.com/vi/jiFzJMuGZSI/maxresdefault.jpg",
+        "durationSeconds": 140,
+        "publishedAt": "2026-11-12T17:30:29.000+08:00",
+        "fetchedAt": "2026-11-12T17:30:59.535+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.56
+        "genreConfidence": 0.82
       }
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "channelId": "UCvRzuPyI5vaNDaHlRXXVRLg",
-      "channelTitle": "Aria",
+      "channelTitle": "Aria艾莉亞",
       "latestVideo": {
         "videoId": "1GnVEVfsJRQ",
         "title": "各取所需，誰也別假裝委屈｜《平替關係》Aria艾莉亞 Official Lyric Video",
