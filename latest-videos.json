@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T22:46:04.155+08:00",
+  "updatedAt": "2026-11-13T22:51:06.156+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "BzOiVl_70vw",
-        "title": "妳緊抱著我，像怕我明天就消失《溫柔的雨》｜雨天療癒抒情・細膩女聲｜霧月 Xiaoloulou【Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=BzOiVl_70vw",
-        "thumbnail": "https://i.ytimg.com/vi/BzOiVl_70vw/maxresdefault.jpg?v=6af48275",
-        "durationSeconds": 239,
-        "publishedAt": "2026-11-12T12:00:07.000+08:00",
-        "fetchedAt": "2026-11-13T11:00:53.968+08:00",
+        "videoId": "XjVH23JCr3Y",
+        "title": "我今天不想再說沒關係了《別讓她看見我流淚》｜雙女主。GL。百合。音樂微電影・霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=XjVH23JCr3Y",
+        "thumbnail": "https://i.ytimg.com/vi/XjVH23JCr3Y/maxresdefault.jpg?v=6af17b4e",
+        "durationSeconds": 501,
+        "publishedAt": "2026-11-09T12:00:09.000+08:00",
+        "fetchedAt": "2026-11-13T22:50:59.751+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.66
       }
     },
     {
