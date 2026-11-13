@@ -1,7 +1,7 @@
 {
   "channelId": "UCVI2AFYQsZtDvKsX6i_VJpw",
   "channelTitle": "橙雨chengyu",
-  "lastUpdated": "2026-11-13T08:30:59.684+08:00",
+  "lastUpdated": "2026-11-13T08:35:58.276+08:00",
   "latestVideo": {
     "videoId": "3WhpSHF339k",
     "title": "《GEMINI》한국어 노래｜전체 가사｜橙雨 chengyu × 空音 Ѕкуℓιηє",
@@ -202,23 +202,33 @@
     },
     {
       "videoId": "48KOoEMwxs0",
-      "title": "橙雨Cheneyu 《雨聲小一點》 #原創歌曲 #虛擬歌手 #mv製作中"
+      "title": "橙雨Cheneyu 《雨聲小一點》 #原創歌曲 #虛擬歌手 #mv製作中",
+      "genre": "Vocaloid",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "8mYwxehwX9w",
-      "title": "橙雨chengyu  《雨聲小一點》｜Official Lyrics Visualizer＃雨天必聽＃原創歌曲"
+      "title": "橙雨chengyu  《雨聲小一點》｜Official Lyrics Visualizer＃雨天必聽＃原創歌曲",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "b5FkGVr_Mk0",
-      "title": "預告，下一首：你有像貓一樣的女友嗎？ #officialmv #原創歌曲 #這不是歌名…歌名在裡面ㅇ ㅗ ㅇ"
+      "title": "預告，下一首：你有像貓一樣的女友嗎？ #officialmv #原創歌曲 #這不是歌名…歌名在裡面ㅇ ㅗ ㅇ",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "hCtM_XDrxQw",
-      "title": "橙雨chengyu《別喊我的名字》恐怖懸疑風格 Official Lyric Video"
+      "title": "橙雨chengyu《別喊我的名字》恐怖懸疑風格 Official Lyric Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "Szy_oLkFp60",
-      "title": "橙雨chengyu《沿途有風》Official Lyric Video"
+      "title": "橙雨chengyu《沿途有風》Official Lyric Video",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.35
     }
   ]
 }
