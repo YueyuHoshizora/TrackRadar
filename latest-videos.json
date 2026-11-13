@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T10:06:06.202+08:00",
+  "updatedAt": "2026-11-13T10:11:00.770+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -20,13 +20,13 @@
       "channelId": "UCYyzOVPBHzhr_cFFJbGoymQ",
       "channelTitle": "安餒An_Nei",
       "latestVideo": {
-        "videoId": "NwGIzM_Le2g",
-        "title": "【嘻哈饒舌 – 問你】「承諾講到只剩下西巴辣，騙了又騙人民有錢了嗎？」火力全開、震撼全網的社會批判神曲。 🎧 安餒 An_Nei",
-        "url": "https://www.youtube.com/watch?v=NwGIzM_Le2g",
-        "thumbnail": "https://i.ytimg.com/vi/NwGIzM_Le2g/maxresdefault.jpg",
-        "durationSeconds": 200,
-        "publishedAt": "2026-11-06T11:00:38.000+08:00",
-        "fetchedAt": "2026-11-06T12:15:42.184+08:00",
+        "videoId": "jXqnFoaek3M",
+        "title": "【華語饒舌 – 謝主隆恩】「你畫的那張大餅，我現在一口都不吞！」打臉職場PUA的宣洩 。 🎧 安餒 An_Nei",
+        "url": "https://www.youtube.com/watch?v=jXqnFoaek3M",
+        "thumbnail": "https://i.ytimg.com/vi_webp/jXqnFoaek3M/maxresdefault.webp",
+        "durationSeconds": 232,
+        "publishedAt": "2026-11-13T10:00:33.000+08:00",
+        "fetchedAt": "2026-11-13T10:10:45.749+08:00",
         "genre": "嘻哈/饒舌 Hip-Hop/Rap",
         "genreConfidence": 1
       }
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "7n4BQiuVEKk",
-        "title": "奉命來殺我的人吻了我｜破陣子・影刃未雪｜百合・雙女主・GL・音樂微電影｜霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=7n4BQiuVEKk",
-        "thumbnail": "https://i.ytimg.com/vi_webp/7n4BQiuVEKk/maxresdefault.webp?v=6aecadc3",
-        "durationSeconds": 173,
-        "publishedAt": "2026-11-06T12:00:16.000+08:00",
-        "fetchedAt": "2026-11-13T10:05:56.497+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.98
+        "videoId": "BzOiVl_70vw",
+        "title": "妳緊抱著我，像怕我明天就消失《溫柔的雨》｜雨天療癒抒情・細膩女聲｜霧月 Xiaoloulou【Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=BzOiVl_70vw",
+        "thumbnail": "https://i.ytimg.com/vi/BzOiVl_70vw/maxresdefault.jpg?v=6af48275",
+        "durationSeconds": 239,
+        "publishedAt": "2026-11-12T12:00:07.000+08:00",
+        "fetchedAt": "2026-11-13T10:10:53.679+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 1
       }
     },
     {
