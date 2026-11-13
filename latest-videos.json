@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-14T07:06:00.752+08:00",
+  "updatedAt": "2026-11-14T07:11:06.224+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "V6PKbRL0hgg",
-        "title": "再睡五分鐘｜我一次次關掉鬧鐘，只為留你到天亮｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=V6PKbRL0hgg",
-        "thumbnail": "https://i.ytimg.com/vi/V6PKbRL0hgg/maxresdefault.jpg",
-        "durationSeconds": 200,
-        "publishedAt": "2026-11-13T05:30:06.000+08:00",
-        "fetchedAt": "2026-11-14T05:35:46.263+08:00",
+        "videoId": "dLH8jiZMEFA",
+        "title": "夢裡搬家｜我把夢搬成家，門牌卻寫著到此為止｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=dLH8jiZMEFA",
+        "thumbnail": "https://i.ytimg.com/vi/dLH8jiZMEFA/maxresdefault.jpg",
+        "durationSeconds": 229,
+        "publishedAt": "2026-11-14T05:30:27.000+08:00",
+        "fetchedAt": "2026-11-14T07:10:46.091+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.91
+        "genreConfidence": 0.54
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "XjVH23JCr3Y",
-        "title": "我今天不想再說沒關係了《別讓她看見我流淚》｜雙女主。GL。百合。音樂微電影・霧月 Xiaoloulou",
-        "url": "https://www.youtube.com/watch?v=XjVH23JCr3Y",
-        "thumbnail": "https://i.ytimg.com/vi/XjVH23JCr3Y/maxresdefault.jpg?v=6af17b4e",
-        "durationSeconds": 501,
-        "publishedAt": "2026-11-09T12:00:09.000+08:00",
-        "fetchedAt": "2026-11-14T01:06:00.557+08:00",
+        "videoId": "BzOiVl_70vw",
+        "title": "妳緊抱著我，像怕我明天就消失《溫柔的雨》｜雨天療癒抒情・細膩女聲｜霧月 Xiaoloulou【Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=BzOiVl_70vw",
+        "thumbnail": "https://i.ytimg.com/vi/BzOiVl_70vw/maxresdefault.jpg?v=6af48275",
+        "durationSeconds": 239,
+        "publishedAt": "2026-11-12T12:00:07.000+08:00",
+        "fetchedAt": "2026-11-14T07:10:57.826+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.67
+        "genreConfidence": 1
       }
     },
     {
