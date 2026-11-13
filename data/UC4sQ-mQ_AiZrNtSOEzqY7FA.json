@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-14T04:10:47.923+08:00",
+  "lastUpdated": "2026-11-14T04:15:47.888+08:00",
   "latestVideo": {
     "videoId": "egAdIrWQwI0",
     "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "egAdIrWQwI0",
-      "title": "陌生燈火｜都市孤獨系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "陌生燈火｜深夜便利商店裡，她學會獨自生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
@@ -34,19 +34,19 @@
     },
     {
       "videoId": "-3C7ereuiVk",
-      "title": "沒有日期｜鏡子裡的他，竟有她沒見過的白髮｜Yu Stellar｜星語",
+      "title": "沒有日期｜沒有日期的夢，也藏不住走過的年紀｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
     {
       "videoId": "LdB1GPUUpaU",
-      "title": "醒來的名字｜有些人忘了，心卻還記得他的名字｜Yu Stellar｜星語",
+      "title": "醒來的名字｜前世記憶系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.71
     },
     {
       "videoId": "KIEnCXnKOvo",
-      "title": "昨天的電車｜時間旅行系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "昨天的電車｜每一站上車的，都是不同年紀的她｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.59
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "_2PGzG80TEs",
-      "title": "各自的明天｜不是不愛了，只是我們走向不同方向｜Yu Stellar｜星語",
+      "title": "各自的明天｜成熟分手系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
+      "title": "未寄的信｜雨夜失戀系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -88,7 +88,7 @@
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜兩個門牌，如何變成我們的家｜Yu Stellar｜星語",
+      "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "TW2R0xUk5cU",
-      "title": "如果再見前任，你敢主動邀他跳一支舞嗎？《與我共舞》｜Yu Stellar｜星語",
+      "title": "《與我共舞》分開三年後成熟重逢的華語抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
