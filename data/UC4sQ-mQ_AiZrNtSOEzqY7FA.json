@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-14T00:35:48.216+08:00",
+  "lastUpdated": "2026-11-14T00:40:48.817+08:00",
   "latestVideo": {
     "videoId": "egAdIrWQwI0",
     "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "egAdIrWQwI0",
-      "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
+      "title": "陌生燈火｜都市孤獨系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "KIEnCXnKOvo",
-      "title": "昨天的電車｜電車開向昨天，我卻坐著今天的自己｜Yu Stellar｜星語",
+      "title": "昨天的電車｜時間旅行系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.59
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "cOOoMebe-8M",
-      "title": "口袋裡的票｜遺憾系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "口袋裡的票｜沒有目的地的票，為何印著七年前？｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.77
     },
@@ -70,13 +70,13 @@
     },
     {
       "videoId": "74qi8zBk__E",
-      "title": "藍窗麵包店｜日常系懷舊華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "藍窗麵包店｜最後一口奶油捲，喚醒兩人的曾經｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.68
     },
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
+      "title": "未寄的信｜雨夜失戀系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -88,7 +88,7 @@
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜同居生活系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "門牌之間｜兩個門牌，如何變成我們的家｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -112,13 +112,13 @@
     },
     {
       "videoId": "ayz-ELM_gBk",
-      "title": "雨停以前｜初夏雨夜告白系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "雨停以前｜共撐一把傘的傍晚，我們終於說出承諾｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
     {
       "videoId": "c284npUDLuE",
-      "title": "霧裡鐘聲｜路都被霧藏起來，鐘聲卻記得我｜Yu Stellar｜星語",
+      "title": "霧裡鐘聲｜氛圍系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
