@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T08:20:59.593+08:00",
+  "updatedAt": "2026-11-13T08:25:00.702+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -508,6 +508,21 @@
         "fetchedAt": "2026-11-12T23:11:18.653+08:00",
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 1
+      }
+    },
+    {
+      "channelId": "UCVI2AFYQsZtDvKsX6i_VJpw",
+      "channelTitle": "橙雨chengyu",
+      "latestVideo": {
+        "videoId": "3WhpSHF339k",
+        "title": "《GEMINI》한국어 노래｜전체 가사｜橙雨 chengyu × 空音 Ѕкуℓιηє",
+        "url": "https://www.youtube.com/watch?v=3WhpSHF339k",
+        "thumbnail": "https://i.ytimg.com/vi/3WhpSHF339k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUShZMA8=&rs=AOn4CLCldCzXeyMUSExIsEmfohXFtMaz5Q",
+        "durationSeconds": 223,
+        "publishedAt": "2026-11-10T22:44:09.000+08:00",
+        "fetchedAt": "2026-11-13T08:24:54.087+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.58
       }
     }
   ]
