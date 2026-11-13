@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-13T19:36:04.545+08:00",
+  "updatedAt": "2026-11-13T19:41:07.444+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "V6PKbRL0hgg",
-        "title": "再睡五分鐘｜我一次次關掉鬧鐘，只為留你到天亮｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=V6PKbRL0hgg",
-        "thumbnail": "https://i.ytimg.com/vi/V6PKbRL0hgg/maxresdefault.jpg",
-        "durationSeconds": 200,
-        "publishedAt": "2026-11-13T05:30:06.000+08:00",
-        "fetchedAt": "2026-11-13T05:30:59.426+08:00",
+        "videoId": "egAdIrWQwI0",
+        "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=egAdIrWQwI0",
+        "thumbnail": "https://i.ytimg.com/vi/egAdIrWQwI0/maxresdefault.jpg",
+        "durationSeconds": 152,
+        "publishedAt": "2026-11-13T17:30:35.000+08:00",
+        "fetchedAt": "2026-11-13T19:40:46.052+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.91
+        "genreConfidence": 0.83
       }
     },
     {
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "y_9YW9aLW0k",
-        "title": "台語大帝國｜李多娜《你咧急啥》｜過年被阿姑阿公催婚，我的人生我自己安排｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=y_9YW9aLW0k",
-        "thumbnail": "https://i.ytimg.com/vi/y_9YW9aLW0k/maxresdefault.jpg",
-        "durationSeconds": 187,
-        "publishedAt": "2026-11-12T16:45:00.000+08:00",
-        "fetchedAt": "2026-11-12T16:46:03.637+08:00",
-        "genre": "流行 Pop",
-        "genreConfidence": 0.6
+        "videoId": "Abz8oQFcyVg",
+        "title": "台語大帝國｜Aurora 葵《應我一聲》｜台語 R&B 抒情歌｜明知你不會回來，我還是習慣叫你的名字｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=Abz8oQFcyVg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/Abz8oQFcyVg/maxresdefault.webp",
+        "durationSeconds": 198,
+        "publishedAt": "2026-11-13T16:45:39.000+08:00",
+        "fetchedAt": "2026-11-13T19:40:50.079+08:00",
+        "genre": "R&B/Soul",
+        "genreConfidence": 0.93
       }
     },
     {
@@ -334,15 +334,15 @@
       "channelId": "UCrEwP2D4GSuahg3la3Lbprw",
       "channelTitle": "弦斷誰聽",
       "latestVideo": {
-        "videoId": "PlgEkt0bQ0s",
-        "title": "《一紙休書護餘生》你替我想好了餘生，卻沒問我願不願意｜弦斷誰聽・古風虐心情歌",
-        "url": "https://www.youtube.com/watch?v=PlgEkt0bQ0s",
-        "thumbnail": "https://i.ytimg.com/vi_webp/PlgEkt0bQ0s/maxresdefault.webp",
-        "durationSeconds": 239,
-        "publishedAt": "2026-11-06T18:30:18.000+08:00",
-        "fetchedAt": "2026-11-07T02:10:53.774+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "zCAhhYkcHRw",
+        "title": "《原來那年你也喜歡我》錯過整整一個青春！如果當時誰勇敢一點，我們會不會有不同的明天 ｜弦斷誰聽  | 沒說出口的喜歡",
+        "url": "https://www.youtube.com/watch?v=zCAhhYkcHRw",
+        "thumbnail": "https://i.ytimg.com/vi/zCAhhYkcHRw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1bN66vO6D2ks-BR8-4ZKuBItuMw",
+        "durationSeconds": 224,
+        "publishedAt": "2026-11-13T18:30:28.000+08:00",
+        "fetchedAt": "2026-11-13T19:40:56.086+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.94
       }
     },
     {
@@ -422,7 +422,7 @@
     },
     {
       "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
-      "channelTitle": "RE:IGN(十二弦月 | 舞月)",
+      "channelTitle": "RE:IGN",
       "latestVideo": {
         "videoId": "SQdiIjYbfnk",
         "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
@@ -484,15 +484,15 @@
       "channelId": "UCMnJRS4rX8Hc5c5zZETWOfw",
       "channelTitle": "達絲琪 Dasuki",
       "latestVideo": {
-        "videoId": "YHJuPhDTLME",
-        "title": "《奇怪少女日記》我怪得很合理，你不懂也沒關係😝💗 達絲琪｜原創音樂【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=YHJuPhDTLME",
-        "thumbnail": "https://i.ytimg.com/vi_webp/YHJuPhDTLME/maxresdefault.webp",
-        "durationSeconds": 196,
-        "publishedAt": "2026-11-10T20:00:05.000+08:00",
-        "fetchedAt": "2026-11-13T11:00:56.350+08:00",
-        "genre": "流行 Pop",
-        "genreConfidence": 0.37
+        "videoId": "rCrt7aKsnys",
+        "title": "《愛情戒斷症》戒掉你的晚安，卻戒不掉想你的習慣…🥀 達絲琪｜原創音樂【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=rCrt7aKsnys",
+        "thumbnail": "https://i.ytimg.com/vi/rCrt7aKsnys/maxresdefault.jpg",
+        "durationSeconds": 248,
+        "publishedAt": "2026-11-13T19:00:18.000+08:00",
+        "fetchedAt": "2026-11-13T19:41:01.915+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.89
       }
     },
     {
