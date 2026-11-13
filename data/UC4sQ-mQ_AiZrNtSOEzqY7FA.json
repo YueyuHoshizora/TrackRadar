@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-13T08:40:46.642+08:00",
+  "lastUpdated": "2026-11-13T08:45:46.618+08:00",
   "latestVideo": {
     "videoId": "V6PKbRL0hgg",
     "title": "再睡五分鐘｜我一次次關掉鬧鐘，只為留你到天亮｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "V6PKbRL0hgg",
-      "title": "再睡五分鐘｜為接回夢中對話，她錯過重要晨會｜Yu Stellar｜星語",
+      "title": "再睡五分鐘｜失眠系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "mEEww_jffB8",
-      "title": "最後一盞燈｜體面告別系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "最後一盞燈｜真正的告別，是離開後仍盼你天亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -100,13 +100,13 @@
     },
     {
       "videoId": "HKvjJiZQoYM",
-      "title": "不存在的街｜記憶系華語敘事情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "不存在的街｜這條街為何放滿她用過的東西？｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.54
     },
     {
       "videoId": "ayz-ELM_gBk",
-      "title": "雨停以前｜初夏雨夜告白系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "雨停以前｜如果你也捨不得，就陪我把腳步放慢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -118,7 +118,7 @@
     },
     {
       "videoId": "DjPid_4O2wI",
-      "title": "紙鳶未收線｜紙鳶纏上欄杆後，我們在春風裡相遇｜Yu Stellar｜星語",
+      "title": "紙鳶未收線｜原來心動，是兩個人都故意放慢腳步｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.61
     },
@@ -154,13 +154,13 @@
     },
     {
       "videoId": "yzrnbs5efHw",
-      "title": "把故事說完整｜閉館後的長椅上，他們承認做過同一場夢｜Yu Stellar｜星語",
+      "title": "把故事說完整｜說出共同的前世，不代表要重寫結局｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.75
     },
     {
       "videoId": "_rBkst6tRIw",
-      "title": "《一曲之後》前任重逢、和解與釋然的華語抒情歌｜Yu Stellar｜星語",
+      "title": "長大後的重逢，是能平靜說完彼此錯過的三年《一曲之後》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.55
     },
