@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-11-10T10:30:36.662+08:00",
+  "lastUpdated": "2026-11-13T11:30:49.511+08:00",
   "latestVideo": {
     "videoId": "5IqwAfIvDeI",
     "title": "《後來才明白》｜走過半生才懂，有些事只能自己承受，有些路只能自己走完。｜EIRYN",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.92
   },
   "allVideoIds": [
+    {
+      "videoId": "hdzRzpBYiRI",
+      "title": "《戒不掉的習慣》｜明明已經分開了，為什麼心裡還是住著你？｜深情女聲療癒情歌｜EIRYN",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
+    },
     {
       "videoId": "5IqwAfIvDeI",
       "title": "《後來才明白》｜走過半生才懂，有些事只能自己承受，有些路只能自己走完。｜EIRYN",
