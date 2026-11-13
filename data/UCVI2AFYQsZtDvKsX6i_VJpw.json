@@ -1,7 +1,7 @@
 {
   "channelId": "UCVI2AFYQsZtDvKsX6i_VJpw",
   "channelTitle": "橙雨chengyu",
-  "lastUpdated": "2026-11-13T08:26:00.112+08:00",
+  "lastUpdated": "2026-11-13T08:30:59.684+08:00",
   "latestVideo": {
     "videoId": "3WhpSHF339k",
     "title": "《GEMINI》한국어 노래｜전체 가사｜橙雨 chengyu × 空音 Ѕкуℓιηє",
@@ -142,43 +142,63 @@
     },
     {
       "videoId": "QFUF2KwO4GI",
-      "title": "要收假了，大家回程路上要注意安全哦！"
+      "title": "要收假了，大家回程路上要注意安全哦！",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.99
     },
     {
       "videoId": "nAib14jvNm0",
-      "title": "祝中秋愉快！ #原創歌曲 #officialmv"
+      "title": "祝中秋愉快！ #原創歌曲 #officialmv",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "-RK0LPIz7qQ",
-      "title": "橙雨 Chengyu 《月亮圓了誰在遠方》 Official Music Video"
+      "title": "橙雨 Chengyu 《月亮圓了誰在遠方》 Official Music Video",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "6et08H-_t-0",
-      "title": "橙雨 Chengyu 《照常》feat. 晨暮武韜  Official Lyric Video 歌詞版"
+      "title": "橙雨 Chengyu 《照常》feat. 晨暮武韜  Official Lyric Video 歌詞版",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.32
     },
     {
       "videoId": "KoexsETe_YU",
-      "title": "《願我們都能如願》剪輯版，這首歌獻給各個領域獨自努力的人，加油！"
+      "title": "《願我們都能如願》剪輯版，這首歌獻給各個領域獨自努力的人，加油！",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "LwMnrzMpeyc",
-      "title": "橙雨Chengyu《願我們都能如願》Official Lyric Video"
+      "title": "橙雨Chengyu《願我們都能如願》Official Lyric Video",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "hILldmG_joo",
-      "title": "開工大吉！雙魚對金牛！"
+      "title": "開工大吉！雙魚對金牛！",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.91
     },
     {
       "videoId": "-lgwY9y9zKY",
-      "title": "希望社會上不要再有遺憾的事發生"
+      "title": "希望社會上不要再有遺憾的事發生",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "x4NwweX-lcI",
-      "title": "說好不會有第二版，但朋友說上一隻太恐怖😂｜GENBLUE《夜市王》胖貓版#夜市王Challenge #GENBLUE #幻藍小熊 #AI貓咪 #DanceCover"
+      "title": "說好不會有第二版，但朋友說上一隻太恐怖😂｜GENBLUE《夜市王》胖貓版#夜市王Challenge #GENBLUE #幻藍小熊 #AI貓咪 #DanceCover",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "lqrMJ7S0zWw",
-      "title": "幻藍小熊 GENBLUE《夜市王》Dance Cover｜橙雨貓第一版（並不會有第二版😂）#夜市王Challenge #GENBLUE #幻藍小熊 #AI貓咪"
+      "title": "幻藍小熊 GENBLUE《夜市王》Dance Cover｜橙雨貓第一版（並不會有第二版😂）#夜市王Challenge #GENBLUE #幻藍小熊 #AI貓咪",
+      "genre": "翻唱 Cover",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "48KOoEMwxs0",
