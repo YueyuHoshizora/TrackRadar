@@ -1,7 +1,7 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-11-13T19:40:51.592+08:00",
+  "lastUpdated": "2026-11-14T12:30:49.626+08:00",
   "latestVideo": {
     "videoId": "Abz8oQFcyVg",
     "title": "台語大帝國｜Aurora 葵《應我一聲》｜台語 R&B 抒情歌｜明知你不會回來，我還是習慣叫你的名字｜筠芙得利【Official MV】",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.93
   },
   "allVideoIds": [
+    {
+      "videoId": "bN4Gip6Ebpg",
+      "title": "台語大帝國｜Asher 凜《最後一班車》｜開了30多年公車，最後一班終於換妻子陪他｜筠芙得利【Official MV】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.62
+    },
     {
       "videoId": "Abz8oQFcyVg",
       "title": "台語大帝國｜Aurora 葵《應我一聲》｜台語 R&B 抒情歌｜明知你不會回來，我還是習慣叫你的名字｜筠芙得利【Official MV】",
