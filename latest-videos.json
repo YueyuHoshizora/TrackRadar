@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-14T20:46:04.962+08:00",
+  "updatedAt": "2026-11-14T20:51:03.607+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "egAdIrWQwI0",
-        "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=egAdIrWQwI0",
-        "thumbnail": "https://i.ytimg.com/vi/egAdIrWQwI0/maxresdefault.jpg",
-        "durationSeconds": 152,
-        "publishedAt": "2026-11-13T17:30:35.000+08:00",
-        "fetchedAt": "2026-11-14T18:50:46.070+08:00",
+        "videoId": "V6PKbRL0hgg",
+        "title": "再睡五分鐘｜我一次次關掉鬧鐘，只為留你到天亮｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=V6PKbRL0hgg",
+        "thumbnail": "https://i.ytimg.com/vi/V6PKbRL0hgg/maxresdefault.jpg",
+        "durationSeconds": 200,
+        "publishedAt": "2026-11-13T05:30:06.000+08:00",
+        "fetchedAt": "2026-11-14T20:50:46.301+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.83
+        "genreConfidence": 0.88
       }
     },
     {
