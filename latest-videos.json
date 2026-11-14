@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-15T06:25:59.887+08:00",
+  "updatedAt": "2026-11-15T06:31:00.597+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "jiFzJMuGZSI",
-        "title": "新地址｜地址換了，心卻還住在舊房間｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=jiFzJMuGZSI",
-        "thumbnail": "https://i.ytimg.com/vi/jiFzJMuGZSI/maxresdefault.jpg",
-        "durationSeconds": 140,
-        "publishedAt": "2026-11-12T17:30:29.000+08:00",
-        "fetchedAt": "2026-11-15T02:25:47.206+08:00",
+        "videoId": "gmcEUdNEKEA",
+        "title": "白天漏雨｜夢沒有追到白天，是我把白天留在夢裡｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=gmcEUdNEKEA",
+        "thumbnail": "https://i.ytimg.com/vi/gmcEUdNEKEA/maxresdefault.jpg",
+        "durationSeconds": 258,
+        "publishedAt": "2026-11-15T05:30:01.000+08:00",
+        "fetchedAt": "2026-11-15T06:30:46.101+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.84
+        "genreConfidence": 0.57
       }
     },
     {
