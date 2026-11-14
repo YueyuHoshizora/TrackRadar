@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-14T18:46:02.324+08:00",
+  "updatedAt": "2026-11-14T18:51:02.658+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "dLH8jiZMEFA",
-        "title": "夢裡搬家｜我把夢搬成家，門牌卻寫著到此為止｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=dLH8jiZMEFA",
-        "thumbnail": "https://i.ytimg.com/vi/dLH8jiZMEFA/maxresdefault.jpg",
-        "durationSeconds": 229,
-        "publishedAt": "2026-11-14T05:30:27.000+08:00",
-        "fetchedAt": "2026-11-14T07:10:46.091+08:00",
+        "videoId": "egAdIrWQwI0",
+        "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=egAdIrWQwI0",
+        "thumbnail": "https://i.ytimg.com/vi/egAdIrWQwI0/maxresdefault.jpg",
+        "durationSeconds": 152,
+        "publishedAt": "2026-11-13T17:30:35.000+08:00",
+        "fetchedAt": "2026-11-14T18:50:46.070+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.54
+        "genreConfidence": 0.83
       }
     },
     {
