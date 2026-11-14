@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-15T00:35:48.819+08:00",
+  "lastUpdated": "2026-11-15T00:40:48.814+08:00",
   "latestVideo": {
     "videoId": "-3C7ereuiVk",
     "title": "沒有日期｜沒有日期的夢，也藏不住走過的年紀｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "1yxe-4kDBpg",
-      "title": "草稿裡的春天｜她寫完問候，又把思念留在草稿｜Yu Stellar｜星語",
+      "title": "草稿裡的春天｜克制想念系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜我把夢搬成家，門牌卻寫著到此為止｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜夢境系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "jiFzJMuGZSI",
-      "title": "新地址｜她搬進新家，卻把自己遺落在過去｜Yu Stellar｜星語",
+      "title": "新地址｜城市漂泊系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "_2PGzG80TEs",
-      "title": "各自的明天｜成熟分手系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "各自的明天｜不是不愛了，只是我們走向不同方向｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -106,13 +106,13 @@
     },
     {
       "videoId": "lK47and2XiI",
-      "title": "你先認出我｜記憶還沒想起你，心卻先承認沒忘記｜Yu Stellar｜星語",
+      "title": "你先認出我｜陌生人叫出舊稱呼，她的心先認出他｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "h6wyXbFZDZM",
-      "title": "兩杯熱茶｜最讓人想念的愛，是有人等你下班｜Yu Stellar｜星語",
+      "title": "兩杯熱茶｜同居日常系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "DjPid_4O2wI",
-      "title": "紙鳶未收線｜紙鳶纏上欄杆後，我們在春風裡相遇｜Yu Stellar｜星語",
+      "title": "紙鳶未收線｜前世初遇系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.61
     },
@@ -172,7 +172,7 @@
     },
     {
       "videoId": "yzrnbs5efHw",
-      "title": "把故事說完整｜前世今生坦白系華語女聲敘事情歌｜Yu Stellar｜星語",
+      "title": "把故事說完整｜說出共同的前世，不代表要重寫結局｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.75
     },
