@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-14T22:11:03.976+08:00",
+  "updatedAt": "2026-11-14T22:16:03.880+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "V6PKbRL0hgg",
-        "title": "再睡五分鐘｜我一次次關掉鬧鐘，只為留你到天亮｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=V6PKbRL0hgg",
-        "thumbnail": "https://i.ytimg.com/vi/V6PKbRL0hgg/maxresdefault.jpg",
-        "durationSeconds": 200,
-        "publishedAt": "2026-11-13T05:30:06.000+08:00",
-        "fetchedAt": "2026-11-14T20:50:46.301+08:00",
+        "videoId": "egAdIrWQwI0",
+        "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=egAdIrWQwI0",
+        "thumbnail": "https://i.ytimg.com/vi/egAdIrWQwI0/maxresdefault.jpg",
+        "durationSeconds": 152,
+        "publishedAt": "2026-11-13T17:30:35.000+08:00",
+        "fetchedAt": "2026-11-14T22:15:46.320+08:00",
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 0.88
       }
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "z3O7qlX9Z24",
-        "title": "台語大帝國｜孫悟空《七十二變，這粒心袂變》｜台語搖滾｜從大鬧天宮到守護師父｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=z3O7qlX9Z24",
-        "thumbnail": "https://i.ytimg.com/vi/z3O7qlX9Z24/maxresdefault.jpg",
-        "durationSeconds": 217,
-        "publishedAt": "2026-11-06T15:15:38.000+08:00",
-        "fetchedAt": "2026-11-14T21:35:49.824+08:00",
-        "genre": "搖滾 Rock",
-        "genreConfidence": 1
+        "videoId": "Ilsgy_DjIw0",
+        "title": "台語大帝國｜《慢慢行嘛會到》｜台語演歌融合 City Pop 的溫暖親情歌｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=Ilsgy_DjIw0",
+        "thumbnail": "https://i.ytimg.com/vi/Ilsgy_DjIw0/maxresdefault.jpg",
+        "durationSeconds": 200,
+        "publishedAt": "2026-11-10T16:45:21.000+08:00",
+        "fetchedAt": "2026-11-14T22:15:50.178+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.55
       }
     },
     {
