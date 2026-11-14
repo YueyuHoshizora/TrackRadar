@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T03:21:04.024+08:00",
+  "updatedAt": "2026-11-15T03:26:08.198+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -454,30 +454,30 @@
       "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
       "channelTitle": "沐霧月",
       "latestVideo": {
-        "videoId": "3-rbqUxskJM",
-        "title": "連擁抱，都像在對著屍體敘舊《借來的皮膚》｜這場完美的窒息，我不想再承受｜假性親密・窒息式關係｜沐霧月【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=3-rbqUxskJM",
-        "thumbnail": "https://i.ytimg.com/vi/3-rbqUxskJM/maxresdefault.jpg",
-        "durationSeconds": 225,
-        "publishedAt": "2026-08-11T12:00:06.000+08:00",
-        "fetchedAt": "2026-11-15T01:31:01.070+08:00",
+        "videoId": "-XNQYYydYPE",
+        "title": "沒有人救我，我就救自己《我就是彼岸》｜我不等天亮了——我自己，就是火焰｜自我救贖・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=-XNQYYydYPE",
+        "thumbnail": "https://i.ytimg.com/vi_webp/-XNQYYydYPE/maxresdefault.webp",
+        "durationSeconds": 215,
+        "publishedAt": "2026-09-23T12:00:23.000+08:00",
+        "fetchedAt": "2026-11-15T03:25:59.348+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.77
+        "genreConfidence": 0.99
       }
     },
     {
       "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
       "channelTitle": "Moyamina",
       "latestVideo": {
-        "videoId": "AQ3VrdgYhyg",
-        "title": "你吻得像真的會留下，下一秒卻看了時間《Stolen Hours》｜Dark Tango 暗黑探戈",
-        "url": "https://www.youtube.com/watch?v=AQ3VrdgYhyg",
-        "thumbnail": "https://i.ytimg.com/vi/AQ3VrdgYhyg/maxresdefault.jpg",
-        "durationSeconds": 317,
-        "publishedAt": "2026-08-22T10:00:35.000+08:00",
-        "fetchedAt": "2026-11-15T01:41:00.715+08:00",
+        "videoId": "khI_dRoSZ-A",
+        "title": "鐘停在六點，我還想再跳一支《Forever at Six》｜暗黑探戈",
+        "url": "https://www.youtube.com/watch?v=khI_dRoSZ-A",
+        "thumbnail": "https://i.ytimg.com/vi/khI_dRoSZ-A/maxresdefault.jpg",
+        "durationSeconds": 242,
+        "publishedAt": "2026-11-14T18:30:15.000+08:00",
+        "fetchedAt": "2026-11-15T03:25:59.667+08:00",
         "genre": "拉丁 Latin",
-        "genreConfidence": 0.35
+        "genreConfidence": 0.29
       }
     },
     {
@@ -499,15 +499,15 @@
       "channelId": "UCO8HFoUmglawehAj2u8j7AA",
       "channelTitle": "玥小岑Yueh-tsen",
       "latestVideo": {
-        "videoId": "nxGlbh2N8eM",
-        "title": "兩句話的遺憾(玥小岑Yueh-tsen)#華語抒情 #失戀抒情 #心碎情歌 #真摯女聲 #必聽抒情 #超好聽",
-        "url": "https://www.youtube.com/watch?v=nxGlbh2N8eM",
-        "thumbnail": "https://i.ytimg.com/vi/nxGlbh2N8eM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgUShRMA8=&rs=AOn4CLDWYKaNw9Kjo2ysL-QO11dZBLYDbQ&usqp=CBQ",
-        "durationSeconds": 80,
-        "publishedAt": "2026-11-12T20:37:56.000+08:00",
-        "fetchedAt": "2026-11-15T01:56:03.581+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "videoId": "TIGMkHWUEWM",
+        "title": "【完整版】努力總會被看見#勵志流行歌曲 #Rap #堅定女聲 #陽光男聲 #微弱的光也能穿透黑暗",
+        "url": "https://www.youtube.com/watch?v=TIGMkHWUEWM",
+        "thumbnail": "https://i.ytimg.com/vi/TIGMkHWUEWM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHCBYACgAqKAgwIABABGD8gYihyMA8=&rs=AOn4CLCY-kIbOMdPxdL-SE1RhnCJdM6csw",
+        "durationSeconds": 139,
+        "publishedAt": "2026-11-08T19:19:29.000+08:00",
+        "fetchedAt": "2026-11-15T03:26:00.869+08:00",
+        "genre": "流行 Pop",
+        "genreConfidence": 0.48
       }
     },
     {
