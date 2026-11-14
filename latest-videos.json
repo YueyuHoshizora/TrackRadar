@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-15T02:21:07.020+08:00",
+  "updatedAt": "2026-11-15T02:26:06.702+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "mEEww_jffB8",
-        "title": "最後一盞燈｜真正的告別，是離開後仍盼你天亮｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=mEEww_jffB8",
-        "thumbnail": "https://i.ytimg.com/vi/mEEww_jffB8/maxresdefault.jpg",
-        "durationSeconds": 202,
-        "publishedAt": "2026-11-10T17:30:24.000+08:00",
-        "fetchedAt": "2026-11-15T01:40:46.608+08:00",
+        "videoId": "jiFzJMuGZSI",
+        "title": "新地址｜地址換了，心卻還住在舊房間｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=jiFzJMuGZSI",
+        "thumbnail": "https://i.ytimg.com/vi/jiFzJMuGZSI/maxresdefault.jpg",
+        "durationSeconds": 140,
+        "publishedAt": "2026-11-12T17:30:29.000+08:00",
+        "fetchedAt": "2026-11-15T02:25:47.206+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.89
+        "genreConfidence": 0.84
       }
     },
     {
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "YFAfEEB4GT0",
-        "title": "妳還願意回頭等我嗎《逆流》｜深夜療癒華語原創抒情曲・雙女主百合故事曲｜霧月 Xiaoloulou【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=YFAfEEB4GT0",
-        "thumbnail": "https://i.ytimg.com/vi_webp/YFAfEEB4GT0/maxresdefault.webp?v=6af1812e",
-        "durationSeconds": 218,
-        "publishedAt": "2026-11-08T12:00:07.000+08:00",
-        "fetchedAt": "2026-11-14T17:45:58.381+08:00",
+        "videoId": "XjVH23JCr3Y",
+        "title": "我今天不想再說沒關係了《別讓她看見我流淚》｜雙女主。GL。百合。音樂微電影・霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=XjVH23JCr3Y",
+        "thumbnail": "https://i.ytimg.com/vi/XjVH23JCr3Y/maxresdefault.jpg?v=6af17b4e",
+        "durationSeconds": 501,
+        "publishedAt": "2026-11-09T12:00:09.000+08:00",
+        "fetchedAt": "2026-11-15T02:25:58.905+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.64
       }
     },
     {
