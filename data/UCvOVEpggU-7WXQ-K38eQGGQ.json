@@ -1,7 +1,7 @@
 {
   "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
   "channelTitle": "Moyamina",
-  "lastUpdated": "2026-11-07T02:15:53.471+08:00",
+  "lastUpdated": "2026-11-14T18:31:02.832+08:00",
   "latestVideo": {
     "videoId": "iBvRzYbOblE",
     "title": "他還記得舞步，卻忘了我的名字《When You Forget My Name》｜探戈",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.91
   },
   "allVideoIds": [
+    {
+      "videoId": "khI_dRoSZ-A",
+      "title": "鐘停在六點，我還想再跳一支《Forever at Six》｜暗黑探戈",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.25
+    },
     {
       "videoId": "iBvRzYbOblE",
       "title": "他還記得舞步，卻忘了我的名字《When You Forget My Name》｜探戈",
