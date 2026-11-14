@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T18:56:03.460+08:00",
+  "updatedAt": "2026-11-14T19:01:04.696+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -469,15 +469,15 @@
       "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
       "channelTitle": "Moyamina",
       "latestVideo": {
-        "videoId": "iBvRzYbOblE",
-        "title": "他還記得舞步，卻忘了我的名字《When You Forget My Name》｜探戈",
-        "url": "https://www.youtube.com/watch?v=iBvRzYbOblE",
-        "thumbnail": "https://i.ytimg.com/vi/iBvRzYbOblE/maxresdefault.jpg",
-        "durationSeconds": 306,
-        "publishedAt": "2026-11-06T20:30:29.000+08:00",
-        "fetchedAt": "2026-11-07T02:15:52.951+08:00",
+        "videoId": "JSfMzWA0v0g",
+        "title": "理智叫我離開，身體卻沒有 《The Body Speaks》｜暗黑探戈",
+        "url": "https://www.youtube.com/watch?v=JSfMzWA0v0g",
+        "thumbnail": "https://i.ytimg.com/vi/JSfMzWA0v0g/maxresdefault.jpg",
+        "durationSeconds": 182,
+        "publishedAt": "2026-09-27T19:00:31.000+08:00",
+        "fetchedAt": "2026-11-14T19:01:01.161+08:00",
         "genre": "拉丁 Latin",
-        "genreConfidence": 0.91
+        "genreConfidence": 0.25
       }
     },
     {
