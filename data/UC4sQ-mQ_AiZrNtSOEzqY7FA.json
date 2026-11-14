@@ -1,34 +1,34 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-15T01:35:49.634+08:00",
+  "lastUpdated": "2026-11-15T01:40:48.569+08:00",
   "latestVideo": {
-    "videoId": "-3C7ereuiVk",
-    "title": "沒有日期｜沒有日期的夢，也藏不住走過的年紀｜Yu Stellar｜星語",
-    "url": "https://www.youtube.com/watch?v=-3C7ereuiVk",
-    "thumbnail": "https://i.ytimg.com/vi/-3C7ereuiVk/maxresdefault.jpg",
-    "durationSeconds": 273,
-    "publishedAt": "2026-11-12T05:30:16.000+08:00",
-    "fetchedAt": "2026-11-15T00:35:46.577+08:00",
+    "videoId": "mEEww_jffB8",
+    "title": "最後一盞燈｜真正的告別，是離開後仍盼你天亮｜Yu Stellar｜星語",
+    "url": "https://www.youtube.com/watch?v=mEEww_jffB8",
+    "thumbnail": "https://i.ytimg.com/vi/mEEww_jffB8/maxresdefault.jpg",
+    "durationSeconds": 202,
+    "publishedAt": "2026-11-10T17:30:24.000+08:00",
+    "fetchedAt": "2026-11-15T01:40:46.608+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.6
+    "genreConfidence": 0.89
   },
   "allVideoIds": [
     {
       "videoId": "1yxe-4kDBpg",
-      "title": "草稿裡的春天｜克制想念系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "草稿裡的春天｜她寫完問候，又把思念留在草稿｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜夢境系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜我把夢搬成家，門牌卻寫著到此為止｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
     {
       "videoId": "egAdIrWQwI0",
-      "title": "陌生燈火｜都市孤獨系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "陌生燈火｜深夜便利商店裡，她學會獨自生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "-3C7ereuiVk",
-      "title": "沒有日期｜鏡子裡的他，竟有她沒見過的白髮｜Yu Stellar｜星語",
+      "title": "沒有日期｜沒有日期的夢，也藏不住走過的年紀｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "KIEnCXnKOvo",
-      "title": "昨天的電車｜時間旅行系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "昨天的電車｜每一站上車的，都是不同年紀的她｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.59
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "_2PGzG80TEs",
-      "title": "各自的明天｜不是不愛了，只是我們走向不同方向｜Yu Stellar｜星語",
+      "title": "各自的明天｜成熟分手系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -100,7 +100,7 @@
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜兩個門牌，如何變成我們的家｜Yu Stellar｜星語",
+      "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -130,25 +130,25 @@
     },
     {
       "videoId": "c284npUDLuE",
-      "title": "霧裡鐘聲｜沒有指針的鐘，響起後竟出現熟悉背影｜Yu Stellar｜星語",
+      "title": "霧裡鐘聲｜氛圍系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
     {
       "videoId": "DjPid_4O2wI",
-      "title": "紙鳶未收線｜前世初遇系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "紙鳶未收線｜紙鳶纏上欄杆後，我們在春風裡相遇｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.61
     },
     {
       "videoId": "qfh-r8MoOiA",
-      "title": "枕邊地圖｜一張舊收據，為何畫著夢裡的路？｜Yu Stellar｜星語",
+      "title": "枕邊地圖｜夢境系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.69
     },
     {
       "videoId": "6gwANabEg6U",
-      "title": "前世來生｜前世錯過的人，來生一定要再愛一次嗎｜Yu Stellar｜星語",
+      "title": "前世來生｜找回共同記憶後，他們選擇重新認識彼此｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "_rBkst6tRIw",
-      "title": "長大後的重逢，是能平靜說完彼此錯過的三年《一曲之後》｜Yu Stellar｜星語",
+      "title": "一支舞結束後，他們終於承認彼此都變了《一曲之後》｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.55
     },
