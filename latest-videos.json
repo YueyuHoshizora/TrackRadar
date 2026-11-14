@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T11:10:57.896+08:00",
+  "updatedAt": "2026-11-14T11:15:59.786+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -35,13 +35,13 @@
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
       "channelTitle": "COYA可夜",
       "latestVideo": {
-        "videoId": "h1YbCOLLHL8",
-        "title": "千重巨碓懸如嶽，一落山河盡失言。💢｜《泰山王》｜可夜｜新國風・民俗｜【Official MV】熱惱地獄・七殿審判｜神鬼誌EP2：十殿之七情索債",
-        "url": "https://www.youtube.com/watch?v=h1YbCOLLHL8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/h1YbCOLLHL8/maxresdefault.webp",
-        "durationSeconds": 229,
-        "publishedAt": "2026-11-06T09:30:38.000+08:00",
-        "fetchedAt": "2026-11-14T11:05:46.446+08:00",
+        "videoId": "giHPXnJPoT4",
+        "title": "九龍翻浪，誰能鎮住萬丈狂瀾？⚡《水官》｜可夜 #水官大帝 #國風音樂 #shorts  #可夜 #ai動画 #directoronoii #oiioii #aianimation",
+        "url": "https://www.youtube.com/watch?v=giHPXnJPoT4",
+        "thumbnail": "https://i.ytimg.com/vi_webp/giHPXnJPoT4/maxresdefault.webp",
+        "durationSeconds": 75,
+        "publishedAt": "2026-11-14T11:00:11.000+08:00",
+        "fetchedAt": "2026-11-14T11:15:45.953+08:00",
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 1
       }
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "qGc_gkTS0KY",
-        "title": "🔥《愛我還是愛她》Love Me or Her?｜明日邊界2147 Universe｜璃沫 2139｜Original Cinematic Music Film",
-        "url": "https://www.youtube.com/watch?v=qGc_gkTS0KY",
-        "thumbnail": "https://i.ytimg.com/vi_webp/qGc_gkTS0KY/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-09-15T18:32:58.000+08:00",
-        "fetchedAt": "2026-11-14T11:05:48.111+08:00",
+        "videoId": "YTXEaaw9Nbw",
+        "title": "🔥《一起回家》｜明日邊界 2147 平行宇宙｜璃沫 × 周寧｜科幻音樂微電影COME HOME TOGETHER｜Tomorrow Frontier 2147｜Original Cinematic",
+        "url": "https://www.youtube.com/watch?v=YTXEaaw9Nbw",
+        "thumbnail": "https://i.ytimg.com/vi_webp/YTXEaaw9Nbw/maxresdefault.webp",
+        "durationSeconds": 297,
+        "publishedAt": "2026-11-12T20:07:52.000+08:00",
+        "fetchedAt": "2026-11-14T11:15:47.405+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.37
+        "genreConfidence": 0.38
       }
     },
     {
@@ -454,15 +454,15 @@
       "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
       "channelTitle": "沐霧月",
       "latestVideo": {
-        "videoId": "rzPOmBk9Ybk",
-        "title": "妳走後，屋子全是妳《零度以下的灰燼》｜這屋子到處都是，妳無形的殘骸｜分手後遺症・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=rzPOmBk9Ybk",
-        "thumbnail": "https://i.ytimg.com/vi_webp/rzPOmBk9Ybk/maxresdefault.webp",
-        "durationSeconds": 223,
-        "publishedAt": "2026-09-18T12:00:02.000+08:00",
-        "fetchedAt": "2026-11-14T11:05:56.207+08:00",
+        "videoId": "-XNQYYydYPE",
+        "title": "沒有人救我，我就救自己《我就是彼岸》｜我不等天亮了——我自己，就是火焰｜自我救贖・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=-XNQYYydYPE",
+        "thumbnail": "https://i.ytimg.com/vi_webp/-XNQYYydYPE/maxresdefault.webp",
+        "durationSeconds": 215,
+        "publishedAt": "2026-09-23T12:00:23.000+08:00",
+        "fetchedAt": "2026-11-14T11:15:55.472+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.99
       }
     },
     {
