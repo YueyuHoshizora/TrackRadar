@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-14T22:36:07.260+08:00",
+  "updatedAt": "2026-11-14T22:41:03.485+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "egAdIrWQwI0",
-        "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=egAdIrWQwI0",
-        "thumbnail": "https://i.ytimg.com/vi/egAdIrWQwI0/maxresdefault.jpg",
-        "durationSeconds": 152,
-        "publishedAt": "2026-11-13T17:30:35.000+08:00",
-        "fetchedAt": "2026-11-14T22:15:46.320+08:00",
+        "videoId": "LdB1GPUUpaU",
+        "title": "醒來的名字｜有些人忘了，心卻還記得他的名字｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=LdB1GPUUpaU",
+        "thumbnail": "https://i.ytimg.com/vi/LdB1GPUUpaU/maxresdefault.jpg",
+        "durationSeconds": 220,
+        "publishedAt": "2026-11-11T17:30:24.000+08:00",
+        "fetchedAt": "2026-11-14T22:40:46.616+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.88
+        "genreConfidence": 0.73
       }
     },
     {
