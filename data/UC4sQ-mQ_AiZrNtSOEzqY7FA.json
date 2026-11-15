@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-16T05:00:27.244+08:00",
+  "lastUpdated": "2026-11-16T05:05:25.828+08:00",
   "latestVideo": {
     "videoId": "hgIOOkNagbc",
     "title": "夜班之後｜沒有人等我下班，我也能走到天亮｜Yu Stellar｜星語",
@@ -22,13 +22,13 @@
     },
     {
       "videoId": "gmcEUdNEKEA",
-      "title": "白天漏雨｜她錯寄簡報後，同事只問一句還好嗎｜Yu Stellar｜星語",
+      "title": "白天漏雨｜夢沒有追到白天，是我把白天留在夢裡｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
     {
       "videoId": "1yxe-4kDBpg",
-      "title": "草稿裡的春天｜克制想念系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "草稿裡的春天｜她寫完問候，又把思念留在草稿｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "jiFzJMuGZSI",
-      "title": "新地址｜她搬進新家，卻把自己遺落在過去｜Yu Stellar｜星語",
+      "title": "新地址｜地址換了，心卻還住在舊房間｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
@@ -118,13 +118,13 @@
     },
     {
       "videoId": "lK47and2XiI",
-      "title": "你先認出我｜記憶還沒想起你，心卻先承認沒忘記｜Yu Stellar｜星語",
+      "title": "你先認出我｜久別重逢華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "h6wyXbFZDZM",
-      "title": "兩杯熱茶｜同居日常系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "兩杯熱茶｜茶還沒涼，我們已把明天說成日常｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
