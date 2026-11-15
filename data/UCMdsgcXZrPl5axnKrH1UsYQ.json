@@ -1,7 +1,7 @@
 {
   "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
   "channelTitle": "修卡迪特AI_創作",
-  "lastUpdated": "2026-11-15T01:15:46.702+08:00",
+  "lastUpdated": "2026-11-15T11:55:47.142+08:00",
   "latestVideo": {
     "videoId": "BNuK2uEzWvI",
     "title": "A4URA-LUNA迷你小專輯｜TAKE OUR TIME｜",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.75
   },
   "allVideoIds": [
+    {
+      "videoId": "gt4iKtjcUms",
+      "title": "《A4URA滅夢師》｜EP01｜滅夢小隊登場",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.61
+    },
     {
       "videoId": "BNuK2uEzWvI",
       "title": "A4URA-LUNA迷你小專輯｜TAKE OUR TIME｜",
