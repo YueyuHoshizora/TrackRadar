@@ -1,7 +1,7 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-11-14T08:00:55.225+08:00",
+  "lastUpdated": "2026-11-15T14:36:02.770+08:00",
   "latestVideo": {
     "videoId": "jFEq8tU-IUY",
     "title": "《完美情人：Thoth》EP01：我只是妳的 agent，不是妳的 angel",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.81
   },
   "allVideoIds": [
+    {
+      "videoId": "fco7ys_5oyk",
+      "title": "《完美情人：Thoth》EP02｜救命她沒電了！",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.77
+    },
     {
       "videoId": "jFEq8tU-IUY",
       "title": "《完美情人：Thoth》EP01：我只是妳的 agent，不是妳的 angel",
