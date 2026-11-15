@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-16T05:30:40.268+08:00",
+  "updatedAt": "2026-11-16T05:35:39.870+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "hgIOOkNagbc",
-        "title": "夜班之後｜沒有人等我下班，我也能走到天亮｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=hgIOOkNagbc",
-        "thumbnail": "https://i.ytimg.com/vi/hgIOOkNagbc/maxresdefault.jpg",
-        "durationSeconds": 208,
-        "publishedAt": "2026-11-15T17:30:06.000+08:00",
-        "fetchedAt": "2026-11-15T19:15:25.202+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.73
+        "videoId": "3bFyZ1276Hg",
+        "title": "反方向的鐘｜回憶可以往回看，人生不能跟著倒走｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=3bFyZ1276Hg",
+        "thumbnail": "https://i.ytimg.com/vi/3bFyZ1276Hg/maxresdefault.jpg",
+        "durationSeconds": 248,
+        "publishedAt": "2026-11-16T05:30:24.000+08:00",
+        "fetchedAt": "2026-11-16T05:35:24.724+08:00",
+        "genre": "流行 Pop",
+        "genreConfidence": 0.32
       }
     },
     {
