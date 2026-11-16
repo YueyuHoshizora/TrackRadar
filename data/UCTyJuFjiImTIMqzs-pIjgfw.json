@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-11-15T19:15:32.566+08:00",
+  "lastUpdated": "2026-11-16T16:50:27.509+08:00",
   "latestVideo": {
-    "videoId": "gIMf2G4tyE4",
-    "title": "台語大帝國｜李多娜《我若有代誌》｜總是陪別人，自己累了卻沒人問｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=gIMf2G4tyE4",
-    "thumbnail": "https://i.ytimg.com/vi_webp/gIMf2G4tyE4/maxresdefault.webp",
-    "durationSeconds": 212,
-    "publishedAt": "2026-11-15T09:45:35.000+08:00",
-    "fetchedAt": "2026-11-15T19:15:31.507+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.61
+    "videoId": "eKCgJD1iXkQ",
+    "title": "台語大帝國｜紀時宇《加蛋以前》｜薪水沒漲物價一直漲，連便當加蛋都要想三次｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=eKCgJD1iXkQ",
+    "thumbnail": "https://i.ytimg.com/vi_webp/eKCgJD1iXkQ/maxresdefault.webp",
+    "durationSeconds": 146,
+    "publishedAt": "2026-11-16T16:45:35.000+08:00",
+    "fetchedAt": "2026-11-16T16:50:26.324+08:00",
+    "genre": "流行 Pop",
+    "genreConfidence": 0.31
   },
   "allVideoIds": [
+    {
+      "videoId": "eKCgJD1iXkQ",
+      "title": "台語大帝國｜紀時宇《加蛋以前》｜薪水沒漲物價一直漲，連便當加蛋都要想三次｜筠芙得利【Official MV】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.31
+    },
     {
       "videoId": "gIMf2G4tyE4",
       "title": "台語大帝國｜李多娜《我若有代誌》｜總是陪別人，自己累了卻沒人問｜筠芙得利【Official MV】",
