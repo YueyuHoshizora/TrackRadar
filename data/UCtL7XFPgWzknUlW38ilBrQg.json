@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-11-16T12:25:37.141+08:00",
+  "lastUpdated": "2026-11-16T16:35:35.299+08:00",
   "latestVideo": {
     "videoId": "u8NTUxYUcmA",
     "title": "妳還好嗎？是否也在夢裡喊我《讓我墜落》｜深夜傷感抒情・細膩女聲｜霧月 Xiaoloulou｜【Lyric Video】",
@@ -14,6 +14,12 @@
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "fXaEyZ_XNVs",
+      "title": "若不能放手，請讓我墜落《讓我墜落》｜雨夜傷感女聲・霧月 Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
+    },
     {
       "videoId": "u8NTUxYUcmA",
       "title": "妳還好嗎？是否也在夢裡喊我《讓我墜落》｜深夜傷感抒情・細膩女聲｜霧月 Xiaoloulou｜【Lyric Video】",
