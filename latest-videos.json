@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-16T17:25:36.489+08:00",
+  "updatedAt": "2026-11-16T17:30:36.314+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "3bFyZ1276Hg",
-        "title": "反方向的鐘｜回憶可以往回看，人生不能跟著倒走｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=3bFyZ1276Hg",
-        "thumbnail": "https://i.ytimg.com/vi/3bFyZ1276Hg/maxresdefault.jpg",
-        "durationSeconds": 248,
-        "publishedAt": "2026-11-16T05:30:24.000+08:00",
-        "fetchedAt": "2026-11-16T05:35:24.724+08:00",
-        "genre": "流行 Pop",
-        "genreConfidence": 0.32
+        "videoId": "Lu56mP24o3U",
+        "title": "房間有了聲音｜一個人生活，也會慢慢長出幸福｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=Lu56mP24o3U",
+        "thumbnail": "https://i.ytimg.com/vi/Lu56mP24o3U/maxresdefault.jpg",
+        "durationSeconds": 182,
+        "publishedAt": "2026-11-16T17:30:17.000+08:00",
+        "fetchedAt": "2026-11-16T17:30:24.649+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.42
       }
     },
     {
