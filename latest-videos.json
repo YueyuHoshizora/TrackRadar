@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T11:30:38.276+08:00",
+  "updatedAt": "2026-11-17T11:35:40.758+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -214,15 +214,15 @@
       "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
       "channelTitle": "EIRYN",
       "latestVideo": {
-        "videoId": "hdzRzpBYiRI",
-        "title": "《戒不掉的習慣》｜明明已經分開了，為什麼心裡還是住著你？｜深情女聲療癒情歌｜EIRYN",
-        "url": "https://www.youtube.com/watch?v=hdzRzpBYiRI",
-        "thumbnail": "https://i.ytimg.com/vi/hdzRzpBYiRI/maxresdefault.jpg",
-        "durationSeconds": 263,
-        "publishedAt": "2026-11-13T11:30:39.000+08:00",
-        "fetchedAt": "2026-11-13T12:10:50.448+08:00",
+        "videoId": "QBduofZ4kEo",
+        "title": "《誰不是過來人》｜有些苦只能自己吞，有些路只能自己走…｜人生感悟歌曲｜EIRYN",
+        "url": "https://www.youtube.com/watch?v=QBduofZ4kEo",
+        "thumbnail": "https://i.ytimg.com/vi/QBduofZ4kEo/maxresdefault.jpg",
+        "durationSeconds": 222,
+        "publishedAt": "2026-11-17T11:30:31.000+08:00",
+        "fetchedAt": "2026-11-17T11:35:29.391+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.96
       }
     },
     {
@@ -422,7 +422,7 @@
     },
     {
       "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
-      "channelTitle": "RE:IGN(十二弦月 | 舞月)",
+      "channelTitle": "RE:IGN",
       "latestVideo": {
         "videoId": "SQdiIjYbfnk",
         "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
