@@ -1,19 +1,25 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-11-13T12:10:50.945+08:00",
+  "lastUpdated": "2026-11-17T11:35:30.040+08:00",
   "latestVideo": {
-    "videoId": "hdzRzpBYiRI",
-    "title": "《戒不掉的習慣》｜明明已經分開了，為什麼心裡還是住著你？｜深情女聲療癒情歌｜EIRYN",
-    "url": "https://www.youtube.com/watch?v=hdzRzpBYiRI",
-    "thumbnail": "https://i.ytimg.com/vi/hdzRzpBYiRI/maxresdefault.jpg",
-    "durationSeconds": 263,
-    "publishedAt": "2026-11-13T11:30:39.000+08:00",
-    "fetchedAt": "2026-11-13T12:10:50.448+08:00",
+    "videoId": "QBduofZ4kEo",
+    "title": "《誰不是過來人》｜有些苦只能自己吞，有些路只能自己走…｜人生感悟歌曲｜EIRYN",
+    "url": "https://www.youtube.com/watch?v=QBduofZ4kEo",
+    "thumbnail": "https://i.ytimg.com/vi/QBduofZ4kEo/maxresdefault.jpg",
+    "durationSeconds": 222,
+    "publishedAt": "2026-11-17T11:30:31.000+08:00",
+    "fetchedAt": "2026-11-17T11:35:29.391+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 1
+    "genreConfidence": 0.96
   },
   "allVideoIds": [
+    {
+      "videoId": "QBduofZ4kEo",
+      "title": "《誰不是過來人》｜有些苦只能自己吞，有些路只能自己走…｜人生感悟歌曲｜EIRYN",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.96
+    },
     {
       "videoId": "hdzRzpBYiRI",
       "title": "《戒不掉的習慣》｜明明已經分開了，為什麼心裡還是住著你？｜深情女聲療癒情歌｜EIRYN",
