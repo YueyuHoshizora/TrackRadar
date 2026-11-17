@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:20:42.754+08:00",
+  "updatedAt": "2026-11-17T20:25:42.047+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -439,15 +439,15 @@
       "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
       "channelTitle": "璃煙",
       "latestVideo": {
-        "videoId": "fco7ys_5oyk",
-        "title": "《完美情人：Thoth》EP02｜救命她沒電了！",
-        "url": "https://www.youtube.com/watch?v=fco7ys_5oyk",
-        "thumbnail": "https://i.ytimg.com/vi/fco7ys_5oyk/maxresdefault.jpg",
-        "durationSeconds": 170,
-        "publishedAt": "2026-11-15T14:33:42.000+08:00",
-        "fetchedAt": "2026-11-15T19:15:44.983+08:00",
+        "videoId": "_84EjozgTGU",
+        "title": "《完美情人：Thoth》EP03｜我好想她",
+        "url": "https://www.youtube.com/watch?v=_84EjozgTGU",
+        "thumbnail": "https://i.ytimg.com/vi/_84EjozgTGU/maxresdefault.jpg",
+        "durationSeconds": 150,
+        "publishedAt": "2026-11-17T20:25:18.000+08:00",
+        "fetchedAt": "2026-11-17T20:25:36.126+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.81
+        "genreConfidence": 0.52
       }
     },
     {
