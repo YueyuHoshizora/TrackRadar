@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:40:39.934+08:00",
+  "updatedAt": "2026-11-17T16:45:42.953+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "eKCgJD1iXkQ",
-        "title": "台語大帝國｜紀時宇《加蛋以前》｜薪水沒漲物價一直漲，連便當加蛋都要想三次｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=eKCgJD1iXkQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/eKCgJD1iXkQ/maxresdefault.webp",
-        "durationSeconds": 146,
-        "publishedAt": "2026-11-16T16:45:35.000+08:00",
-        "fetchedAt": "2026-11-16T16:50:26.324+08:00",
+        "videoId": "8JeJexXq8Qk",
+        "title": "台語大帝國｜李多娜《你講甲真簡單》｜工作十多年突然失業，你卻說得那麼簡單｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=8JeJexXq8Qk",
+        "thumbnail": "https://i.ytimg.com/vi_webp/8JeJexXq8Qk/maxresdefault.webp",
+        "durationSeconds": 202,
+        "publishedAt": "2026-11-17T16:45:08.000+08:00",
+        "fetchedAt": "2026-11-17T16:45:31.018+08:00",
         "genre": "流行 Pop",
-        "genreConfidence": 0.31
+        "genreConfidence": 0.33
       }
     },
     {
