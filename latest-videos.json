@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T10:55:39.981+08:00",
+  "updatedAt": "2026-11-17T11:00:40.569+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -229,15 +229,15 @@
       "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
       "channelTitle": "予安YUAN",
       "latestVideo": {
-        "videoId": "GFxdpVwSBJo",
-        "title": "《愛》｜如果人生能重來，我依然願意為你愛過 ❤️ 最深情的華語情歌｜予安YUAN",
-        "url": "https://www.youtube.com/watch?v=GFxdpVwSBJo",
-        "thumbnail": "https://i.ytimg.com/vi/GFxdpVwSBJo/maxresdefault.jpg",
-        "durationSeconds": 263,
-        "publishedAt": "2026-11-13T11:00:26.000+08:00",
-        "fetchedAt": "2026-11-13T11:00:50.805+08:00",
+        "videoId": "D-UiXNR-aV4",
+        "title": "《戒不掉》｜最難戒掉的不是習慣，而是曾經深愛的你 💔｜2026華語流行情歌｜予安YUAN",
+        "url": "https://www.youtube.com/watch?v=D-UiXNR-aV4",
+        "thumbnail": "https://i.ytimg.com/vi/D-UiXNR-aV4/maxresdefault.jpg",
+        "durationSeconds": 231,
+        "publishedAt": "2026-11-17T11:00:08.000+08:00",
+        "fetchedAt": "2026-11-17T11:00:30.771+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.91
       }
     },
     {
