@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-18T17:26:17.039+08:00",
+  "updatedAt": "2026-11-18T17:31:17.921+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "qYRL35j3kDE",
-        "title": "褪色門牌｜門牌退了色，住過的人都已經向前｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=qYRL35j3kDE",
-        "thumbnail": "https://i.ytimg.com/vi/qYRL35j3kDE/maxresdefault.jpg",
-        "durationSeconds": 259,
-        "publishedAt": "2026-11-18T05:30:24.000+08:00",
-        "fetchedAt": "2026-11-18T05:35:26.077+08:00",
+        "videoId": "r3gHEOL3hXw",
+        "title": "你不知道的晴天｜沒有你的日子，我也活成了晴天｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=r3gHEOL3hXw",
+        "thumbnail": "https://i.ytimg.com/vi/r3gHEOL3hXw/maxresdefault.jpg",
+        "durationSeconds": 187,
+        "publishedAt": "2026-11-18T17:30:24.000+08:00",
+        "fetchedAt": "2026-11-18T17:30:57.393+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.63
+        "genreConfidence": 0.86
       }
     },
     {
