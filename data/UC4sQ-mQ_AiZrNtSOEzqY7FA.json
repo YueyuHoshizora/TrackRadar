@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-18T10:50:27.090+08:00",
+  "lastUpdated": "2026-11-18T10:55:27.495+08:00",
   "latestVideo": {
     "videoId": "qYRL35j3kDE",
     "title": "褪色門牌｜門牌退了色，住過的人都已經向前｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "qYRL35j3kDE",
-      "title": "褪色門牌｜門牌退了色，住過的人都已經向前｜Yu Stellar｜星語",
+      "title": "褪色門牌｜回到七年前的家，她才懂分開沒有壞人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.62
     },
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "HmmOTx9uHIg",
-      "title": "紙箱底層｜搬了三次都沒拆的箱子，藏著七年真相｜Yu Stellar｜星語",
+      "title": "紙箱底層｜記憶療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
@@ -46,13 +46,13 @@
     },
     {
       "videoId": "hgIOOkNagbc",
-      "title": "夜班之後｜職場成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "夜班之後｜沒有人等我下班，我也能走到天亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
     {
       "videoId": "gmcEUdNEKEA",
-      "title": "白天漏雨｜成年人療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "白天漏雨｜夢沒有追到白天，是我把白天留在夢裡｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜我把夢搬成家，門牌卻寫著到此為止｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜兩張尺寸不同的床，揭穿住不下的夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "LdB1GPUUpaU",
-      "title": "醒來的名字｜她在陌生房間醒來，聽見夢裡有人叫她｜Yu Stellar｜星語",
+      "title": "醒來的名字｜有些人忘了，心卻還記得他的名字｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.71
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "mEEww_jffB8",
-      "title": "最後一盞燈｜體面告別系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "最後一盞燈｜真正的告別，是離開後仍盼你天亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -124,19 +124,19 @@
     },
     {
       "videoId": "74qi8zBk__E",
-      "title": "藍窗麵包店｜最後一口奶油捲，喚醒兩人的曾經｜Yu Stellar｜星語",
+      "title": "藍窗麵包店｜日常系懷舊華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.68
     },
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
+      "title": "未寄的信｜那封停在「都怪我」以前的信｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "CxJ2V-t-96I",
-      "title": "借來的黃昏｜久別重逢系華語抒情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "借來的黃昏｜我們隔了一生，仍把沉默坐成溫柔｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
@@ -166,13 +166,13 @@
     },
     {
       "videoId": "ayz-ELM_gBk",
-      "title": "雨停以前｜初夏雨夜告白系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "雨停以前｜如果你也捨不得，就陪我把腳步放慢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
     {
       "videoId": "c284npUDLuE",
-      "title": "霧裡鐘聲｜氛圍系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "霧裡鐘聲｜路都被霧藏起來，鐘聲卻記得我｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
@@ -184,13 +184,13 @@
     },
     {
       "videoId": "qfh-r8MoOiA",
-      "title": "枕邊地圖｜夢境系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "枕邊地圖｜醒來後，我畫出不存在卻熟悉的城市｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.69
     },
     {
       "videoId": "6gwANabEg6U",
-      "title": "前世來生｜前世今生系華語女聲宿命敘事情歌｜Yu Stellar｜星語",
+      "title": "前世來生｜前世錯過的人，來生一定要再愛一次嗎｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
@@ -202,13 +202,13 @@
     },
     {
       "videoId": "2MiNzv8sZp0",
-      "title": "記得但不回頭｜兩張不同月台的車票，沒有結束新的可能｜Yu Stellar｜星語",
+      "title": "記得但不回頭｜我記得你，卻不必回頭證明愛過｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "X9VxzJORS3w",
-      "title": "共舞隔天，他只傳一句「昨晚謝謝」《不急著定義》｜Yu Stellar｜星語",
+      "title": "成熟的喜歡，是靠近以後也不急著要答案《不急著定義》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
@@ -232,13 +232,13 @@
     },
     {
       "videoId": "TW2R0xUk5cU",
-      "title": "分開三年後，她伸出手說：只陪我跳完今夜《與我共舞》｜Yu Stellar｜星語",
+      "title": "如果再見前任，你敢主動邀他跳一支舞嗎？《與我共舞》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
     {
       "videoId": "TRnKY2VyDEM",
-      "title": "兩種季節｜重逢後他們相隔兩地，沒有承諾也沒走散｜Yu Stellar｜星語",
+      "title": "兩種季節｜你那裡下雨，我這裡晴，也能慢慢靠近｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -256,13 +256,13 @@
     },
     {
       "videoId": "McRDtOY4EaM",
-      "title": "舞會鏡中，她先看見了三年未見的那個人《鏡面那一端》｜Yu Stellar｜星語",
+      "title": "三年後再看見你，我也終於認出了現在的自己《鏡面那一端》｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.99
     },
     {
       "videoId": "1kO631xyIQQ",
-      "title": "不必回到原位｜重逢隔天，她拒絕讓前世決定今生｜Yu Stellar｜星語",
+      "title": "不必回到原位｜我們不必重新相愛，才能證明曾經愛過｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
