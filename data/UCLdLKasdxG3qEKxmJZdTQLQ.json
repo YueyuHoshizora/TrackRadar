@@ -1,19 +1,25 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-11-17T20:25:37.584+08:00",
+  "lastUpdated": "2026-11-18T22:46:13.008+08:00",
   "latestVideo": {
-    "videoId": "_84EjozgTGU",
-    "title": "《完美情人：Thoth》EP03｜我好想她",
-    "url": "https://www.youtube.com/watch?v=_84EjozgTGU",
-    "thumbnail": "https://i.ytimg.com/vi/_84EjozgTGU/maxresdefault.jpg",
-    "durationSeconds": 150,
-    "publishedAt": "2026-11-17T20:25:18.000+08:00",
-    "fetchedAt": "2026-11-17T20:25:36.126+08:00",
-    "genre": "其他/無法判斷 Other",
-    "genreConfidence": 0.52
+    "videoId": "fJkCgecSDEQ",
+    "title": "《等到雨晴》「那你帶我走。」我們會一直在一起吧？｜原創音樂短劇",
+    "url": "https://www.youtube.com/watch?v=fJkCgecSDEQ",
+    "thumbnail": "https://i.ytimg.com/vi/fJkCgecSDEQ/maxresdefault.jpg",
+    "durationSeconds": 798,
+    "publishedAt": "2026-11-18T22:44:50.000+08:00",
+    "fetchedAt": "2026-11-18T22:46:11.980+08:00",
+    "genre": "抒情/情歌 Ballad",
+    "genreConfidence": 0.67
   },
   "allVideoIds": [
+    {
+      "videoId": "fJkCgecSDEQ",
+      "title": "《等到雨晴》「那你帶我走。」我們會一直在一起吧？｜原創音樂短劇",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.67
+    },
     {
       "videoId": "_84EjozgTGU",
       "title": "《完美情人：Thoth》EP03｜我好想她",
