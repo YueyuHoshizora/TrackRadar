@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-18T19:35:58.568+08:00",
+  "lastUpdated": "2026-11-18T19:40:58.673+08:00",
   "latestVideo": {
     "videoId": "r3gHEOL3hXw",
     "title": "你不知道的晴天｜沒有你的日子，我也活成了晴天｜Yu Stellar｜星語",
@@ -22,7 +22,7 @@
     },
     {
       "videoId": "qYRL35j3kDE",
-      "title": "褪色門牌｜回到七年前的家，她才懂分開沒有壞人｜Yu Stellar｜星語",
+      "title": "褪色門牌｜門牌退了色，住過的人都已經向前｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.62
     },
@@ -58,13 +58,13 @@
     },
     {
       "videoId": "gmcEUdNEKEA",
-      "title": "白天漏雨｜夢沒有追到白天，是我把白天留在夢裡｜Yu Stellar｜星語",
+      "title": "白天漏雨｜成年人療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
     {
       "videoId": "1yxe-4kDBpg",
-      "title": "草稿裡的春天｜她寫完問候，又把思念留在草稿｜Yu Stellar｜星語",
+      "title": "草稿裡的春天｜克制想念系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -148,13 +148,13 @@
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
+      "title": "門牌之間｜同居生活系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
     {
       "videoId": "lK47and2XiI",
-      "title": "你先認出我｜久別重逢華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "你先認出我｜陌生人叫出舊稱呼，她的心先認出他｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "HKvjJiZQoYM",
-      "title": "不存在的街｜記憶系華語敘事情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "不存在的街｜這條街為何放滿她用過的東西？｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.54
     },
