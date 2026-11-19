@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T16:56:17.448+08:00",
+  "updatedAt": "2026-11-19T17:01:17.340+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -319,15 +319,15 @@
       "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
       "channelTitle": "Vera Studio",
       "latestVideo": {
-        "videoId": "ml_bSDDj_aA",
-        "title": "🌱《沒說完的後來》｜看見你有了新的未來，我終於學會把遺憾留在從前｜Official Music Video",
-        "url": "https://www.youtube.com/watch?v=ml_bSDDj_aA",
-        "thumbnail": "https://i.ytimg.com/vi/ml_bSDDj_aA/maxresdefault.jpg",
-        "durationSeconds": 269,
-        "publishedAt": "2026-11-16T17:00:15.000+08:00",
-        "fetchedAt": "2026-11-16T17:00:31.075+08:00",
+        "videoId": "V7YpX3s4CeM",
+        "title": "🌱《失衡》｜故事早已停在昨天，這一次我終於不再失衡｜Official Music Video",
+        "url": "https://www.youtube.com/watch?v=V7YpX3s4CeM",
+        "thumbnail": "https://i.ytimg.com/vi/V7YpX3s4CeM/maxresdefault.jpg",
+        "durationSeconds": 210,
+        "publishedAt": "2026-11-19T17:00:16.000+08:00",
+        "fetchedAt": "2026-11-19T17:01:07.185+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.95
+        "genreConfidence": 0.48
       }
     },
     {
