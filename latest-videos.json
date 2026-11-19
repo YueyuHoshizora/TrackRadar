@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T20:06:19.615+08:00",
+  "updatedAt": "2026-11-19T20:11:16.787+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -469,15 +469,15 @@
       "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
       "channelTitle": "Moyamina",
       "latestVideo": {
-        "videoId": "khI_dRoSZ-A",
-        "title": "鐘停在六點，我還想再跳一支《Forever at Six》｜暗黑探戈",
-        "url": "https://www.youtube.com/watch?v=khI_dRoSZ-A",
-        "thumbnail": "https://i.ytimg.com/vi/khI_dRoSZ-A/maxresdefault.jpg",
-        "durationSeconds": 242,
-        "publishedAt": "2026-11-14T18:30:15.000+08:00",
-        "fetchedAt": "2026-11-15T03:25:59.667+08:00",
+        "videoId": "ZVIwLVNBPzg",
+        "title": "Dark Cinematic Tango Collection | The Last Step, Don't Go & More | 26 Min Tango Songs | Moyamina",
+        "url": "https://www.youtube.com/watch?v=ZVIwLVNBPzg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/ZVIwLVNBPzg/maxresdefault.webp",
+        "durationSeconds": 1577,
+        "publishedAt": "2026-11-19T19:00:11.000+08:00",
+        "fetchedAt": "2026-11-19T20:11:13.036+08:00",
         "genre": "拉丁 Latin",
-        "genreConfidence": 0.29
+        "genreConfidence": 0.96
       }
     },
     {
