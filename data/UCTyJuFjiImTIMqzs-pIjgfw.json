@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-11-18T16:46:03.059+08:00",
+  "lastUpdated": "2026-11-19T17:31:04.127+08:00",
   "latestVideo": {
-    "videoId": "EHHQhvUJq-k",
-    "title": "台語大帝國｜Asher 凜《咱彼間厝》｜搬離老家那天，才懂阿母畫在門框上的線｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=EHHQhvUJq-k",
-    "thumbnail": "https://i.ytimg.com/vi_webp/EHHQhvUJq-k/maxresdefault.webp",
-    "durationSeconds": 215,
-    "publishedAt": "2026-11-18T16:45:22.000+08:00",
-    "fetchedAt": "2026-11-18T16:46:01.448+08:00",
+    "videoId": "ju2kcePth4w",
+    "title": "台語大帝國｜《好啦，就到遮》Asher 凜 & 李多娜｜明明還愛著，卻只能說再見｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=ju2kcePth4w",
+    "thumbnail": "https://i.ytimg.com/vi/ju2kcePth4w/maxresdefault.jpg",
+    "durationSeconds": 202,
+    "publishedAt": "2026-11-19T17:27:12.000+08:00",
+    "fetchedAt": "2026-11-19T17:31:02.099+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.49
+    "genreConfidence": 0.82
   },
   "allVideoIds": [
+    {
+      "videoId": "ju2kcePth4w",
+      "title": "台語大帝國｜《好啦，就到遮》Asher 凜 & 李多娜｜明明還愛著，卻只能說再見｜筠芙得利【Official MV】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.82
+    },
     {
       "videoId": "EHHQhvUJq-k",
       "title": "台語大帝國｜Asher 凜《咱彼間厝》｜搬離老家那天，才懂阿母畫在門框上的線｜筠芙得利【Official MV】",
