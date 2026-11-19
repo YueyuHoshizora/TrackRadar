@@ -1,7 +1,7 @@
 {
   "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
   "channelTitle": "修卡迪特AI_創作",
-  "lastUpdated": "2026-11-15T19:15:25.271+08:00",
+  "lastUpdated": "2026-11-19T14:40:59.806+08:00",
   "latestVideo": {
     "videoId": "gt4iKtjcUms",
     "title": "《A4URA滅夢師》｜EP01｜滅夢小隊登場",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.61
   },
   "allVideoIds": [
+    {
+      "videoId": "NXFIYC8IMSM",
+      "title": "《A4URA滅夢師》｜EP01片段 #a4ura #aivideo",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.66
+    },
     {
       "videoId": "gt4iKtjcUms",
       "title": "《A4URA滅夢師》｜EP01｜滅夢小隊登場",
