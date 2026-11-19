@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-20T01:05:33.477+08:00",
+  "lastUpdated": "2026-11-20T01:10:34.380+08:00",
   "latestVideo": {
     "videoId": "o0Ch-Jvj9IM",
     "title": "一個人的慶功｜幸福不必等誰見證，我也值得被慶祝｜Yu Stellar｜星語",
@@ -16,19 +16,19 @@
   "allVideoIds": [
     {
       "videoId": "o0Ch-Jvj9IM",
-      "title": "一個人的慶功｜她買了一塊蛋糕，把整個夜晚點亮｜Yu Stellar｜星語",
+      "title": "一個人的慶功｜獨處療癒系華語女聲勵志歌｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
     {
       "videoId": "_CP-HKJCqro",
-      "title": "未寄出的夏天｜遺憾系華語愛情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "未寄出的夏天｜我們不是不愛，只把體貼用成沉默｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
     {
       "videoId": "r3gHEOL3hXw",
-      "title": "你不知道的晴天｜成果發表那天，她第一次為自己鼓掌｜Yu Stellar｜星語",
+      "title": "你不知道的晴天｜沒有你的日子，我也活成了晴天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "hgIOOkNagbc",
-      "title": "夜班之後｜職場成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "夜班之後｜沒有人等我下班，我也能走到天亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
@@ -82,13 +82,13 @@
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜兩張尺寸不同的床，揭穿住不下的夢｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜夢境系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
     {
       "videoId": "egAdIrWQwI0",
-      "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
+      "title": "陌生燈火｜深夜便利商店裡，她學會獨自生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
@@ -118,7 +118,7 @@
     },
     {
       "videoId": "KIEnCXnKOvo",
-      "title": "昨天的電車｜電車開向昨天，我卻坐著今天的自己｜Yu Stellar｜星語",
+      "title": "昨天的電車｜每一站上車的，都是不同年紀的她｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.59
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "_2PGzG80TEs",
-      "title": "各自的明天｜搬空房間那天，我們把昨天留給彼此｜Yu Stellar｜星語",
+      "title": "各自的明天｜成熟分手系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -148,7 +148,7 @@
     },
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜最難過的爭吵，是連怪你都捨不得｜Yu Stellar｜星語",
+      "title": "未寄的信｜那封停在「都怪我」以前的信｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
+      "title": "門牌之間｜兩個門牌，如何變成我們的家｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
