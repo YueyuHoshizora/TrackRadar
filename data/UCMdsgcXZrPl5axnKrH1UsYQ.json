@@ -1,19 +1,25 @@
 {
   "channelId": "UCMdsgcXZrPl5axnKrH1UsYQ",
   "channelTitle": "修卡迪特AI_創作",
-  "lastUpdated": "2026-11-19T15:10:57.549+08:00",
+  "lastUpdated": "2026-11-21T01:10:33.995+08:00",
   "latestVideo": {
-    "videoId": "0ka7VGXFbUg",
-    "title": "A4URA音樂小劇場｜當世界隨時都會有音樂出現時｜02",
-    "url": "https://www.youtube.com/watch?v=0ka7VGXFbUg",
-    "thumbnail": "https://i.ytimg.com/vi/0ka7VGXFbUg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgVChCMA8=&rs=AOn4CLDWguX904_Hiu_y0uibEu07cBKgBA",
-    "durationSeconds": 113,
-    "publishedAt": "2026-11-19T15:01:38.000+08:00",
-    "fetchedAt": "2026-11-19T15:10:57.107+08:00",
+    "videoId": "T-3ePaOC_Nw",
+    "title": "A4URA–Make It Move (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=T-3ePaOC_Nw",
+    "thumbnail": "https://i.ytimg.com/vi_webp/T-3ePaOC_Nw/maxresdefault.webp",
+    "durationSeconds": 157,
+    "publishedAt": "2026-11-21T01:10:24.000+08:00",
+    "fetchedAt": "2026-11-21T01:10:33.798+08:00",
     "genre": "其他/無法判斷 Other",
-    "genreConfidence": 0.84
+    "genreConfidence": 0.52
   },
   "allVideoIds": [
+    {
+      "videoId": "T-3ePaOC_Nw",
+      "title": "A4URA–Make It Move (Official Music Video)",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.52
+    },
     {
       "videoId": "0ka7VGXFbUg",
       "title": "A4URA音樂小劇場｜當世界隨時都會有音樂出現時｜02",
