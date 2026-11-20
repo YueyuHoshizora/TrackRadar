@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-11-17T11:35:30.040+08:00",
+  "lastUpdated": "2026-11-20T11:30:44.924+08:00",
   "latestVideo": {
     "videoId": "QBduofZ4kEo",
     "title": "《誰不是過來人》｜有些苦只能自己吞，有些路只能自己走…｜人生感悟歌曲｜EIRYN",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.96
   },
   "allVideoIds": [
+    {
+      "videoId": "jsnpzl1bvn8",
+      "title": "《你好嗎》｜這句話，我藏了好多年…你最近過得好嗎？💔｜EIRYN 原創華語情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
+    },
     {
       "videoId": "QBduofZ4kEo",
       "title": "《誰不是過來人》｜有些苦只能自己吞，有些路只能自己走…｜人生感悟歌曲｜EIRYN",
