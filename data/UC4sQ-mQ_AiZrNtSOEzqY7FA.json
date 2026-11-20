@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-20T09:10:35.633+08:00",
+  "lastUpdated": "2026-11-20T09:15:36.470+08:00",
   "latestVideo": {
     "videoId": "kIu0xYKDd80",
     "title": "兩種後來｜我們各自走進後來，才有力氣回頭看｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "kIu0xYKDd80",
-      "title": "兩種後來｜我們各自走進後來，才有力氣回頭看｜Yu Stellar｜星語",
+      "title": "兩種後來｜七年後她看見他白了頭，也看見自己長大｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
     {
       "videoId": "o0Ch-Jvj9IM",
-      "title": "一個人的慶功｜獨處療癒系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "一個人的慶功｜幸福不必等誰見證，我也值得被慶祝｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
@@ -34,7 +34,7 @@
     },
     {
       "videoId": "r3gHEOL3hXw",
-      "title": "你不知道的晴天｜走出失戀系華語女聲療癒歌｜Yu Stellar｜星語",
+      "title": "你不知道的晴天｜沒有你的日子，我也活成了晴天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "Lu56mP24o3U",
-      "title": "房間有了聲音｜獨居療癒系華語女聲歌曲｜Yu Stellar｜星語",
+      "title": "房間有了聲音｜一個人生活，也會慢慢長出幸福｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
@@ -88,7 +88,7 @@
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜兩張尺寸不同的床，揭穿住不下的夢｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜夢境系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜那封停在「都怪我」以前的信｜Yu Stellar｜星語",
+      "title": "未寄的信｜雨夜失戀系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
