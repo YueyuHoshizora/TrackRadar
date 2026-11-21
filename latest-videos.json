@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T01:10:54.043+08:00",
+  "updatedAt": "2026-11-22T01:15:51.835+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -125,15 +125,15 @@
       "channelId": "UCSop8F751Q9bfYy-NAwPfiA",
       "channelTitle": "Lume vei 璃沫",
       "latestVideo": {
-        "videoId": "YTXEaaw9Nbw",
-        "title": "🔥《一起回家》｜明日邊界 2147 平行宇宙｜璃沫 × 周寧｜科幻音樂微電影COME HOME TOGETHER｜Tomorrow Frontier 2147｜Original Cinematic",
-        "url": "https://www.youtube.com/watch?v=YTXEaaw9Nbw",
-        "thumbnail": "https://i.ytimg.com/vi_webp/YTXEaaw9Nbw/maxresdefault.webp",
-        "durationSeconds": 297,
-        "publishedAt": "2026-11-12T20:07:52.000+08:00",
-        "fetchedAt": "2026-11-22T01:10:26.770+08:00",
+        "videoId": "IJ_7CcpPkeo",
+        "title": "🔥《非你不可》｜明日邊界2147 Universe｜予安 × 璃沫｜Original Cinematic Music Film",
+        "url": "https://www.youtube.com/watch?v=IJ_7CcpPkeo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/IJ_7CcpPkeo/maxresdefault.webp",
+        "durationSeconds": 292,
+        "publishedAt": "2026-10-22T22:50:05.000+08:00",
+        "fetchedAt": "2026-11-22T01:15:25.528+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.36
+        "genreConfidence": 0.39
       }
     },
     {
@@ -454,15 +454,15 @@
       "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
       "channelTitle": "沐霧月",
       "latestVideo": {
-        "videoId": "h_URQVcR2rA",
-        "title": "連難過，我都感覺不到了｜精神內耗・一小時連播合輯｜13首，替說不出口的你說完｜窒。心意集・沐霧月",
-        "url": "https://www.youtube.com/watch?v=h_URQVcR2rA",
-        "thumbnail": "https://i.ytimg.com/vi/h_URQVcR2rA/maxresdefault.jpg",
-        "durationSeconds": 2855,
-        "publishedAt": "2026-08-08T13:00:07.000+08:00",
-        "fetchedAt": "2026-11-22T00:05:46.383+08:00",
+        "videoId": "3-rbqUxskJM",
+        "title": "連擁抱，都像在對著屍體敘舊《借來的皮膚》｜這場完美的窒息，我不想再承受｜假性親密・窒息式關係｜沐霧月【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=3-rbqUxskJM",
+        "thumbnail": "https://i.ytimg.com/vi/3-rbqUxskJM/maxresdefault.jpg",
+        "durationSeconds": 225,
+        "publishedAt": "2026-08-11T12:00:06.000+08:00",
+        "fetchedAt": "2026-11-22T01:15:45.085+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.63
+        "genreConfidence": 0.76
       }
     },
     {
