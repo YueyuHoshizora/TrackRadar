@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-21T09:00:19.317+08:00",
+  "lastUpdated": "2026-11-21T09:05:19.552+08:00",
   "latestVideo": {
     "videoId": "jZmMH2Xn5zQ",
     "title": "我們的缺頁｜缺掉的不是一年，是我把疼痛剪成空白｜Yu Stellar｜星語",
@@ -34,7 +34,7 @@
     },
     {
       "videoId": "o0Ch-Jvj9IM",
-      "title": "一個人的慶功｜幸福不必等誰見證，我也值得被慶祝｜Yu Stellar｜星語",
+      "title": "一個人的慶功｜她買了一塊蛋糕，把整個夜晚點亮｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "qYRL35j3kDE",
-      "title": "褪色門牌｜失戀釋懷系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "褪色門牌｜回到七年前的家，她才懂分開沒有壞人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.62
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "HmmOTx9uHIg",
-      "title": "紙箱底層｜藏在最底層的，是我不敢認領的自己｜Yu Stellar｜星語",
+      "title": "紙箱底層｜記憶療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "3bFyZ1276Hg",
-      "title": "反方向的鐘｜滿牆的鐘都逆轉，她卻親手撥回正向｜Yu Stellar｜星語",
+      "title": "反方向的鐘｜回憶可以往回看，人生不能跟著倒走｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.32
     },
@@ -88,13 +88,13 @@
     },
     {
       "videoId": "gmcEUdNEKEA",
-      "title": "白天漏雨｜她錯寄簡報後，同事只問一句還好嗎｜Yu Stellar｜星語",
+      "title": "白天漏雨｜夢沒有追到白天，是我把白天留在夢裡｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
     {
       "videoId": "1yxe-4kDBpg",
-      "title": "草稿裡的春天｜克制想念系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "草稿裡的春天｜想問你過得好不好，最後卻沒有傳送｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -112,19 +112,19 @@
     },
     {
       "videoId": "V6PKbRL0hgg",
-      "title": "再睡五分鐘｜為接回夢中對話，她錯過重要晨會｜Yu Stellar｜星語",
+      "title": "再睡五分鐘｜失眠系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
     {
       "videoId": "jiFzJMuGZSI",
-      "title": "新地址｜她搬進新家，卻把自己遺落在過去｜Yu Stellar｜星語",
+      "title": "新地址｜城市漂泊系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
     {
       "videoId": "-3C7ereuiVk",
-      "title": "沒有日期｜鏡子裡的他，竟有她沒見過的白髮｜Yu Stellar｜星語",
+      "title": "沒有日期｜成熟系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
@@ -154,13 +154,13 @@
     },
     {
       "videoId": "_2PGzG80TEs",
-      "title": "各自的明天｜不是不愛了，只是我們走向不同方向｜Yu Stellar｜星語",
+      "title": "各自的明天｜搬空房間那天，我們把昨天留給彼此｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
     {
       "videoId": "74qi8zBk__E",
-      "title": "藍窗麵包店｜最後一口奶油捲，喚醒兩人的曾經｜Yu Stellar｜星語",
+      "title": "藍窗麵包店｜日常系懷舊華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.68
     },
