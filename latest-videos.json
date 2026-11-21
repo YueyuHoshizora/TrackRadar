@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T21:30:45.400+08:00",
+  "updatedAt": "2026-11-21T21:35:47.649+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -65,15 +65,15 @@
       "channelId": "UCQOPNojFmmirTrJj7Uy_YpA",
       "channelTitle": "浣月Huanyue",
       "latestVideo": {
-        "videoId": "fD6QU1aWKHg",
-        "title": "月滿西樓，人未歸｜《月滿西樓》才下眉頭，卻上心頭｜🎧浣月Huanyue—宋詞意境・中國風歌曲",
-        "url": "https://www.youtube.com/watch?v=fD6QU1aWKHg",
-        "thumbnail": "https://i.ytimg.com/vi_webp/fD6QU1aWKHg/maxresdefault.webp",
-        "durationSeconds": 234,
-        "publishedAt": "2026-11-09T11:55:31.000+08:00",
-        "fetchedAt": "2026-11-21T20:10:19.306+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "VyR6qh2qdSA",
+        "title": "我們不是不愛了，只是你從未懂過我｜《你從未懂我》｜華語流行歌曲・原創情歌🎧浣月Huanyue",
+        "url": "https://www.youtube.com/watch?v=VyR6qh2qdSA",
+        "thumbnail": "https://i.ytimg.com/vi/VyR6qh2qdSA/maxresdefault.jpg",
+        "durationSeconds": 218,
+        "publishedAt": "2026-10-11T10:00:30.000+08:00",
+        "fetchedAt": "2026-11-21T21:35:20.141+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.92
       }
     },
     {
