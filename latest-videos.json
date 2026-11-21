@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-22T03:45:48.467+08:00",
+  "updatedAt": "2026-11-22T03:50:46.716+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "o0Ch-Jvj9IM",
-        "title": "一個人的慶功｜幸福不必等誰見證，我也值得被慶祝｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=o0Ch-Jvj9IM",
-        "thumbnail": "https://i.ytimg.com/vi/o0Ch-Jvj9IM/maxresdefault.jpg",
-        "durationSeconds": 186,
-        "publishedAt": "2026-11-19T17:30:34.000+08:00",
-        "fetchedAt": "2026-11-22T03:10:20.189+08:00",
+        "videoId": "DNpsc4sa67A",
+        "title": "把名字寫好｜當我不再是「我們」，終於成為自己｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=DNpsc4sa67A",
+        "thumbnail": "https://i.ytimg.com/vi/DNpsc4sa67A/maxresdefault.jpg",
+        "durationSeconds": 158,
+        "publishedAt": "2026-11-17T17:30:33.000+08:00",
+        "fetchedAt": "2026-11-22T03:50:19.731+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.44
+        "genreConfidence": 0.42
       }
     },
     {
