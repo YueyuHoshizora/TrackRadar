@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-21T20:35:43.414+08:00",
+  "updatedAt": "2026-11-21T20:40:46.757+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "o0Ch-Jvj9IM",
-        "title": "一個人的慶功｜幸福不必等誰見證，我也值得被慶祝｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=o0Ch-Jvj9IM",
-        "thumbnail": "https://i.ytimg.com/vi/o0Ch-Jvj9IM/maxresdefault.jpg",
-        "durationSeconds": 186,
-        "publishedAt": "2026-11-19T17:30:34.000+08:00",
-        "fetchedAt": "2026-11-21T19:45:19.596+08:00",
+        "videoId": "kIu0xYKDd80",
+        "title": "兩種後來｜我們各自走進後來，才有力氣回頭看｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=kIu0xYKDd80",
+        "thumbnail": "https://i.ytimg.com/vi/kIu0xYKDd80/maxresdefault.jpg",
+        "durationSeconds": 257,
+        "publishedAt": "2026-11-20T05:30:39.000+08:00",
+        "fetchedAt": "2026-11-21T20:40:19.460+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.4
+        "genreConfidence": 0.68
       }
     },
     {
@@ -422,7 +422,7 @@
     },
     {
       "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
-      "channelTitle": "RE:IGN(十二弦月 | 舞月)",
+      "channelTitle": "RE:IGN",
       "latestVideo": {
         "videoId": "SQdiIjYbfnk",
         "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
