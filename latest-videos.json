@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-21T18:40:44.807+08:00",
+  "updatedAt": "2026-11-21T18:45:45.893+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "jZmMH2Xn5zQ",
-        "title": "我們的缺頁｜缺掉的不是一年，是我把疼痛剪成空白｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=jZmMH2Xn5zQ",
-        "thumbnail": "https://i.ytimg.com/vi/jZmMH2Xn5zQ/maxresdefault.jpg",
-        "durationSeconds": 234,
-        "publishedAt": "2026-11-21T05:30:06.000+08:00",
-        "fetchedAt": "2026-11-21T05:30:32.210+08:00",
+        "videoId": "kIu0xYKDd80",
+        "title": "兩種後來｜我們各自走進後來，才有力氣回頭看｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=kIu0xYKDd80",
+        "thumbnail": "https://i.ytimg.com/vi/kIu0xYKDd80/maxresdefault.jpg",
+        "durationSeconds": 257,
+        "publishedAt": "2026-11-20T05:30:39.000+08:00",
+        "fetchedAt": "2026-11-21T18:45:19.258+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.79
+        "genreConfidence": 0.65
       }
     },
     {
@@ -454,15 +454,15 @@
       "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
       "channelTitle": "沐霧月",
       "latestVideo": {
-        "videoId": "7Ts7GH8FBMQ",
-        "title": "「無端」這二字，是我最後的謊言《無端》｜我沒有回頭，也不敢回頭｜不敢說的暗戀・古風虐心｜沐霧月【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=7Ts7GH8FBMQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/7Ts7GH8FBMQ/maxresdefault.webp?v=6a9572bb",
-        "durationSeconds": 213,
-        "publishedAt": "2026-09-01T12:00:06.000+08:00",
-        "fetchedAt": "2026-11-21T18:15:41.812+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 1
+        "videoId": "3-rbqUxskJM",
+        "title": "連擁抱，都像在對著屍體敘舊《借來的皮膚》｜這場完美的窒息，我不想再承受｜假性親密・窒息式關係｜沐霧月【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=3-rbqUxskJM",
+        "thumbnail": "https://i.ytimg.com/vi/3-rbqUxskJM/maxresdefault.jpg",
+        "durationSeconds": 225,
+        "publishedAt": "2026-08-11T12:00:06.000+08:00",
+        "fetchedAt": "2026-11-21T18:45:41.512+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.74
       }
     },
     {
@@ -484,15 +484,15 @@
       "channelId": "UCMnJRS4rX8Hc5c5zZETWOfw",
       "channelTitle": "達絲琪 Dasuki",
       "latestVideo": {
-        "videoId": "IurZfRzTiO8",
-        "title": "《天翻地覆》自從遇見你，我的世界就亂了節奏…💗 達絲琪 feat. LUNARIA｜K-Pop × City Pop 原創音樂【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=IurZfRzTiO8",
-        "thumbnail": "https://i.ytimg.com/vi_webp/IurZfRzTiO8/maxresdefault.webp",
-        "durationSeconds": 253,
-        "publishedAt": "2026-11-17T19:00:10.000+08:00",
-        "fetchedAt": "2026-11-20T15:41:08.651+08:00",
-        "genre": "流行 Pop",
-        "genreConfidence": 0.95
+        "videoId": "YHJuPhDTLME",
+        "title": "《奇怪少女日記》我怪得很合理，你不懂也沒關係😝💗 達絲琪｜原創音樂【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=YHJuPhDTLME",
+        "thumbnail": "https://i.ytimg.com/vi_webp/YHJuPhDTLME/maxresdefault.webp",
+        "durationSeconds": 196,
+        "publishedAt": "2026-11-10T20:00:05.000+08:00",
+        "fetchedAt": "2026-11-21T18:45:41.440+08:00",
+        "genre": "獨立音樂 Indie",
+        "genreConfidence": 0.35
       }
     },
     {
