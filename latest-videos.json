@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-22T01:40:47.866+08:00",
+  "updatedAt": "2026-11-22T01:45:48.875+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
-      "channelTitle": "Yu Starry Music",
+      "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "r3gHEOL3hXw",
-        "title": "你不知道的晴天｜沒有你的日子，我也活成了晴天｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=r3gHEOL3hXw",
-        "thumbnail": "https://i.ytimg.com/vi/r3gHEOL3hXw/maxresdefault.jpg",
-        "durationSeconds": 187,
-        "publishedAt": "2026-11-18T17:30:24.000+08:00",
-        "fetchedAt": "2026-11-22T00:45:20.187+08:00",
+        "videoId": "HmmOTx9uHIg",
+        "title": "紙箱底層｜藏在最底層的，是我不敢認領的自己｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=HmmOTx9uHIg",
+        "thumbnail": "https://i.ytimg.com/vi/HmmOTx9uHIg/maxresdefault.jpg",
+        "durationSeconds": 245,
+        "publishedAt": "2026-11-17T05:30:31.000+08:00",
+        "fetchedAt": "2026-11-22T01:45:20.525+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.86
+        "genreConfidence": 0.66
       }
     },
     {
