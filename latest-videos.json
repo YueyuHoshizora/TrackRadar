@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-21T22:45:50.764+08:00",
+  "updatedAt": "2026-11-21T22:50:48.444+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "kIu0xYKDd80",
-        "title": "兩種後來｜我們各自走進後來，才有力氣回頭看｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=kIu0xYKDd80",
-        "thumbnail": "https://i.ytimg.com/vi/kIu0xYKDd80/maxresdefault.jpg",
-        "durationSeconds": 257,
-        "publishedAt": "2026-11-20T05:30:39.000+08:00",
-        "fetchedAt": "2026-11-21T20:40:19.460+08:00",
+        "videoId": "jZmMH2Xn5zQ",
+        "title": "我們的缺頁｜缺掉的不是一年，是我把疼痛剪成空白｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=jZmMH2Xn5zQ",
+        "thumbnail": "https://i.ytimg.com/vi/jZmMH2Xn5zQ/maxresdefault.jpg",
+        "durationSeconds": 234,
+        "publishedAt": "2026-11-21T05:30:06.000+08:00",
+        "fetchedAt": "2026-11-21T22:50:19.836+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.68
+        "genreConfidence": 0.77
       }
     },
     {
