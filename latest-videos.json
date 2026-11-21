@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-22T05:10:44.180+08:00",
+  "updatedAt": "2026-11-22T05:15:44.635+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "_CP-HKJCqro",
-        "title": "未寄出的夏天｜我們不是不愛，只把體貼用成沉默｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=_CP-HKJCqro",
-        "thumbnail": "https://i.ytimg.com/vi/_CP-HKJCqro/maxresdefault.jpg",
-        "durationSeconds": 239,
-        "publishedAt": "2026-11-19T05:30:35.000+08:00",
-        "fetchedAt": "2026-11-22T04:25:20.534+08:00",
+        "videoId": "qYRL35j3kDE",
+        "title": "褪色門牌｜門牌退了色，住過的人都已經向前｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=qYRL35j3kDE",
+        "thumbnail": "https://i.ytimg.com/vi/qYRL35j3kDE/maxresdefault.jpg",
+        "durationSeconds": 259,
+        "publishedAt": "2026-11-18T05:30:24.000+08:00",
+        "fetchedAt": "2026-11-22T05:15:20.176+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.97
+        "genreConfidence": 0.65
       }
     },
     {
@@ -35,13 +35,13 @@
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
       "channelTitle": "COYA可夜",
       "latestVideo": {
-        "videoId": "CAejqofvylE",
-        "title": "「人間算盤珠落盡，陰司業秤不差分。」⚖️｜《五官王》｜可夜｜新國風｜Official MV｜十殿閻羅・四門量罪｜神鬼誌EP2・第四殿",
-        "url": "https://www.youtube.com/watch?v=CAejqofvylE",
-        "thumbnail": "https://i.ytimg.com/vi/CAejqofvylE/maxresdefault.jpg",
-        "durationSeconds": 212,
-        "publishedAt": "2026-10-23T10:30:38.000+08:00",
-        "fetchedAt": "2026-11-22T03:25:21.424+08:00",
+        "videoId": "9tQAStcux4g",
+        "title": "觀眾許願・神將降世「一念成魔，萬鬼驚；一念成神，護蒼生。」⚔️｜《官將首》男聲版｜可夜｜新國風｜【Official Music Video】｜#神鬼誌EP1 一鎮",
+        "url": "https://www.youtube.com/watch?v=9tQAStcux4g",
+        "thumbnail": "https://i.ytimg.com/vi_webp/9tQAStcux4g/maxresdefault.webp",
+        "durationSeconds": 243,
+        "publishedAt": "2026-11-15T09:30:18.000+08:00",
+        "fetchedAt": "2026-11-22T05:15:19.560+08:00",
         "genre": "古風/國風 Chinese Style",
         "genreConfidence": 1
       }
