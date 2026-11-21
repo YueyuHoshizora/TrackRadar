@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-22T04:20:50.355+08:00",
+  "updatedAt": "2026-11-22T04:25:46.284+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "DNpsc4sa67A",
-        "title": "把名字寫好｜當我不再是「我們」，終於成為自己｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=DNpsc4sa67A",
-        "thumbnail": "https://i.ytimg.com/vi/DNpsc4sa67A/maxresdefault.jpg",
-        "durationSeconds": 158,
-        "publishedAt": "2026-11-17T17:30:33.000+08:00",
-        "fetchedAt": "2026-11-22T03:50:19.731+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.42
+        "videoId": "_CP-HKJCqro",
+        "title": "未寄出的夏天｜我們不是不愛，只把體貼用成沉默｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=_CP-HKJCqro",
+        "thumbnail": "https://i.ytimg.com/vi/_CP-HKJCqro/maxresdefault.jpg",
+        "durationSeconds": 239,
+        "publishedAt": "2026-11-19T05:30:35.000+08:00",
+        "fetchedAt": "2026-11-22T04:25:20.534+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.97
       }
     },
     {
