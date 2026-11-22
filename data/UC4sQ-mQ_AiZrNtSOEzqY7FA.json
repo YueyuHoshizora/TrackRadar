@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-22T08:10:21.784+08:00",
+  "lastUpdated": "2026-11-22T08:15:20.086+08:00",
   "latestVideo": {
     "videoId": "XPRtmQXNbKA",
     "title": "那天沒說完｜那天沒說完的，不是挽留，是一聲保重｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "XPRtmQXNbKA",
-      "title": "那天沒說完｜那天沒說完的，不是挽留，是一聲保重｜Yu Stellar｜星語",
+      "title": "那天沒說完｜告別系華語催淚情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
     {
       "videoId": "LCGHuGlIjjM",
-      "title": "遠行的週末｜她獨自上路，把遠方帶回日常｜Yu Stellar｜星語",
+      "title": "遠行的週末｜一個人旅行後，我才發現世界很大｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.51
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "_CP-HKJCqro",
-      "title": "未寄出的夏天｜遺憾系華語愛情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "未寄出的夏天｜兩封沒寄出的信，竟寫著同一句話｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -70,7 +70,7 @@
     },
     {
       "videoId": "DNpsc4sa67A",
-      "title": "把名字寫好｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "把名字寫好｜完成第一個專案後，她把名字寫進未來｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "hgIOOkNagbc",
-      "title": "夜班之後｜職場成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "夜班之後｜錯過末班車後，她看見自己的光｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
@@ -112,13 +112,13 @@
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜我把夢搬成家，門牌卻寫著到此為止｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜夢境系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
     {
       "videoId": "egAdIrWQwI0",
-      "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
+      "title": "陌生燈火｜都市孤獨系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "-3C7ereuiVk",
-      "title": "沒有日期｜成熟系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "沒有日期｜鏡子裡的他，竟有她沒見過的白髮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
@@ -148,7 +148,7 @@
     },
     {
       "videoId": "KIEnCXnKOvo",
-      "title": "昨天的電車｜電車開向昨天，我卻坐著今天的自己｜Yu Stellar｜星語",
+      "title": "昨天的電車｜時間旅行系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.59
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "cOOoMebe-8M",
-      "title": "口袋裡的票｜遺憾系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "口袋裡的票｜沒有目的地的票，為何印著七年前？｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.77
     },
@@ -172,7 +172,7 @@
     },
     {
       "videoId": "74qi8zBk__E",
-      "title": "藍窗麵包店｜日常系懷舊華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "藍窗麵包店｜最後一口奶油捲，喚醒兩人的曾經｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.68
     },
