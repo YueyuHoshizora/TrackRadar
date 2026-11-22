@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-11-22T19:45:44.686+08:00",
+  "lastUpdated": "2026-11-22T19:50:42.808+08:00",
   "latestVideo": {
     "videoId": "6MB4hA6Ujxs",
     "title": "不求被記得，只求一瞬的愛情《獻給黑暗的向日葵》｜深夜暗黑抒情・細膩女聲｜霧月 Xiaoloulou｜【Lyric Video】",
@@ -15,10 +15,16 @@
   },
   "allVideoIds": [
     {
-      "videoId": "x3nNMZaKDws",
+      "videoId": "Fd4KE_I77U4",
       "title": "還不想睡，就再聽一首｜24H 情感樹洞・華語原創歌曲連播｜未盡之歌・霧月 Xiaoloulou",
       "genre": "抒情/情歌 Ballad",
-      "genreConfidence": 0.86
+      "genreConfidence": 0.85
+    },
+    {
+      "videoId": "wUl_tMK8yos",
+      "title": "還不想睡，就再聽一首｜24H 情感樹洞・華語原創歌曲連播｜未盡之歌・霧月 Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "I8576cvuwL8",
