@@ -1,7 +1,7 @@
 {
   "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
   "channelTitle": "沐霧月",
-  "lastUpdated": "2026-11-22T07:40:37.208+08:00",
+  "lastUpdated": "2026-11-22T16:00:42.522+08:00",
   "latestVideo": {
     "videoId": "-XNQYYydYPE",
     "title": "沒有人救我，我就救自己《我就是彼岸》｜我不等天亮了——我自己，就是火焰｜自我救贖・華語抒情｜霧月詞・沐霧月【Official Lyric Video】",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "pIShLWU0eZA",
+      "title": "沒人停下腳步，體會妳的累《深藍色的化身》｜深夜藍調抒情・魅惑女聲｜沐霧月【Lyric Video】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.71
+    },
     {
       "videoId": "MyX-g5ogqnU",
       "title": "我問妳下輩子，妳卻許我這一生《偏偏是卿》 完整版請搜尋 霧月 Xiaoloulou",
