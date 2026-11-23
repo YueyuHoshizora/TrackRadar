@@ -1,7 +1,7 @@
 {
   "channelId": "UCVI2AFYQsZtDvKsX6i_VJpw",
   "channelTitle": "橙雨chengyu",
-  "lastUpdated": "2026-11-13T08:35:58.276+08:00",
+  "lastUpdated": "2026-11-24T07:55:55.308+08:00",
   "latestVideo": {
     "videoId": "3WhpSHF339k",
     "title": "《GEMINI》한국어 노래｜전체 가사｜橙雨 chengyu × 空音 Ѕкуℓιηє",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.58
   },
   "allVideoIds": [
+    {
+      "videoId": "RsFEdU68wpE",
+      "title": "韓國旅遊最後一天！釜山收心～",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.99
+    },
     {
       "videoId": "3WhpSHF339k",
       "title": "《GEMINI》한국어 노래｜전체 가사｜橙雨 chengyu × 空音 Ѕкуℓιηє",
