@@ -1,7 +1,7 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-11-23T06:50:35.141+08:00",
+  "lastUpdated": "2026-11-23T15:45:32.900+08:00",
   "latestVideo": {
     "videoId": "ju2kcePth4w",
     "title": "台語大帝國｜《好啦，就到遮》Asher 凜 & 李多娜｜明明還愛著，卻只能說再見｜筠芙得利【Official MV】",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.81
   },
   "allVideoIds": [
+    {
+      "videoId": "MiffDYTGLnQ",
+      "title": "台語大帝國｜李多娜《明仔載才回》｜下班了，別再催我回訊息！明天再回｜筠芙得利【Official MV】",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.4
+    },
     {
       "videoId": "xlZCn_gWX2w",
       "title": "台語大帝國｜李多娜12首人氣副歌精華串燒｜給我一首歌的時間，給你滿滿的李多娜！｜筠芙得利",
