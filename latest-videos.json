@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-24T05:35:53.738+08:00",
+  "updatedAt": "2026-11-24T05:40:55.631+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "B_pgjTliqYk",
-        "title": "晚風知道｜我還會想起你，卻不再靠回憶呼吸｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=B_pgjTliqYk",
-        "thumbnail": "https://i.ytimg.com/vi/B_pgjTliqYk/maxresdefault.jpg",
-        "durationSeconds": 182,
-        "publishedAt": "2026-11-23T17:30:01.000+08:00",
-        "fetchedAt": "2026-11-24T02:40:34.270+08:00",
+        "videoId": "MMUsSWuSzhg",
+        "title": "最後一班船｜最後一班船，只載我們把那天走完｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=MMUsSWuSzhg",
+        "thumbnail": "https://i.ytimg.com/vi/MMUsSWuSzhg/maxresdefault.jpg",
+        "durationSeconds": 263,
+        "publishedAt": "2026-11-24T05:30:39.000+08:00",
+        "fetchedAt": "2026-11-24T05:40:34.897+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.94
+        "genreConfidence": 0.68
       }
     },
     {
