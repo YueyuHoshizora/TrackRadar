@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-24T07:10:36.112+08:00",
+  "lastUpdated": "2026-11-24T07:15:36.279+08:00",
   "latestVideo": {
     "videoId": "MMUsSWuSzhg",
     "title": "最後一班船｜最後一班船，只載我們把那天走完｜Yu Stellar｜星語",
@@ -40,13 +40,13 @@
     },
     {
       "videoId": "XPRtmQXNbKA",
-      "title": "那天沒說完｜她說改天再見，沒想到一等就是七年｜Yu Stellar｜星語",
+      "title": "那天沒說完｜告別系華語催淚情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
     {
       "videoId": "LCGHuGlIjjM",
-      "title": "遠行的週末｜獨旅成長系華語女聲療癒歌｜Yu Stellar｜星語",
+      "title": "遠行的週末｜一個人旅行後，我才發現世界很大｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.51
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "zDzWhZ6IchQ",
-      "title": "工作證背面｜轉職追夢系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "工作證背面｜你以為我安穩，其實我也想去遠方｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -118,13 +118,13 @@
     },
     {
       "videoId": "hgIOOkNagbc",
-      "title": "夜班之後｜沒有人等我下班，我也能走到天亮｜Yu Stellar｜星語",
+      "title": "夜班之後｜錯過末班車後，她看見自己的光｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
     {
       "videoId": "gmcEUdNEKEA",
-      "title": "白天漏雨｜她錯寄簡報後，同事只問一句還好嗎｜Yu Stellar｜星語",
+      "title": "白天漏雨｜夢沒有追到白天，是我把白天留在夢裡｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜兩張尺寸不同的床，揭穿住不下的夢｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜夢境系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
