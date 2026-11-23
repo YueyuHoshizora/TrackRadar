@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-11-23T06:50:53.092+08:00",
+  "lastUpdated": "2026-11-23T21:40:58.461+08:00",
   "latestVideo": {
     "videoId": "I8576cvuwL8",
     "title": "世界都在往前，只有我還停在原地《孤聲之形》｜深夜傷感抒情・細膩女聲｜霧月 Xiaoloulou【Lyric Video】",
@@ -15,22 +15,16 @@
   },
   "allVideoIds": [
     {
+      "videoId": "rw4c0s_0poI",
+      "title": "還不想睡，就再聽一首｜24H 情感樹洞・華語原創歌曲連播｜未盡之歌・霧月 Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
+    },
+    {
       "videoId": "gNISGOMfzlo",
       "title": "就說這只是場雨，不是我的哭泣《別讓她看見我流淚》全新編曲｜深夜傷感抒情・細膩女聲｜霧月 Xiaoloulou【Lyric Video】",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.94
-    },
-    {
-      "videoId": "Fd4KE_I77U4",
-      "title": "還不想睡，就再聽一首｜24H 情感樹洞・華語原創歌曲連播｜未盡之歌・霧月 Xiaoloulou",
-      "genre": "抒情/情歌 Ballad",
-      "genreConfidence": 0.85
-    },
-    {
-      "videoId": "wUl_tMK8yos",
-      "title": "還不想睡，就再聽一首｜24H 情感樹洞・華語原創歌曲連播｜未盡之歌・霧月 Xiaoloulou",
-      "genre": "抒情/情歌 Ballad",
-      "genreConfidence": 0.83
     },
     {
       "videoId": "I8576cvuwL8",
