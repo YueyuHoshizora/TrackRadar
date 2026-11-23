@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-23T17:50:31.492+08:00",
+  "lastUpdated": "2026-11-23T17:55:30.243+08:00",
   "latestVideo": {
     "videoId": "o0Ch-Jvj9IM",
     "title": "一個人的慶功｜幸福不必等誰見證，我也值得被慶祝｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "B_pgjTliqYk",
-      "title": "晚風知道｜我還會想起你，卻不再靠回憶呼吸｜Yu Stellar｜星語",
+      "title": "晚風知道｜放下前任系華語女聲療癒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -28,13 +28,13 @@
     },
     {
       "videoId": "rEMze84l3wE",
-      "title": "改過的窗簾｜放下不是忘記，是讓生活重新有光｜Yu Stellar｜星語",
+      "title": "改過的窗簾｜換掉舊窗簾後，她終於住進自己的家｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
     {
       "videoId": "XPRtmQXNbKA",
-      "title": "那天沒說完｜告別系華語催淚情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "那天沒說完｜她說改天再見，沒想到一等就是七年｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "o0Ch-Jvj9IM",
-      "title": "一個人的慶功｜獨處療癒系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "一個人的慶功｜她買了一塊蛋糕，把整個夜晚點亮｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
@@ -100,7 +100,7 @@
     },
     {
       "videoId": "Lu56mP24o3U",
-      "title": "房間有了聲音｜獨居療癒系華語女聲歌曲｜Yu Stellar｜星語",
+      "title": "房間有了聲音｜一個人生活，也會慢慢長出幸福｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
@@ -130,19 +130,19 @@
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜夢境系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜兩張尺寸不同的床，揭穿住不下的夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
     {
       "videoId": "egAdIrWQwI0",
-      "title": "陌生燈火｜都市孤獨系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "陌生燈火｜深夜便利商店裡，她學會獨自生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
     {
       "videoId": "V6PKbRL0hgg",
-      "title": "再睡五分鐘｜失眠系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "再睡五分鐘｜我一次次關掉鬧鐘，只為留你到天亮｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.91
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "KIEnCXnKOvo",
-      "title": "昨天的電車｜時間旅行系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "昨天的電車｜每一站上車的，都是不同年紀的她｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.59
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "cOOoMebe-8M",
-      "title": "口袋裡的票｜沒有目的地的票，為何印著七年前？｜Yu Stellar｜星語",
+      "title": "口袋裡的票｜票留著兩個座位，故事卻少了散場以後｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.77
     },
@@ -196,7 +196,7 @@
     },
     {
       "videoId": "22eYZJPkosk",
-      "title": "未寄的信｜雨夜失戀系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "未寄的信｜那封停在「都怪我」以前的信｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.95
     },
@@ -208,7 +208,7 @@
     },
     {
       "videoId": "8VWd18B68mM",
-      "title": "門牌之間｜兩個門牌，如何變成我們的家｜Yu Stellar｜星語",
+      "title": "門牌之間｜真正的愛，是把你寫進每一天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -244,7 +244,7 @@
     },
     {
       "videoId": "DjPid_4O2wI",
-      "title": "紙鳶未收線｜原來心動，是兩個人都故意放慢腳步｜Yu Stellar｜星語",
+      "title": "紙鳶未收線｜紙鳶纏上欄杆後，我們在春風裡相遇｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.61
     },
