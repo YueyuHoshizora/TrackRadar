@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-24T20:01:01.520+08:00",
+  "lastUpdated": "2026-11-24T20:05:57.874+08:00",
   "latestVideo": {
     "videoId": "oTbVmHfCFTo",
     "title": "空音「一個人搬屋」Official Music Video",
@@ -802,27 +802,39 @@
     },
     {
       "videoId": "u36vwViI5wM",
-      "title": "點破平靜之後 | 空音｜最新愛情粵語MV"
+      "title": "點破平靜之後 | 空音｜最新愛情粵語MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "hoxks2A5itc",
-      "title": "練習微笑的後遺症 ｜空音｜另類情感粵語MV"
+      "title": "練習微笑的後遺症 ｜空音｜另類情感粵語MV",
+      "genre": "獨立音樂 Indie",
+      "genreConfidence": 0.49
     },
     {
       "videoId": "p-yNDrlcx7w",
-      "title": "平行冥想 ｜ 空音｜冥想心靈系列 粵語MV"
+      "title": "平行冥想 ｜ 空音｜冥想心靈系列 粵語MV",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.45
     },
     {
       "videoId": "LwRVJRZDYbk",
-      "title": "蝶夢餘息 ｜空音｜夢蝶 夢境 莊周 情感系列 粵語MV"
+      "title": "蝶夢餘息 ｜空音｜夢蝶 夢境 莊周 情感系列 粵語MV",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "pDCIP2q6xlE",
-      "title": "霜降：滿天星"
+      "title": "霜降：滿天星",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "1j92x40xBGY",
-      "title": "霜降：滿天星 ｜空音｜愛情悲傷分手粵語流行曲MV"
+      "title": "霜降：滿天星 ｜空音｜愛情悲傷分手粵語流行曲MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.68
     }
   ]
 }
