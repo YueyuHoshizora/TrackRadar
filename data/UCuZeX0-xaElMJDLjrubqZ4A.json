@@ -1,7 +1,7 @@
 {
   "channelId": "UCuZeX0-xaElMJDLjrubqZ4A",
   "channelTitle": "Mini筱琁&羊羊",
-  "lastUpdated": "2026-11-24T20:26:00.511+08:00",
+  "lastUpdated": "2026-11-24T20:31:03.215+08:00",
   "latestVideo": {
     "videoId": "UY-UpwN16Mo",
     "title": "跟著Mini筱琁&羊羊認識聖經中關於「靈魂三部分」與「轉向祂的悔改」｜《奧秘之音》MV｜Mini筱琁&羊羊",
@@ -976,31 +976,45 @@
     },
     {
       "videoId": "25wx3Ui3zGk",
-      "title": "《心中的花園》━Mini筱琁&羊羊兒童睡前故事"
+      "title": "《心中的花園》━Mini筱琁&羊羊兒童睡前故事",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "o1SIcz6reKM",
-      "title": "2025年10月29日"
+      "title": "2025年10月29日",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "TfsOJqdMxM4",
-      "title": "《空空的小杯子》— Mini筱琁和羊羊的溫暖睡前故事｜心要空，愛才能進來"
+      "title": "《空空的小杯子》— Mini筱琁和羊羊的溫暖睡前故事｜心要空，愛才能進來",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "PX9APv9Jpxg",
-      "title": "Mini筱琁&羊羊禱告時間━靈裡貧窮的人有福了 因為諸天的國是他們的"
+      "title": "Mini筱琁&羊羊禱告時間━靈裡貧窮的人有福了 因為諸天的國是他們的",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.88
     },
     {
       "videoId": "io3JffnCprg",
-      "title": "(請打開cc字幂)Mini 筱琁 Channel：無助的我在神的呼喚中找到了新的生命3 如果我能更早遇見祢"
+      "title": "(請打開cc字幂)Mini 筱琁 Channel：無助的我在神的呼喚中找到了新的生命3 如果我能更早遇見祢",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "tJGraBMzGPw",
-      "title": "(請打開cc字幂)Mini 筱琁 Channel：無助的我在神的呼喚中找到了新的生命-七年前的惡夢"
+      "title": "(請打開cc字幂)Mini 筱琁 Channel：無助的我在神的呼喚中找到了新的生命-七年前的惡夢",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "a0D1GbpZ86o",
-      "title": "Mini 筱琁 Channel：無助的我在神的呼喚中找到了新的生命"
+      "title": "Mini 筱琁 Channel：無助的我在神的呼喚中找到了新的生命",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.71
     }
   ]
 }
