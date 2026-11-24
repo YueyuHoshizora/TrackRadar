@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:11:02.191+08:00",
+  "updatedAt": "2026-11-24T20:16:02.604+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -184,15 +184,15 @@
       "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
       "channelTitle": "ChillVibes",
       "latestVideo": {
-        "videoId": "6JlUCznJvs0",
-        "title": "連發呆都要預約｜長大以後，連發呆也要替自己留一個位置【華語 Chill Pop × R&B 原創MV】｜夜晚散步・放鬆",
-        "url": "https://www.youtube.com/watch?v=6JlUCznJvs0",
-        "thumbnail": "https://i.ytimg.com/vi_webp/6JlUCznJvs0/maxresdefault.webp",
-        "durationSeconds": 247,
-        "publishedAt": "2026-11-06T21:00:19.000+08:00",
-        "fetchedAt": "2026-11-24T20:05:41.999+08:00",
-        "genre": "流行 Pop",
-        "genreConfidence": 0.47
+        "videoId": "PaiKmwWCIJU",
+        "title": "晚一點回｜不是不在乎，只是今晚想先安靜一會【華語抒情 R&B × Chill Pop 原創MV】｜下班・通勤・放鬆",
+        "url": "https://www.youtube.com/watch?v=PaiKmwWCIJU",
+        "thumbnail": "https://i.ytimg.com/vi_webp/PaiKmwWCIJU/maxresdefault.webp",
+        "durationSeconds": 242,
+        "publishedAt": "2026-11-03T21:00:38.000+08:00",
+        "fetchedAt": "2026-11-24T20:15:41.857+08:00",
+        "genre": "R&B/Soul",
+        "genreConfidence": 0.75
       }
     },
     {
