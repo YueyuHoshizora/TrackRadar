@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-24T19:35:56.276+08:00",
+  "lastUpdated": "2026-11-24T19:40:58.288+08:00",
   "latestVideo": {
     "videoId": "oTbVmHfCFTo",
     "title": "空音「一個人搬屋」Official Music Video",
@@ -502,43 +502,63 @@
     },
     {
       "videoId": "lv966kPILas",
-      "title": "空音「百鬼綿花糖」Official Music Video"
+      "title": "空音「百鬼綿花糖」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "HqyqupNnRyg",
-      "title": "讓色彩四濺｜由呢秒開始"
+      "title": "讓色彩四濺｜由呢秒開始",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.42
     },
     {
       "videoId": "2BkTspjixFY",
-      "title": "塗掉這張臉 ｜空音｜讓色彩四濺｜情感舒緩粵語流行曲 OFFICIAL Music Video"
+      "title": "塗掉這張臉 ｜空音｜讓色彩四濺｜情感舒緩粵語流行曲 OFFICIAL Music Video",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "LxoB90AsbpE",
-      "title": "親完就走｜連個名都唔留"
+      "title": "親完就走｜連個名都唔留",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.45
     },
     {
       "videoId": "-2OV4QiWvRc",
-      "title": "查無此人的吻｜空音｜古風悲傷情感粵語流行曲 OFFICIAL Music Video"
+      "title": "查無此人的吻｜空音｜古風悲傷情感粵語流行曲 OFFICIAL Music Video",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.96
     },
     {
       "videoId": "0ZRnm1u9G6c",
-      "title": "The Queen's Secret｜Never Confessed"
+      "title": "The Queen's Secret｜Never Confessed",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.66
     },
     {
       "videoId": "EnsVhv38n_Q",
-      "title": "圓・緣・願｜月圓緣完願未完"
+      "title": "圓・緣・願｜月圓緣完願未完",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "dWvuka3G8m0",
-      "title": "平淡都好｜有你就夠"
+      "title": "平淡都好｜有你就夠",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "2jCBvchThgw",
-      "title": "陪你走過平淡流年 ｜空音｜溫暖愛情粵語流行曲 OFFICIAL MV"
+      "title": "陪你走過平淡流年 ｜空音｜溫暖愛情粵語流行曲 OFFICIAL MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "0MWQx-Zi7sM",
-      "title": "每天多想你一點點"
+      "title": "每天多想你一點點",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "qTugHzZeL8U",
