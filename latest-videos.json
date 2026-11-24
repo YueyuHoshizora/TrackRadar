@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:11:59.970+08:00",
+  "updatedAt": "2026-11-24T19:16:07.401+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -543,7 +543,17 @@
     {
       "channelId": "UCuZeX0-xaElMJDLjrubqZ4A",
       "channelTitle": "Mini筱琁&羊羊",
-      "latestVideo": null
+      "latestVideo": {
+        "videoId": "UY-UpwN16Mo",
+        "title": "跟著Mini筱琁&羊羊認識聖經中關於「靈魂三部分」與「轉向祂的悔改」｜《奧秘之音》MV｜Mini筱琁&羊羊",
+        "url": "https://www.youtube.com/watch?v=UY-UpwN16Mo",
+        "thumbnail": "https://i.ytimg.com/vi/UY-UpwN16Mo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGH8gICgcMA8=&rs=AOn4CLBZWpJB2PAI8vhBJAC8WDnwpubSDw",
+        "durationSeconds": 167,
+        "publishedAt": "2026-10-06T17:47:58.000+08:00",
+        "fetchedAt": "2026-11-24T19:15:53.948+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.88
+      }
     }
   ]
 }
