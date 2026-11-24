@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:11:00.000+08:00",
+  "updatedAt": "2026-11-24T19:11:59.970+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -539,6 +539,11 @@
         "genre": "其他/無法判斷 Other",
         "genreConfidence": 0.52
       }
+    },
+    {
+      "channelId": "UCuZeX0-xaElMJDLjrubqZ4A",
+      "channelTitle": "Mini筱琁&羊羊",
+      "latestVideo": null
     }
   ]
 }
