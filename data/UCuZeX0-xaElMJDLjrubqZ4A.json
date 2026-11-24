@@ -1,7 +1,7 @@
 {
   "channelId": "UCuZeX0-xaElMJDLjrubqZ4A",
   "channelTitle": "Mini筱琁&羊羊",
-  "lastUpdated": "2026-11-24T20:21:00.087+08:00",
+  "lastUpdated": "2026-11-24T20:26:00.511+08:00",
   "latestVideo": {
     "videoId": "UY-UpwN16Mo",
     "title": "跟著Mini筱琁&羊羊認識聖經中關於「靈魂三部分」與「轉向祂的悔改」｜《奧秘之音》MV｜Mini筱琁&羊羊",
@@ -916,43 +916,63 @@
     },
     {
       "videoId": "9IBGp7tllZQ",
-      "title": "《為什麼點心吃不飽》mini筱琁&羊羊#睡前故事"
+      "title": "《為什麼點心吃不飽》mini筱琁&羊羊#睡前故事",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "l0GFsQlK9oU",
-      "title": "《溫柔的力量》mini筱琁&羊羊#睡前故事"
+      "title": "《溫柔的力量》mini筱琁&羊羊#睡前故事",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "CiWVYwwSX-g",
-      "title": "《溫柔的力量》mini筱琁&羊羊#睡前故事"
+      "title": "《溫柔的力量》mini筱琁&羊羊#睡前故事",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "LZi8D7dcE1g",
-      "title": "《哀慟的人有福了》｜mini筱琁故事屋 × 小羊羊"
+      "title": "《哀慟的人有福了》｜mini筱琁故事屋 × 小羊羊",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "eFf6d-97PA0",
-      "title": "《星光之城的自然低語：3H 深度放鬆鳥鳴音樂》"
+      "title": "《星光之城的自然低語：3H 深度放鬆鳥鳴音樂》",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "yuneQODergU",
-      "title": "《憐憫的小手》Mini筱琁&羊羊#兒童故事 #幼兒睡前故事 #睡前故事 #family #cartoon #animation #兒童睡前故事"
+      "title": "《憐憫的小手》Mini筱琁&羊羊#兒童故事 #幼兒睡前故事 #睡前故事 #family #cartoon #animation #兒童睡前故事",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.87
     },
     {
       "videoId": "6CBmt1yck7U",
-      "title": "No Worries for Tomorrow Minixiaoxuan’s Bedtime Story #family #兒童故事 #animation #cartoon #睡前故事#英語#英語故事"
+      "title": "No Worries for Tomorrow Minixiaoxuan’s Bedtime Story #family #兒童故事 #animation #cartoon #睡前故事#英語#英語故事",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "Sc0YiIy42uw",
-      "title": "《心中的花園》mini筱琁&羊羊兒童睡前故事#family #animation #兒童故事 #睡前故事 #兒童睡前故事"
+      "title": "《心中的花園》mini筱琁&羊羊兒童睡前故事#family #animation #兒童故事 #睡前故事 #兒童睡前故事",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "M0YOeQUmTDk",
-      "title": "不要為明天憂慮"
+      "title": "不要為明天憂慮",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.42
     },
     {
       "videoId": "g7fTiEvyIeE",
-      "title": "不要為明天憂慮 #family #animation #主的恢復 #cartoon #兒童故事 #睡前故事"
+      "title": "不要為明天憂慮 #family #animation #主的恢復 #cartoon #兒童故事 #睡前故事",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "25wx3Ui3zGk",
