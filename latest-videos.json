@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:35:58.165+08:00",
+  "updatedAt": "2026-11-24T12:40:58.735+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -33,7 +33,7 @@
     },
     {
       "channelId": "UCdUiLDnjJc3fcH-0wT7CFpg",
-      "channelTitle": "COYA",
+      "channelTitle": "COYA可夜",
       "latestVideo": {
         "videoId": "k3c8GHtX2IU",
         "title": "「能破千軍與萬馬，難破廟堂一局謀。」⚔️｜《山河未竟》｜可夜｜新國風｜【Official Music Video】｜亂世歌｜岳飛北伐・十二金牌・壯志未酬",
@@ -214,13 +214,13 @@
       "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
       "channelTitle": "EIRYN",
       "latestVideo": {
-        "videoId": "jsnpzl1bvn8",
-        "title": "《你好嗎》｜這句話，我藏了好多年…你最近過得好嗎？💔｜EIRYN 原創華語情歌",
-        "url": "https://www.youtube.com/watch?v=jsnpzl1bvn8",
-        "thumbnail": "https://i.ytimg.com/vi/jsnpzl1bvn8/maxresdefault.jpg",
-        "durationSeconds": 287,
-        "publishedAt": "2026-11-20T11:30:06.000+08:00",
-        "fetchedAt": "2026-11-20T12:10:42.397+08:00",
+        "videoId": "2qbmyznEE28",
+        "title": "《餘生》｜我把餘生留給你，你卻轉身離去…一首唱進心底的催淚情歌 💔",
+        "url": "https://www.youtube.com/watch?v=2qbmyznEE28",
+        "thumbnail": "https://i.ytimg.com/vi/2qbmyznEE28/maxresdefault.jpg",
+        "durationSeconds": 248,
+        "publishedAt": "2026-11-24T11:30:03.000+08:00",
+        "fetchedAt": "2026-11-24T12:40:40.913+08:00",
         "genre": "抒情/情歌 Ballad",
         "genreConfidence": 1
       }
@@ -229,15 +229,15 @@
       "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
       "channelTitle": "予安YUAN",
       "latestVideo": {
-        "videoId": "76PmLAAwerE",
-        "title": "《我們走散了》｜我們曾經那麼相愛，最後卻成了彼此的過客｜2026傷感情歌｜予安YUAN",
-        "url": "https://www.youtube.com/watch?v=76PmLAAwerE",
-        "thumbnail": "https://i.ytimg.com/vi/76PmLAAwerE/maxresdefault.jpg",
-        "durationSeconds": 232,
-        "publishedAt": "2026-11-06T10:00:39.000+08:00",
-        "fetchedAt": "2026-11-24T12:35:42.322+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "videoId": "AL2JluutSYM",
+        "title": "《我的錢去哪了》股市跌到懷疑人生！股民集體崩潰神曲🤣📉｜台股崩跌心聲｜予安YUAN 原創歌曲",
+        "url": "https://www.youtube.com/watch?v=AL2JluutSYM",
+        "thumbnail": "https://i.ytimg.com/vi/AL2JluutSYM/maxresdefault.jpg",
+        "durationSeconds": 203,
+        "publishedAt": "2026-11-24T11:00:03.000+08:00",
+        "fetchedAt": "2026-11-24T12:40:42.205+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.44
       }
     },
     {
@@ -319,15 +319,15 @@
       "channelId": "UCfvzOpMeQgtv3_NPqv-yrqA",
       "channelTitle": "Vera Studio",
       "latestVideo": {
-        "videoId": "V7YpX3s4CeM",
-        "title": "🌱《失衡》｜故事早已停在昨天，這一次我終於不再失衡｜Official Music Video",
-        "url": "https://www.youtube.com/watch?v=V7YpX3s4CeM",
-        "thumbnail": "https://i.ytimg.com/vi/V7YpX3s4CeM/maxresdefault.jpg",
-        "durationSeconds": 210,
-        "publishedAt": "2026-11-19T17:00:16.000+08:00",
-        "fetchedAt": "2026-11-19T17:01:07.185+08:00",
+        "videoId": "4STdMFBCv3A",
+        "title": "🖤《愛的罪名》｜你先替我寫好罪狀，再讓全世界相信錯的人是我｜Official Music Video",
+        "url": "https://www.youtube.com/watch?v=4STdMFBCv3A",
+        "thumbnail": "https://i.ytimg.com/vi/4STdMFBCv3A/maxresdefault.jpg",
+        "durationSeconds": 207,
+        "publishedAt": "2026-11-24T12:00:07.000+08:00",
+        "fetchedAt": "2026-11-24T12:40:45.716+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.48
+        "genreConfidence": 0.36
       }
     },
     {
