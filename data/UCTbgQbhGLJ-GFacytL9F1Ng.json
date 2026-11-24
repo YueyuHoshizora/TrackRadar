@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-24T19:20:57.252+08:00",
+  "lastUpdated": "2026-11-24T19:25:58.153+08:00",
   "latestVideo": {
     "videoId": "oTbVmHfCFTo",
     "title": "空音「一個人搬屋」Official Music Video",
@@ -322,43 +322,63 @@
     },
     {
       "videoId": "Fbecd2ur0nE",
-      "title": "空音褪色｜只餘空音同寂寥"
+      "title": "空音褪色｜只餘空音同寂寥",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.32
     },
     {
       "videoId": "irm-WbPFgzY",
-      "title": "空音「空音褪色」Official Music Video"
+      "title": "空音「空音褪色」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.73
     },
     {
       "videoId": "nnZL2F-OIIg",
-      "title": "月池｜滿月倒影■人已走"
+      "title": "月池｜滿月倒影■人已走",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "ooW4ELCC35o",
-      "title": "月池｜空音｜愛情悲劇抑鬱粵語流行曲 ♡ OFFICIAL MUSIC VIDEO"
+      "title": "月池｜空音｜愛情悲劇抑鬱粵語流行曲 ♡ OFFICIAL MUSIC VIDEO",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "FZGIoHRKePU",
-      "title": "空音「平行時空再遇見你」Official Music Video"
+      "title": "空音「平行時空再遇見你」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.47
     },
     {
       "videoId": "uET-3XmPq-k",
-      "title": "縮影 ｜空音 （ft. 裴芸）｜遺憾情感愛情粵語流行曲 ●   OFFICIAL MUSIC VIDEO"
+      "title": "縮影 ｜空音 （ft. 裴芸）｜遺憾情感愛情粵語流行曲 ●   OFFICIAL MUSIC VIDEO",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "NjkOSpPRC_Q",
-      "title": "平行時空再遇見你｜伸手卻觸不到"
+      "title": "平行時空再遇見你｜伸手卻觸不到",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.67
     },
     {
       "videoId": "k520u6qHxV4",
-      "title": "空音「第三眼瞼」Official Music Video"
+      "title": "空音「第三眼瞼」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "a7NljA9vrX0",
-      "title": "空音「第三眼瞼」Official Shorts"
+      "title": "空音「第三眼瞼」Official Shorts",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "sI4GXZyV_tM",
-      "title": "實驗終止｜痛覺再沒法記起"
+      "title": "實驗終止｜痛覺再沒法記起",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.33
     },
     {
       "videoId": "qBlpxpnYSMg",
