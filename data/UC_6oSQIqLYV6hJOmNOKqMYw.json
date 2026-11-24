@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-11-20T12:10:43.157+08:00",
+  "lastUpdated": "2026-11-24T11:30:41.522+08:00",
   "latestVideo": {
     "videoId": "jsnpzl1bvn8",
     "title": "《你好嗎》｜這句話，我藏了好多年…你最近過得好嗎？💔｜EIRYN 原創華語情歌",
@@ -14,6 +14,12 @@
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "2qbmyznEE28",
+      "title": "《餘生》｜我把餘生留給你，你卻轉身離去…一首唱進心底的催淚情歌 💔",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 1
+    },
     {
       "videoId": "jsnpzl1bvn8",
       "title": "《你好嗎》｜這句話，我藏了好多年…你最近過得好嗎？💔｜EIRYN 原創華語情歌",
