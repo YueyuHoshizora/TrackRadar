@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-24T19:07:05.845+08:00",
+  "lastUpdated": "2026-11-24T19:10:57.159+08:00",
   "latestVideo": {
     "videoId": "oTbVmHfCFTo",
     "title": "空音「一個人搬屋」Official Music Video",
@@ -82,43 +82,63 @@
     },
     {
       "videoId": "2gea1MVfPwY",
-      "title": "空音「愛妳不是病」Official Music Video"
+      "title": "空音「愛妳不是病」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.36
     },
     {
       "videoId": "aa-iAE6oJMk",
-      "title": "半臉玄色 ｜空音｜ 古風悲傷戀愛粵語流行曲 OFFICIAL MUSIC VIDEO"
+      "title": "半臉玄色 ｜空音｜ 古風悲傷戀愛粵語流行曲 OFFICIAL MUSIC VIDEO",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "C9kQeMs_ihg",
-      "title": "水槽アパートメント｜出口がないのに海だと信じた"
+      "title": "水槽アパートメント｜出口がないのに海だと信じた",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "OCw4yHMGyoY",
-      "title": "Until I Grow | 空音｜Look at me｜最後の光"
+      "title": "Until I Grow | 空音｜Look at me｜最後の光",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "WV-5T2P5Cx4",
-      "title": "空音「不存在的名字」Official Music Video"
+      "title": "空音「不存在的名字」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "gT6NrMY2mNI",
-      "title": "空音「優雅的反社會」Official Music Video"
+      "title": "空音「優雅的反社會」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "bnEVQZ6Wl8I",
-      "title": "空音「不可整除」Official Music Video ♧ 質數"
+      "title": "空音「不可整除」Official Music Video ♧ 質數",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "qHb6p1xOh2I",
-      "title": "空音「假設之審問」Official Music Video"
+      "title": "空音「假設之審問」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "fRfMuWAOBwY",
-      "title": "空音「So Sweet SOS」Official Music Video"
+      "title": "空音「So Sweet SOS」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "gi5UEBAcsQg",
-      "title": "空音「心跳靜去」Official Shorts"
+      "title": "空音「心跳靜去」Official Shorts",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "Z7wPcAAUNpM",
