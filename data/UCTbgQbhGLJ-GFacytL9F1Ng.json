@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-24T19:55:59.361+08:00",
+  "lastUpdated": "2026-11-24T20:01:01.520+08:00",
   "latestVideo": {
     "videoId": "oTbVmHfCFTo",
     "title": "空音「一個人搬屋」Official Music Video",
@@ -742,43 +742,63 @@
     },
     {
       "videoId": "eEWZgAWOqdQ",
-      "title": "一生與一秒 ｜空音｜感情回憶悲傷粵語流行曲MV"
+      "title": "一生與一秒 ｜空音｜感情回憶悲傷粵語流行曲MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.79
     },
     {
       "videoId": "HsljMFS5OCU",
-      "title": "偽りの星合｜空音｜神話の呪縛を断つ"
+      "title": "偽りの星合｜空音｜神話の呪縛を断つ",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "YevhizPuPlM",
-      "title": "織怨 ｜空音｜七夕傷心悲情粵語流行曲MV"
+      "title": "織怨 ｜空音｜七夕傷心悲情粵語流行曲MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "kfMW0rGvsG8",
-      "title": "每天多想你一點點 ｜空音｜華語戀愛流行曲MV"
+      "title": "每天多想你一點點 ｜空音｜華語戀愛流行曲MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "bllBlYv3aHc",
-      "title": "今日の私も100点満点！｜空音｜見て 見て 今の私！｜１００点満点 MV"
+      "title": "今日の私も100点満点！｜空音｜見て 見て 今の私！｜１００点満点 MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.33
     },
     {
       "videoId": "DZ_CY_zNbfs",
-      "title": "滿分戀愛腦 ｜空音｜戀愛愛情流行曲MV"
+      "title": "滿分戀愛腦 ｜空音｜戀愛愛情流行曲MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.93
     },
     {
       "videoId": "VRjnF4NTMXY",
-      "title": "花期盡處 ｜空音｜ 最新失戀傷感悲情催淚粵語流行曲MV"
+      "title": "花期盡處 ｜空音｜ 最新失戀傷感悲情催淚粵語流行曲MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.86
     },
     {
       "videoId": "LI6KdRmfDXo",
-      "title": "真空に咲く｜空音｜最新の切ない主題曲MVを公開しました🌧️"
+      "title": "真空に咲く｜空音｜最新の切ない主題曲MVを公開しました🌧️",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "BZGzHDdV7aQ",
-      "title": "假裝不愛你 ｜空音｜ 粵語戀愛流行曲MV"
+      "title": "假裝不愛你 ｜空音｜ 粵語戀愛流行曲MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "zYzTXF_oXPY",
-      "title": "點破平靜之後"
+      "title": "點破平靜之後",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "u36vwViI5wM",
