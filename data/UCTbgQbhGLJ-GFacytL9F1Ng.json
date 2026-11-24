@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-24T19:25:58.153+08:00",
+  "lastUpdated": "2026-11-24T19:30:57.867+08:00",
   "latestVideo": {
     "videoId": "oTbVmHfCFTo",
     "title": "空音「一個人搬屋」Official Music Video",
@@ -382,43 +382,63 @@
     },
     {
       "videoId": "qBlpxpnYSMg",
-      "title": "空音「本当に、幸せ？」Official Shorts"
+      "title": "空音「本当に、幸せ？」Official Shorts",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "Wk4CHPh7kCM",
-      "title": "本当に、幸せ？ | 空音｜切ない主題曲の最新MVをアップしました🌧️"
+      "title": "本当に、幸せ？ | 空音｜切ない主題曲の最新MVをアップしました🌧️",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "MF4tH97N9vI",
-      "title": "空音「致命淡紫」Official Music Video｜超好聽愛戀分手淡忘粵語流行曲"
+      "title": "空音「致命淡紫」Official Music Video｜超好聽愛戀分手淡忘粵語流行曲",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.47
     },
     {
       "videoId": "HjwaayCq-gI",
-      "title": "怕嚇到你｜所以一句都唔夠膽同你講丫"
+      "title": "怕嚇到你｜所以一句都唔夠膽同你講丫",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.43
     },
     {
       "videoId": "2MAvd1wDcVw",
-      "title": "空音「讀你」Official Music Video"
+      "title": "空音「讀你」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "Fc2p8jhTZC8",
-      "title": "(Ver. 1) 雨夜の告白 ｜空音｜まだ君を愛してる｜名前を消しても消えはしない OFFICIAL MUSIC VIDEO"
+      "title": "(Ver. 1) 雨夜の告白 ｜空音｜まだ君を愛してる｜名前を消しても消えはしない OFFICIAL MUSIC VIDEO",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.77
     },
     {
       "videoId": "j2ZHAxjcZDQ",
-      "title": "相對糾纏｜兩個人繞住轉"
+      "title": "相對糾纏｜兩個人繞住轉",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.24
     },
     {
       "videoId": "-ovP2ze9aFA",
-      "title": "相對糾纏｜空音｜宇宙觀戀愛粵語流行曲MV"
+      "title": "相對糾纏｜空音｜宇宙觀戀愛粵語流行曲MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "f1GMe6ZFkao",
-      "title": "雙份早餐｜一份係你嘅一份係我嘅"
+      "title": "雙份早餐｜一份係你嘅一份係我嘅",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.62
     },
     {
       "videoId": "7f2lN0q7RtE",
-      "title": "空音 - 雙份早餐 (Official Music Video)"
+      "title": "空音 - 雙份早餐 (Official Music Video)",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.41
     },
     {
       "videoId": "0OEliqjXTEw",
