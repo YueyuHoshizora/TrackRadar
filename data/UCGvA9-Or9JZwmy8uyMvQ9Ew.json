@@ -1,7 +1,7 @@
 {
   "channelId": "UCGvA9-Or9JZwmy8uyMvQ9Ew",
   "channelTitle": "予安YUAN",
-  "lastUpdated": "2026-11-20T12:10:43.157+08:00",
+  "lastUpdated": "2026-11-24T11:00:41.649+08:00",
   "latestVideo": {
     "videoId": "kP5p3F45tkM",
     "title": "《你幸福嗎？》如果沒有分開，現在的我們會不會還在一起？💔｜全新原創抒情情歌｜予安YUAN",
@@ -14,6 +14,12 @@
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "AL2JluutSYM",
+      "title": "《我的錢去哪了》股市跌到懷疑人生！股民集體崩潰神曲🤣📉｜台股崩跌心聲｜予安YUAN 原創歌曲",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.48
+    },
     {
       "videoId": "kP5p3F45tkM",
       "title": "《你幸福嗎？》如果沒有分開，現在的我們會不會還在一起？💔｜全新原創抒情情歌｜予安YUAN",
