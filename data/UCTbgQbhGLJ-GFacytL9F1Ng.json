@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-24T19:30:57.867+08:00",
+  "lastUpdated": "2026-11-24T19:35:56.276+08:00",
   "latestVideo": {
     "videoId": "oTbVmHfCFTo",
     "title": "空音「一個人搬屋」Official Music Video",
@@ -442,43 +442,63 @@
     },
     {
       "videoId": "0OEliqjXTEw",
-      "title": "真空に咲く｜それでも花は開く"
+      "title": "真空に咲く｜それでも花は開く",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.45
     },
     {
       "videoId": "Dgo4uuAymOg",
-      "title": "ねぇ 見て、きみだけ"
+      "title": "ねぇ 見て、きみだけ",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.31
     },
     {
       "videoId": "kun-ruGIYus",
-      "title": "怕嚇到你｜所以一句都唔夠膽同你講丫"
+      "title": "怕嚇到你｜所以一句都唔夠膽同你講丫",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.39
     },
     {
       "videoId": "Ir78CAg1zng",
-      "title": "空音「怕嚇到你」Official Music Video"
+      "title": "空音「怕嚇到你」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "rxM3HZbGBM0",
-      "title": "第三眼｜睇穿先至放得低"
+      "title": "第三眼｜睇穿先至放得低",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "wXR-fbaf114",
-      "title": "第三眼｜空音｜愛情情感釋懷流行曲MV"
+      "title": "第三眼｜空音｜愛情情感釋懷流行曲MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.6
     },
     {
       "videoId": "GDDsX2xtmp4",
-      "title": "從來沒有｜回頭望都追唔返"
+      "title": "從來沒有｜回頭望都追唔返",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.48
     },
     {
       "videoId": "v9oyKlQM7Po",
-      "title": "從來沒有 ｜空音（ft. 裴芸）｜傷感愛情 ● 粵語 OFFICIAL MUSIC VIDEO"
+      "title": "從來沒有 ｜空音（ft. 裴芸）｜傷感愛情 ● 粵語 OFFICIAL MUSIC VIDEO",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "URK0tmn67kU",
-      "title": "25時のレジ袋｜空音｜レジ袋｜綺麗に絶望すらできない | OFFICIAL MUSIC VIDEO"
+      "title": "25時のレジ袋｜空音｜レジ袋｜綺麗に絶望すらできない | OFFICIAL MUSIC VIDEO",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.24
     },
     {
       "videoId": "bpuU0b6FFtg",
-      "title": "百鬼綿花糖｜鬼都要食糖"
+      "title": "百鬼綿花糖｜鬼都要食糖",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.29
     },
     {
       "videoId": "lv966kPILas",
