@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-24T19:51:07.286+08:00",
+  "lastUpdated": "2026-11-24T19:55:59.361+08:00",
   "latestVideo": {
     "videoId": "oTbVmHfCFTo",
     "title": "空音「一個人搬屋」Official Music Video",
@@ -682,43 +682,63 @@
     },
     {
       "videoId": "ouhVR4HoJUU",
-      "title": "三七七森七七 | 空音｜377 | 超甜華語戀愛流行曲 OFFICAL MV"
+      "title": "三七七森七七 | 空音｜377 | 超甜華語戀愛流行曲 OFFICAL MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "OdgZ4YLgU-s",
-      "title": "ゼロコンマ一秒の交差点｜空音｜逆回りの痛み｜永遠に届かない ｜OFFICAL MV"
+      "title": "ゼロコンマ一秒の交差点｜空音｜逆回りの痛み｜永遠に届かない ｜OFFICAL MV",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.46
     },
     {
       "videoId": "HJSq7Phs4gc",
-      "title": "三七七森七七 | 空音｜最新華語戀愛超甜流行曲MV"
+      "title": "三七七森七七 | 空音｜最新華語戀愛超甜流行曲MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.92
     },
     {
       "videoId": "NbTOsqPQbiI",
-      "title": "圓・緣・願 ｜空音｜月圓緣完願未完｜月到最圓 人到最難留｜中秋節節日系列情感洗流行曲MV"
+      "title": "圓・緣・願 ｜空音｜月圓緣完願未完｜月到最圓 人到最難留｜中秋節節日系列情感洗流行曲MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.36
     },
     {
       "videoId": "0aG96oFuEPw",
-      "title": "慢慢靠近｜空音｜留白溫柔系愛情粵語流行曲MV"
+      "title": "慢慢靠近｜空音｜留白溫柔系愛情粵語流行曲MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
     },
     {
       "videoId": "iwGercWC9S8",
-      "title": "未崩壊の空音｜空音｜シュレディンガーの愛｜永遠に未証明"
+      "title": "未崩壊の空音｜空音｜シュレディンガーの愛｜永遠に未証明",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.4
     },
     {
       "videoId": "TzUvGkiB50w",
-      "title": "Sweet Sakura Galaxy | 空音｜Soar With Me"
+      "title": "Sweet Sakura Galaxy | 空音｜Soar With Me",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.24
     },
     {
       "videoId": "iOU0j8dij2Y",
-      "title": "霜降：滿天星 ｜空音｜滿天星｜我只是一粒碎花｜愛情悲傷分手粵語情歌流行曲MV"
+      "title": "霜降：滿天星 ｜空音｜滿天星｜我只是一粒碎花｜愛情悲傷分手粵語情歌流行曲MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "21xy-_8_S5w",
-      "title": "ねえ 見て、きみだけ｜空音｜チラチラ ドキドキ｜きみの通知でしあわせ"
+      "title": "ねえ 見て、きみだけ｜空音｜チラチラ ドキドキ｜きみの通知でしあわせ",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.28
     },
     {
       "videoId": "22n78olpwtw",
-      "title": "今日も可愛いね | 空音｜最新のかわいい恋の歌MVを公開いたしました🌸"
+      "title": "今日も可愛いね | 空音｜最新のかわいい恋の歌MVを公開いたしました🌸",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "eEWZgAWOqdQ",
