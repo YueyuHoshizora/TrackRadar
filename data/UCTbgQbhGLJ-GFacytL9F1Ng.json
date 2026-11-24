@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-24T19:46:01.321+08:00",
+  "lastUpdated": "2026-11-24T19:51:07.286+08:00",
   "latestVideo": {
     "videoId": "oTbVmHfCFTo",
     "title": "空音「一個人搬屋」Official Music Video",
@@ -622,43 +622,63 @@
     },
     {
       "videoId": "RfdZ3Jq5O2I",
-      "title": "冥想心靈系列｜平行冥想"
+      "title": "冥想心靈系列｜平行冥想",
+      "genre": "純音樂/器樂 Instrumental",
+      "genreConfidence": 0.76
     },
     {
       "videoId": "8tdRw1AXIqE",
-      "title": "哼！我邊有鍾意你喎👉🏻👈🏻"
+      "title": "哼！我邊有鍾意你喎👉🏻👈🏻",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.51
     },
     {
       "videoId": "N_XikBU0rVA",
-      "title": "小花仙子"
+      "title": "小花仙子",
+      "genre": "動漫/ACG",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "9yLXb8RNPnY",
-      "title": "三七七 森七七♡♡♡嘴上說生氣了♡♡♡心裡想你"
+      "title": "三七七 森七七♡♡♡嘴上說生氣了♡♡♡心裡想你",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.36
     },
     {
       "videoId": "mxMVcxbM2QI",
-      "title": "我只係一粒碎花 ■□■□■分手很難過"
+      "title": "我只係一粒碎花 ■□■□■分手很難過",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "KLXofqIUQDU",
-      "title": "五萬咁嘅樣   |   五十蚊嘅帳"
+      "title": "五萬咁嘅樣   |   五十蚊嘅帳",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.55
     },
     {
       "videoId": "opt2P82YyKs",
-      "title": "見て見て、今の私！今日も100点満点"
+      "title": "見て見て、今の私！今日も100点満点",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.47
     },
     {
       "videoId": "vtwMEOfqhxY",
-      "title": "空音「五萬咁嘅樣」Official Music Video｜謝謝 50,000 位訂閱 Thank you 50K"
+      "title": "空音「五萬咁嘅樣」Official Music Video｜謝謝 50,000 位訂閱 Thank you 50K",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "UNqRcsHZEnA",
-      "title": "小花仙子 ｜空音｜可愛甜美戀愛粵語流行曲MV"
+      "title": "小花仙子 ｜空音｜可愛甜美戀愛粵語流行曲MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.95
     },
     {
       "videoId": "o0I0YjsaEtc",
-      "title": "Embers of the Red Queen ｜空音｜The Queen's Secret | Never Confessed"
+      "title": "Embers of the Red Queen ｜空音｜The Queen's Secret | Never Confessed",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.47
     },
     {
       "videoId": "ouhVR4HoJUU",
