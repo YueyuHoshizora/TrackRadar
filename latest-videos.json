@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T22:11:00.327+08:00",
+  "updatedAt": "2026-11-24T22:15:59.102+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -304,15 +304,15 @@
       "channelId": "UCfHGjnH3G-Gwjh9kj281FZQ",
       "channelTitle": "Nova Bird",
       "latestVideo": {
-        "videoId": "06PAZdAje_A",
-        "title": "《三年燈》｜影渡町外傳【節奏遊戲版】｜暗黑國風 × R&B｜Original Song",
-        "url": "https://www.youtube.com/watch?v=06PAZdAje_A",
-        "thumbnail": "https://i.ytimg.com/vi/06PAZdAje_A/maxresdefault.jpg",
-        "durationSeconds": 281,
-        "publishedAt": "2026-11-15T18:17:02.000+08:00",
-        "fetchedAt": "2026-11-15T19:15:38.074+08:00",
-        "genre": "R&B/Soul",
-        "genreConfidence": 0.48
+        "videoId": "hXzdwka04ZE",
+        "title": "「一笠遮天，一身渡夜」🌙｜《影渡町異聞：黑笠藏月》｜異聞最終章｜日式武俠・原創歌曲",
+        "url": "https://www.youtube.com/watch?v=hXzdwka04ZE",
+        "thumbnail": "https://i.ytimg.com/vi/hXzdwka04ZE/maxresdefault.jpg",
+        "durationSeconds": 379,
+        "publishedAt": "2026-11-24T22:11:50.000+08:00",
+        "fetchedAt": "2026-11-24T22:15:46.373+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 0.74
       }
     },
     {
