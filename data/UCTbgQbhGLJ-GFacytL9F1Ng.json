@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-24T19:11:54.209+08:00",
+  "lastUpdated": "2026-11-24T19:15:57.150+08:00",
   "latestVideo": {
     "videoId": "oTbVmHfCFTo",
     "title": "空音「一個人搬屋」Official Music Video",
@@ -202,43 +202,63 @@
     },
     {
       "videoId": "OBweCZ-gYWo",
-      "title": "空音 - 甜度 ｜一口就上癮的甜蜜情歌｜Official MV"
+      "title": "空音 - 甜度 ｜一口就上癮的甜蜜情歌｜Official MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.8
     },
     {
       "videoId": "vzm1IN7xk6A",
-      "title": "空音 Sorane《月下繭痕》Official MV｜粵語悲傷情歌"
+      "title": "空音 Sorane《月下繭痕》Official MV｜粵語悲傷情歌",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "J1hY_uEoz_M",
-      "title": "空音《單向廢止》一個人的緣份，由我親手作廢｜粵語抒情 Official MV"
+      "title": "空音《單向廢止》一個人的緣份，由我親手作廢｜粵語抒情 Official MV",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.98
     },
     {
       "videoId": "OeQRaGTlWLw",
-      "title": "encapsulation • 空音 ♡ ありがとう、さようなら ◇ 白い花びら OFFICIAL MUSIC VIDEO"
+      "title": "encapsulation • 空音 ♡ ありがとう、さようなら ◇ 白い花びら OFFICIAL MUSIC VIDEO",
+      "genre": "Vocaloid",
+      "genreConfidence": 0.24
     },
     {
       "videoId": "2VydkMTeJ9c",
-      "title": "空音「描妝」Official Music Video"
+      "title": "空音「描妝」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.52
     },
     {
       "videoId": "F3bmUUB2AoQ",
-      "title": "每騙世界一次｜高牆便退一丈"
+      "title": "每騙世界一次｜高牆便退一丈",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.38
     },
     {
       "videoId": "66Qw3LrA22o",
-      "title": "又被取笑了嗎｜其實是誇你啊"
+      "title": "又被取笑了嗎｜其實是誇你啊",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "6_ByL2dwi5k",
-      "title": "幽靈蘭｜空音 x 紫羅蘭｜若作偽花 便可走出高牆｜哲學系粵語流行曲 Official MV"
+      "title": "幽靈蘭｜空音 x 紫羅蘭｜若作偽花 便可走出高牆｜哲學系粵語流行曲 Official MV",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.65
     },
     {
       "videoId": "ctwWHTeE3JI",
-      "title": "空音「又被取笑了」Official Music Video"
+      "title": "空音「又被取笑了」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.64
     },
     {
       "videoId": "Jd11E6aSLP8",
-      "title": "空音「既読ニャー」Official Music Video"
+      "title": "空音「既読ニャー」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.57
     },
     {
       "videoId": "47sNckixwkY",
