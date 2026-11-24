@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:56:00.638+08:00",
+  "updatedAt": "2026-11-24T21:00:58.988+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -184,15 +184,15 @@
       "channelId": "UCGpHtn2xk6sIsqj7-tEg7zA",
       "channelTitle": "ChillVibes",
       "latestVideo": {
-        "videoId": "cihYwKDXQcE",
-        "title": "先去看海｜今天想不通的，明天再說【華語 Indie Pop × 輕搖滾｜Official Music Video】｜下班・兜風・釋放壓力",
-        "url": "https://www.youtube.com/watch?v=cihYwKDXQcE",
-        "thumbnail": "https://i.ytimg.com/vi_webp/cihYwKDXQcE/maxresdefault.webp",
-        "durationSeconds": 206,
-        "publishedAt": "2026-11-20T21:00:06.000+08:00",
-        "fetchedAt": "2026-11-24T20:45:41.267+08:00",
-        "genre": "獨立音樂 Indie",
-        "genreConfidence": 0.98
+        "videoId": "dnAfcy0LvTw",
+        "title": "你教我的，都還在｜如果時間能倒流，我還是會牽著你的手【華語抒情 × Chill Pop｜Official Music Video】｜深夜・思念・療癒",
+        "url": "https://www.youtube.com/watch?v=dnAfcy0LvTw",
+        "thumbnail": "https://i.ytimg.com/vi_webp/dnAfcy0LvTw/maxresdefault.webp",
+        "durationSeconds": 202,
+        "publishedAt": "2026-11-24T21:00:32.000+08:00",
+        "fetchedAt": "2026-11-24T21:00:42.559+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.91
       }
     },
     {
