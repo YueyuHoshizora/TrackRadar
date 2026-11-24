@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-24T19:15:57.150+08:00",
+  "lastUpdated": "2026-11-24T19:20:57.252+08:00",
   "latestVideo": {
     "videoId": "oTbVmHfCFTo",
     "title": "空音「一個人搬屋」Official Music Video",
@@ -262,43 +262,63 @@
     },
     {
       "videoId": "47sNckixwkY",
-      "title": "空音「空零」Official Music Video"
+      "title": "空音「空零」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.69
     },
     {
       "videoId": "UYRm9bauoNY",
-      "title": "差一毫米的我們｜想依偎偏偏退步"
+      "title": "差一毫米的我們｜想依偎偏偏退步",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "LTXUoyp9KUg",
-      "title": "最後一口糖衣｜空音｜情感類委屈悲傷情歌粵語流行曲 ♡♡♡ OFFICIAL MUSIC VIDEO"
+      "title": "最後一口糖衣｜空音｜情感類委屈悲傷情歌粵語流行曲 ♡♡♡ OFFICIAL MUSIC VIDEO",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "U-LyEaACmM4",
-      "title": "差一毫米的我們 ｜空音｜戀愛感情遺憾曖昧粵語流行曲 ♡♡♡ OFFICIAL MUSIC VIDEO"
+      "title": "差一毫米的我們 ｜空音｜戀愛感情遺憾曖昧粵語流行曲 ♡♡♡ OFFICIAL MUSIC VIDEO",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.53
     },
     {
       "videoId": "C4eQ0x69vlo",
-      "title": "空音「既読ニャー」Halloween Cat Version Official Music Video"
+      "title": "空音「既読ニャー」Halloween Cat Version Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.41
     },
     {
       "videoId": "UQ3Z1G8YNOw",
-      "title": "空音「既読ニャー」Official Music Video"
+      "title": "空音「既読ニャー」Official Music Video",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.54
     },
     {
       "videoId": "5cpAzM6AbuY",
-      "title": "如果沒有如果 ｜空音｜情感系列斬斷凡塵愛戀粵語流行曲 ♡ OFFICIAL MUSIC VIDEO"
+      "title": "如果沒有如果 ｜空音｜情感系列斬斷凡塵愛戀粵語流行曲 ♡ OFFICIAL MUSIC VIDEO",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.59
     },
     {
       "videoId": "1W_WY8swI1c",
-      "title": "海闊空音 ｜空音｜理想自由解放系列粵語流行曲 ♡♡♡ OFFICIAL MUSIC VIDEO"
+      "title": "海闊空音 ｜空音｜理想自由解放系列粵語流行曲 ♡♡♡ OFFICIAL MUSIC VIDEO",
+      "genre": "流行 Pop",
+      "genreConfidence": 0.97
     },
     {
       "videoId": "uHtuKKad6s4",
-      "title": "花火は溺れて消える | 空音｜打ち上げ花火｜未来のない恋を照らすだけ ♡ OFFICIAL MUSIC VIDEO"
+      "title": "花火は溺れて消える | 空音｜打ち上げ花火｜未来のない恋を照らすだけ ♡ OFFICIAL MUSIC VIDEO",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.44
     },
     {
       "videoId": "rVaiZcq7ODk",
-      "title": "並非愛我 ｜空音｜悲傷慘情無奈愛情粵語流行曲 ｜你愛的不是我｜一題都答不出來 ｜OFFICIAL MUSIC VIDEO"
+      "title": "並非愛我 ｜空音｜悲傷慘情無奈愛情粵語流行曲 ｜你愛的不是我｜一題都答不出來 ｜OFFICIAL MUSIC VIDEO",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
     },
     {
       "videoId": "Fbecd2ur0nE",
