@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:06:03.287+08:00",
+  "updatedAt": "2026-11-25T20:11:02.487+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -499,15 +499,15 @@
       "channelId": "UCO8HFoUmglawehAj2u8j7AA",
       "channelTitle": "玥小岑Yueh-tsen",
       "latestVideo": {
-        "videoId": "6Su0ihC83Tg",
-        "title": "【完整版】我哭著微笑(玥小岑Yueh-tsen)｜無聲的崩潰只有自己聽到 #華語流行 #華語抒情 #催淚情歌 #心碎女聲 #悲傷抒情 #華語流行音樂 #失戀必聽 #失戀抒情 #心碎治癒",
-        "url": "https://www.youtube.com/watch?v=6Su0ihC83Tg",
-        "thumbnail": "https://i.ytimg.com/vi/6Su0ihC83Tg/maxresdefault.jpg?v=6b0639d3",
-        "durationSeconds": 249,
-        "publishedAt": "2026-11-25T19:30:06.000+08:00",
-        "fetchedAt": "2026-11-25T19:40:52.952+08:00",
+        "videoId": "W2lOA8YIadA",
+        "title": "我哭著微笑(玥小岑Yueh-tsen)#華語流行 #華語抒情 #催淚情歌 #心碎女聲 #悲傷抒情 #華語流行音樂 #失戀必聽 #失戀抒情 #心碎治癒",
+        "url": "https://www.youtube.com/watch?v=W2lOA8YIadA",
+        "thumbnail": "https://i.ytimg.com/vi/W2lOA8YIadA/maxresdefault.jpg",
+        "durationSeconds": 90,
+        "publishedAt": "2026-11-25T20:10:09.000+08:00",
+        "fetchedAt": "2026-11-25T20:10:59.289+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 1
+        "genreConfidence": 0.99
       }
     },
     {
