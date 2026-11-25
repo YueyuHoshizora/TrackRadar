@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-25T17:25:42.913+08:00",
+  "updatedAt": "2026-11-25T17:30:44.144+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "i_X-PsSvUys",
-        "title": "沿河走到底｜陪你走到底，不等於還要一起回去｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=i_X-PsSvUys",
-        "thumbnail": "https://i.ytimg.com/vi/i_X-PsSvUys/maxresdefault.jpg",
-        "durationSeconds": 245,
-        "publishedAt": "2026-11-25T05:30:22.000+08:00",
-        "fetchedAt": "2026-11-25T06:05:34.649+08:00",
+        "videoId": "GCmSPIlvD1k",
+        "title": "舊城換了顏色｜回到熟悉的地方，才發現我們都變了｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=GCmSPIlvD1k",
+        "thumbnail": "https://i.ytimg.com/vi/GCmSPIlvD1k/maxresdefault.jpg",
+        "durationSeconds": 209,
+        "publishedAt": "2026-11-25T17:30:06.000+08:00",
+        "fetchedAt": "2026-11-25T17:30:11.383+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.69
+        "genreConfidence": 0.67
       }
     },
     {
