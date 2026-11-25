@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T09:10:57.790+08:00",
+  "updatedAt": "2026-11-25T09:16:01.359+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -422,7 +422,7 @@
     },
     {
       "channelId": "UCfTRxp7lFW4CkK7s8-BV0eQ",
-      "channelTitle": "RE:IGN(十二弦月 | 舞月)",
+      "channelTitle": "RE:IGN",
       "latestVideo": {
         "videoId": "SQdiIjYbfnk",
         "title": "Emotional Dark R&B｜我在回憶裡失聲｜RE:IGN｜傷感 KPOP女團中文原創｜破碎情歌｜YT十二弦月 x 舞月 | Official Lyric Video",
@@ -529,15 +529,15 @@
       "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
       "channelTitle": "空音 Ѕкуℓιηє",
       "latestVideo": {
-        "videoId": "oTbVmHfCFTo",
-        "title": "空音「一個人搬屋」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=oTbVmHfCFTo",
-        "thumbnail": "https://i.ytimg.com/vi/oTbVmHfCFTo/maxresdefault.jpg",
-        "durationSeconds": 198,
-        "publishedAt": "2026-11-21T08:54:12.000+08:00",
-        "fetchedAt": "2026-11-24T19:07:03.700+08:00",
+        "videoId": "4r6vylIBKCc",
+        "title": "空音 x 橙雨「兩把傘的雨」Official Music Video ♡",
+        "url": "https://www.youtube.com/watch?v=4r6vylIBKCc",
+        "thumbnail": "https://i.ytimg.com/vi/4r6vylIBKCc/maxresdefault.jpg",
+        "durationSeconds": 242,
+        "publishedAt": "2026-11-25T09:13:53.000+08:00",
+        "fetchedAt": "2026-11-25T09:15:55.625+08:00",
         "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.52
+        "genreConfidence": 0.43
       }
     },
     {
