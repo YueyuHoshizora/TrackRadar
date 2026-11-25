@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-26T00:40:46.701+08:00",
+  "lastUpdated": "2026-11-26T00:45:46.775+08:00",
   "latestVideo": {
     "videoId": "GCmSPIlvD1k",
     "title": "舊城換了顏色｜回到熟悉的地方，才發現我們都變了｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "GCmSPIlvD1k",
-      "title": "舊城換了顏色｜返鄉回憶系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "舊城換了顏色｜她認不得街景，卻認出了那陣風｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
     {
       "videoId": "i_X-PsSvUys",
-      "title": "沿河走到底｜陪你走到底，不等於還要一起回去｜Yu Stellar｜星語",
+      "title": "沿河走到底｜她不再配合他的步伐，仍並肩走完｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "B_pgjTliqYk",
-      "title": "晚風知道｜放下前任系華語女聲療癒情歌｜Yu Stellar｜星語",
+      "title": "晚風知道｜跑過熟悉河岸那晚，她沒有回頭｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -106,13 +106,13 @@
     },
     {
       "videoId": "qYRL35j3kDE",
-      "title": "褪色門牌｜門牌退了色，住過的人都已經向前｜Yu Stellar｜星語",
+      "title": "褪色門牌｜失戀釋懷系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.62
     },
     {
       "videoId": "DNpsc4sa67A",
-      "title": "把名字寫好｜完成第一個專案後，她把名字寫進未來｜Yu Stellar｜星語",
+      "title": "把名字寫好｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -130,7 +130,7 @@
     },
     {
       "videoId": "3bFyZ1276Hg",
-      "title": "反方向的鐘｜成長系華語電影感情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "反方向的鐘｜滿牆的鐘都逆轉，她卻親手撥回正向｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.32
     },
@@ -148,19 +148,19 @@
     },
     {
       "videoId": "1yxe-4kDBpg",
-      "title": "草稿裡的春天｜克制想念系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "草稿裡的春天｜想問你過得好不好，最後卻沒有傳送｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜兩張尺寸不同的床，揭穿住不下的夢｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜我把夢搬成家，門牌卻寫著到此為止｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
     {
       "videoId": "egAdIrWQwI0",
-      "title": "陌生燈火｜都市孤獨系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "-3C7ereuiVk",
-      "title": "沒有日期｜鏡子裡的他，竟有她沒見過的白髮｜Yu Stellar｜星語",
+      "title": "沒有日期｜成熟系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
