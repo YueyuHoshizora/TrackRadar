@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-25T23:15:46.357+08:00",
+  "lastUpdated": "2026-11-25T23:20:46.883+08:00",
   "latestVideo": {
     "videoId": "GCmSPIlvD1k",
     "title": "舊城換了顏色｜回到熟悉的地方，才發現我們都變了｜Yu Stellar｜星語",
@@ -16,13 +16,13 @@
   "allVideoIds": [
     {
       "videoId": "GCmSPIlvD1k",
-      "title": "舊城換了顏色｜她認不得街景，卻認出了那陣風｜Yu Stellar｜星語",
+      "title": "舊城換了顏色｜回到熟悉的地方，才發現我們都變了｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
     {
       "videoId": "i_X-PsSvUys",
-      "title": "沿河走到底｜成熟系華語釋懷情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "沿河走到底｜陪你走到底，不等於還要一起回去｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
@@ -34,7 +34,7 @@
     },
     {
       "videoId": "MMUsSWuSzhg",
-      "title": "最後一班船｜她買下單程票，不再問有沒有回程｜Yu Stellar｜星語",
+      "title": "最後一班船｜告別系華語抒情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -82,7 +82,7 @@
     },
     {
       "videoId": "kIu0xYKDd80",
-      "title": "兩種後來｜七年後她看見他白了頭，也看見自己長大｜Yu Stellar｜星語",
+      "title": "兩種後來｜我們各自走進後來，才有力氣回頭看｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "qYRL35j3kDE",
-      "title": "褪色門牌｜失戀釋懷系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "褪色門牌｜回到七年前的家，她才懂分開沒有壞人｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.62
     },
@@ -148,7 +148,7 @@
     },
     {
       "videoId": "1yxe-4kDBpg",
-      "title": "草稿裡的春天｜她寫完問候，又把思念留在草稿｜Yu Stellar｜星語",
+      "title": "草稿裡的春天｜克制想念系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
@@ -172,7 +172,7 @@
     },
     {
       "videoId": "jiFzJMuGZSI",
-      "title": "新地址｜地址換了，心卻還住在舊房間｜Yu Stellar｜星語",
+      "title": "新地址｜她搬進新家，卻把自己遺落在過去｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
