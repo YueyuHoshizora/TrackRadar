@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-25T14:45:13.287+08:00",
+  "lastUpdated": "2026-11-25T14:50:12.978+08:00",
   "latestVideo": {
     "videoId": "i_X-PsSvUys",
     "title": "沿河走到底｜陪你走到底，不等於還要一起回去｜Yu Stellar｜星語",
@@ -22,19 +22,19 @@
     },
     {
       "videoId": "iQcAd0LITK8",
-      "title": "三年後的車票｜一張沒有誰名字的車票，帶她回到舊城｜Yu Stellar｜星語",
+      "title": "三年後的車票｜返鄉重逢系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
     {
       "videoId": "MMUsSWuSzhg",
-      "title": "最後一班船｜最後一班船，只載我們把那天走完｜Yu Stellar｜星語",
+      "title": "最後一班船｜告別系華語抒情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "B_pgjTliqYk",
-      "title": "晚風知道｜跑過熟悉河岸那晚，她沒有回頭｜Yu Stellar｜星語",
+      "title": "晚風知道｜我還會想起你，卻不再靠回憶呼吸｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "LCGHuGlIjjM",
-      "title": "遠行的週末｜她獨自上路，把遠方帶回日常｜Yu Stellar｜星語",
+      "title": "遠行的週末｜獨旅成長系華語女聲療癒歌｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.51
     },
@@ -88,7 +88,7 @@
     },
     {
       "videoId": "_CP-HKJCqro",
-      "title": "未寄出的夏天｜遺憾系華語愛情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "未寄出的夏天｜我們不是不愛，只把體貼用成沉默｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "DNpsc4sa67A",
-      "title": "把名字寫好｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "把名字寫好｜當我不再是「我們」，終於成為自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -124,7 +124,7 @@
     },
     {
       "videoId": "3bFyZ1276Hg",
-      "title": "反方向的鐘｜成長系華語電影感情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "反方向的鐘｜回憶可以往回看，人生不能跟著倒走｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.32
     },
@@ -148,13 +148,13 @@
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜兩張尺寸不同的床，揭穿住不下的夢｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜夢境系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
     {
       "videoId": "egAdIrWQwI0",
-      "title": "陌生燈火｜成年人的孤單，是加班後一個人回家｜Yu Stellar｜星語",
+      "title": "陌生燈火｜深夜便利商店裡，她學會獨自生活｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
@@ -166,13 +166,13 @@
     },
     {
       "videoId": "jiFzJMuGZSI",
-      "title": "新地址｜城市漂泊系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "新地址｜地址換了，心卻還住在舊房間｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
     {
       "videoId": "-3C7ereuiVk",
-      "title": "沒有日期｜成熟系華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "沒有日期｜沒有日期的夢，也藏不住走過的年紀｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
