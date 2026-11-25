@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T16:55:41.756+08:00",
+  "updatedAt": "2026-11-25T17:00:43.822+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -409,15 +409,15 @@
       "channelId": "UCZVT570EWJ64ibL-re9CFpQ",
       "channelTitle": "九黎月",
       "latestVideo": {
-        "videoId": "hYCp7uKNyFM",
-        "title": "【中國風 - 何必】何必一夜風雨　便說從未開花呀 🎧 －九黎月｜潮流R&B原創【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=hYCp7uKNyFM",
-        "thumbnail": "https://i.ytimg.com/vi_webp/hYCp7uKNyFM/maxresdefault.webp",
-        "durationSeconds": 164,
-        "publishedAt": "2026-11-16T17:00:11.000+08:00",
-        "fetchedAt": "2026-11-16T17:00:33.621+08:00",
-        "genre": "古風/國風 Chinese Style",
-        "genreConfidence": 0.65
+        "videoId": "B0tgEeIyZHI",
+        "title": "【華語流行 - 緩慢】讓結局來得更緩慢，讓結局不再那麼遺憾 🎧 －九黎月｜Acoustic Pop原創【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=B0tgEeIyZHI",
+        "thumbnail": "https://i.ytimg.com/vi_webp/B0tgEeIyZHI/maxresdefault.webp",
+        "durationSeconds": 167,
+        "publishedAt": "2026-11-25T17:00:09.000+08:00",
+        "fetchedAt": "2026-11-25T17:00:32.747+08:00",
+        "genre": "民謠/Acoustic",
+        "genreConfidence": 0.73
       }
     },
     {
