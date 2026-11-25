@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T15:40:36.696+08:00",
+  "updatedAt": "2026-11-25T15:45:39.019+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "AB9DmYe5QSQ",
-        "title": "台語大帝國｜紀時宇《彼暗若無講分開》｜2000年代台式搖滾情歌｜如果那晚沒說分手，我們還會相愛嗎？｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=AB9DmYe5QSQ",
-        "thumbnail": "https://i.ytimg.com/vi_webp/AB9DmYe5QSQ/maxresdefault.webp",
-        "durationSeconds": 216,
-        "publishedAt": "2026-11-24T15:45:01.000+08:00",
-        "fetchedAt": "2026-11-24T15:45:40.153+08:00",
-        "genre": "搖滾 Rock",
-        "genreConfidence": 0.76
+        "videoId": "bfHDbzbN3iI",
+        "title": "台語大帝國｜Aurora 葵《我會當忍受》｜忍受你的冷淡，毋過我嘛會痛｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=bfHDbzbN3iI",
+        "thumbnail": "https://i.ytimg.com/vi_webp/bfHDbzbN3iI/maxresdefault.webp",
+        "durationSeconds": 255,
+        "publishedAt": "2026-11-25T15:45:11.000+08:00",
+        "fetchedAt": "2026-11-25T15:45:18.103+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.71
       }
     },
     {
