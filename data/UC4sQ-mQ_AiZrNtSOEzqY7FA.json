@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-25T12:35:10.836+08:00",
+  "lastUpdated": "2026-11-25T12:40:11.458+08:00",
   "latestVideo": {
     "videoId": "i_X-PsSvUys",
     "title": "沿河走到底｜陪你走到底，不等於還要一起回去｜Yu Stellar｜星語",
@@ -16,19 +16,19 @@
   "allVideoIds": [
     {
       "videoId": "i_X-PsSvUys",
-      "title": "沿河走到底｜陪你走到底，不等於還要一起回去｜Yu Stellar｜星語",
+      "title": "沿河走到底｜成熟系華語釋懷情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.73
     },
     {
       "videoId": "iQcAd0LITK8",
-      "title": "三年後的車票｜一張沒有誰名字的車票，帶她回到舊城｜Yu Stellar｜星語",
+      "title": "三年後的車票｜離開三年後，我終於敢回到原點｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
     {
       "videoId": "MMUsSWuSzhg",
-      "title": "最後一班船｜最後一班船，只載我們把那天走完｜Yu Stellar｜星語",
+      "title": "最後一班船｜她買下單程票，不再問有沒有回程｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "XPRtmQXNbKA",
-      "title": "那天沒說完｜那天沒說完的，不是挽留，是一聲保重｜Yu Stellar｜星語",
+      "title": "那天沒說完｜告別系華語催淚情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "jZmMH2Xn5zQ",
-      "title": "我們的缺頁｜創傷療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "我們的缺頁｜她終於發現，那段遺忘是自己親手封存｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
@@ -112,7 +112,7 @@
     },
     {
       "videoId": "HmmOTx9uHIg",
-      "title": "紙箱底層｜搬了三次都沒拆的箱子，藏著七年真相｜Yu Stellar｜星語",
+      "title": "紙箱底層｜藏在最底層的，是我不敢認領的自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
@@ -142,13 +142,13 @@
     },
     {
       "videoId": "1yxe-4kDBpg",
-      "title": "草稿裡的春天｜克制想念系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "草稿裡的春天｜她寫完問候，又把思念留在草稿｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜我把夢搬成家，門牌卻寫著到此為止｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜夢境系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
@@ -166,13 +166,13 @@
     },
     {
       "videoId": "jiFzJMuGZSI",
-      "title": "新地址｜城市漂泊系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "新地址｜地址換了，心卻還住在舊房間｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.82
     },
     {
       "videoId": "-3C7ereuiVk",
-      "title": "沒有日期｜鏡子裡的他，竟有她沒見過的白髮｜Yu Stellar｜星語",
+      "title": "沒有日期｜沒有日期的夢，也藏不住走過的年紀｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.56
     },
