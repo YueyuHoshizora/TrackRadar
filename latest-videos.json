@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:40:31.997+08:00",
+  "updatedAt": "2026-11-25T13:45:29.751+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -110,15 +110,15 @@
       "channelId": "UCTrgJME6bNivRn8-rERa9Ww",
       "channelTitle": "Zoe. G",
       "latestVideo": {
-        "videoId": "Q_MCvBLz3JE",
-        "title": "《神的嘆息》Zoe. G｜神啊，別為我憐憫｜華語原創 深夜想哭的歌 MV",
-        "url": "https://www.youtube.com/watch?v=Q_MCvBLz3JE",
-        "thumbnail": "https://i.ytimg.com/vi/Q_MCvBLz3JE/maxresdefault.jpg",
+        "videoId": "hUUTMxMROGI",
+        "title": "在平行線的盡頭，連遺憾都顯得溫柔｜《平行線》- Zoe. G - 我是ZOE｜放下一個人的歌｜官方MV【Official Music Video】｜Zoe.G 中文原創單曲",
+        "url": "https://www.youtube.com/watch?v=hUUTMxMROGI",
+        "thumbnail": "https://i.ytimg.com/vi/hUUTMxMROGI/maxresdefault.jpg",
         "durationSeconds": 243,
-        "publishedAt": "2026-11-14T08:54:51.000+08:00",
-        "fetchedAt": "2026-11-14T10:55:47.683+08:00",
+        "publishedAt": "2026-11-25T13:42:11.000+08:00",
+        "fetchedAt": "2026-11-25T13:45:13.220+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.97
+        "genreConfidence": 0.94
       }
     },
     {
