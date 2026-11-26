@@ -1,19 +1,25 @@
 {
   "channelId": "UCLdLKasdxG3qEKxmJZdTQLQ",
   "channelTitle": "璃煙",
-  "lastUpdated": "2026-11-25T01:10:46.357+08:00",
+  "lastUpdated": "2026-11-26T19:05:56.454+08:00",
   "latestVideo": {
-    "videoId": "6vrsSZC1HHU",
-    "title": "《最好沒關係》｜女友笑著說「沒關係」，千萬別真的信｜原創男女對唱",
-    "url": "https://www.youtube.com/watch?v=6vrsSZC1HHU",
-    "thumbnail": "https://i.ytimg.com/vi_webp/6vrsSZC1HHU/maxresdefault.webp",
-    "durationSeconds": 236,
-    "publishedAt": "2026-11-25T00:51:24.000+08:00",
-    "fetchedAt": "2026-11-25T01:10:45.574+08:00",
-    "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.78
+    "videoId": "Mk9MqoN4CqU",
+    "title": "重返1979跳迪斯可 #Gemini超行精采玩大的 #復古音樂 #復古穿搭 #dance #classic #film",
+    "url": "https://www.youtube.com/watch?v=Mk9MqoN4CqU",
+    "thumbnail": "https://i.ytimg.com/vi/Mk9MqoN4CqU/maxresdefault.jpg",
+    "durationSeconds": 66,
+    "publishedAt": "2026-11-26T19:04:42.000+08:00",
+    "fetchedAt": "2026-11-26T19:05:55.129+08:00",
+    "genre": "電子 Electronic",
+    "genreConfidence": 0.41
   },
   "allVideoIds": [
+    {
+      "videoId": "Mk9MqoN4CqU",
+      "title": "重返1979跳迪斯可 #Gemini超行精采玩大的 #復古音樂 #復古穿搭 #dance #classic #film",
+      "genre": "電子 Electronic",
+      "genreConfidence": 0.41
+    },
     {
       "videoId": "6vrsSZC1HHU",
       "title": "《最好沒關係》｜女友笑著說「沒關係」，千萬別真的信｜原創男女對唱",
