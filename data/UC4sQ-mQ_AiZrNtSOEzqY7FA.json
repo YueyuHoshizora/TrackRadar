@@ -1,19 +1,25 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-26T17:25:47.507+08:00",
+  "lastUpdated": "2026-11-26T17:30:48.503+08:00",
   "latestVideo": {
-    "videoId": "pKpM39ii-Vk",
-    "title": "把名字還我｜你把名字還我，我把背影還給時間｜Yu Stellar｜星語",
-    "url": "https://www.youtube.com/watch?v=pKpM39ii-Vk",
-    "thumbnail": "https://i.ytimg.com/vi/pKpM39ii-Vk/maxresdefault.jpg",
-    "durationSeconds": 303,
-    "publishedAt": "2026-11-26T05:30:15.000+08:00",
-    "fetchedAt": "2026-11-26T05:30:44.244+08:00",
+    "videoId": "zb2SeHeozrw",
+    "title": "河邊的空位｜我回來不是找你，只想陪自己坐一會｜Yu Stellar｜星語",
+    "url": "https://www.youtube.com/watch?v=zb2SeHeozrw",
+    "thumbnail": "https://i.ytimg.com/vi/zb2SeHeozrw/maxresdefault.jpg",
+    "durationSeconds": 218,
+    "publishedAt": "2026-11-26T17:30:35.000+08:00",
+    "fetchedAt": "2026-11-26T17:30:46.027+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.75
+    "genreConfidence": 0.64
   },
   "allVideoIds": [
+    {
+      "videoId": "zb2SeHeozrw",
+      "title": "河邊的空位｜放下過去系華語女聲療癒歌｜Yu Stellar｜星語",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.64
+    },
     {
       "videoId": "pKpM39ii-Vk",
       "title": "把名字還我｜七年後，她終於把那句保重說完｜Yu Stellar｜星語",
@@ -22,7 +28,7 @@
     },
     {
       "videoId": "GCmSPIlvD1k",
-      "title": "舊城換了顏色｜她認不得街景，卻認出了那陣風｜Yu Stellar｜星語",
+      "title": "舊城換了顏色｜回到熟悉的地方，才發現我們都變了｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
@@ -100,7 +106,7 @@
     },
     {
       "videoId": "_CP-HKJCqro",
-      "title": "未寄出的夏天｜遺憾系華語愛情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "未寄出的夏天｜兩封沒寄出的信，竟寫著同一句話｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
