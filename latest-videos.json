@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T18:56:02.283+08:00",
+  "updatedAt": "2026-11-26T19:01:09.696+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -454,15 +454,15 @@
       "channelId": "UCmlu_aLo6SWYJ8Ge5KkUhag",
       "channelTitle": "沐霧月",
       "latestVideo": {
-        "videoId": "pIShLWU0eZA",
-        "title": "沒人停下腳步，體會妳的累《深藍色的化身》｜深夜藍調抒情・魅惑女聲｜沐霧月【Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=pIShLWU0eZA",
-        "thumbnail": "https://i.ytimg.com/vi_webp/pIShLWU0eZA/maxresdefault.webp",
-        "durationSeconds": 183,
-        "publishedAt": "2026-11-22T16:00:17.000+08:00",
-        "fetchedAt": "2026-11-23T06:50:46.523+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.69
+        "videoId": "izYCpP0oaMo",
+        "title": "不再等對岸的船，留一塊石頭給下個人《渡口的最後一人》｜東方暗黑古風・細膩女聲｜沐霧月【Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=izYCpP0oaMo",
+        "thumbnail": "https://i.ytimg.com/vi_webp/izYCpP0oaMo/maxresdefault.webp",
+        "durationSeconds": 240,
+        "publishedAt": "2026-11-25T22:06:17.000+08:00",
+        "fetchedAt": "2026-11-26T19:01:02.768+08:00",
+        "genre": "古風/國風 Chinese Style",
+        "genreConfidence": 1
       }
     },
     {
@@ -484,15 +484,15 @@
       "channelId": "UCMnJRS4rX8Hc5c5zZETWOfw",
       "channelTitle": "達絲琪 Dasuki",
       "latestVideo": {
-        "videoId": "KSQec55Fux0",
-        "title": "《我的R&B》不再為誰失眠到天明，這次只為自己而唱…♡ 達絲琪｜R&B 原創音樂【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=KSQec55Fux0",
-        "thumbnail": "https://i.ytimg.com/vi/KSQec55Fux0/maxresdefault.jpg",
-        "durationSeconds": 213,
-        "publishedAt": "2026-11-23T19:00:27.000+08:00",
-        "fetchedAt": "2026-11-25T06:10:50.632+08:00",
-        "genre": "R&B/Soul",
-        "genreConfidence": 1
+        "videoId": "m17GLn9410s",
+        "title": "《最難解的謎》破解了所有案件，卻唯獨解不開你的心…🔍 達絲琪｜Jazz Rock 原創音樂【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=m17GLn9410s",
+        "thumbnail": "https://i.ytimg.com/vi/m17GLn9410s/maxresdefault.jpg",
+        "durationSeconds": 223,
+        "publishedAt": "2026-11-26T19:00:16.000+08:00",
+        "fetchedAt": "2026-11-26T19:01:02.768+08:00",
+        "genre": "爵士 Jazz",
+        "genreConfidence": 0.48
       }
     },
     {
