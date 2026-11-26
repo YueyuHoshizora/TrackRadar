@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T18:26:00.663+08:00",
+  "updatedAt": "2026-11-26T18:31:01.863+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -469,15 +469,15 @@
       "channelId": "UCvOVEpggU-7WXQ-K38eQGGQ",
       "channelTitle": "Moyamina",
       "latestVideo": {
-        "videoId": "ZVIwLVNBPzg",
-        "title": "Dark Cinematic Tango Collection | The Last Step, Don't Go & More | 26 Min Tango Songs | Moyamina",
-        "url": "https://www.youtube.com/watch?v=ZVIwLVNBPzg",
-        "thumbnail": "https://i.ytimg.com/vi_webp/ZVIwLVNBPzg/maxresdefault.webp",
-        "durationSeconds": 1577,
-        "publishedAt": "2026-11-19T19:00:11.000+08:00",
-        "fetchedAt": "2026-11-19T20:11:13.036+08:00",
-        "genre": "拉丁 Latin",
-        "genreConfidence": 0.96
+        "videoId": "0geRxtykHKQ",
+        "title": "這一次，美女才是獵人《Who's Hunting Who》｜暗黑探戈",
+        "url": "https://www.youtube.com/watch?v=0geRxtykHKQ",
+        "thumbnail": "https://i.ytimg.com/vi/0geRxtykHKQ/maxresdefault.jpg",
+        "durationSeconds": 180,
+        "publishedAt": "2026-11-26T18:30:13.000+08:00",
+        "fetchedAt": "2026-11-26T18:30:57.744+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.35
       }
     },
     {
