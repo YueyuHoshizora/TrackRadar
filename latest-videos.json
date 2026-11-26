@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-27T05:25:58.443+08:00",
+  "updatedAt": "2026-11-27T05:31:01.844+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "zb2SeHeozrw",
-        "title": "河邊的空位｜我回來不是找你，只想陪自己坐一會｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=zb2SeHeozrw",
-        "thumbnail": "https://i.ytimg.com/vi/zb2SeHeozrw/maxresdefault.jpg",
-        "durationSeconds": 218,
-        "publishedAt": "2026-11-26T17:30:35.000+08:00",
-        "fetchedAt": "2026-11-26T17:30:46.027+08:00",
+        "videoId": "l_RDCscf5iY",
+        "title": "天亮之後｜天亮沒有帶走你，只是把我帶回自己｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=l_RDCscf5iY",
+        "thumbnail": "https://i.ytimg.com/vi/l_RDCscf5iY/maxresdefault.jpg",
+        "durationSeconds": 248,
+        "publishedAt": "2026-11-27T05:30:37.000+08:00",
+        "fetchedAt": "2026-11-27T05:30:45.783+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.64
+        "genreConfidence": 0.83
       }
     },
     {
