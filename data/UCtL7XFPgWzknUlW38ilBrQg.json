@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-11-25T12:10:22.138+08:00",
+  "lastUpdated": "2026-11-26T14:01:00.504+08:00",
   "latestVideo": {
     "videoId": "ukItN0wLrI8",
     "title": "原來最亮的水路，最不知道去哪《燈河》｜City Pop・細膩甜嗓｜霧月 Xiaoloulou【Lyric Video】",
@@ -15,16 +15,22 @@
   },
   "allVideoIds": [
     {
+      "videoId": "GZ3GdH4tYuI",
+      "title": "還不想睡，就再聽一首｜24H 情感樹洞・華語原創歌曲連播｜未盡之歌・霧月 Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.82
+    },
+    {
+      "videoId": "GmXZZuBlDxA",
+      "title": "還不想睡，就再聽一首｜24H 情感樹洞・華語原創歌曲連播｜未盡之歌・霧月 Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.83
+    },
+    {
       "videoId": "ukItN0wLrI8",
       "title": "原來最亮的水路，最不知道去哪《燈河》｜City Pop・細膩甜嗓｜霧月 Xiaoloulou【Lyric Video】",
       "genre": "流行 Pop",
       "genreConfidence": 0.87
-    },
-    {
-      "videoId": "rw4c0s_0poI",
-      "title": "還不想睡，就再聽一首｜24H 情感樹洞・華語原創歌曲連播｜未盡之歌・霧月 Xiaoloulou",
-      "genre": "抒情/情歌 Ballad",
-      "genreConfidence": 0.83
     },
     {
       "videoId": "gNISGOMfzlo",
