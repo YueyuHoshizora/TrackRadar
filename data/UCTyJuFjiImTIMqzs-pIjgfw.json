@@ -1,19 +1,25 @@
 {
   "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
   "channelTitle": "筠芙得利",
-  "lastUpdated": "2026-11-25T15:45:21.159+08:00",
+  "lastUpdated": "2026-11-26T15:45:49.175+08:00",
   "latestVideo": {
-    "videoId": "bfHDbzbN3iI",
-    "title": "台語大帝國｜Aurora 葵《我會當忍受》｜忍受你的冷淡，毋過我嘛會痛｜筠芙得利【Official MV】",
-    "url": "https://www.youtube.com/watch?v=bfHDbzbN3iI",
-    "thumbnail": "https://i.ytimg.com/vi_webp/bfHDbzbN3iI/maxresdefault.webp",
-    "durationSeconds": 255,
-    "publishedAt": "2026-11-25T15:45:11.000+08:00",
-    "fetchedAt": "2026-11-25T15:45:18.103+08:00",
+    "videoId": "jyB0FN4a8XE",
+    "title": "台語大帝國｜Asher 凜《上媠的人》｜最愛的人要結婚了，新郎卻不是我｜唱給無緣作伴的愛情・台語傷感情歌｜筠芙得利【Official MV】",
+    "url": "https://www.youtube.com/watch?v=jyB0FN4a8XE",
+    "thumbnail": "https://i.ytimg.com/vi/jyB0FN4a8XE/maxresdefault.jpg",
+    "durationSeconds": 198,
+    "publishedAt": "2026-11-26T15:45:13.000+08:00",
+    "fetchedAt": "2026-11-26T15:45:47.327+08:00",
     "genre": "抒情/情歌 Ballad",
-    "genreConfidence": 0.71
+    "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "jyB0FN4a8XE",
+      "title": "台語大帝國｜Asher 凜《上媠的人》｜最愛的人要結婚了，新郎卻不是我｜唱給無緣作伴的愛情・台語傷感情歌｜筠芙得利【Official MV】",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
+    },
     {
       "videoId": "bfHDbzbN3iI",
       "title": "台語大帝國｜Aurora 葵《我會當忍受》｜忍受你的冷淡，毋過我嘛會痛｜筠芙得利【Official MV】",
