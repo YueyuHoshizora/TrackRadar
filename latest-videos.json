@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:46:16.770+08:00",
+  "updatedAt": "2026-11-28T01:51:17.907+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -394,15 +394,15 @@
       "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
       "channelTitle": "Xiaoloulou",
       "latestVideo": {
-        "videoId": "6MB4hA6Ujxs",
-        "title": "【霧月詞】不求被記得，只求一瞬的愛情《獻給黑暗的向日葵》｜深夜暗黑抒情・細膩女聲｜霧月 Xiaoloulou｜【Official MV】",
-        "url": "https://www.youtube.com/watch?v=6MB4hA6Ujxs",
-        "thumbnail": "https://i.ytimg.com/vi_webp/6MB4hA6Ujxs/maxresdefault.webp?v=6afeeff0",
-        "durationSeconds": 270,
-        "publishedAt": "2026-11-20T12:00:07.000+08:00",
-        "fetchedAt": "2026-11-28T01:11:08.915+08:00",
-        "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.99
+        "videoId": "1NCrf4Ny2Jc",
+        "title": "「我是捨不得妳走。」《我們的邊緣》｜雙女主百合｜原創 GL 微電影・霧月 Xiaoloulou",
+        "url": "https://www.youtube.com/watch?v=1NCrf4Ny2Jc",
+        "thumbnail": "https://i.ytimg.com/vi_webp/1NCrf4Ny2Jc/maxresdefault.webp?v=6b08227d",
+        "durationSeconds": 230,
+        "publishedAt": "2026-11-27T12:00:07.000+08:00",
+        "fetchedAt": "2026-11-28T01:51:09.374+08:00",
+        "genre": "其他/無法判斷 Other",
+        "genreConfidence": 0.8
       }
     },
     {
@@ -514,15 +514,15 @@
       "channelId": "UCVI2AFYQsZtDvKsX6i_VJpw",
       "channelTitle": "橙雨chengyu",
       "latestVideo": {
-        "videoId": "aP_egAUSZ1M",
-        "title": "《佈滿夜空的雪》中文歌曲｜歌詞完整版｜橙雨 chengyu",
-        "url": "https://www.youtube.com/watch?v=aP_egAUSZ1M",
-        "thumbnail": "https://i.ytimg.com/vi/aP_egAUSZ1M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gTShyMA8=&rs=AOn4CLDTXGH8kw54NLaQKXiIlMJhzysiVQ",
-        "durationSeconds": 278,
-        "publishedAt": "2026-11-06T02:56:34.000+08:00",
-        "fetchedAt": "2026-11-27T23:51:15.919+08:00",
-        "genre": "其他/無法判斷 Other",
-        "genreConfidence": 0.33
+        "videoId": "FavwSjZ8x2g",
+        "title": "《같이 늙어 가자｜說好一起到老》韓文歌曲｜中文歌詞完整版 ｜橙雨chengyu",
+        "url": "https://www.youtube.com/watch?v=FavwSjZ8x2g",
+        "thumbnail": "https://i.ytimg.com/vi/FavwSjZ8x2g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTig3MA8=&rs=AOn4CLDSiBgvLsV8V-R2VJC4x9QraxoL-w",
+        "durationSeconds": 242,
+        "publishedAt": "2026-11-01T06:51:19.000+08:00",
+        "fetchedAt": "2026-11-28T01:51:13.815+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.81
       }
     },
     {
