@@ -1,7 +1,7 @@
 {
   "channelId": "UCa_pscMvUHKyWOSyRPocS9g",
   "channelTitle": "予棠 Lumiora",
-  "lastUpdated": "2026-11-26T01:10:45.170+08:00",
+  "lastUpdated": "2026-11-27T16:31:04.405+08:00",
   "latestVideo": {
     "videoId": "8bNctTtPF2c",
     "title": "媽祖 × 八家將《開臉》｜女生不能當八家將？鬼王來的那晚她偏要開臉【神性電音・國風電音・Official MV】",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.59
   },
   "allVideoIds": [
+    {
+      "videoId": "Gw2zgHYOwBo",
+      "title": "《水官》｜她和一隻貓走進海底尋寶，最想帶回的卻是一只銀環【水官大帝・東方神話・Official MV】",
+      "genre": "古風/國風 Chinese Style",
+      "genreConfidence": 0.98
+    },
     {
       "videoId": "8bNctTtPF2c",
       "title": "媽祖 × 八家將《開臉》｜扛旗十年，她為守住神轎親手開臉【神性電音・國風電音・Official MV】",
