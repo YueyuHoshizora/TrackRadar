@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-28T05:56:12.275+08:00",
+  "updatedAt": "2026-11-28T06:01:12.672+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "pKpM39ii-Vk",
-        "title": "把名字還我｜你把名字還我，我把背影還給時間｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=pKpM39ii-Vk",
-        "thumbnail": "https://i.ytimg.com/vi/pKpM39ii-Vk/maxresdefault.jpg",
-        "durationSeconds": 303,
-        "publishedAt": "2026-11-26T05:30:15.000+08:00",
-        "fetchedAt": "2026-11-28T05:30:57.324+08:00",
+        "videoId": "Y4kP_CzyWGg",
+        "title": "新的通勤｜不再經過你，也能把我送到明天｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=Y4kP_CzyWGg",
+        "thumbnail": "https://i.ytimg.com/vi/Y4kP_CzyWGg/maxresdefault.jpg",
+        "durationSeconds": 198,
+        "publishedAt": "2026-11-28T05:30:14.000+08:00",
+        "fetchedAt": "2026-11-28T06:00:56.809+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.71
+        "genreConfidence": 0.61
       }
     },
     {
