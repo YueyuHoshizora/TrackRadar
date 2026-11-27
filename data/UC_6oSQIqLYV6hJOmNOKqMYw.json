@@ -1,7 +1,7 @@
 {
   "channelId": "UC_6oSQIqLYV6hJOmNOKqMYw",
   "channelTitle": "EIRYN",
-  "lastUpdated": "2026-11-24T12:40:42.040+08:00",
+  "lastUpdated": "2026-11-27T11:31:02.432+08:00",
   "latestVideo": {
     "videoId": "2qbmyznEE28",
     "title": "《餘生》｜我把餘生留給你，你卻轉身離去…一首唱進心底的催淚情歌 💔",
@@ -14,6 +14,12 @@
     "genreConfidence": 1
   },
   "allVideoIds": [
+    {
+      "videoId": "REeeyIaTHuE",
+      "title": "《不捨的愛》｜有些人，明明已經離開了，心卻始終放不下｜催淚女聲情歌｜2026 華語流行情歌｜EIRYN",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.99
+    },
     {
       "videoId": "2qbmyznEE28",
       "title": "《餘生》｜我把餘生留給你，你卻轉身離去…一首唱進心底的催淚情歌 💔",
