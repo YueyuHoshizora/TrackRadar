@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-28T03:45:58.514+08:00",
+  "lastUpdated": "2026-11-28T03:50:58.742+08:00",
   "latestVideo": {
     "videoId": "a6kOtgpgWZE",
     "title": "同一本書｜兜兜轉轉，我們竟在同一頁再次相遇｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "a6kOtgpgWZE",
-      "title": "同一本書｜命運重逢系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "同一本書｜兜兜轉轉，我們竟在同一頁再次相遇｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -70,13 +70,13 @@
     },
     {
       "videoId": "kwjB141imOQ",
-      "title": "城市熄燈｜城市一盞盞消失，他卻只指向出口｜Yu Stellar｜星語",
+      "title": "城市熄燈｜電影感華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
     {
       "videoId": "rEMze84l3wE",
-      "title": "改過的窗簾｜重建生活系華語女聲療癒歌｜Yu Stellar｜星語",
+      "title": "改過的窗簾｜換掉舊窗簾後，她終於住進自己的家｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
@@ -88,7 +88,7 @@
     },
     {
       "videoId": "LCGHuGlIjjM",
-      "title": "遠行的週末｜她獨自上路，把遠方帶回日常｜Yu Stellar｜星語",
+      "title": "遠行的週末｜一個人旅行後，我才發現世界很大｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.51
     },
@@ -100,7 +100,7 @@
     },
     {
       "videoId": "zDzWhZ6IchQ",
-      "title": "工作證背面｜她在證件背面，寫下沒說出口的夢｜Yu Stellar｜星語",
+      "title": "工作證背面｜你以為我安穩，其實我也想去遠方｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -118,7 +118,7 @@
     },
     {
       "videoId": "_CP-HKJCqro",
-      "title": "未寄出的夏天｜遺憾系華語愛情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "未寄出的夏天｜兩封沒寄出的信，竟寫著同一句話｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -130,13 +130,13 @@
     },
     {
       "videoId": "qYRL35j3kDE",
-      "title": "褪色門牌｜失戀釋懷系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "褪色門牌｜門牌退了色，住過的人都已經向前｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.62
     },
     {
       "videoId": "DNpsc4sa67A",
-      "title": "把名字寫好｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "把名字寫好｜完成第一個專案後，她把名字寫進未來｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -148,7 +148,7 @@
     },
     {
       "videoId": "Lu56mP24o3U",
-      "title": "房間有了聲音｜鄰居的收音機，讓陌生房間成了家｜Yu Stellar｜星語",
+      "title": "房間有了聲音｜一個人生活，也會慢慢長出幸福｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "hgIOOkNagbc",
-      "title": "夜班之後｜職場成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "夜班之後｜錯過末班車後，她看見自己的光｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
