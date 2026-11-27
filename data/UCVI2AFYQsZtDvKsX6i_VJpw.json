@@ -1,7 +1,7 @@
 {
   "channelId": "UCVI2AFYQsZtDvKsX6i_VJpw",
   "channelTitle": "橙雨chengyu",
-  "lastUpdated": "2026-11-26T02:31:08.374+08:00",
+  "lastUpdated": "2026-11-27T11:01:17.449+08:00",
   "latestVideo": {
     "videoId": "3WhpSHF339k",
     "title": "《GEMINI》한국어 노래｜전체 가사｜橙雨 chengyu × 空音 Ѕкуℓιηє",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.59
   },
   "allVideoIds": [
+    {
+      "videoId": "Jcq9f9CAFn0",
+      "title": "雨x音信箱搞笑版～來了💌｜我還沒放開！",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.57
+    },
     {
       "videoId": "RsFEdU68wpE",
       "title": "韓國旅遊最後一天！釜山收心～",
