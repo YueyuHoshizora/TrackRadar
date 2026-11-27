@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-28T01:25:58.750+08:00",
+  "lastUpdated": "2026-11-28T01:30:58.314+08:00",
   "latestVideo": {
     "videoId": "a6kOtgpgWZE",
     "title": "同一本書｜兜兜轉轉，我們竟在同一頁再次相遇｜Yu Stellar｜星語",
@@ -28,13 +28,13 @@
     },
     {
       "videoId": "zb2SeHeozrw",
-      "title": "河邊的空位｜三年後回到河岸，她終於不再等誰｜Yu Stellar｜星語",
+      "title": "河邊的空位｜放下過去系華語女聲療癒歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
     {
       "videoId": "pKpM39ii-Vk",
-      "title": "把名字還我｜你把名字還我，我把背影還給時間｜Yu Stellar｜星語",
+      "title": "把名字還我｜七年後，她終於把那句保重說完｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
@@ -58,13 +58,13 @@
     },
     {
       "videoId": "MMUsSWuSzhg",
-      "title": "最後一班船｜她買下單程票，不再問有沒有回程｜Yu Stellar｜星語",
+      "title": "最後一班船｜告別系華語抒情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "B_pgjTliqYk",
-      "title": "晚風知道｜放下前任系華語女聲療癒情歌｜Yu Stellar｜星語",
+      "title": "晚風知道｜我還會想起你，卻不再靠回憶呼吸｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -88,7 +88,7 @@
     },
     {
       "videoId": "LCGHuGlIjjM",
-      "title": "遠行的週末｜一個人旅行後，我才發現世界很大｜Yu Stellar｜星語",
+      "title": "遠行的週末｜獨旅成長系華語女聲療癒歌｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.51
     },
@@ -154,7 +154,7 @@
     },
     {
       "videoId": "3bFyZ1276Hg",
-      "title": "反方向的鐘｜回憶可以往回看，人生不能跟著倒走｜Yu Stellar｜星語",
+      "title": "反方向的鐘｜滿牆的鐘都逆轉，她卻親手撥回正向｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.32
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "gmcEUdNEKEA",
-      "title": "白天漏雨｜夢沒有追到白天，是我把白天留在夢裡｜Yu Stellar｜星語",
+      "title": "白天漏雨｜她錯寄簡報後，同事只問一句還好嗎｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "dLH8jiZMEFA",
-      "title": "夢裡搬家｜夢境系華語離別情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "夢裡搬家｜我把夢搬成家，門牌卻寫著到此為止｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.45
     },
