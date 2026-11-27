@@ -1,7 +1,7 @@
 {
   "channelId": "UCTbgQbhGLJ-GFacytL9F1Ng",
   "channelTitle": "空音 Ѕкуℓιηє",
-  "lastUpdated": "2026-11-27T15:01:24.310+08:00",
+  "lastUpdated": "2026-11-27T21:16:31.093+08:00",
   "latestVideo": {
     "videoId": "kFrRR5ZjTfU",
     "title": "空音「靜默深處」Official Music Video ｜可能是世界上第一首脈輪睡眠粵語音樂",
@@ -16,9 +16,15 @@
   "allVideoIds": [
     {
       "videoId": "kFrRR5ZjTfU",
-      "title": "空音「靜默深處」Official Music Video ｜可能是世界上第一首脈輪睡眠粵語音樂",
+      "title": "空音 x 橙雨「靜默深處」Official Music Video ｜可能是世界上第一首脈輪睡眠粵語音樂",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.53
+    },
+    {
+      "videoId": "7hwRWCnvfAY",
+      "title": "雨x音信箱搞笑版～來了💌｜我只是幫橙雨翻譯一下嘛！",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.68
     },
     {
       "videoId": "4r6vylIBKCc",
