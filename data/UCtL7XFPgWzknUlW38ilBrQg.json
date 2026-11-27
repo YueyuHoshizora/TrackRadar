@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-11-26T20:36:00.903+08:00",
+  "lastUpdated": "2026-11-27T12:01:09.439+08:00",
   "latestVideo": {
     "videoId": "ukItN0wLrI8",
     "title": "原來最亮的水路，最不知道去哪《燈河》｜City Pop・細膩甜嗓｜霧月 Xiaoloulou【Lyric Video】",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.86
   },
   "allVideoIds": [
+    {
+      "videoId": "1NCrf4Ny2Jc",
+      "title": "「我是捨不得妳走。」《我們的邊緣》｜雙女主百合｜原創 GL 微電影・霧月 Xiaoloulou",
+      "genre": "其他/無法判斷 Other",
+      "genreConfidence": 0.77
+    },
     {
       "videoId": "wZiAu30CQTk",
       "title": "還不想睡，就再聽一首｜24H 情感樹洞・華語原創歌曲連播｜未盡之歌・霧月 Xiaoloulou",
@@ -31,12 +37,6 @@
       "title": "「……我不想騙妳。」《我們的邊緣》30 秒預告｜11/27 中午 12:00 首映｜雙女主百合｜原創 GL 微電影・霧月 Xiaoloulou",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.99
-    },
-    {
-      "videoId": "1NCrf4Ny2Jc",
-      "title": "「我是捨不得妳走。」《我們的邊緣》｜雙女主百合｜原創 GL 微電影・霧月 Xiaoloulou",
-      "genre": "其他/無法判斷 Other",
-      "genreConfidence": 0.77
     },
     {
       "videoId": "ukItN0wLrI8",
