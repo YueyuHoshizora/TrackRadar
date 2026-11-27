@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-28T07:35:58.645+08:00",
+  "lastUpdated": "2026-11-28T07:40:59.045+08:00",
   "latestVideo": {
     "videoId": "Y4kP_CzyWGg",
     "title": "新的通勤｜不再經過你，也能把我送到明天｜Yu Stellar｜星語",
@@ -28,7 +28,7 @@
     },
     {
       "videoId": "l_RDCscf5iY",
-      "title": "天亮之後｜失戀療癒系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "天亮之後｜夢醒後她沒有再睡，第一次吃完早餐｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "LCGHuGlIjjM",
-      "title": "遠行的週末｜獨旅成長系華語女聲療癒歌｜Yu Stellar｜星語",
+      "title": "遠行的週末｜她獨自上路，把遠方帶回日常｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.51
     },
@@ -124,7 +124,7 @@
     },
     {
       "videoId": "_CP-HKJCqro",
-      "title": "未寄出的夏天｜我們不是不愛，只把體貼用成沉默｜Yu Stellar｜星語",
+      "title": "未寄出的夏天｜遺憾系華語愛情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -142,7 +142,7 @@
     },
     {
       "videoId": "DNpsc4sa67A",
-      "title": "把名字寫好｜當我不再是「我們」，終於成為自己｜Yu Stellar｜星語",
+      "title": "把名字寫好｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "hgIOOkNagbc",
-      "title": "夜班之後｜沒有人等我下班，我也能走到天亮｜Yu Stellar｜星語",
+      "title": "夜班之後｜職場成長系華語女聲勵志歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
