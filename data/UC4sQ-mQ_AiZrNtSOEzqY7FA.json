@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-27T19:51:03.245+08:00",
+  "lastUpdated": "2026-11-27T19:56:02.824+08:00",
   "latestVideo": {
     "videoId": "l_RDCscf5iY",
     "title": "天亮之後｜天亮沒有帶走你，只是把我帶回自己｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "a6kOtgpgWZE",
-      "title": "同一本書｜兜兜轉轉，我們竟在同一頁再次相遇｜Yu Stellar｜星語",
+      "title": "同一本書｜他們同時伸手拿書，才看見彼此｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "rEMze84l3wE",
-      "title": "改過的窗簾｜放下不是忘記，是讓生活重新有光｜Yu Stellar｜星語",
+      "title": "改過的窗簾｜重建生活系華語女聲療癒歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
@@ -142,19 +142,19 @@
     },
     {
       "videoId": "HmmOTx9uHIg",
-      "title": "紙箱底層｜搬了三次都沒拆的箱子，藏著七年真相｜Yu Stellar｜星語",
+      "title": "紙箱底層｜記憶療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
     {
       "videoId": "Lu56mP24o3U",
-      "title": "房間有了聲音｜獨居療癒系華語女聲歌曲｜Yu Stellar｜星語",
+      "title": "房間有了聲音｜鄰居的收音機，讓陌生房間成了家｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.42
     },
     {
       "videoId": "3bFyZ1276Hg",
-      "title": "反方向的鐘｜成長系華語電影感情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "反方向的鐘｜滿牆的鐘都逆轉，她卻親手撥回正向｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.32
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "gmcEUdNEKEA",
-      "title": "白天漏雨｜成年人療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "白天漏雨｜夢沒有追到白天，是我把白天留在夢裡｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
