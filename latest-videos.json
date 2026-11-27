@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-28T05:26:12.706+08:00",
+  "updatedAt": "2026-11-28T05:31:13.306+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
       "channelTitle": "語音星空",
       "latestVideo": {
-        "videoId": "a6kOtgpgWZE",
-        "title": "同一本書｜兜兜轉轉，我們竟在同一頁再次相遇｜Yu Stellar｜星語",
-        "url": "https://www.youtube.com/watch?v=a6kOtgpgWZE",
-        "thumbnail": "https://i.ytimg.com/vi/a6kOtgpgWZE/maxresdefault.jpg",
-        "durationSeconds": 193,
-        "publishedAt": "2026-11-27T17:30:20.000+08:00",
-        "fetchedAt": "2026-11-27T22:15:57.931+08:00",
+        "videoId": "pKpM39ii-Vk",
+        "title": "把名字還我｜你把名字還我，我把背影還給時間｜Yu Stellar｜星語",
+        "url": "https://www.youtube.com/watch?v=pKpM39ii-Vk",
+        "thumbnail": "https://i.ytimg.com/vi/pKpM39ii-Vk/maxresdefault.jpg",
+        "durationSeconds": 303,
+        "publishedAt": "2026-11-26T05:30:15.000+08:00",
+        "fetchedAt": "2026-11-28T05:30:57.324+08:00",
         "genre": "抒情/情歌 Ballad",
-        "genreConfidence": 0.58
+        "genreConfidence": 0.71
       }
     },
     {
