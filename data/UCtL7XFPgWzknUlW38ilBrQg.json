@@ -1,7 +1,7 @@
 {
   "channelId": "UCtL7XFPgWzknUlW38ilBrQg",
   "channelTitle": "Xiaoloulou",
-  "lastUpdated": "2026-11-27T15:26:19.911+08:00",
+  "lastUpdated": "2026-11-27T15:31:21.143+08:00",
   "latestVideo": {
     "videoId": "1NCrf4Ny2Jc",
     "title": "「我是捨不得妳走。」《我們的邊緣》｜雙女主百合｜原創 GL 微電影・霧月 Xiaoloulou",
@@ -14,6 +14,18 @@
     "genreConfidence": 0.77
   },
   "allVideoIds": [
+    {
+      "videoId": "rAlZbhFEWQo",
+      "title": "還不想睡，就再聽一首｜24H 情感樹洞・華語原創歌曲連播｜未盡之歌・霧月 Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
+    },
+    {
+      "videoId": "f9INihj0PRE",
+      "title": "還不想睡，就再聽一首｜24H 情感樹洞・華語原創歌曲連播｜未盡之歌・霧月 Xiaoloulou",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.85
+    },
     {
       "videoId": "1NCrf4Ny2Jc",
       "title": "「我是捨不得妳走。」《我們的邊緣》｜雙女主百合｜原創 GL 微電影・霧月 Xiaoloulou",
