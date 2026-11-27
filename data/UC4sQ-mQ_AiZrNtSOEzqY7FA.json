@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-28T07:10:58.138+08:00",
+  "lastUpdated": "2026-11-28T07:15:57.451+08:00",
   "latestVideo": {
     "videoId": "Y4kP_CzyWGg",
     "title": "新的通勤｜不再經過你，也能把我送到明天｜Yu Stellar｜星語",
@@ -16,19 +16,19 @@
   "allVideoIds": [
     {
       "videoId": "Y4kP_CzyWGg",
-      "title": "新的通勤｜經過舊路口那天，她終於沒有錯過站｜Yu Stellar｜星語",
+      "title": "新的通勤｜不再經過你，也能把我送到明天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.66
     },
     {
       "videoId": "a6kOtgpgWZE",
-      "title": "同一本書｜他們同時伸手拿書，才看見彼此｜Yu Stellar｜星語",
+      "title": "同一本書｜兜兜轉轉，我們竟在同一頁再次相遇｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "l_RDCscf5iY",
-      "title": "天亮之後｜夢醒後她沒有再睡，第一次吃完早餐｜Yu Stellar｜星語",
+      "title": "天亮之後｜天亮沒有帶走你，只是把我帶回自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
@@ -58,7 +58,7 @@
     },
     {
       "videoId": "iQcAd0LITK8",
-      "title": "三年後的車票｜一張沒有誰名字的車票，帶她回到舊城｜Yu Stellar｜星語",
+      "title": "三年後的車票｜返鄉重逢系華語女聲抒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.72
     },
@@ -88,7 +88,7 @@
     },
     {
       "videoId": "XPRtmQXNbKA",
-      "title": "那天沒說完｜那天沒說完的，不是挽留，是一聲保重｜Yu Stellar｜星語",
+      "title": "那天沒說完｜她說改天再見，沒想到一等就是七年｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.93
     },
@@ -100,19 +100,19 @@
     },
     {
       "videoId": "jZmMH2Xn5zQ",
-      "title": "我們的缺頁｜創傷療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "我們的缺頁｜缺掉的不是一年，是我把疼痛剪成空白｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.79
     },
     {
       "videoId": "zDzWhZ6IchQ",
-      "title": "工作證背面｜她在證件背面，寫下沒說出口的夢｜Yu Stellar｜星語",
+      "title": "工作證背面｜轉職追夢系華語女聲勵志歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
     {
       "videoId": "kIu0xYKDd80",
-      "title": "兩種後來｜我們各自走進後來，才有力氣回頭看｜Yu Stellar｜星語",
+      "title": "兩種後來｜成熟愛情系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.87
     },
@@ -130,25 +130,25 @@
     },
     {
       "videoId": "r3gHEOL3hXw",
-      "title": "你不知道的晴天｜成果發表那天，她第一次為自己鼓掌｜Yu Stellar｜星語",
+      "title": "你不知道的晴天｜走出失戀系華語女聲療癒歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
     {
       "videoId": "qYRL35j3kDE",
-      "title": "褪色門牌｜回到七年前的家，她才懂分開沒有壞人｜Yu Stellar｜星語",
+      "title": "褪色門牌｜門牌退了色，住過的人都已經向前｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.62
     },
     {
       "videoId": "DNpsc4sa67A",
-      "title": "把名字寫好｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "把名字寫好｜完成第一個專案後，她把名字寫進未來｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
     {
       "videoId": "HmmOTx9uHIg",
-      "title": "紙箱底層｜記憶療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "紙箱底層｜搬了三次都沒拆的箱子，藏著七年真相｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "3bFyZ1276Hg",
-      "title": "反方向的鐘｜回憶可以往回看，人生不能跟著倒走｜Yu Stellar｜星語",
+      "title": "反方向的鐘｜成長系華語電影感情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.32
     },
@@ -172,7 +172,7 @@
     },
     {
       "videoId": "gmcEUdNEKEA",
-      "title": "白天漏雨｜夢沒有追到白天，是我把白天留在夢裡｜Yu Stellar｜星語",
+      "title": "白天漏雨｜成年人療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
