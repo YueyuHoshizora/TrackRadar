@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T10:41:15.677+08:00",
+  "updatedAt": "2026-11-28T10:46:13.476+08:00",
   "channels": [
     {
       "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
@@ -154,15 +154,15 @@
       "channelId": "UCTyJuFjiImTIMqzs-pIjgfw",
       "channelTitle": "筠芙得利",
       "latestVideo": {
-        "videoId": "iF3YynsIo-g",
-        "title": "台語大帝國｜Asher 凜《徛咧轉去》｜就算一路站著，也要返鄉投票｜選前之夜的台語民謠搖滾｜筠芙得利【Official MV】",
-        "url": "https://www.youtube.com/watch?v=iF3YynsIo-g",
-        "thumbnail": "https://i.ytimg.com/vi/iF3YynsIo-g/maxresdefault.jpg",
-        "durationSeconds": 254,
-        "publishedAt": "2026-11-27T09:12:19.000+08:00",
-        "fetchedAt": "2026-11-27T09:15:59.708+08:00",
-        "genre": "搖滾 Rock",
-        "genreConfidence": 0.87
+        "videoId": "uPCbCAv3bN0",
+        "title": "台語大帝國｜李多娜《我嘛是人》｜媽媽也會累，她也需要有人照顧｜筠芙得利【Official MV】",
+        "url": "https://www.youtube.com/watch?v=uPCbCAv3bN0",
+        "thumbnail": "https://i.ytimg.com/vi/uPCbCAv3bN0/maxresdefault.jpg",
+        "durationSeconds": 217,
+        "publishedAt": "2026-11-28T10:45:02.000+08:00",
+        "fetchedAt": "2026-11-28T10:46:00.653+08:00",
+        "genre": "抒情/情歌 Ballad",
+        "genreConfidence": 0.38
       }
     },
     {
