@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-28T11:45:58.714+08:00",
+  "lastUpdated": "2026-11-28T11:50:58.671+08:00",
   "latestVideo": {
     "videoId": "Y4kP_CzyWGg",
     "title": "新的通勤｜不再經過你，也能把我送到明天｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "Y4kP_CzyWGg",
-      "title": "新的通勤｜不再經過你，也能把我送到明天｜Yu Stellar｜星語",
+      "title": "新的通勤｜經過舊路口那天，她終於沒有錯過站｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.66
     },
@@ -34,13 +34,13 @@
     },
     {
       "videoId": "zb2SeHeozrw",
-      "title": "河邊的空位｜我回來不是找你，只想陪自己坐一會｜Yu Stellar｜星語",
+      "title": "河邊的空位｜三年後回到河岸，她終於不再等誰｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
     {
       "videoId": "pKpM39ii-Vk",
-      "title": "把名字還我｜七年後，她終於把那句保重說完｜Yu Stellar｜星語",
+      "title": "把名字還我｜告別療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.75
     },
@@ -64,13 +64,13 @@
     },
     {
       "videoId": "MMUsSWuSzhg",
-      "title": "最後一班船｜告別系華語抒情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "最後一班船｜最後一班船，只載我們把那天走完｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "B_pgjTliqYk",
-      "title": "晚風知道｜跑過熟悉河岸那晚，她沒有回頭｜Yu Stellar｜星語",
+      "title": "晚風知道｜放下前任系華語女聲療癒情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -160,7 +160,7 @@
     },
     {
       "videoId": "3bFyZ1276Hg",
-      "title": "反方向的鐘｜滿牆的鐘都逆轉，她卻親手撥回正向｜Yu Stellar｜星語",
+      "title": "反方向的鐘｜成長系華語電影感情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.32
     },
