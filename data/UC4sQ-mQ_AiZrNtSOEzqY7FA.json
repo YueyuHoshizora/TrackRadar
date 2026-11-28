@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-28T08:40:57.570+08:00",
+  "lastUpdated": "2026-11-28T08:45:57.795+08:00",
   "latestVideo": {
     "videoId": "Y4kP_CzyWGg",
     "title": "新的通勤｜不再經過你，也能把我送到明天｜Yu Stellar｜星語",
@@ -16,7 +16,7 @@
   "allVideoIds": [
     {
       "videoId": "Y4kP_CzyWGg",
-      "title": "新的通勤｜經過舊路口那天，她終於沒有錯過站｜Yu Stellar｜星語",
+      "title": "新的通勤｜不再經過你，也能把我送到明天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.66
     },
@@ -46,7 +46,7 @@
     },
     {
       "videoId": "GCmSPIlvD1k",
-      "title": "舊城換了顏色｜返鄉回憶系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "舊城換了顏色｜她認不得街景，卻認出了那陣風｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
@@ -64,7 +64,7 @@
     },
     {
       "videoId": "MMUsSWuSzhg",
-      "title": "最後一班船｜告別系華語抒情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "最後一班船｜最後一班船，只載我們把那天走完｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -76,7 +76,7 @@
     },
     {
       "videoId": "kwjB141imOQ",
-      "title": "城市熄燈｜城市一盞盞消失，他卻只指向出口｜Yu Stellar｜星語",
+      "title": "城市熄燈｜電影感華語夢境情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
@@ -94,7 +94,7 @@
     },
     {
       "videoId": "LCGHuGlIjjM",
-      "title": "遠行的週末｜她獨自上路，把遠方帶回日常｜Yu Stellar｜星語",
+      "title": "遠行的週末｜一個人旅行後，我才發現世界很大｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.51
     },
@@ -106,7 +106,7 @@
     },
     {
       "videoId": "zDzWhZ6IchQ",
-      "title": "工作證背面｜她在證件背面，寫下沒說出口的夢｜Yu Stellar｜星語",
+      "title": "工作證背面｜你以為我安穩，其實我也想去遠方｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -124,13 +124,13 @@
     },
     {
       "videoId": "_CP-HKJCqro",
-      "title": "未寄出的夏天｜遺憾系華語愛情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "未寄出的夏天｜兩封沒寄出的信，竟寫著同一句話｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
     {
       "videoId": "r3gHEOL3hXw",
-      "title": "你不知道的晴天｜成果發表那天，她第一次為自己鼓掌｜Yu Stellar｜星語",
+      "title": "你不知道的晴天｜沒有你的日子，我也活成了晴天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.86
     },
@@ -142,7 +142,7 @@
     },
     {
       "videoId": "DNpsc4sa67A",
-      "title": "把名字寫好｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "把名字寫好｜完成第一個專案後，她把名字寫進未來｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
@@ -160,13 +160,13 @@
     },
     {
       "videoId": "3bFyZ1276Hg",
-      "title": "反方向的鐘｜滿牆的鐘都逆轉，她卻親手撥回正向｜Yu Stellar｜星語",
+      "title": "反方向的鐘｜成長系華語電影感情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.32
     },
     {
       "videoId": "hgIOOkNagbc",
-      "title": "夜班之後｜職場成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "夜班之後｜錯過末班車後，她看見自己的光｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.74
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "1yxe-4kDBpg",
-      "title": "草稿裡的春天｜克制想念系華語女聲情歌｜Yu Stellar｜星語",
+      "title": "草稿裡的春天｜想問你過得好不好，最後卻沒有傳送｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
