@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-28T12:00:58.892+08:00",
+  "lastUpdated": "2026-11-28T12:05:58.596+08:00",
   "latestVideo": {
     "videoId": "Y4kP_CzyWGg",
     "title": "新的通勤｜不再經過你，也能把我送到明天｜Yu Stellar｜星語",
@@ -22,13 +22,13 @@
     },
     {
       "videoId": "a6kOtgpgWZE",
-      "title": "同一本書｜命運重逢系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "同一本書｜兜兜轉轉，我們竟在同一頁再次相遇｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
     {
       "videoId": "l_RDCscf5iY",
-      "title": "天亮之後｜失戀療癒系華語女聲情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "天亮之後｜天亮沒有帶走你，只是把我帶回自己｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.83
     },
@@ -136,7 +136,7 @@
     },
     {
       "videoId": "qYRL35j3kDE",
-      "title": "褪色門牌｜失戀釋懷系華語情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "褪色門牌｜門牌退了色，住過的人都已經向前｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.62
     },
@@ -148,7 +148,7 @@
     },
     {
       "videoId": "HmmOTx9uHIg",
-      "title": "紙箱底層｜藏在最底層的，是我不敢認領的自己｜Yu Stellar｜星語",
+      "title": "紙箱底層｜搬了三次都沒拆的箱子，藏著七年真相｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
@@ -172,13 +172,13 @@
     },
     {
       "videoId": "gmcEUdNEKEA",
-      "title": "白天漏雨｜她錯寄簡報後，同事只問一句還好嗎｜Yu Stellar｜星語",
+      "title": "白天漏雨｜成年人療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
     {
       "videoId": "1yxe-4kDBpg",
-      "title": "草稿裡的春天｜她寫完問候，又把思念留在草稿｜Yu Stellar｜星語",
+      "title": "草稿裡的春天｜克制想念系華語女聲情歌｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.92
     },
