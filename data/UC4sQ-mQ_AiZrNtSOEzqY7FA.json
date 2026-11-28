@@ -1,7 +1,7 @@
 {
   "channelId": "UC4sQ-mQ_AiZrNtSOEzqY7FA",
   "channelTitle": "語音星空",
-  "lastUpdated": "2026-11-28T18:26:01.593+08:00",
+  "lastUpdated": "2026-11-28T18:31:02.049+08:00",
   "latestVideo": {
     "videoId": "Y4kP_CzyWGg",
     "title": "新的通勤｜不再經過你，也能把我送到明天｜Yu Stellar｜星語",
@@ -22,13 +22,13 @@
     },
     {
       "videoId": "Y4kP_CzyWGg",
-      "title": "新的通勤｜經過舊路口那天，她終於沒有錯過站｜Yu Stellar｜星語",
+      "title": "新的通勤｜不再經過你，也能把我送到明天｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.66
     },
     {
       "videoId": "a6kOtgpgWZE",
-      "title": "同一本書｜命運重逢系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "同一本書｜兜兜轉轉，我們竟在同一頁再次相遇｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 1
     },
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "zb2SeHeozrw",
-      "title": "河邊的空位｜我回來不是找你，只想陪自己坐一會｜Yu Stellar｜星語",
+      "title": "河邊的空位｜三年後回到河岸，她終於不再等誰｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.64
     },
@@ -52,7 +52,7 @@
     },
     {
       "videoId": "GCmSPIlvD1k",
-      "title": "舊城換了顏色｜返鄉回憶系華語女聲抒情歌｜Yu Stellar｜星語",
+      "title": "舊城換了顏色｜她認不得街景，卻認出了那陣風｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.67
     },
@@ -130,7 +130,7 @@
     },
     {
       "videoId": "_CP-HKJCqro",
-      "title": "未寄出的夏天｜遺憾系華語愛情歌・夢迴夢｜Yu Stellar｜星語",
+      "title": "未寄出的夏天｜兩封沒寄出的信，竟寫著同一句話｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.97
     },
@@ -148,13 +148,13 @@
     },
     {
       "videoId": "DNpsc4sa67A",
-      "title": "把名字寫好｜女性成長系華語女聲勵志歌｜Yu Stellar｜星語",
+      "title": "把名字寫好｜完成第一個專案後，她把名字寫進未來｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.43
     },
     {
       "videoId": "HmmOTx9uHIg",
-      "title": "紙箱底層｜藏在最底層的，是我不敢認領的自己｜Yu Stellar｜星語",
+      "title": "紙箱底層｜搬了三次都沒拆的箱子，藏著七年真相｜Yu Stellar｜星語",
       "genre": "抒情/情歌 Ballad",
       "genreConfidence": 0.54
     },
@@ -166,7 +166,7 @@
     },
     {
       "videoId": "3bFyZ1276Hg",
-      "title": "反方向的鐘｜滿牆的鐘都逆轉，她卻親手撥回正向｜Yu Stellar｜星語",
+      "title": "反方向的鐘｜成長系華語電影感情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "流行 Pop",
       "genreConfidence": 0.32
     },
@@ -178,7 +178,7 @@
     },
     {
       "videoId": "gmcEUdNEKEA",
-      "title": "白天漏雨｜她錯寄簡報後，同事只問一句還好嗎｜Yu Stellar｜星語",
+      "title": "白天漏雨｜成年人療癒系華語情歌・夢迴夢｜Yu Stellar｜星語",
       "genre": "其他/無法判斷 Other",
       "genreConfidence": 0.41
     },
