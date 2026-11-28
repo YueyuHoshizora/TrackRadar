@@ -1,7 +1,7 @@
 {
   "channelId": "UCO8HFoUmglawehAj2u8j7AA",
   "channelTitle": "玥小岑Yueh-tsen",
-  "lastUpdated": "2026-11-27T13:31:16.688+08:00",
+  "lastUpdated": "2026-11-28T16:11:19.155+08:00",
   "latestVideo": {
     "videoId": "W2lOA8YIadA",
     "title": "我哭著微笑(玥小岑Yueh-tsen)#華語流行 #華語抒情 #催淚情歌 #心碎女聲 #悲傷抒情 #華語流行音樂 #失戀必聽 #失戀抒情 #心碎治癒",
@@ -14,6 +14,12 @@
     "genreConfidence": 0.99
   },
   "allVideoIds": [
+    {
+      "videoId": "wHpln0_rElQ",
+      "title": "【特別版】玥小岑鋼琴演奏畫面｜原創音樂合作《你ㄧ開口》Vicky #鋼琴演奏 #心動旋律 #浪漫情歌 #雙人默契 #甜蜜告白",
+      "genre": "抒情/情歌 Ballad",
+      "genreConfidence": 0.92
+    },
     {
       "videoId": "W2lOA8YIadA",
       "title": "我哭著微笑(玥小岑Yueh-tsen)#華語流行 #華語抒情 #催淚情歌 #心碎女聲 #悲傷抒情 #華語流行音樂 #失戀必聽 #失戀抒情 #心碎治癒",
